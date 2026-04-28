@@ -188,6 +188,43 @@ lever_boards:
   - palantir
   - mistral
 
+# Workday-hosted boards. Real JSON API, reliable when the tenant/site is right.
+# To find values for a new company: open their careers page in a browser, copy
+# the URL — first subdomain is `base` host, the path segment after the locale
+# (e.g. en-US) is `site`. Example URL:
+#   https://jpmc.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/
+#                ↑─────────── base ───────────↑    ↑── site ──↑
+workday_boards:
+  # Optional per-board overrides:
+  #   default_role_category: assign this category if no role keyword matches.
+  #     (Banks/PE firms post nearly everything in their domain — saves you
+  #     having to whitelist every finance-y role keyword.)
+  #   finance_titles: true: treat 'Analyst' or 'Associate' (without senior
+  #     modifiers like VP/Director/Senior/Managing) as new-grad postings.
+  #     Required for IB/PE because those firms don't tag titles "new grad".
+  - name: Morgan Stanley
+    base: https://ms.wd5.myworkdayjobs.com
+    site: External
+    default_role_category: ib
+    finance_titles: true
+  - name: Blackstone
+    base: https://blackstone.wd1.myworkdayjobs.com
+    site: Blackstone_Careers
+    default_role_category: pe
+    finance_titles: true
+  - name: PwC (Experienced)
+    base: https://pwc.wd3.myworkdayjobs.com
+    site: Global_Experienced_Careers
+    default_role_category: consulting
+  - name: PwC (Campus)
+    base: https://pwc.wd3.myworkdayjobs.com
+    site: Global_Campus_Careers
+    default_role_category: consulting
+    finance_titles: true
+  # Note: JPMorgan, McKinsey, BCG, and KKR were tested but their Workday
+  # CXS endpoints return 422 (they've gated the public API or moved
+  # platforms). They remain in `watch_urls` below as a best-effort fallback.
+
 # IB / consulting / PE / Big4 — most use Workday or custom JS-heavy portals.
 # We point at their student/early-careers landing pages and grep visible links
 # for matching role keywords. Coverage is best-effort: pages rendered entirely
