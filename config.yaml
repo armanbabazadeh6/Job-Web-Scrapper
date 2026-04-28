@@ -1,0 +1,127 @@
+# Keywords to match in role titles. Case-insensitive.
+# A posting matches if ANY keyword appears in the title.
+role_keywords:
+  # Software Engineering
+  - software engineer
+  - software developer
+  - swe
+  - backend
+  - frontend
+  - full stack
+  - full-stack
+  - ios
+  - android
+  - mobile engineer
+  - machine learning
+  - ml engineer
+  - data engineer
+  - data scientist
+  - infrastructure
+  - platform engineer
+
+  # Product Management
+  - product manager
+  - product management
+  - apm
+  - associate product
+
+  # Tech Sales
+  - sales
+  - account executive
+  - business development
+  - bdr
+  - sdr
+  - solutions engineer
+  - solutions consultant
+
+  # Consulting
+  - consultant
+  - consulting
+  - strategy
+  - business analyst
+
+  # Investment Banking / Finance
+  - investment banking
+  - investment banker
+  - ib analyst
+  - ib associate
+  - banking analyst
+  - banking associate
+  - equity research
+  - sales & trading
+  - sales and trading
+  - markets analyst
+
+  # Private Equity / Buy-side
+  - private equity
+  - growth equity
+  - venture capital
+  - hedge fund
+  - asset management
+
+# Season/term keywords. A posting matches season if ANY of these appears
+# in the title OR the season tag we've extracted. Leave permissive — many
+# postings don't tag a season explicitly.
+season_keywords:
+  - fall 2026
+  - fall '26
+  - autumn 2026
+  - co-op
+  - coop
+  - co op
+  - 2026 internship
+  - intern 2026
+  - summer 2026   # include summer too — fall postings often go up alongside summer
+  - new grad
+  - new-grad
+  - 2026 graduate
+  - class of 2026
+
+# Community-maintained GitHub repos. We fetch their README.md and parse the
+# markdown table. These cover SWE/PM/co-op internships and new-grad SWE roles.
+github_lists:
+  - name: SimplifyJobs Summer 2026 Internships
+    url: https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md
+  - name: vanshb03 Summer 2026 Internships
+    url: https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/main/README.md
+  - name: SimplifyJobs New Grad Positions
+    url: https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md
+  - name: speedyapply New Grad Software Jobs
+    url: https://raw.githubusercontent.com/speedyapply/2025-SWE-College-Jobs/main/README.md
+
+# Greenhouse-hosted job boards (used by tons of well-known tech cos).
+# The slug is the company identifier in the Greenhouse URL.
+# Browse https://boards.greenhouse.io/<slug> to confirm.
+greenhouse_boards:
+  - stripe
+  - airbnb
+  - robinhood
+  - databricks
+  - coinbase
+  - instacart
+  - vercel
+  - anthropic
+  - scaleai
+  - asana
+  - dropbox
+  - reddit
+  - pinterest
+  - lyft
+  - discord
+  - mongodb
+  - elastic
+  - chime
+
+# Lever-hosted job boards.
+# Browse https://jobs.lever.co/<slug> to confirm.
+lever_boards:
+  - netflix
+  - palantir
+  - mistral
+
+# Optional: arbitrary URLs we'll fetch and grep for matching role titles.
+# Useful for IB / consulting / PE pages that don't have a public JSON API.
+# We pull the raw HTML and look for matching keywords near job-listing patterns.
+watch_urls: []
+  # - name: Goldman Sachs Engineering Careers
+  #   url: https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-engineering.html
