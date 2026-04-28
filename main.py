@@ -1,15 +1,17 @@
-"""Entry point. Loads config, runs all scrapers, filters, diffs, and notifies."""
+"""Entry point. Loads config, runs all scrapers, categorizes, diffs, and notifies."""
 from __future__ import annotations
 
 import json
 import os
 import sys
+from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Optional
 
 import yaml
 
-from notify import notify_discord
+from notify import notify_discord_grouped
 from scrapers import (
     Posting,
     fetch_github_lists,
@@ -41,34 +43,47 @@ def save_seen(seen: dict) -> None:
     SEEN_PATH.write_text(json.dumps(seen, indent=2, sort_keys=True))
 
 
-def matches_filters(p: Posting, role_kws: list[str], season_kws: list[str]) -> bool:
+def categorize(p: Posting, cfg: dict) -> Optional[tuple[str, str]]:
+    """Returns (posting_type_key, role_category_key) or None if filtered out."""
     title_l = p.role.lower()
-    if not any(kw in title_l for kw in role_kws):
-        return False
-    # Season filter is permissive: if title mentions an explicit season we don't
-    # want, drop it; otherwise let it through (many postings omit the season).
-    explicit_other_season = any(
-        s in title_l for s in ["spring 2025", "summer 2025", "fall 2025", "winter 2025"]
-    )
-    if explicit_other_season:
-        return False
-    # If user supplied season_kws, prefer matches but don't require them — just
-    # boost via not-rejecting. Keeping the filter loose avoids missing untagged
-    # roles. (Tighten by uncommenting below if you want strict season matching.)
-    # if not any(kw in title_l for kw in season_kws):
-    #     return False
-    return True
+
+    for bad in cfg.get("reject_if_title_contains", []):
+        if bad.lower() in title_l:
+            return None
+
+    role_cat = None
+    for cat in cfg["role_categories"]:
+        if any(kw.lower() in title_l for kw in cat["keywords"]):
+            role_cat = cat["key"]
+            break
+    if role_cat is None:
+        return None
+
+    posting_type = None
+    for pt in cfg["posting_types"]:
+        if any(ex.lower() in title_l for ex in pt.get("excludes") or []):
+            continue
+        if any(req.lower() in title_l for req in pt["requires_any"]):
+            posting_type = pt["key"]
+            break
+    if posting_type is None:
+        return None
+
+    return (posting_type, role_cat)
 
 
 def main() -> int:
     cfg = load_config()
-    role_kws = [k.lower() for k in cfg.get("role_keywords", [])]
-    season_kws = [k.lower() for k in cfg.get("season_keywords", [])]
     seen = load_seen()
     first_run = not seen
 
     print(f"== Run started {datetime.now(timezone.utc).isoformat()} ==")
     print(f"   first_run={first_run}  seen={len(seen)} postings")
+
+    # Build a flat keyword list once, for the watch_url HTML grep
+    role_kws_flat = []
+    for cat in cfg["role_categories"]:
+        role_kws_flat.extend(kw.lower() for kw in cat["keywords"])
 
     all_postings: list[Posting] = []
 
@@ -85,43 +100,65 @@ def main() -> int:
 
     print("-> Watch URLs")
     for w in cfg.get("watch_urls") or []:
-        all_postings.extend(fetch_watch_url(w["name"], w["url"], role_kws))
+        all_postings.extend(fetch_watch_url(w["name"], w["url"], role_kws_flat))
 
     print(f"   fetched {len(all_postings)} raw postings")
 
-    # Filter
-    filtered = [p for p in all_postings if matches_filters(p, role_kws, season_kws)]
-    print(f"   {len(filtered)} match role/season filters")
+    # Categorize and group
+    groups: dict[tuple[str, str], list[Posting]] = defaultdict(list)
+    seen_ids: set[str] = set()
+    for p in all_postings:
+        if p.id in seen_ids:
+            continue
+        cat = categorize(p, cfg)
+        if cat is None:
+            continue
+        seen_ids.add(p.id)
+        groups[cat].append(p)
 
-    # Dedupe by id (different sources can list the same job)
-    by_id: dict[str, Posting] = {}
-    for p in filtered:
-        by_id.setdefault(p.id, p)
+    matched_total = sum(len(v) for v in groups.values())
+    print(f"   {matched_total} match filters across {len(groups)} groups")
 
     # Diff against seen
-    new_postings = [p for pid, p in by_id.items() if pid not in seen]
-    print(f"   {len(new_postings)} are new (not in seen.json)")
+    new_groups: dict[tuple[str, str], list[Posting]] = defaultdict(list)
+    for key, postings in groups.items():
+        for p in postings:
+            if p.id not in seen:
+                new_groups[key].append(p)
+    new_total = sum(len(v) for v in new_groups.values())
+    print(f"   {new_total} are new (not in seen.json)")
 
-    # On first run, populate seen without spamming notifications
+    # First run: silently populate seen.json, no notifications
     if first_run:
         print("   first run — populating seen.json silently, no notification sent")
-        for pid, p in by_id.items():
-            seen[pid] = {"first_seen": datetime.now(timezone.utc).date().isoformat()}
+        today = datetime.now(timezone.utc).date().isoformat()
+        for key, postings in groups.items():
+            for p in postings:
+                seen[p.id] = {"first_seen": today}
         save_seen(seen)
         return 0
 
-    if new_postings:
+    if new_total > 0:
         webhook = os.environ.get("DISCORD_WEBHOOK_URL", "")
-        notify_discord(new_postings, webhook)
-        for p in new_postings:
-            seen[p.id] = {
-                "first_seen": datetime.now(timezone.utc).date().isoformat(),
-                "company": p.company,
-                "role": p.role,
-                "url": p.url,
-            }
+        type_meta = {pt["key"]: pt for pt in cfg["posting_types"]}
+        cat_meta = {c["key"]: c for c in cfg["role_categories"]}
+        type_order = [pt["key"] for pt in cfg["posting_types"]]
+        cat_order = [c["key"] for c in cfg["role_categories"]]
+        notify_discord_grouped(
+            new_groups, type_meta, cat_meta, type_order, cat_order, webhook
+        )
+
+        today = datetime.now(timezone.utc).date().isoformat()
+        for key, postings in new_groups.items():
+            for p in postings:
+                seen[p.id] = {
+                    "first_seen": today,
+                    "company": p.company,
+                    "role": p.role,
+                    "url": p.url,
+                }
         save_seen(seen)
-        print(f"   notified + saved {len(new_postings)} new postings")
+        print(f"   notified + saved {new_total} new postings")
     else:
         print("   nothing new")
 

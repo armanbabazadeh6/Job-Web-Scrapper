@@ -1,84 +1,158 @@
-# Keywords to match in role titles. Case-insensitive.
-# A posting matches if ANY keyword appears in the title.
-role_keywords:
-  # Software Engineering
-  - software engineer
-  - software developer
-  - swe
-  - backend
-  - frontend
-  - full stack
-  - full-stack
-  - ios
-  - android
-  - mobile engineer
-  - machine learning
-  - ml engineer
-  - data engineer
-  - data scientist
-  - infrastructure
-  - platform engineer
+# Posting types are checked in ORDER — first match wins. So fall/co-op needs to
+# come before "internship" (otherwise a "Summer 2026 Co-op Intern" lands in
+# generic internship instead of fall_coop).
+posting_types:
+  - key: fall_coop
+    label: "🍂 Fall 2026 / Co-op"
+    color: 0xE67E22
+    requires_any:
+      - fall 2026
+      - fall '26
+      - autumn 2026
+      - co-op
+      - coop
+      - co op
 
-  # Product Management
-  - product manager
-  - product management
-  - apm
-  - associate product
+  - key: new_grad
+    label: "🎓 New Grad / Full-time"
+    color: 0x3498DB
+    requires_any:
+      - new grad
+      - new-grad
+      - new graduate
+      - graduate program
+      - class of 2026
+    excludes:
+      - intern
 
-  # Tech Sales
-  - sales
-  - account executive
-  - business development
-  - bdr
-  - sdr
-  - solutions engineer
-  - solutions consultant
+  - key: internship
+    label: "🌞 Internship (Summer / General)"
+    color: 0x2ECC71
+    requires_any:
+      - intern
+      - summer 2026
+      - 2026 internship
 
-  # Consulting
-  - consultant
-  - consulting
-  - strategy
-  - business analyst
+# Role categories. Order = priority order in Discord output.
+# A posting matches the FIRST category whose keywords appear in the title.
+role_categories:
+  - key: swe
+    label: "💻 Software Engineering"
+    keywords:
+      - software engineer
+      - software developer
+      - swe
+      - backend
+      - frontend
+      - front end
+      - full stack
+      - full-stack
+      - fullstack
+      - ios engineer
+      - ios developer
+      - android engineer
+      - android developer
+      - mobile engineer
+      - web developer
 
-  # Investment Banking / Finance
-  - investment banking
-  - investment banker
-  - ib analyst
-  - ib associate
-  - banking analyst
-  - banking associate
-  - equity research
-  - sales & trading
-  - sales and trading
-  - markets analyst
+  - key: platform
+    label: "🛠️ Platform / Infra / DevOps"
+    keywords:
+      - platform engineer
+      - infrastructure engineer
+      - infra engineer
+      - devops
+      - sre
+      - site reliability
+      - cloud engineer
+      - systems engineer
 
-  # Private Equity / Buy-side
-  - private equity
-  - growth equity
-  - venture capital
-  - hedge fund
-  - asset management
+  - key: data
+    label: "📊 Data / ML / AI"
+    keywords:
+      - data engineer
+      - data scientist
+      - data analyst
+      - machine learning
+      - ml engineer
+      - ai engineer
+      - applied scientist
+      - research scientist
+      - ai research
 
-# Season/term keywords. A posting matches season if ANY of these appears
-# in the title OR the season tag we've extracted. Leave permissive — many
-# postings don't tag a season explicitly.
-season_keywords:
-  - fall 2026
-  - fall '26
-  - autumn 2026
-  - co-op
-  - coop
-  - co op
-  - 2026 internship
-  - intern 2026
-  - summer 2026   # include summer too — fall postings often go up alongside summer
-  - new grad
-  - new-grad
-  - 2026 graduate
-  - class of 2026
+  - key: product
+    label: "🧭 Product Management"
+    keywords:
+      - product manager
+      - product management
+      - apm
+      - associate product
+      - product analyst
 
-# Community-maintained GitHub repos. We fetch their README.md and parse the
-# markdown table. These cover SWE/PM/co-op internships and new-grad SWE roles.
+  - key: tech_sales
+    label: "💼 Tech Sales"
+    keywords:
+      - account executive
+      - business development
+      - bdr
+      - sdr
+      - sales development
+      - solutions engineer
+      - solutions consultant
+      - sales engineer
+      - sales associate
+      - inside sales
+      - account manager
+
+  - key: consulting
+    label: "🎯 Consulting / Strategy"
+    keywords:
+      - consultant
+      - consulting
+      - strategy analyst
+      - strategy associate
+      - business analyst
+      - management consultant
+
+  - key: ib
+    label: "🏦 Investment Banking"
+    keywords:
+      - investment banking
+      - investment banker
+      - ib analyst
+      - ib associate
+      - banking analyst
+      - banking associate
+      - equity research
+      - sales & trading
+      - sales and trading
+      - markets analyst
+      - global markets
+
+  - key: pe
+    label: "📈 PE / VC / Buy-side"
+    keywords:
+      - private equity
+      - growth equity
+      - venture capital
+      - hedge fund
+      - asset management
+      - investment analyst
+      - investment associate
+
+# Reject postings whose title explicitly references a past season.
+reject_if_title_contains:
+  - spring 2025
+  - summer 2025
+  - fall 2025
+  - winter 2025
+  - spring 2024
+  - summer 2024
+  - fall 2024
+  - winter 2024
+
+# ---------- Sources ----------
+
 github_lists:
   - name: SimplifyJobs Summer 2026 Internships
     url: https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md
@@ -89,9 +163,6 @@ github_lists:
   - name: speedyapply New Grad Software Jobs
     url: https://raw.githubusercontent.com/speedyapply/2025-SWE-College-Jobs/main/README.md
 
-# Greenhouse-hosted job boards (used by tons of well-known tech cos).
-# The slug is the company identifier in the Greenhouse URL.
-# Browse https://boards.greenhouse.io/<slug> to confirm.
 greenhouse_boards:
   - stripe
   - airbnb
@@ -112,16 +183,30 @@ greenhouse_boards:
   - elastic
   - chime
 
-# Lever-hosted job boards.
-# Browse https://jobs.lever.co/<slug> to confirm.
 lever_boards:
   - netflix
   - palantir
   - mistral
 
-# Optional: arbitrary URLs we'll fetch and grep for matching role titles.
-# Useful for IB / consulting / PE pages that don't have a public JSON API.
-# We pull the raw HTML and look for matching keywords near job-listing patterns.
-watch_urls: []
-  # - name: Goldman Sachs Engineering Careers
-  #   url: https://www.goldmansachs.com/careers/students/programs/americas/summer-analyst-engineering.html
+# IB / consulting / PE / Big4 — most use Workday or custom JS-heavy portals.
+# We point at their student/early-careers landing pages and grep visible links
+# for matching role keywords. Coverage is best-effort: pages rendered entirely
+# in JavaScript will return nothing useful; landing-page program announcements
+# will be picked up.
+watch_urls:
+  - name: Goldman Sachs
+    url: https://www.goldmansachs.com/careers/students/
+  - name: JPMorgan Chase
+    url: https://careers.jpmorgan.com/us/en/students/programs
+  - name: Morgan Stanley
+    url: https://www.morganstanley.com/people-opportunities/students-graduates
+  - name: McKinsey
+    url: https://www.mckinsey.com/careers
+  - name: BCG
+    url: https://careers.bcg.com/students
+  - name: Blackstone
+    url: https://www.blackstone.com/careers/students/
+  - name: KKR
+    url: https://www.kkr.com/careers
+  - name: PwC US
+    url: https://jobs.us.pwc.com/
