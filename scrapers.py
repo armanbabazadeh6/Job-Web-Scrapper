@@ -1,10 +1,11 @@
-"""Fetch postings from community GitHub lists, Greenhouse, and Lever."""
+"""Fetch postings from community GitHub lists, Greenhouse, Lever, and Workday."""
 from __future__ import annotations
 
 import hashlib
 import re
-from dataclasses import dataclass, asdict
-from typing import Iterable
+from dataclasses import dataclass, asdict, field
+from datetime import datetime, timedelta, timezone
+from typing import Iterable, Optional
 
 import requests
 
@@ -19,6 +20,7 @@ class Posting:
     location: str
     url: str
     source: str
+    posted_at: Optional[datetime] = None  # when the company posted it (UTC)
 
     @property
     def id(self) -> str:
@@ -26,7 +28,67 @@ class Posting:
         return hashlib.sha1(key.encode()).hexdigest()[:16]
 
     def to_dict(self) -> dict:
-        return {**asdict(self), "id": self.id}
+        d = {**asdict(self), "id": self.id}
+        if self.posted_at:
+            d["posted_at"] = self.posted_at.isoformat()
+        return d
+
+
+# ---------- Date parsing helpers ----------
+
+def _parse_iso(ts: Optional[str]) -> Optional[datetime]:
+    if not ts:
+        return None
+    try:
+        return datetime.fromisoformat(ts.replace("Z", "+00:00"))
+    except (ValueError, AttributeError):
+        return None
+
+
+def _parse_epoch_ms(ms: Optional[int]) -> Optional[datetime]:
+    if not ms:
+        return None
+    try:
+        return datetime.fromtimestamp(int(ms) / 1000, tz=timezone.utc)
+    except (ValueError, TypeError, OSError):
+        return None
+
+
+def _parse_workday_posted(s: Optional[str]) -> Optional[datetime]:
+    """Workday returns strings like 'Posted Today', 'Posted Yesterday',
+    'Posted 5 Days Ago', 'Posted 30+ Days Ago'."""
+    if not s:
+        return None
+    sl = s.lower()
+    today = datetime.now(timezone.utc)
+    if "today" in sl:
+        return today
+    if "yesterday" in sl:
+        return today - timedelta(days=1)
+    m = re.search(r"(\d+)\+?\s+day", sl)
+    if m:
+        return today - timedelta(days=int(m.group(1)))
+    return None
+
+
+def _parse_md_list_date(s: str) -> Optional[datetime]:
+    """SimplifyJobs uses formats like 'Jan 06', 'Apr 28' (no year).
+    Assumes current year; if that lands in the future, it's last year."""
+    s = (s or "").strip()
+    if not s:
+        return None
+    today = datetime.now(timezone.utc)
+    for fmt in ("%b %d", "%B %d"):
+        try:
+            dt = datetime.strptime(s, fmt).replace(
+                year=today.year, tzinfo=timezone.utc
+            )
+            if dt > today + timedelta(days=1):
+                dt = dt.replace(year=today.year - 1)
+            return dt
+        except ValueError:
+            continue
+    return None
 
 
 # ---------- GitHub community lists (markdown tables) ----------
@@ -86,6 +148,8 @@ def parse_github_list(name: str, markdown: str) -> list[Posting]:
         location = cells_clean[2] if len(cells_clean) > 2 else ""
         link_cell_raw = raw_cells[3] if len(raw_cells) > 3 else ""
         url = _extract_url(link_cell_raw)
+        date_str = cells_clean[4] if len(cells_clean) > 4 else ""
+        posted_at = _parse_md_list_date(date_str)
 
         if not company or not role or company.lower() == "company":
             continue
@@ -99,6 +163,7 @@ def parse_github_list(name: str, markdown: str) -> list[Posting]:
             location=location,
             url=url or "",
             source=name,
+            posted_at=posted_at,
         ))
     return postings
 
@@ -128,12 +193,14 @@ def fetch_greenhouse(slug: str) -> list[Posting]:
         return []
     out = []
     for j in jobs:
+        posted_at = _parse_iso(j.get("updated_at") or j.get("first_published"))
         out.append(Posting(
             company=slug.title(),
             role=j.get("title", ""),
             location=(j.get("location") or {}).get("name", ""),
             url=j.get("absolute_url", ""),
             source=f"Greenhouse:{slug}",
+            posted_at=posted_at,
         ))
     return out
 
@@ -200,12 +267,14 @@ def fetch_workday(label: str, base: str, site: str, max_per_search: int = 100) -
                     continue
                 seen_paths.add(external_path)
                 url = f"{base}{external_path}" if external_path else ""
+                posted_at = _parse_workday_posted(j.get("postedOn"))
                 out.append(Posting(
                     company=label,
                     role=j.get("title", ""),
                     location=j.get("locationsText", "") or "",
                     url=url,
                     source=f"Workday:{label}",
+                    posted_at=posted_at,
                 ))
             if len(jobs) < page_size:
                 break
@@ -227,12 +296,14 @@ def fetch_lever(slug: str) -> list[Posting]:
     out = []
     for j in jobs:
         cats = j.get("categories", {}) or {}
+        posted_at = _parse_epoch_ms(j.get("createdAt"))
         out.append(Posting(
             company=slug.title(),
             role=j.get("text", ""),
             location=cats.get("location", ""),
             url=j.get("hostedUrl", ""),
             source=f"Lever:{slug}",
+            posted_at=posted_at,
         ))
     return out
 

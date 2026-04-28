@@ -2,7 +2,8 @@
 from __future__ import annotations
 
 import time
-from typing import Iterable
+from datetime import datetime, timezone
+from typing import Iterable, Optional
 
 import requests
 
@@ -11,16 +12,33 @@ from scrapers import Posting
 DEFAULT_COLOR = 0x5865F2
 EMBED_DESC_LIMIT = 4000  # Discord caps at 4096; leave headroom
 
+HOT_24H = "🔥🔥 "
+HOT_48H = "🔥 "
+
+
+def _hot_badge(posted_at: Optional[datetime]) -> str:
+    if posted_at is None:
+        return ""
+    if posted_at.tzinfo is None:
+        posted_at = posted_at.replace(tzinfo=timezone.utc)
+    hours = (datetime.now(timezone.utc) - posted_at).total_seconds() / 3600
+    if hours < 0:
+        hours = 0
+    if hours <= 24:
+        return HOT_24H
+    if hours <= 48:
+        return HOT_48H
+    return ""
+
 
 def _format_line(p: Posting) -> str:
+    badge = _hot_badge(p.posted_at)
     label = f"{p.company} — {p.role}"
-    if p.url:
-        head = f"[{label}]({p.url})"
-    else:
-        head = f"**{label}**"
+    head = f"[{label}]({p.url})" if p.url else f"**{label}**"
+    line = f"{badge}{head}"
     if p.location:
-        return f"{head} · {p.location}"
-    return head
+        line += f" · {p.location}"
+    return line
 
 
 def _chunk_lines(lines: list[str], max_chars: int) -> list[list[str]]:
@@ -66,7 +84,13 @@ def notify_discord_grouped(
         return
 
     total = sum(len(v) for v in groups.values())
-    _post(webhook_url, {"content": f"🆕 **{total} new posting(s)** matching your filters"})
+    hot_count = sum(
+        1 for ps in groups.values() for p in ps if _hot_badge(p.posted_at)
+    )
+    header = f"🆕 **{total} new posting(s)** matching your filters"
+    if hot_count:
+        header += f"  ·  🔥 **{hot_count}** posted in the last 48h"
+    _post(webhook_url, {"content": header})
 
     sorted_keys = sorted(
         groups.keys(),
@@ -80,7 +104,13 @@ def notify_discord_grouped(
         title = f"{pt['label']} — {cat['label']} ({len(postings)})"
         color = pt.get("color", DEFAULT_COLOR)
 
-        lines = [_format_line(p) for p in postings]
+        def _sort_key(p: Posting) -> tuple:
+            b = _hot_badge(p.posted_at)
+            rank = 0 if b == HOT_24H else (1 if b == HOT_48H else 2)
+            return (rank, p.company.lower(), p.role.lower())
+
+        postings_sorted = sorted(postings, key=_sort_key)
+        lines = [_format_line(p) for p in postings_sorted]
         chunks = _chunk_lines(lines, EMBED_DESC_LIMIT)
 
         for i, chunk in enumerate(chunks):
