@@ -2,8 +2,8 @@ name: Scrape jobs
 
 on:
   schedule:
-    # Every 6 hours, at minute 17 to avoid the top-of-hour rush
-    - cron: "17 */6 * * *"
+    # Every hour, at minute 17 to avoid the top-of-hour rush
+    - cron: "17 * * * *"
   workflow_dispatch: {}  # allow manual run from the Actions tab
 
 permissions:
