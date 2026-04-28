@@ -162,13 +162,27 @@ def main() -> int:
     new_total = sum(len(v) for v in new_groups.values())
     print(f"   {new_total} are new (not in seen.json)")
 
+    today = datetime.now(timezone.utc).date().isoformat()
+
+    def _seen_entry(p: Posting, key: tuple[str, str]) -> dict:
+        return {
+            "first_seen": today,
+            "company": p.company,
+            "role": p.role,
+            "url": p.url,
+            "location": p.location,
+            "source": p.source,
+            "posted_at": p.posted_at.isoformat() if p.posted_at else None,
+            "posting_type": key[0],
+            "role_category": key[1],
+        }
+
     # First run: silently populate seen.json, no notifications
     if first_run:
         print("   first run — populating seen.json silently, no notification sent")
-        today = datetime.now(timezone.utc).date().isoformat()
         for key, postings in groups.items():
             for p in postings:
-                seen[p.id] = {"first_seen": today}
+                seen[p.id] = _seen_entry(p, key)
         save_seen(seen)
         return 0
 
@@ -182,15 +196,9 @@ def main() -> int:
             new_groups, type_meta, cat_meta, type_order, cat_order, webhook
         )
 
-        today = datetime.now(timezone.utc).date().isoformat()
         for key, postings in new_groups.items():
             for p in postings:
-                seen[p.id] = {
-                    "first_seen": today,
-                    "company": p.company,
-                    "role": p.role,
-                    "url": p.url,
-                }
+                seen[p.id] = _seen_entry(p, key)
         save_seen(seen)
         print(f"   notified + saved {new_total} new postings")
     else:
