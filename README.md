@@ -1,5 +1,7 @@
 # Job-Web-Scrapper
 
+Hello, add this to your discord for the best way to be alerted regarding new-grad jobs or internships
+
 Pings me on Discord when new internships / co-ops / new-grad roles get posted in
 SWE, Product, Tech Sales, Consulting, Investment Banking, or PE/VC.
 
