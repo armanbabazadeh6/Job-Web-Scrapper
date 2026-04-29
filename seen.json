@@ -54,6 +54,39 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Singapore/Tax---NewLaw-Off-Cycle-Internship--Jul---Dec-26-_691282WD"
   },
+  "00a572680bce0548": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Purchase, New York, United States of America",
+    "posted_at": "2026-04-27T15:36:56.516546+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate UX Designer \u2013 Client Platform",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Associate-UX-Designer---Client-Platform_PT-JR032917"
+  },
+  "00c106019cb9821b": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Latham, New York, United States of America",
+    "posted_at": "2026-03-30T15:36:54.129992+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Latham-New-York-United-States-of-America/Client-Service-Associate_JR029839-2"
+  },
+  "00dedd9d468a15cf": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "London",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "International Finance, Fund Finance, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/London/International-Finance--Fund-Finance--Associate_40734"
+  },
   "011e38eec698a082": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-28",
@@ -152,6 +185,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "0209a04baaa777ce": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Brussels",
+    "posted_at": "2026-04-13T15:37:53.245962+00:00",
+    "posting_type": "internship",
+    "role": "School Internship in Technology Strategy & Transformation (2026-2027)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Brussels/School-Internship-in-Technology-Strategy---Transformation--2026-2027-_720943WD"
   },
   "020a27a0b16bf679": {
     "company": "Morgan Stanley",
@@ -295,6 +339,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://paypal.eightfold.ai/careers/job/274915802833?utm_source=github-vansh-ouckah"
+  },
+  "036ae9ad07e9e807": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-29T15:36:49.513866+00:00",
+    "posting_type": "new_grad",
+    "role": "xVA Trading - Fixed Income Division - Analyst/Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/xVA-Trading---Fixed-Income-Division---Analyst-Associate_JR036102"
   },
   "03dbd1f12fc2baa0": {
     "company": "Remarcable",
@@ -505,6 +560,39 @@
     "source": "Workday:PwC (Experienced)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Cairo---ETIC/ETIC--SAP-SuccessFactors-Graduate-Program_712253WD"
   },
+  "06616c4c6c5f3089": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Trento",
+    "posted_at": "2026-03-30T15:38:04.024315+00:00",
+    "posting_type": "internship",
+    "role": "Tester Intern - Trento [DIG]",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Trento/Tester-Intern---Trento--DIG-_591164WD"
+  },
+  "066d763f9e91d273": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Naples",
+    "posted_at": "2026-04-14T15:38:09.460264+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate - Tax Corporate -Napoli [TAX]",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Naples/Associate---Tax-Corporate--Napoli--TAX-_720545WD-1"
+  },
+  "06871e7b18f6e9e6": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Sandy, Utah, United States of America",
+    "posted_at": "2026-04-24T15:36:46.750965+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Success Manager, Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Sandy-Utah-United-States-of-America/Client-Success-Manager--Associate_JR035857"
+  },
   "06ccb8be367a0497": {
     "company": "Samsung",
     "first_seen": "2026-04-28",
@@ -637,6 +725,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.zebra.com/careers/job/343627780597?utm_source=github-vansh-ouckah"
   },
+  "07c068cf028ab521": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Neuilly-sur-Seine",
+    "posted_at": "2026-03-30T15:38:02.993885+00:00",
+    "posting_type": "new_grad",
+    "role": "EDGE - Analyste Junior en Evaluation et Mod\u00e9lisation Financi\u00e8re - Septembre 2026 - F/H",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Neuilly-sur-Seine/EDGE---Analyste-Junior-en-Evaluation-et-Modlisation-Financire---Septembre-2026---F-H_707415WD"
+  },
   "07c6157f9106ce45": {
     "company": "TikTok",
     "first_seen": "2026-04-28",
@@ -713,6 +812,39 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "086ae42c20eeb61b": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Baton Rouge, Louisiana, United States of America",
+    "posted_at": "2026-03-30T15:36:54.130004+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Service Associate - Part Time",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Baton-Rouge-Louisiana-United-States-of-America/Client-Service-Associate---Part-Time_JR029926"
+  },
+  "087c8fb41e1d9f81": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Boston, Massachusetts, United States of America",
+    "posted_at": "2026-04-21T15:36:51.237546+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Relationship Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Boston-Massachusetts-United-States-of-America/Client-Relationship-Analyst_JR034540-1"
+  },
+  "08a906e781619989": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Los Angeles, California, United States of America",
+    "posted_at": "2026-03-30T15:36:42.626759+00:00",
+    "posting_type": "new_grad",
+    "role": "Real Estate Investing, Pre-MBA Associate (2026 Program)",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Los-Angeles-California-United-States-of-America/Real-Estate-Investing--Pre-MBA-Associate--2026-Program-_JR030314"
   },
   "08ae42664a7d0eb0": {
     "company": "Blackstone",
@@ -846,6 +978,28 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.oracle.com/en/sites/jobsearch/job/306078/?utm_source=github-vansh-ouckah"
   },
+  "0a2cfad026cab0cb": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Makati",
+    "posted_at": "2026-04-27T15:37:56.306906+00:00",
+    "posting_type": "internship",
+    "role": "Clients & Markets Intern",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Makati/Clients---Markets-Intern_724722WD"
+  },
+  "0a2f2dbe4496af9c": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Brussels",
+    "posted_at": "2026-03-30T15:38:12.453290+00:00",
+    "posting_type": "internship",
+    "role": "School internship in Human Resources (2026-2027)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Brussels/School-internship-in-Human-Resources--2026-2027-_711114WD"
+  },
   "0a4d6a72dd34b6c6": {
     "company": "CGI",
     "first_seen": "2026-04-28",
@@ -944,6 +1098,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.docusign.com/jobs/28323?lang=en-us&previousLocale=en-US&utm_source=github-vansh-ouckah"
+  },
+  "0ae6d95ee645af13": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "2027 Blackstone Growth Associate (New York)",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/XMLNAME-2027-Blackstone-Growth-Associate--New-York-_37617-1"
   },
   "0b585c79fa1dc73b": {
     "company": "Databricks",
@@ -1066,6 +1231,28 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "0ca72dc38e16856e": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-24T15:36:57.511057+00:00",
+    "posting_type": "new_grad",
+    "role": "Commodities Associate - Market Risk (Risk Management) : Job Level - Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Market-Risk--Risk-Management----Job-Level---Associate_PT-JR026846"
+  },
+  "0cb2df1aba8f768e": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "BDC Finance Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/BDC-Finance-Associate_42624-2"
+  },
   "0ce3e4fce76c5670": {
     "company": "Harmonic",
     "first_seen": "2026-04-28",
@@ -1109,6 +1296,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Purchase-New-York-United-States-of-America/Investment-Due-Diligence-Analyst_PT-JR035297"
+  },
+  "0dbeca75ba496d5e": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-16T15:36:53.031212+00:00",
+    "posting_type": "new_grad",
+    "role": "Deal and Investor Operations Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Deal-and-Investor-Operations-Analyst_JR034469"
   },
   "0dc3a1de4f71bcd6": {
     "company": "Klaviyo",
@@ -1319,6 +1517,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/?utm_source=github-vansh-ouckah"
   },
+  "0ff88be75463a40a": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-22T15:36:51.237531+00:00",
+    "posting_type": "new_grad",
+    "role": "Global Capital Markets - Equity Capital Markets (ECM) \u2013 Equity Syndicate Execution Analyst/Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Equity-Capital-Markets---Equity-Syndicate-Execution_JR035456-2"
+  },
   "1002b54fce10e3e9": {
     "company": "Electronic Arts",
     "first_seen": "2026-04-28",
@@ -1473,6 +1682,17 @@
     "source": "Greenhouse:elastic",
     "url": "https://jobs.elastic.co/jobs?gh_jid=7784606&gh_jid=7784606"
   },
+  "11aa3ecc02bc8276": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Investor Reporting, Associate - Blackstone Credit & Insurance",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Investor-Reporting--Associate---Blackstone-Credit---Insurance_42884"
+  },
   "120f7caec8e0fa70": {
     "company": "Magna",
     "first_seen": "2026-04-28",
@@ -1483,6 +1703,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Southfield-Michigan-US/Intern---Engineering_R00235442"
+  },
+  "122c10a92573bc87": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": "2026-04-22T15:37:58.340402+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate AI Adoption & Change (Amsterdam, Rotterdam)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Amsterdam/Associate-AI-Adoption---Change--Amsterdam--Rotterdam-_723791WD"
   },
   "12582e41267e435c": {
     "company": "Lynk",
@@ -1572,6 +1803,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.weareroku.com/jobs/7618730?gh_jid=7618730"
   },
+  "13514202dc682878": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New Jersey",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Global Fund Finance - Private Equity Strategies - Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-Jersey/Global-Fund-Finance---Private-Equity-Strategies---Associate_41562"
+  },
   "1352c4efa65303e7": {
     "company": "AMD",
     "first_seen": "2026-04-28",
@@ -1615,6 +1857,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "13ef46ccfbfd69d7": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-27T15:36:56.516552+00:00",
+    "posting_type": "new_grad",
+    "role": "Mortgage Pricing & Analytics, Associate/AVP",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Mortgage-Pricing---Analytics--Associate-AVP_PT-JR035884"
   },
   "1445ae6a7834f1d3": {
     "company": "Netflix",
@@ -1670,6 +1923,17 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/London/French-Speaking-Investor-Services-Associate_42747-1"
+  },
+  "15405c85e2e2c44e": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Operating Team, Healthcare Strategy and Analytics Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Operating-Team--Healthcare-Strategy-and-Analytics-Associate_41602"
   },
   "15622dfb1b0858d0": {
     "company": "General Dynamics Mission Systems",
@@ -1781,6 +2045,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "http://uprocessing.applytojob.com/apply/2u0tTcXnw2/Software-Engineer-Intern-Unpaid"
   },
+  "16d198e98871b6d1": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Private Wealth \u2013 FP&A, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Blackstone-Private-Wealth---Business-Development--Financial-Planning-and-Reporting-Associate_40115"
+  },
   "1703eeddc16a9f18": {
     "company": "Rainmaker",
     "first_seen": "2026-04-28",
@@ -1880,6 +2155,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/CesiumAstro/9fcbcbaf-9c95-4d48-b7c8-521ac052ff39/apply"
   },
+  "185e6f3a66c0cd10": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "San Francisco, California, United States of America",
+    "posted_at": "2026-04-24T15:36:57.511008+00:00",
+    "posting_type": "new_grad",
+    "role": "Private Wealth Management Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/San-Francisco-California-United-States-of-America/Private-Wealth-Management-Client-Service-Associate_JR029468"
+  },
   "186046d4f96ed6f7": {
     "company": "CoBank",
     "first_seen": "2026-04-28",
@@ -1935,6 +2221,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.adobe.com/us/en/job/ADOBUSR158493EXTERNALENUS/2026-AI-ML-Intern-Machine-Learning-Engineer?utm_source=github-vansh-ouckah"
   },
+  "19360821a593d510": {
+    "company": "PwC (Experienced)",
+    "first_seen": "2026-04-29",
+    "location": "Neuilly-sur-Seine",
+    "posted_at": "2026-04-29T15:37:26.396356+00:00",
+    "posting_type": "internship",
+    "role": "Consultant Senior Contr\u00f4le & Audit Interne - Secteur Assurance F/H",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Experienced)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Neuilly-sur-Seine/Consultant-Senior-Contrle---Audit-Interne---Secteur-Assurance-F-H_704037WD"
+  },
   "19491985863ef938": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-28",
@@ -1989,6 +2286,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://chamberlain.wd1.myworkdayjobs.com/en-US/chamberlain_group/job/Oak-Brook-IL/Intern---AI-ML-Software-Engineer--Summer-2026-_JR30646"
+  },
+  "19b2dc8283160869": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Lyon",
+    "posted_at": "2026-03-30T15:38:04.024306+00:00",
+    "posting_type": "new_grad",
+    "role": "Data analyst | Deals (M&A) | CDI | H/F",
+    "role_category": "data",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Lyon/Data-analyst---Deals--M-A----CDI---H-F_671088WD"
   },
   "19b7b8c41aeaa843": {
     "company": "Five Rings",
@@ -2078,6 +2386,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.point72.com/CSJobDetail?jobName=2027-point72-academy-investment-analyst-summer-internship-program-us&jobCode=CPA-0014081&utm_source=github-vansh-ouckah"
   },
+  "1a561137328564d6": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Rubano",
+    "posted_at": "2026-04-20T15:38:08.451421+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate Cybersecurity Governance & Compliance",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Rubano/Associate-Cybersecurity-Governance---Compliance_721753WD-1"
+  },
   "1a900c9c4bf31869": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-29",
@@ -2110,6 +2429,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Skopje/Interns-in-Audit---Assurance_638421WD"
+  },
+  "1b3949ab3ddf351f": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Multi-Asset Investing (BXMA)- Treasury, Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Treasury--Analyst_39176"
   },
   "1bb9bf849257a1b0": {
     "company": "MORSE Corp Co-op Opportunities",
@@ -2210,6 +2540,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.aligntech.com/en/postings/748d529c-e3ab-4f4b-a242-3cd8ae84e8b0?utm_source=github-vansh-ouckah"
   },
+  "1cb47cbc0206162d": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Douglas",
+    "posted_at": "2026-04-01T15:37:59.444996+00:00",
+    "posting_type": "internship",
+    "role": "Summer Internship - Assurance - 2027",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Douglas/Summer-Internship---Assurance---2027_704423WD-1"
+  },
   "1cceaa866ceae97d": {
     "company": "Keysight Technologies",
     "first_seen": "2026-04-28",
@@ -2231,6 +2572,28 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Seattle-Washington-United-States-of-America/Client-Service-Associate_JR035709"
+  },
+  "1d42846d7dd5739d": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-28T15:36:49.513889+00:00",
+    "posting_type": "new_grad",
+    "role": "Equity Derivatives Strat (Risk Modelling) - Institutional Equity - Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Equity-Derivatives-Strat--Risk-Modelling----Institutional-Equity---Associate_JR036060"
+  },
+  "1d8f18e53e9dae18": {
+    "company": "PwC (Experienced)",
+    "first_seen": "2026-04-29",
+    "location": "Neuilly-sur-Seine",
+    "posted_at": "2026-04-29T15:37:26.396373+00:00",
+    "posting_type": "internship",
+    "role": "Consultant Senior Contr\u00f4le & Audit Interne - Secteur Financier F/H",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Experienced)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Neuilly-sur-Seine/Consultant-Senior-Contrle---Audit-Interne---Secteur-Financier-F-H_718890WD"
   },
   "1d93093b72482c26": {
     "company": "TikTok",
@@ -2309,6 +2672,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "1e2f4bc98b8d1f9b": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "",
+    "posted_at": "2026-04-24T15:36:47.569751+00:00",
+    "posting_type": "internship",
+    "role": "Regulatory Capital Internal Reporting Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Regulatory-Controller-Analyst-Associate-Director_JR002949-2"
+  },
   "1e65437b04fd76de": {
     "company": "Teradata",
     "first_seen": "2026-04-28",
@@ -2341,6 +2715,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Rome/Associate---Finanza-Agevolata---Categoria-protetta-Roma--TAX-_723216WD-1"
+  },
+  "1f097e0844616173": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "3 Locations",
+    "posted_at": "2026-04-03T15:38:11.455244+00:00",
+    "posting_type": "new_grad",
+    "role": "Junior Tax and/or Accounting Associate - Start September 2026",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Ghent/Junior-Tax-and-or-Accounting-Associate---Start-2026_665924WD"
   },
   "1f0dafa7267a9f14": {
     "company": "Morgan Stanley",
@@ -2397,6 +2782,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-York/Security-Operations-Engineer--Associate---Security-Operations-Engineering_41688"
   },
+  "201b74915754789b": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": "2026-03-30T15:38:02.993864+00:00",
+    "posting_type": "new_grad",
+    "role": "Junior Legal Analyst | Centre of Excellence",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Gdask/Junior-Legal-Analyst---Centre-of-Excellence_688650WD"
+  },
   "203c8e38570ce882": {
     "company": "SolarWinds",
     "first_seen": "2026-04-28",
@@ -2418,6 +2814,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "20b0649935cee78b": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Lviv",
+    "posted_at": "2026-04-02T15:38:01.399437+00:00",
+    "posting_type": "new_grad",
+    "role": "Financial Crimes Analyst",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Lviv/Financial-Crimes-Analyst_718621WD-1"
   },
   "20bbabfdb66328b5": {
     "company": "Zip",
@@ -2506,6 +2913,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "222aa7128f6819d4": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "BXMA - Institutional Client Solutions (ICS), Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/BXMA---Institutional-Client-Solutions--ICS---Associate_41794"
   },
   "225d23d7181beae0": {
     "company": "PwC (Campus)",
@@ -2661,6 +3079,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "2484d2cf77c46ca6": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Rome",
+    "posted_at": "2026-04-23T15:37:57.336904+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate - Legal Corporate M&A_Roma [LEG]",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Rome/Associate---Legal-Corporate-M-A-Roma--LEG-_724069WD-1"
+  },
   "24d062a22da99a19": {
     "company": "ServiceNow",
     "first_seen": "2026-04-28",
@@ -2748,6 +3177,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://cardinalhealth.wd1.myworkdayjobs.com/EXT/job/OH-Dublin-Cardinal-Place/Software-Engineering-Internship_20167964-1?utm_source=github-vansh-ouckah"
+  },
+  "25841fccf938756d": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-16T15:36:52.100282+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate, Sales Trading",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Sales-Trading_JR025924"
   },
   "258c125ec266e393": {
     "company": "Asana",
@@ -2870,6 +3310,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.disneycareers.com/job/glendale/the-walt-disney-studios-software-engineering-intern-summer-2026/391/87730962160?codes=INDEED&utm_source=github-vansh-ouckah"
   },
+  "26ba6ebf35a99592": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-16T15:36:53.031204+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate, Institutional Securities Tech",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Institutional-Securities-Tech_JR032097"
+  },
   "26c2aff735fe6102": {
     "company": "ENFOS",
     "first_seen": "2026-04-28",
@@ -2991,6 +3442,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/Luxembourg/International-Finance--Risk-Management--Analyst_41423"
   },
+  "281e796849781c2c": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Private Wealth \u2013 Financial Reporting, Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Blackstone-Private-Wealth---Business-Development--Analyst_41390"
+  },
   "2837974afb30eaa8": {
     "company": "Alloy Campus Recruiting",
     "first_seen": "2026-04-28",
@@ -3034,6 +3496,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Manchester-New-Hampshire-United-States-of-America/Associate-Service-Manager_JR027231-1"
+  },
+  "28b88a96ac975057": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Saint Peter Port",
+    "posted_at": "2026-03-31T15:37:59.445003+00:00",
+    "posting_type": "internship",
+    "role": "Assurance Summer Internship",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Saint-Peter-Port/Assurance-Summer-Internship_698014WD"
   },
   "2930dfea4f1d0a03": {
     "company": "PwC (Experienced)",
@@ -3123,6 +3596,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.confluent.io/jobs/job/974fa008-7174-4e6f-a89c-8c6cce70ae7e?utm_source=github-vansh-ouckah"
   },
+  "2a69ffe17f9934ee": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Copenhagen",
+    "posted_at": "2026-04-29T15:37:49.111968+00:00",
+    "posting_type": "internship",
+    "role": "Juridisk r\u00e5dgiver til PwC Legal \u2013 Transaktioner, M&A og internationale omstruktureringer (Hellerup)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Copenhagen/Juridisk-rdgiver-til-PwC-Legal---Transaktioner--M-A-og-internationale-omstruktureringer--Hellerup-_725142WD"
+  },
   "2a7c9ffd05538631": {
     "company": "skillz",
     "first_seen": "2026-04-28",
@@ -3156,6 +3640,17 @@
     "source": "Greenhouse:databricks",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133727002"
   },
+  "2aa81c48aebf45c4": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Oak Brook, Illinois, United States of America",
+    "posted_at": "2026-04-28T15:36:49.513878+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Relationship Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Oak-Brook-Illinois-United-States-of-America/Registered-Client-Relationship-Analyst_JR029392"
+  },
   "2ad4a95e54db98b4": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-28",
@@ -3166,6 +3661,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/San-Francisco-California-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR035233"
+  },
+  "2ae4622e1a025a2b": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Private Equity Strategies - Valuations & Analytics, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Private-Equity-Strategies---Valuations---Analytics--Associate_40840"
   },
   "2aedc756dc71f8f9": {
     "company": "Morgan Stanley",
@@ -3265,6 +3771,17 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-York/Blackstone-Credit---Insurance---COO-Office--Platform-Team--Associate_41175"
+  },
+  "2bf0700216c1fdf4": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Bridgetown",
+    "posted_at": "2026-03-30T15:37:59.445007+00:00",
+    "posting_type": "internship",
+    "role": "Assurance - Summer Intern (6 weeks)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Bridgetown/Assurance---Summer-Intern--6-weeks-_709101WD"
   },
   "2bf37abe2b4a903b": {
     "company": "Palantir",
@@ -3387,6 +3904,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Makati/Human-Capital-Intern_607651WD-1"
   },
+  "2ce24b6307ff87b5": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Chicago, Illinois, United States of America",
+    "posted_at": "2026-04-28T15:36:49.513882+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Relationship Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Chicago-Illinois-United-States-of-America/Client-Relationship-Analyst_JR029487"
+  },
   "2d024a990211dbd1": {
     "company": "Zebra Technologies",
     "first_seen": "2026-04-28",
@@ -3441,6 +3969,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.apple.com/en-us/details/200606469/machine-learning-ai-internships?team=STDNT&utm_source=github-vansh-ouckah"
+  },
+  "2d3fc3e9a1e0ebde": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Saint Helier",
+    "posted_at": "2026-04-22T15:37:58.340415+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate \u2013 Risk, Regulation and Fintech",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Saint-Helier/Associate---Risk--Regulation-and-Fintech_723749WD"
   },
   "2d4db38abeb07bb8": {
     "company": "LMI Innovation",
@@ -3695,6 +4234,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Engineering-Intern_R54365-2?utm_source=github-vansh-ouckah"
   },
+  "305b6df5ea77c56f": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "West Palm Beach, Florida, United States of America",
+    "posted_at": "2026-03-30T15:36:54.130008+00:00",
+    "posting_type": "new_grad",
+    "role": "Private Wealth Management Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/West-Palm-Beach-Florida-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR027924"
+  },
   "3084986c2b2627f3": {
     "company": "Medpace, Inc.",
     "first_seen": "2026-04-28",
@@ -3716,6 +4266,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.tranetechnologies.com/global/en/job/TRTEGLOBAL2505499EXTERNALENGLOBAL/Embedded-Software-Developer-Intern?utm_source=github-vansh-ouckah"
+  },
+  "31276368efa26a6c": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Lawrenceville, New Jersey, United States of America",
+    "posted_at": "2026-04-27T15:36:55.667025+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Lawrenceville-New-Jersey-United-States-of-America/Client-Service-Associate_JR032189-1"
   },
   "313ee606edcd19aa": {
     "company": "KBR",
@@ -3838,6 +4399,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.citizensbank.com/job/johnston/software-engineer-internship-summer-2026/288/85989791856?utm_source=github-vansh-ouckah"
   },
+  "32fbd8b9a2584778": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New Jersey",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Reporting & Insights, Associate - People Analytics",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-Jersey/Reporting---Insights--Associate---People-Analytics_40470-1"
+  },
   "3326644a905423dd": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-29",
@@ -3870,6 +4442,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "3371daf692e01db1": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Grand Rapids, Michigan, United States of America",
+    "posted_at": "2026-03-30T15:36:49.513859+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Relationship Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Grand-Rapids-Michigan-United-States-of-America/Client-Relationship-Analyst_JR028762-1"
   },
   "337653e7509b3089": {
     "company": "RTX",
@@ -4047,6 +4630,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "36ab60acc95ea743": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Credit & Insurance \u2013 COO Office, Platform Team, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Credit---Insurance---COO-Office--Platform-Team--Associate_41175"
+  },
   "36c7a766c6e331dd": {
     "company": "Honeywell",
     "first_seen": "2026-04-28",
@@ -4146,6 +4740,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-Jersey/Valuations---Analytics--Associate---Private-Equity-Strategies_39847-2"
   },
+  "371736492ccababb": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-16T15:36:53.031208+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate, Strats",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Strats_JR029285"
+  },
   "371d7a4efd174655": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-28",
@@ -4234,6 +4839,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.workatastartup.com/jobs/80757?utm_source=github-vansh-ouckah"
   },
+  "383dfaa9c42fb6c3": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Pasadena, California, United States of America",
+    "posted_at": "2026-03-30T15:36:43.475024+00:00",
+    "posting_type": "internship",
+    "role": "Intern - Bilingual English/Spanish",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-English-Spanish_JR030746"
+  },
   "38668cf6c95f81db": {
     "company": "CACI",
     "first_seen": "2026-04-28",
@@ -4277,6 +4893,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.google.com/about/careers/applications/jobs/results/122888894193509062-software-developer-intern-phd-summer-2026?utm_source=github-vansh-ouckah"
+  },
+  "38e0684a58052d1f": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Surabaya",
+    "posted_at": "2026-04-29T15:37:54.260019+00:00",
+    "posting_type": "internship",
+    "role": "Intern - Surabaya - PSS Assurance",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Surabaya/Intern---Surabaya---IFS---Property-Facility-Management_718553WD"
   },
   "38feaf226732c89a": {
     "company": "Blackstone",
@@ -4332,6 +4959,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "39910fc68bab3343": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Z\u00fcrich",
+    "posted_at": "2026-04-23T15:37:57.336900+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate - Corporate Tax (Steuerberatung & Dissertation im Steuerrecht) 60%",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Zrich/FY26---TLW---TLW-CT-East-ZH-ITS---Zrich---Associate-2---Start-01062026_723826WD"
   },
   "39d786162999c367": {
     "company": "TikTok",
@@ -4486,6 +5124,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Singapore/General-Assurance---Assistant-Associate---2025-Intake_552044WD"
+  },
+  "3b97c816b8a8e652": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-28T15:36:54.896556+00:00",
+    "posting_type": "new_grad",
+    "role": "Institutional Platform Strategy \u2013 Strategic Initiatives, AVP/Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Institutional-Platform-Strategy---Strategic-Initiatives--AVP-Associate_PT-JR035805"
   },
   "3b9ef40c2ed3e557": {
     "company": "IDeaS",
@@ -4718,6 +5367,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "3f9b8805f273496c": {
+    "company": "PwC (Experienced)",
+    "first_seen": "2026-04-29",
+    "location": "Makati",
+    "posted_at": "2026-03-30T15:37:48.084622+00:00",
+    "posting_type": "internship",
+    "role": "Human Capital Intern",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Experienced)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Makati/Human-Capital-Intern_607651WD-2"
+  },
   "4013fb1a37055993": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-28",
@@ -4828,6 +5488,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://lifeattiktok.com/search/7527589875165563143?utm_source=github-vansh-ouckah"
   },
+  "41166bf9ee4de3d5": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "SEC Perpetual Finance - Finance Transformation - Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/SEC-Reporting-Transformation---Perpetual-Finance---Associate_41776-1"
+  },
   "413957b4b4377052": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-28",
@@ -4904,6 +5575,17 @@
     "role_category": "platform",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/alarmcom/jobs/8440261002"
+  },
+  "4229492deb66123d": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Dallas, Texas, United States of America",
+    "posted_at": "2026-04-27T15:36:50.298006+00:00",
+    "posting_type": "new_grad",
+    "role": "Analyst, Data Governance & Quality \u2013 PMO Committees & Regulatory Coordination",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Dallas-Texas-United-States-of-America/Analyst--Data-Governance---Quality_JR029603"
   },
   "422bf79dca568174": {
     "company": "Salesforce",
@@ -4992,6 +5674,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324471"
+  },
+  "43aac5c4c58bbbb2": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Saint Peter Port",
+    "posted_at": "2026-04-22T15:37:58.340411+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate - Risk, Regulation and Fintech",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Saint-Peter-Port/Associate---Risk--Regulation-and-Fintech_610636WD"
   },
   "43b1906d41a2f77c": {
     "company": "American Express",
@@ -5092,6 +5785,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "446f8ed31e835743": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Athens",
+    "posted_at": "2026-04-21T15:38:01.399407+00:00",
+    "posting_type": "new_grad",
+    "role": "Financial Analyst Graduate",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Athens/Financial-Analyst-Graduate_723442WD"
+  },
   "447ffa1790878221": {
     "company": "General Motors",
     "first_seen": "2026-04-28",
@@ -5113,6 +5817,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Gdask/AML-Analyst-with-Turkish---Financial-Crime-Unit_718862WD"
+  },
+  "44b2e526dfbc79f0": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Alpharetta, Georgia, United States of America",
+    "posted_at": "2026-04-22T15:36:51.237520+00:00",
+    "posting_type": "new_grad",
+    "role": "Retirement Benefits Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Retirement-Benefits-Director_PT-JR033789"
   },
   "44fad3c47144f7c7": {
     "company": "PwC (Campus)",
@@ -5180,6 +5895,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/US-MI-Ypsilanti/Software-Engineering-Intern---Summer-2026_324253"
   },
+  "455728d2cf5d8e29": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": "2026-04-28T15:37:49.111998+00:00",
+    "posting_type": "new_grad",
+    "role": "PwC T\u00fcrkiye New Graduate 2026 - Acceleration Centre (Eski\u015fehir)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Eskisehir-Office/PwC-Trkiye-New-Graduate-2026---Acceleration-Centre--Eskiehir-_725025WD"
+  },
   "456fa4866c6a27c7": {
     "company": "ByteDance",
     "first_seen": "2026-04-28",
@@ -5224,6 +5950,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Naples/Associate---Tax-Corporate--Napoli--TAX-_720545WD-1"
   },
+  "46180daad5db069f": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Naples",
+    "posted_at": "2026-04-28T15:37:56.306854+00:00",
+    "posting_type": "internship",
+    "role": "SAP Consultant Intern - Advisory Private - BUS&TECH ERP- Napoli",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Naples/SAP-Consultant-Intern---Advisory-Private---BUS-TECH-ERP--Napoli_724781WD"
+  },
   "4659001573b22c01": {
     "company": "Databricks",
     "first_seen": "2026-04-28",
@@ -5245,6 +5982,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.baesystems.com/global/en/job/BAE1US121107BREXTERNAL/Software-Engineering-Intern-On-Site"
+  },
+  "46ea854e832f5453": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Purchase, New York, United States of America",
+    "posted_at": "2026-04-27T15:36:56.516557+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate Market Manager",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Associate-Market-Manager_JR023914-1"
   },
   "471ce7f91e2b08c4": {
     "company": "Horace Mann",
@@ -5312,6 +6060,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.docusign.com/jobs/28491?lang=en-us&previousLocale=en-US&utm_source=github-vansh-ouckah"
   },
+  "475fd6e2f5ca8f2b": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "2027 Blackstone BXPE Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/XMLNAME-2027-Blackstone-BXPE-Associate_37611-1"
+  },
   "477479cc9844da0e": {
     "company": "Experian",
     "first_seen": "2026-04-28",
@@ -5344,6 +6103,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Chicago-Illinois-United-States-of-America/Client-Relationship-Analyst_JR034619"
+  },
+  "47ad89db9773dcd5": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "3 Locations",
+    "posted_at": "2026-04-13T15:38:01.399424+00:00",
+    "posting_type": "new_grad",
+    "role": "Business Analyst \u2013 Technology Consulting (German Projects)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Prague/Customer-Analyst---Specialist---Financial-Transformations_672268WD"
   },
   "47d8931a8ae69404": {
     "company": "Expedia Group",
@@ -5510,6 +6280,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "4942b2299737425d": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Budapest Millennium Tower III",
+    "posted_at": "2026-04-16T15:36:53.031232+00:00",
+    "posting_type": "new_grad",
+    "role": "Risk Capital Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Budapest-Millennium-Tower-III/Risk-Capital-Analyst_JR001113"
+  },
   "49555e1bf4ac0c86": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-28",
@@ -5576,6 +6357,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://lifeattiktok.com/search/7533388869200333074?spread=XKM9ZXE&utm_source=github-vansh-ouckah"
   },
+  "49f3e46a38e0ffff": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Douglas",
+    "posted_at": "2026-04-01T15:37:59.444992+00:00",
+    "posting_type": "internship",
+    "role": "Summer Internship - Actuarial Services - 2027",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Douglas/Summer-Internship---Actuarial-Services---2027_718156WD"
+  },
   "4a1254fbeea4ec2d": {
     "company": "TikTok",
     "first_seen": "2026-04-28",
@@ -5631,6 +6423,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Prague/Customer-Analyst---Specialist---Financial-Transformations_672268WD"
   },
+  "4ab42255aac9b0c8": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "3 Locations",
+    "posted_at": "2026-04-28T15:36:54.896547+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate Service Manager",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Manchester-New-Hampshire-United-States-of-America/Associate-Service-Manager_JR027231-1"
+  },
   "4aba5b11ad7b6a4c": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-28",
@@ -5641,6 +6444,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Makati/Associate_603874WD"
+  },
+  "4ac40fd789f1794a": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Purchase, New York, United States of America",
+    "posted_at": "2026-04-29T15:36:43.475051+00:00",
+    "posting_type": "new_grad",
+    "role": "Marketing Client Communications, Associate (Purchase, NY)",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Marketing-Client-Communications--Associate--Purchase--NY-_PT-JR036010"
   },
   "4ad15403be5c7a32": {
     "company": "Palantir",
@@ -5674,6 +6488,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210882?utm_source=github-vansh-ouckah"
+  },
+  "4af8c1f8b6bc5e99": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Real Estate Partners - Investment Operations - Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Real-Estate-Partners---Investment-Operations---Associate_42734"
   },
   "4b21d95a8512bc90": {
     "company": "PwC (Campus)",
@@ -5928,6 +6753,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.jumptrading.com/careers/7124769/?gh_jid=7124769&utm_source=github-vansh-ouckah"
   },
+  "4e6841446399dd4f": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Security Operations Engineer, Associate - Security Operations Engineering",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Security-Operations-Engineer--Associate---Security-Operations-Engineering_41688"
+  },
   "4ea9a58d2ffe1b10": {
     "company": "Adobe",
     "first_seen": "2026-04-28",
@@ -5949,6 +6785,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.metacareers.com/jobs/1471056164046415?utm_source=github-vansh-ouckah"
+  },
+  "4ebc12732d88c3d9": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Fund Accounting, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Fund-Accounting--Associate_23223"
   },
   "4ee56dd7bc5968fe": {
     "company": "PwC (Campus)",
@@ -5982,6 +6829,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://joinbytedance.com/search/7538139519473092882?spread=A3T3U6W&utm_source=github-vansh-ouckah"
+  },
+  "4f4b37a2ff7b9bf8": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Makati",
+    "posted_at": "2026-03-30T15:38:16.699168+00:00",
+    "posting_type": "internship",
+    "role": "Human Capital Intern",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Makati/Human-Capital-Intern_607651WD-1"
   },
   "4f5ee93d107aba19": {
     "company": "Fresco (F24)",
@@ -6082,6 +6940,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://netflix.wd1.myworkdayjobs.com/netflix/job/Los-Gatos/Machine-Learning-Engineer-Intern---MS-PhD--2026_JR36512-1?utm_source=github-vansh-ouckah"
   },
+  "5066f106b72aad87": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Athens",
+    "posted_at": "2026-04-15T15:38:08.451473+00:00",
+    "posting_type": "new_grad",
+    "role": "Insurance Operations Associates",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Athens/Insurance-Operations-Associates_719802WD-1"
+  },
   "506d5c4995bbf3ce": {
     "company": "Eluvio",
     "first_seen": "2026-04-28",
@@ -6136,6 +7005,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Zrich/FY26---TLW---TLW-CT-East-ZH-ITS---Zrich---Associate-2---Start-01062026_723826WD"
+  },
+  "50c1417805655691": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Private Wealth \u2013 Investor Services, Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Blackstone-Private-Wealth---Investor-Services--Analyst_39893"
   },
   "50d048aabf576fe1": {
     "company": "PwC (Campus)",
@@ -6280,6 +7160,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.coxenterprises.com/en/jobs/r202566778/software-engineering-intern-summer-2026-draper-ut/?utm_source=github-vansh-ouckah"
   },
+  "53018a17e34479f5": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Chicago, Illinois, United States of America",
+    "posted_at": "2026-04-22T15:36:51.237524+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Relationship Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Chicago-Illinois-United-States-of-America/Registered-Client-Relationship-Analyst_JR035685-1"
+  },
   "5384d6e830fc220e": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-28",
@@ -6313,6 +7204,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.icf.com/us/en/job/IIIIIIUSR2502608EXTERNALENUS/2026-Summer-Intern-Cloud-Engineer-AWS-Azure?utm_source=github-vansh-ouckah"
   },
+  "53ce15c714872707": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "4 Locations",
+    "posted_at": "2026-03-30T15:38:13.730696+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate Tax Accounting & Tax Compliance Consultancy",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Amsterdam/Associate-Tax-Accounting---Tax-Compliance-Consultancy_615736WD"
+  },
   "53f05120b9648c0c": {
     "company": "Nissan",
     "first_seen": "2026-04-28",
@@ -6334,6 +7236,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "53fc407a9bfc6ef3": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Full-Stack Developer, Associate - Corporate Finance",
+    "role_category": "swe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Full-Stack-Developer--Associate---Corporate-Finance_40967-1"
   },
   "5422c09404662484": {
     "company": "Morgan Stanley",
@@ -6555,6 +7468,39 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.workatastartup.com/jobs/79783?utm_source=github-vansh-ouckah"
   },
+  "56f9dc782a259515": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Multi-Asset Investing (BXMA): Product Management- Business Analyst, Associate",
+    "role_category": "product",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Product-Management--Business-Analyst--Associate_41323-2"
+  },
+  "572897fceefad590": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-29T15:36:43.475049+00:00",
+    "posting_type": "internship",
+    "role": "Internal Audit Director - Finance (Capital Planning) Team",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Internal-Audit-Director---Finance--Capital-Planning--Team_PT-JR035083"
+  },
+  "57449972c162fe54": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Brussels",
+    "posted_at": "2026-04-23T15:37:50.181183+00:00",
+    "posting_type": "new_grad",
+    "role": "PwC Audit Academy Associate in Industry - Brussels- September 2026",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Brussels/PwC-Audit-Academy-Associate-in-Industry---Brussels--September-2026_667484WD"
+  },
   "577851fc887d6d40": {
     "company": "Stripe",
     "first_seen": "2026-04-28",
@@ -6598,6 +7544,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "57cd71be23723408": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New Jersey",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Private Equity Strategies - Valuations & Analytics, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-Jersey/Valuations---Analytics--Associate---Private-Equity-Strategies_39847-2"
   },
   "57ddf67acb0f74f8": {
     "company": "PwC (Campus)",
@@ -6774,6 +7731,28 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.workatastartup.com/jobs/82822?utm_source=github-vansh-ouckah"
+  },
+  "5aa09d261d191545": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Brussels",
+    "posted_at": "2026-03-30T15:38:02.993831+00:00",
+    "posting_type": "new_grad",
+    "role": "Junior Business Analyst",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Brussels/Junior-Salesforce-Consultant---Start-September-2026_663723WD-1"
+  },
+  "5ae9580ac1ed9ee7": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "London",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Generalist Compliance Associate/AVP",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/London/Generalist-Compliance-Associate-AVP_42430"
   },
   "5af58fff985eaf95": {
     "company": "Trimble",
@@ -6995,6 +7974,28 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-York/Blackstone-Operating-Team--Healthcare-Strategy-and-Analytics-Associate_41602"
   },
+  "5cffb59e59589322": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Alpharetta, Georgia, United States of America",
+    "posted_at": "2026-04-27T15:36:46.750901+00:00",
+    "posting_type": "new_grad",
+    "role": "Business Analyst - Business Process Optimization",
+    "role_category": "consulting",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Technology---Business-Operations-Analyst_PT-JR029568"
+  },
+  "5d0d2a8ae7854a68": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Riverside, California, United States of America",
+    "posted_at": "2026-04-28T15:36:54.896558+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Riverside-California-United-States-of-America/Registered-Client-Service-Associate_JR028682"
+  },
   "5d0f36c59e391bc0": {
     "company": "PrePass",
     "first_seen": "2026-04-28",
@@ -7038,6 +8039,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Colorado-Springs-Colorado-United-States-of-America/Registered-Client-Service-Associate_JR031557"
+  },
+  "5d700968ce3f94be": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Marketing Analytics, Associate - Corporate Affairs",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Marketing-Analytics--Associate---Corporate-Affairs_41799"
   },
   "5d7050d6c90feb53": {
     "company": "Optiver",
@@ -7083,6 +8095,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.pinterestcareers.com/jobs/7257996/software-engineer-intern-summer-term-2026-toronto/?utm_source=github-vansh-ouckah"
   },
+  "5e4b47e1b5139d6c": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Holladay, Utah, United States of America",
+    "posted_at": "2026-03-30T15:36:54.129996+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Service Associate - Part-Time",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Holladay-Utah-United-States-of-America/Client-Service-Associate_JR029945"
+  },
   "5ebd7bdc52511f2f": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-28",
@@ -7093,6 +8116,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Chicago-Illinois-United-States-of-America/Client-Relationship-Analyst_JR029487"
+  },
+  "5ebe420e7c32ff3c": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Global Fund Finance - Private Equity Strategies - Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Global-Fund-Finance---Private-Equity-Strategies---Associate_41789"
   },
   "5eea23af833aa333": {
     "company": "Figma",
@@ -7160,6 +8194,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.coxenterprises.com/en/jobs/r202566837/software-engineering-intern-north-hills-ny/?utm_source=github-vansh-ouckah"
   },
+  "5fbf02f9ddecd051": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Melville, New York, United States of America",
+    "posted_at": "2026-04-15T15:36:54.129961+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Melville-New-York-United-States-of-America/Registered-Client-Service-Associate_JR030354-1"
+  },
   "5fc3c289f30cf902": {
     "company": "Zettabyte",
     "first_seen": "2026-04-28",
@@ -7214,6 +8259,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.workatastartup.com/jobs/83361?utm_source=github-vansh-ouckah"
+  },
+  "60c02c83ba28ecc3": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Chicago, Illinois, United States of America",
+    "posted_at": "2026-04-14T15:36:53.031263+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Relationship Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Chicago-Illinois-United-States-of-America/Client-Relationship-Analyst_JR034619"
   },
   "60ce5e6870f8ac4e": {
     "company": "Salesforce",
@@ -7369,6 +8425,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Gibraltar/PwC-Gibraltar--Summer-Internship-Program-2026_700453WD"
   },
+  "63a0711f16c256f2": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Pasadena, California, United States of America",
+    "posted_at": "2026-03-30T15:36:43.475032+00:00",
+    "posting_type": "internship",
+    "role": "Intern - Bilingual English/Mandarin",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR029493"
+  },
   "63bd7bff69f60bf8": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-28",
@@ -7379,6 +8446,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Hong-Kong-Hong-Kong/Assoc--Professional--P2--Product-Support---Services-ISG---Job-Level---Associate_PT-JR035166"
+  },
+  "63c3e8e4370150df": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Seattle, Washington, United States of America",
+    "posted_at": "2026-04-23T15:36:54.129931+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Seattle-Washington-United-States-of-America/Client-Service-Associate_JR035709"
   },
   "63e64ec865007672": {
     "company": "Tesla",
@@ -7468,6 +8546,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "64d06385c3b0d019": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": "2026-04-22T15:37:58.340407+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate Analytics and AI Solutions (Amsterdam, Rotterdam)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Amsterdam/Associate-Analytics-and-AI-Solutions--Amsterdam--Rotterdam-_723789WD"
+  },
   "64d6f73c790750d8": {
     "company": "Nuro",
     "first_seen": "2026-04-28",
@@ -7478,6 +8567,17 @@
     "role_category": "platform",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "6519a05ee6efe75f": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Purchase, New York, United States of America",
+    "posted_at": "2026-04-24T15:36:47.569670+00:00",
+    "posting_type": "new_grad",
+    "role": "Product Marketing Investment Solutions, Analyst/Associate (Purchase, NY)",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Product-Marketing--Investment-Solutions_PT-JR034513"
   },
   "651cfeee1a547740": {
     "company": "PwC (Experienced)",
@@ -7500,6 +8600,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.ashbyhq.com/sentra/eb51547f-e234-42f7-ab75-ab93717579d9?utm_source=github-vansh-ouckah"
+  },
+  "656befc45b1afa8a": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-24T15:36:57.511031+00:00",
+    "posting_type": "new_grad",
+    "role": "Scrum Master (Risk Management) : Job Level - Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Credit-Risk--Risk-Management----Job-Level---Associate_PT-JR034529"
   },
   "657a0a0165ba3af7": {
     "company": "Mastercard",
@@ -7622,6 +8733,28 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Morristown-New-Jersey-United-States-of-America/Registered-Client-Service-Associate_JR032234-1"
   },
+  "67509f99f110497a": {
+    "company": "PwC (Experienced)",
+    "first_seen": "2026-04-29",
+    "location": "Neuilly-sur-Seine",
+    "posted_at": "2026-04-29T15:37:26.396354+00:00",
+    "posting_type": "internship",
+    "role": "Consultant Senior Conformit\u00e9 & Contr\u00f4le Interne - Asset Management F/H",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Experienced)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Neuilly-sur-Seine/Consultant-Expriment-Conformit-Contrle-Interne---Asset-Management---CDI---H-F_687869WD"
+  },
+  "675e3cb3e744025e": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-03-31T15:36:54.129967+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Client-Service-Associate---Bilingual-English-Korean_JR030500-1"
+  },
   "6774921327979c49": {
     "company": "Motorola Solutions",
     "first_seen": "2026-04-28",
@@ -7632,6 +8765,17 @@
     "role_category": "platform",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Culver-City-CA/DevOps-Software---2026-Summer-Internship_R61381?utm_source=github-vansh-ouckah"
+  },
+  "681b7b7a43de9ece": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Global Fund Finance, Associate - Blackstone Multi Asset",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Global-Fund-Finance--Associate---Blackstone-Multi-Asset_41807-2"
   },
   "689586a636742ec8": {
     "company": "MITRE",
@@ -7754,6 +8898,28 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Lviv/Financial-Analyst--with-knowledge-of-the-Czech-language-_704848WD-1"
   },
+  "6a369eb3f98335e4": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Human Resources - HR Business Partner, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Singapore/Human-Resources---HR-Business-Partner--Associate_42394"
+  },
+  "6a67115286a150a3": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Chapel Hill, North Carolina, United States of America",
+    "posted_at": "2026-04-24T15:36:57.511053+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Chapel-Hill-North-Carolina-United-States-of-America/Registered-Client-Service-Associate_JR035140"
+  },
   "6a7baebe5c0f245f": {
     "company": "EControls",
     "first_seen": "2026-04-28",
@@ -7786,6 +8952,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "6afe1ca1440a61df": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "San Francisco",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Blackstone Private Wealth - Internal Sales, Associate (San Francisco)",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/San-Francisco/Blackstone-Private-Wealth---Internal-Sales--Associate--San-Francisco-_38854"
   },
   "6b5f3e2403b23c4d": {
     "company": "Werfen",
@@ -8018,6 +9195,28 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.hpe.com/us/en/job/1193025/Software-Engineering-Intern?utm_source=github-vansh-ouckah"
   },
+  "6ea1feea69a2b1ba": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Private Equity Investor Product Strategy, Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Private-Equity-Investor-Product-Strategy--Analyst_41467"
+  },
+  "6ea39f6041407d74": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Makati",
+    "posted_at": "2026-03-30T15:38:15.739841+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Makati/Associate_603874WD"
+  },
   "6ec6a1a597cad658": {
     "company": "AMD",
     "first_seen": "2026-04-28",
@@ -8061,6 +9260,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "6f2efc0f73a64211": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-03-30T15:36:54.129984+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Registered-Client-Service-Associate_JR031715-1"
   },
   "6f92abdbc0e96428": {
     "company": "Uline",
@@ -8293,6 +9503,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://delta.avature.net/en_US/careers/JobDetail/Intern-IT-Software-Engineering-ATL-Summer-2026/29180?jobId=29180&utm_source=github-vansh-ouckah"
   },
+  "71d233cb50502830": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Site Reliability Engineer, Associate - Data, Cloud & Developer Experience",
+    "role_category": "platform",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York-601-Lex/Site-Reliability-Engineer--Associate---Data--Cloud---Developer-Experience_41534"
+  },
   "71df4455ce221f43": {
     "company": "Lockheed Martin",
     "first_seen": "2026-04-28",
@@ -8314,6 +9535,17 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-York/Program-Manager--Associate---Corporate-Affairs_41937"
+  },
+  "7225781844495a0e": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Antwerp",
+    "posted_at": "2026-04-13T15:37:52.202932+00:00",
+    "posting_type": "new_grad",
+    "role": "PwC Audit Academy Associate in Industry - Antwerp - September 2026",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Antwerp/PwC-Audit-Academy-Associate-in-Industry---Antwerp---September-2026_663812WD"
   },
   "72323bd8aa154acf": {
     "company": "Morgan Stanley",
@@ -8656,6 +9888,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/Singapore/Treasury---Risk-Solutions--Analyst--Associate_41885-2"
   },
+  "7647b2ee434ef670": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Private Wealth - Client Services, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Blackstone-Private-Wealth---Client-Services--Associate_41767"
+  },
   "76bb1d64aa7f041e": {
     "company": "Blackstone",
     "first_seen": "2026-04-28",
@@ -8777,6 +10020,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "783748099dfe2f39": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "3 Locations",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Credit & Insurance - Forecasting and Fund Modeling, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Credit---Insurance---Forecasting-and-Fund-Modeling--Associate_42415-2"
+  },
   "7856c1cb5b233096": {
     "company": "Snowflake",
     "first_seen": "2026-04-28",
@@ -8787,6 +10041,17 @@
     "role_category": "data",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/snowflake/8904ed85-75d6-48cf-b01b-7941677fde4a"
+  },
+  "78618dcd16a8bcee": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "COMMERZ III, OBEROI GARDEN CITY",
+    "posted_at": "2026-04-27T15:36:46.750941+00:00",
+    "posting_type": "new_grad",
+    "role": "Taxation, Associate, ISG Operations",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/COMMERZ-III-OBEROI-GARDEN-CITY/Taxation--Associate--ISG-Operations_JR035455"
   },
   "78eff5a34faff6da": {
     "company": "Palantir",
@@ -9041,6 +10306,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d/apply"
   },
+  "7dac2edfc918ecfe": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": "2026-04-14T15:36:53.031267+00:00",
+    "posting_type": "new_grad",
+    "role": "Natural Gas Scheduling - Commodities - Fixed Income - Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Natural-Gas-Scheduling---Commodities---Fixed-Income---Analyst_JR034855"
+  },
   "7def327ad2b53388": {
     "company": "Axiomatic_AI",
     "first_seen": "2026-04-28",
@@ -9106,6 +10382,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "7ecbbbef23b31194": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Performance Reporting, Associate - Blackstone Credit & Insurance",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Performance-Reporting--Associate---Blackstone-Credit---Insurance_42622"
   },
   "7ef44a8948c0be4f": {
     "company": "Altice USA",
@@ -9206,6 +10493,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.riotgames.com/en/work-with-us/job/7254441/software-engineering-intern-summer-2026-remote-los-angeles-usa?utm_source=github-vansh-ouckah"
   },
+  "7fc031bcef8bf0ec": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "4 Locations",
+    "posted_at": "2026-03-30T15:38:02.993877+00:00",
+    "posting_type": "new_grad",
+    "role": "AML Analyst with German | Financial Crime Unit",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Gdask/AML-Analyst-with-German---Financial-Crime-Unit_668579WD"
+  },
   "7fdc0072b7175c16": {
     "company": "Megazone Cloud US",
     "first_seen": "2026-04-28",
@@ -9271,6 +10569,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf?utm_source=Simplify&utm_source=github-vansh-ouckah"
+  },
+  "807e73e0809b0988": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "San Francisco",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Private Wealth - Client Services, Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/San-Francisco/Private-Wealth-Solutions---Client-Services--Associate_36943"
   },
   "80c8fe34c19c76b2": {
     "company": "Morgan Stanley",
@@ -9525,6 +10834,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Milan/Customer-Data-Analyst_604265WD"
   },
+  "83bcdd76284ae9e6": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Makati",
+    "posted_at": "2026-03-30T15:38:01.399455+00:00",
+    "posting_type": "new_grad",
+    "role": "AML/KYC Associate",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Makati/AML-KYC-Associate_548849WD-1"
+  },
   "83bea49e6a522890": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-28",
@@ -9546,6 +10866,17 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/Luxembourg/International-Finance--Fund-Finance-Oversight--Associate_41561-1"
+  },
+  "83d9bc2fc809678b": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Colorado Springs, Colorado, United States of America",
+    "posted_at": "2026-03-30T15:36:42.626749+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Colorado-Springs-Colorado-United-States-of-America/Registered-Client-Service-Associate_JR031557"
   },
   "83f3ea4181a0a618": {
     "company": "TheGuarantors",
@@ -9580,6 +10911,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/San-Francisco/Blackstone-Private-Wealth---Investor-Services--Associate_39894"
   },
+  "84bab158fb09fa9b": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-28T15:36:44.934168+00:00",
+    "posting_type": "new_grad",
+    "role": "Quantitative Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Quantitative-Analyst_PT-JR028257"
+  },
   "84bc1fe896f56888": {
     "company": "ABC News",
     "first_seen": "2026-04-28",
@@ -9590,6 +10932,17 @@
     "role_category": "product",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.disneycareers.com/job/new-york/abc-news-product-management-and-engineering-intern-summer-fall-2026/391/93958488896?utm_source=github-vansh-ouckah"
+  },
+  "84ec15a5beb3cab1": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Morristown, New Jersey, United States of America",
+    "posted_at": "2026-04-28T15:36:54.896564+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Morristown-New-Jersey-United-States-of-America/Registered-Client-Service-Associate_JR032234-1"
   },
   "8532f125934e37e3": {
     "company": "Morgan Stanley",
@@ -9667,6 +11020,17 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/Luxembourg/International-Finance--Risk-Management--Analyst_41557"
+  },
+  "85ce8e0005adfe86": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Private Equity Secondaries Analyst \u2013 Strategic Partners",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Private-Equity-Secondaries-Analyst---Strategic-Partners_42796-1"
   },
   "85f7275b7dc0b629": {
     "company": "Vertiv",
@@ -9877,6 +11241,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Boston-Massachusetts-United-States-of-America/Client-Relationship-Analyst_JR034540-1"
   },
+  "89839fbd13c183d9": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "San Francisco",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Private Wealth \u2013 Investor Services, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/San-Francisco/Blackstone-Private-Wealth---Investor-Services--Associate_39894"
+  },
   "898b0d0784ad7617": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-28",
@@ -10031,6 +11406,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Basel/Steuerspezialist-in-mit-Fokus-auf-Steuerdeklarationen_709448WD"
   },
+  "8c2292e01fcfc143": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "El Segundo, California, United States of America",
+    "posted_at": "2026-04-21T15:36:51.237558+00:00",
+    "posting_type": "new_grad",
+    "role": "Wealth Management Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/El-Segundo-California-United-States-of-America/Wealth-Management-Analyst_JR035000-1"
+  },
   "8c573e40e4e32066": {
     "company": "Megazone Cloud US",
     "first_seen": "2026-04-28",
@@ -10130,6 +11516,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.lever.co/palantir/8bcf4f33-0a79-4248-bbfd-49ac4be9dd8e?utm_source=github-vansh-ouckah"
   },
+  "8d226ba7aaf59b80": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Lake Oswego, Oregon, United States of America",
+    "posted_at": "2026-04-29T15:36:54.130014+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Lake-Oswego-Oregon-United-States-of-America/Client-Service-Associate_JR036114"
+  },
   "8d35dfe6c801713e": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-28",
@@ -10162,6 +11559,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "8dc25373a0d1eeae": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Finance - Corporate FP&A, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Finance---Corporate-FP-A--Associate_41678-1"
   },
   "8dd31b45b882690b": {
     "company": "TikTok",
@@ -10251,6 +11659,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://apply.workable.com/quadric-dot-i-o-inc/j/369989F805/"
   },
+  "8fffdedd81fc7dc8": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-29T15:36:43.475042+00:00",
+    "posting_type": "new_grad",
+    "role": "Wealth Management Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Wealth-Management-Analyst_JR031790"
+  },
   "900c340db48b5fa9": {
     "company": "Adobe",
     "first_seen": "2026-04-28",
@@ -10305,6 +11724,28 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "909705a4e234c3bf": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Middleton, Massachusetts, United States of America",
+    "posted_at": "2026-04-28T15:36:44.934176+00:00",
+    "posting_type": "new_grad",
+    "role": "Business Development Associate",
+    "role_category": "tech_sales",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Middleton-Massachusetts-United-States-of-America/Institutional-Consulting-Associate_JR032397-1"
+  },
+  "90aae9ee0962f58c": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-03-30T15:36:48.462353+00:00",
+    "posting_type": "new_grad",
+    "role": "MSIM Tactical Value, Acquisitions Associate (2027 Program)",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/MSIM-Tactical-Value--Acquisitions-Associate--2027-Program-_JR028239"
   },
   "90cf5e94d9dc9c57": {
     "company": "L.L.Bean",
@@ -10394,6 +11835,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "919bf4c910f35796": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-29T15:36:54.130012+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Registered-Client-Service-Associate_JR027791-1"
+  },
   "91d9e4fafdb811be": {
     "company": "Platform Aerospace",
     "first_seen": "2026-04-28",
@@ -10438,6 +11890,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "http://specialisterne.applytojob.com/apply/oKaHG4DNdr/Software-Engineer-Intern-Neurodiversity-Hiring-Initiative"
   },
+  "925d2c2b31bb3dd6": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Portfolio Management- BXMA Valuation & Analytics, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Private-Equity-Valuations---Analytics--Associate_41475"
+  },
   "927efa450921819a": {
     "company": "CACI",
     "first_seen": "2026-04-28",
@@ -10460,6 +11923,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.workatastartup.com/jobs/80560?utm_source=github-vansh-ouckah"
   },
+  "92953cd442d3243c": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Lviv",
+    "posted_at": "2026-03-30T15:38:02.993859+00:00",
+    "posting_type": "new_grad",
+    "role": "Financial Analyst (with Czech)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Lviv/Financial-Analyst--with-knowledge-of-the-Czech-language-_704848WD-1"
+  },
   "92a487acdb9d8752": {
     "company": "IBM",
     "first_seen": "2026-04-28",
@@ -10470,6 +11944,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=53118&recommendation=&source=WEB_Search_NA&tags=&user=&formValues=&utm_source=github-vansh-ouckah"
+  },
+  "92ae54f5a6d841d8": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Denver, Colorado, United States of America",
+    "posted_at": "2026-03-30T15:36:43.475010+00:00",
+    "posting_type": "internship",
+    "role": "PWM Intern",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Denver-Colorado-United-States-of-America/PWM-Intern_JR031610"
   },
   "92c8ba3106532be3": {
     "company": "Morgan Stanley",
@@ -10515,6 +12000,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.ashbyhq.com/gimlet/373302e0-c4ab-4fdf-a8be-18ec45e4c5f5?utm_source=Simplify&utm_source=github-vansh-ouckah"
   },
+  "933af915f95350f9": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": "2026-03-30T15:38:02.993880+00:00",
+    "posting_type": "new_grad",
+    "role": "Data Analyst in Forensic Technology Services team",
+    "role_category": "data",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Prague/Data-Analyst-in-Forensic-Technology-Services-team_665479WD"
+  },
   "934f74e9a6c3877b": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-28",
@@ -10525,6 +12021,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Amsterdam/Associate-Corporate-Tax-Real-Estate_622008WD"
+  },
+  "93624756c297e34d": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Oak Brook, Illinois, United States of America",
+    "posted_at": "2026-04-02T15:36:49.513837+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Relationship Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Oak-Brook-Illinois-United-States-of-America/Registered-Client-Relationship-Analyst_JR033866"
   },
   "937d1f2dbda64196": {
     "company": "Charter Communications",
@@ -10592,6 +12099,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749924007?gh_jid=4749924007&utm_source=github-vansh-ouckah"
   },
+  "93e06d5df821f84d": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "BXMA- Quantitative Strategy, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/BXMA--Quantitative-Strategy--Analyst_41729"
+  },
   "9407166edc7561ee": {
     "company": "Apex Fintech Solutions",
     "first_seen": "2026-04-28",
@@ -10625,6 +12143,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.keysight.com/jobs/49650?lang=en-us&icims=1&utm_source=github-vansh-ouckah"
   },
+  "947d5296f88adc41": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "London",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "French Speaking Investor Services Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/London/French-Speaking-Investor-Services-Associate_42747-1"
+  },
   "9491ddc2ebbea41d": {
     "company": "Keysight",
     "first_seen": "2026-04-28",
@@ -10646,6 +12175,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301415?utm_source=github-vansh-ouckah"
+  },
+  "9510fe0614d22604": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": "2026-04-22T15:37:50.181194+00:00",
+    "posting_type": "internship",
+    "role": "School Internship in Smart Manufacturing Strategy & Implementation (2026-2027)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Brussels/School-Internship-in-Smart-Manufacturing-Strategy---Implementation--2026-2027-_723806WD"
   },
   "952618be51ce539d": {
     "company": "Intuit",
@@ -10669,6 +12209,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.arcb.com/careersmarketplace/JobDetail?id=26993&utm_source=github-vansh-ouckah"
   },
+  "95596c496b3d9f8f": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Purchase, New York, United States of America",
+    "posted_at": "2026-04-20T15:36:51.237562+00:00",
+    "posting_type": "new_grad",
+    "role": "Investment Due Diligence Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Investment-Due-Diligence-Analyst_PT-JR035297"
+  },
   "95688f704ae6edaf": {
     "company": "Diversified Automation",
     "first_seen": "2026-04-28",
@@ -10690,6 +12241,17 @@
     "role_category": "product",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "95befa9155d09b0b": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "San Francisco, California, United States of America",
+    "posted_at": "2026-04-28T15:36:54.896561+00:00",
+    "posting_type": "new_grad",
+    "role": "Private Wealth Management Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/San-Francisco-California-United-States-of-America/Private-Wealth-Management-Registered-Client-Service-Associate_JR035233"
   },
   "96024f0ffb7b99f4": {
     "company": "Electronic Arts",
@@ -10888,6 +12450,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "9782aea33741108d": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Technology Audit - Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Technology-Audit---Analyst_41871"
   },
   "97cd1a28f11ebc8b": {
     "company": "Palantir",
@@ -11142,6 +12715,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c"
   },
+  "9a6382af9b3cb197": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Gibraltar",
+    "posted_at": "2026-03-30T15:37:59.445011+00:00",
+    "posting_type": "internship",
+    "role": "PwC Gibraltar: Audit, Accounting & Tax Summer Internship",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Gibraltar/PwC-Gibraltar--Summer-Internship-Program-2026_700453WD"
+  },
   "9a89f8bdd314d0ce": {
     "company": "Tesla",
     "first_seen": "2026-04-28",
@@ -11296,6 +12880,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Credit-Team--Analyst_39178"
   },
+  "9c98be8924afc997": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Los Angeles, California, United States of America",
+    "posted_at": "2026-03-30T15:36:48.462328+00:00",
+    "posting_type": "new_grad",
+    "role": "Real Estate Investing, Pre-MBA Associate (2027 Program)",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Los-Angeles-California-United-States-of-America/Real-Estate-Investing--Pre-MBA-Associate--2027-Program-_JR028854"
+  },
   "9c9dee68833946f1": {
     "company": "Confluent",
     "first_seen": "2026-04-28",
@@ -11339,6 +12934,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7608048003"
+  },
+  "9cecaa477b141802": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Athens",
+    "posted_at": "2026-04-21T15:38:10.441930+00:00",
+    "posting_type": "new_grad",
+    "role": "Assurance Graduate Program - Audit",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Athens/Assurance-Graduate-Program---Audit_716612WD"
   },
   "9d4a8cfefc7c5263": {
     "company": "NVIDIA",
@@ -11406,6 +13012,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Kuala-Lumpur/Associate---Infrastructure-Engineer_718841WD"
   },
+  "9e15467f57da418e": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "3 Locations",
+    "posted_at": "2026-04-03T15:38:01.399433+00:00",
+    "posting_type": "new_grad",
+    "role": "AML Analyst with Turkish | Financial Crime Unit",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Gdask/AML-Analyst-with-Turkish---Financial-Crime-Unit_718862WD"
+  },
   "9e359198c20a93ac": {
     "company": "Cognex",
     "first_seen": "2026-04-28",
@@ -11416,6 +13033,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://cognex.wd1.myworkdayjobs.com/en-US/external_career_site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0010384-1"
+  },
+  "9e3b6f435e7f079e": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Jacksonville, Florida, United States of America",
+    "posted_at": "2026-03-30T15:36:54.129972+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Jacksonville-Florida-United-States-of-America/Registered-Client-Service-Associate_JR033478"
   },
   "9e3f08da9f028bad": {
     "company": "Sartorius",
@@ -11835,6 +13463,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "a372fe076b083588": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": "2026-04-20T15:37:51.206471+00:00",
+    "posting_type": "internship",
+    "role": "Audit and Assurance Intern",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Tirana/Audit-and-Assurance-Intern_723158WD"
+  },
   "a3a3b70c07b186f4": {
     "company": "Suno",
     "first_seen": "2026-04-28",
@@ -11868,6 +13507,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "a49b7b3ed2e29055": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Z\u00fcrich",
+    "posted_at": "2026-04-21T15:37:50.181227+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate - Karrierestart im Risk & Regulatory (Rotations Program)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Zrich/Associate---Karrierestart-im-Risk---Regulatory--Rotations-Program-_721011WD"
+  },
   "a4d86836a8a8eaea": {
     "company": "Palantir",
     "first_seen": "2026-04-28",
@@ -11878,6 +13528,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f/apply"
+  },
+  "a4e07d806ae35b64": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Pasadena, California, United States of America",
+    "posted_at": "2026-03-30T15:36:43.475019+00:00",
+    "posting_type": "internship",
+    "role": "Intern",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern_JR030747"
   },
   "a4efbcf0f9ba4441": {
     "company": "enGen",
@@ -11890,6 +13551,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "a52e5a1c8eb565e9": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "4 Locations",
+    "posted_at": "2026-03-30T15:38:13.730689+00:00",
+    "posting_type": "internship",
+    "role": "Internship Tax & Compliance (Amsterdam, Rotterdam, Eindhoven en Utrecht)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Amsterdam/Internship-Tax---Compliance--Amsterdam--Rotterdam--Eindhoven-en-Utrecht-_615754WD"
+  },
   "a58ace6582adaaad": {
     "company": "Credit Karma",
     "first_seen": "2026-04-28",
@@ -11900,6 +13572,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "a59701617392019d": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Multi-Asset Investing (BXMA)- Credit Team, Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Credit-Team--Analyst_39178"
   },
   "a5cb714ee9f69fcf": {
     "company": "Mosaic",
@@ -12022,6 +13705,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://lifeattiktok.com/search/7538314547103762696?utm_source=github-vansh-ouckah"
   },
+  "a7a21a696df3f095": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Douglas",
+    "posted_at": "2026-03-30T15:38:00.369506+00:00",
+    "posting_type": "internship",
+    "role": "Summer Internship - Actuarial Services - 2026",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Douglas/Summer-Internship---Actuarial-Services---2026_620968WD"
+  },
   "a7c5ebb0b4c0da4e": {
     "company": "Urban Science",
     "first_seen": "2026-04-28",
@@ -12054,6 +13748,28 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/New-York-New-York-United-States-of-America/MSIM-Tactical-Value--Acquisitions-Associate--2027-Program-_JR028239"
+  },
+  "a892c6b3f8ede08c": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "System Engineer, Associate \u2013 Enterprise Technology",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Platform-Engineer--Associate---Physical-Security_41692-1"
+  },
+  "a8a69bfbacf3cd90": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Athens",
+    "posted_at": "2026-04-20T15:38:07.082764+00:00",
+    "posting_type": "new_grad",
+    "role": "Deals & Strategy Transaction Services Associate",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Athens/Deals---Strategy-Transaction-Services-Associate_723108WD-2"
   },
   "a8e2284f3d3af243": {
     "company": "Ellipsis Labs",
@@ -12297,6 +14013,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/NVIDIA-2026-Internships--PhD-Generative-AI-Research_JR2003228?utm_source=github-vansh-ouckah"
   },
+  "ac1822d2c2c1ad80": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Copenhagen",
+    "posted_at": "2026-04-13T15:37:53.245952+00:00",
+    "posting_type": "new_grad",
+    "role": "Analyst (student) til PwC's Corporate Finance-team",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Copenhagen/Analyst--student--til-PwC-s-Corporate-Finance-team_720855WD"
+  },
   "ac27538f2e26dc84": {
     "company": "Northrop Grumman",
     "first_seen": "2026-04-28",
@@ -12429,6 +14156,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Software-Developer-Intern_R2615062"
   },
+  "ada4cf3046c72eca": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Private Wealth - Product Specialist, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Private-Wealth---Product-Specialist--Associate_42631"
+  },
   "ae2224d93557c6ee": {
     "company": "General Dynamics Mission Systems",
     "first_seen": "2026-04-28",
@@ -12483,6 +14221,28 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.fedex.com/software-engineer-intern-summer-2026/job/P25-284903-1?utm_source=github-vansh-ouckah"
+  },
+  "af143ca7a0923635": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Brussels",
+    "posted_at": "2026-03-30T15:38:12.453317+00:00",
+    "posting_type": "internship",
+    "role": "School Internship in Payroll (2025-2026)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Brussels/School-Internship-in-Payroll--2025-2026-_672465WD-1"
+  },
+  "af18f00a544978ad": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "BXMA- Total Portfolio Management: Portfolio Management, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/BXMA--Total-Portfolio-Management--Portfolio-Management--Associate_41535-2"
   },
   "af76f98d3cdefd25": {
     "company": "AMD",
@@ -12549,6 +14309,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://lifeattiktok.com/search/7595306554946193717?spread=XKM9ZXE&utm_source=github-vansh-ouckah"
+  },
+  "b081f80850beb47b": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Athens",
+    "posted_at": "2026-04-21T15:38:07.082726+00:00",
+    "posting_type": "new_grad",
+    "role": "Deals & Strategy, M&A-Corporate Finance Associate",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Athens/Deals---Strategy--M-A-Corporate-Finance-Associate_718091WD-2"
   },
   "b0b721b992d8f93b": {
     "company": "Lyft",
@@ -12681,6 +14452,28 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://ttmtech.wd5.myworkdayjobs.com/en-US/jobs/job/Farmingdale-NY/Software-Engineering-Internship_R13823?utm_source=github-vansh-ouckah"
+  },
+  "b2a1356a6e297a02": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Potomac, Maryland, United States of America",
+    "posted_at": "2026-04-28T15:36:54.896552+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Potomac-Maryland-United-States-of-America/Registered-Client-Service-Associate_JR035916"
+  },
+  "b2cde5c6034c88f6": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Neuilly-sur-Seine",
+    "posted_at": "2026-03-30T15:38:02.993853+00:00",
+    "posting_type": "new_grad",
+    "role": "Stage Analyste Performance Commerciale & Reporting - F/H",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Neuilly-sur-Seine/Stage-Analyste-Performance-Commerciale---Reporting---F-H_714432WD"
   },
   "b2fa6bcfcaa4f60f": {
     "company": "Cisco",
@@ -12824,6 +14617,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Rome/Associate---Finanza-Agevolata-Roma--TAX-_720541WD-1"
+  },
+  "b5068e8f5d09b56f": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Trento",
+    "posted_at": "2026-03-30T15:38:04.024311+00:00",
+    "posting_type": "new_grad",
+    "role": "Test Analyst Specialist - Trento [DIG]",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Trento/Test-Analyst-Specialist---Trento--DIG-_591159WD"
   },
   "b51115b05e37732e": {
     "company": "PwC (Campus)",
@@ -13001,6 +14805,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Milan/TLS---PwC-Services---Payroll-Analyst---Consulente-applicativo-HR-Zucchetti_463019WD-2"
   },
+  "b778678a481b1eed": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Vienna",
+    "posted_at": "2026-04-15T15:38:09.460231+00:00",
+    "posting_type": "new_grad",
+    "role": "PwC Deals | Restructuring and Performance Traineeprogramm Edge 360\u00b0 | Associate (w/m/d)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Vienna/PwC-Deals---Restructuring-and-Performance-Traineeprogramm-Edge-360----Associate--w-m-d-_721042WD"
+  },
   "b7811254060a2dd2": {
     "company": "Empower",
     "first_seen": "2026-04-28",
@@ -13055,6 +14870,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://akunacapital.com/job-details?gh_jid=6996427&utm_source=github-vansh-ouckah"
+  },
+  "b87780f0c9d393c2": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Marketing Research, Associate - Corporate Affairs",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Marketing-Research--Associate---Corporate-Affairs_41781"
   },
   "b89f9fefda18793a": {
     "company": "Sandisk",
@@ -13177,6 +15003,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://northmark.wd108.myworkdayjobs.com/en-US/NMS/job/Intern-Program_R12713?utm_source=github-vansh-ouckah"
   },
+  "ba3e9ac45b4aad7a": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Li\u00e8ge",
+    "posted_at": "2026-04-08T15:37:53.246005+00:00",
+    "posting_type": "new_grad",
+    "role": "PwC Audit Academy Associate in Industry - Li\u00e8ge - September 2026",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Lige/PwC-Audit-Academy-Associate-in-Industry---Lige---September-2026_664155WD"
+  },
   "baca99b4d75bea37": {
     "company": "Aurora Innovation",
     "first_seen": "2026-04-28",
@@ -13242,6 +15079,28 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "bc380c23655b716b": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Multi Asset Investing (BXMA)- Product Control \u2013 Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Product-Control---Regulatory-Oversight-and-Reporting-Professional--Associate_35577"
+  },
+  "bc47241fd0dcd99a": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Security Operations Engineer, Associate - Security Operations Engineering",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Security-Operations-Engineer--Associate---Security-Operations-Engineering_42091"
   },
   "bc5ce0d316c26bea": {
     "company": "PwC (Campus)",
@@ -13485,6 +15344,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "c1dba4654b738839": {
+    "company": "PwC (Experienced)",
+    "first_seen": "2026-04-29",
+    "location": "Neuilly-sur-Seine",
+    "posted_at": "2026-04-29T15:37:26.396366+00:00",
+    "posting_type": "internship",
+    "role": "Consultant Manager Contr\u00f4le & Audit Interne - Secteur Assurance F/H",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Experienced)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Neuilly-sur-Seine/Consultant-Manager-Audit---Contrle-Interne---Assurance---CDI---H-F_675519WD"
+  },
   "c1f6462ffa18abbd": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-28",
@@ -13506,6 +15376,17 @@
     "role_category": "platform",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/global/job/Burlington-Massachusetts/Cloud-Engineering-Internship--6-Month-Internship---July-Dec-_R-788935"
+  },
+  "c233682f5d5a4db3": {
+    "company": "PwC (Experienced)",
+    "first_seen": "2026-04-29",
+    "location": "Christchurch - NZL",
+    "posted_at": "2026-04-29T15:37:27.408903+00:00",
+    "posting_type": "internship",
+    "role": "Risk Services - Manager - Internal Audit",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Experienced)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Christchurch---NZL/Risk-Services---Manager---Internal-Audit_715565WD"
   },
   "c24a6f292629db17": {
     "company": "PwC (Campus)",
@@ -13539,6 +15420,17 @@
     "role_category": "consulting",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "c2fd4c683df1e7ac": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Seattle, Washington, United States of America",
+    "posted_at": "2026-04-24T15:36:57.511061+00:00",
+    "posting_type": "new_grad",
+    "role": "Operations Associate - Parametric",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Seattle-Washington-United-States-of-America/Operations-Associate---Parametric_PT-JR033517-1"
   },
   "c321c3a69ac6ca85": {
     "company": "Kinaxis",
@@ -13694,6 +15586,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/?utm_source=github-vansh-ouckah"
   },
+  "c55d43819354cd40": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Data Analytics Developer, Associate - Credit and Insurance",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Data-Analytics-Developer--Associate---Credit-and-Insurance_40787-1"
+  },
   "c56ad3becc9e0ee1": {
     "company": "Oshkosh",
     "first_seen": "2026-04-28",
@@ -13792,6 +15695,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/collabora/2dd1c3a3-b06a-4798-9bfd-1ab1c7de231d/apply"
+  },
+  "c6c5afba1561e2d2": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Endpoint Operations Engineer, Associate - Enterprise Technology",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Endpoint-Operations-Engineer--Associate---Enterprise-Technology_42723-1"
   },
   "c704b2e5b6ae5c50": {
     "company": "Trimble",
@@ -13914,6 +15828,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.oracle.com/en/sites/jobsearch/job/305903/?keyword=Intern&mode=location&utm_source=github-vansh-ouckah"
   },
+  "c89de924aa4f59cf": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "4 Locations",
+    "posted_at": "2026-03-30T15:38:14.753343+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate Accounting, Reporting & Compliance (Utrecht, Amsterdam, Rotterdam or Eindhoven)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Amsterdam/Associate-Accounting--Reporting---Compliance--Utrecht--Amsterdam--Rotterdam-or-Eindhoven-_615726WD"
+  },
   "c8c2abb6c5cbbda4": {
     "company": "Waymo",
     "first_seen": "2026-04-28",
@@ -13990,6 +15915,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.skyworksinc.com/job/Hillsboro-Audio-AI-Engineering-Summer-Intern-2026-OR-97006/1319944600/?utm_source=github-vansh-ouckah"
+  },
+  "c95a9b350af191a2": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Rome",
+    "posted_at": "2026-04-27T15:37:56.306885+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate - Finanza Agevolata - Categoria protetta_Roma [TAX]",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Rome/Associate---Finanza-Agevolata---Categoria-protetta-Roma--TAX-_723216WD-1"
   },
   "c9605633991973b5": {
     "company": "PwC (Campus)",
@@ -14111,6 +16047,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://ats.rippling.com/en-GB/chess/jobs/f199901c-ee5f-4846-97ed-b2252be44a30?utm_source=github-vansh-ouckah"
+  },
+  "cb3d801848e73969": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-24T15:36:46.750976+00:00",
+    "posting_type": "new_grad",
+    "role": "Private Wealth Management Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Private-Wealth-Management-Associate_JR033050-2"
   },
   "cb6f3a6979ce0a80": {
     "company": "Waypoint Transit",
@@ -14387,6 +16334,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-York/Global-Treasury---Treasury-Capital-Markets---Fund-Finance----Analyst_41758"
   },
+  "ced759a3b4cb219e": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Rome",
+    "posted_at": "2026-04-14T15:38:09.460248+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate - Finanza Agevolata_Roma [TAX]",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Rome/Associate---Finanza-Agevolata-Roma--TAX-_720541WD-1"
+  },
   "cef13f20b0afa39e": {
     "company": "Anduril Industries",
     "first_seen": "2026-04-28",
@@ -14420,6 +16378,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Budapest-Hungary/Financial-Business-Analyst_JR021227"
   },
+  "cf86567d7bc59b6b": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Basel",
+    "posted_at": "2026-04-29T15:38:05.061435+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate - Spezialist:in Steuerdeklarationen",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Basel/Steuerspezialist-in-mit-Fokus-auf-Steuerdeklarationen_709448WD"
+  },
   "cff3ea4ea0742cf8": {
     "company": "SAIC",
     "first_seen": "2026-04-28",
@@ -14441,6 +16410,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "d00e0dfa6bf63070": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-21T15:36:51.237543+00:00",
+    "posting_type": "new_grad",
+    "role": "Investment Banking M&A Associate \u2013 New York",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Investment-Banking-M-A-Associate---New-York_JR027943"
   },
   "d01471c4dd23a4c4": {
     "company": "Bumble Inc.",
@@ -14563,6 +16543,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Cincinnati-Ohio-United-States-of-America/J-J-Surgery-Cincinnati--Software-Engineer-Co-op-Fall-2026_R-061673"
   },
+  "d160a5f3d2ce78ec": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New Jersey",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Perpetual Finance - Finance - Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-Jersey/Blackstone-Perpetual-Finance---Finance---Associate_39900"
+  },
   "d18a94d55f5a9c73": {
     "company": "Databricks",
     "first_seen": "2026-04-28",
@@ -14573,6 +16564,28 @@
     "role_category": "product",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.databricks.com/company/careers/product/product-management-intern-summer-2026-6883068002?utm_source=github-vansh-ouckah"
+  },
+  "d19ac97f66c9f2df": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-28T15:36:49.513885+00:00",
+    "posting_type": "new_grad",
+    "role": "ETF Quant Strategist  - Institutional Equity - Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/IED--ETF-Quant-Strategist-Associate_JR029185-1"
+  },
+  "d1c19397d8e9a80a": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Carried Interest & Co-Investment Financial Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Carried-Interest---Co-Investment-Financial-Associate_40854"
   },
   "d1eeb68e5de2372d": {
     "company": "Talos",
@@ -14640,6 +16653,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Amsterdam/Internship-Corporate-Finance-M-A_638651WD-2"
   },
+  "d2b47f482e509794": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Internal Audit - Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Internal-Audit---Associate_41712"
+  },
   "d2c7fd089d109526": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-28",
@@ -14672,6 +16696,28 @@
     "role_category": "platform",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "d2e1cdc257e96596": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-17T15:36:52.100236+00:00",
+    "posting_type": "new_grad",
+    "role": "Quantitative Analyst (macroeconomic scenario design)",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Quantitative-Analyst--macroeconomic-scenario-design-_PT-JR034288"
+  },
+  "d2ed0d5bf5a5bf0c": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Saint Peter Port",
+    "posted_at": "2026-04-14T15:37:52.202905+00:00",
+    "posting_type": "internship",
+    "role": "Tax Summer Internship",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Saint-Peter-Port/Tax-Summer-Internship_698015WD"
   },
   "d2faf387e8effb42": {
     "company": "The Walt Disney Company",
@@ -14706,6 +16752,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "d358cf7859a67e0c": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New Jersey",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Real Estate Finance - FP&A Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-Jersey/Real-Estate-Finance---FP-A-Associate_42862"
+  },
   "d35e395cf6931f2d": {
     "company": "Blackstone",
     "first_seen": "2026-04-28",
@@ -14727,6 +16784,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---People-Data-Scientist_R161486?utm_source=github-vansh-ouckah"
+  },
+  "d3ab9b97451accbe": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Integrated Marketing Manager, Associate - Corporate Affairs",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Program-Manager--Associate---Corporate-Affairs_41937"
   },
   "d3bfe7fb7e498490": {
     "company": "KBR",
@@ -14804,6 +16872,17 @@
     "role_category": "data",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Singapore/Tax---Digital-Tax--Data-Scientist--Associate--July-2026-Intake-_648648WD"
+  },
+  "d44699708a89d569": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Saint Helier",
+    "posted_at": "2026-03-31T15:37:59.445000+00:00",
+    "posting_type": "internship",
+    "role": "Assurance Summer Internship",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Saint-Helier/Assurance-Summer-Internship_697999WD"
   },
   "d44c6947a7bbf33a": {
     "company": "Garmin",
@@ -14925,6 +17004,17 @@
     "role_category": "platform",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Cairo---ETIC/ETIC--Cloud-Engineering-Intern_685361WD"
+  },
+  "d570966d3e197255": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Rome",
+    "posted_at": "2026-04-14T15:38:09.460256+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate Figura Tecnica - Finanza Agevolata_Roma [TAX]",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Rome/Associate-Figura-Tecnica---Finanza-Agevolata-Roma--TAX-_720538WD-1"
   },
   "d585b60f3555559a": {
     "company": "Skyryse",
@@ -15080,6 +17170,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/New-York-New-York-United-States-of-America/Finance-Change-Management---Associate-AVP_PT-JR035562"
   },
+  "d7aa2e2bcc7d1faf": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Yerevan",
+    "posted_at": "2026-04-16T15:37:52.202875+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate in Assurance",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Yerevan/Associate-in-Assurance_722168WD"
+  },
   "d7ce5ae29c4bc903": {
     "company": "Highmark Health",
     "first_seen": "2026-04-28",
@@ -15112,6 +17213,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.ashbyhq.com/siftstack/866b0c5b-3e73-4480-aa34-4c44a42d26b6?utm_source=github-vansh-ouckah"
+  },
+  "d81d42e705218fb4": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Global Treasury \u2013 Treasury Capital Markets ( Fund Finance) \u2013 Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Global-Treasury---Treasury-Capital-Markets---Fund-Finance----Analyst_41758"
   },
   "d8502139d346886a": {
     "company": "Morgan Stanley",
@@ -15201,6 +17313,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.clever.com/about/careers?gh_jid=7315275&utm_source=github-vansh-ouckah"
   },
+  "d9444d6739873cab": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Lublin - ul.Na\u0142\u0119czowska 14",
+    "posted_at": "2026-03-30T15:38:01.399450+00:00",
+    "posting_type": "new_grad",
+    "role": "AML Analyst | Financial Crime Unit",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Lublin---ulNaczowska-14/AML-Analyst---Financial-Crime-Unit_668567WD"
+  },
   "d9715238980d8b6b": {
     "company": "Databricks",
     "first_seen": "2026-04-28",
@@ -15266,6 +17389,17 @@
     "role_category": "data",
     "source": "Greenhouse:instacart",
     "url": "https://instacart.careers/job/?gh_jid=5917202"
+  },
+  "da5117654abad6b0": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "2027 Blackstone Private Equity Associate (New York)",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/XMLNAME-2027-Blackstone-Private-Equity-Associate--New-York-_37621-1"
   },
   "dac5fb842dfdb09f": {
     "company": "Intuit",
@@ -15344,6 +17478,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "dbf9e85f84bf5d5b": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Fund Accounting Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Fund-Accounting-Associate_26360"
+  },
   "dc173fdc02498e5d": {
     "company": "Oshkosh",
     "first_seen": "2026-04-28",
@@ -15387,6 +17532,17 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/Sydney/Tactical-Opportunities--Analyst_39399"
+  },
+  "dca7e80a6e928072": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Real Estate - Core+ BREIT(Strategy & Management), Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Real-Estate---Core--BREIT-Strategy---Management---Associate_42369-2"
   },
   "dcbca3c5ce09b9db": {
     "company": "ZEISS",
@@ -15453,6 +17609,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.coxenterprises.com/en/jobs/r202568804/software-engineering-intern-burlington-vt-summer-2026/?utm_source=github-vansh-ouckah"
+  },
+  "dd2672ace3f24476": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Makati",
+    "posted_at": "2026-04-16T15:38:08.451468+00:00",
+    "posting_type": "new_grad",
+    "role": "IT Audit Associate",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Makati/IT-Audit-Associate_665748WD-1"
   },
   "dd4b6e0126598265": {
     "company": "Commure",
@@ -15740,6 +17907,28 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.ashbyhq.com/GigaML/aa903645-854f-4404-9d49-8a96f0dcc2cc?utm_source=github-vansh-ouckah"
   },
+  "e12652bb570dc23e": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": "2026-04-29T15:37:54.259995+00:00",
+    "posting_type": "internship",
+    "role": "Analista de Impuestos Internacionales - US Client",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Buenos-Aires/Analista-de-Impuestos-Internacionales---US-Client_718496WD-2"
+  },
+  "e16ae3a50085e219": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New Jersey",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Private Equity Investor Product Strategy, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-Jersey/Private-Equity-Investor-Product-Strategy--Associate_40590"
+  },
   "e1a62e820d4be740": {
     "company": "Magna International",
     "first_seen": "2026-04-28",
@@ -15772,6 +17961,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.workatastartup.com/jobs/78634?utm_source=github-vansh-ouckah"
+  },
+  "e204bea16577ccbd": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York 601 Lex",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Perpetual Finance BXPE US - Finance - Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York-601-Lex/Blackstone-Perpetual-Finance-BXPE-US---Finance---Associate_39899"
   },
   "e21d803e66a2f993": {
     "company": "KLA",
@@ -15916,6 +18116,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.workatastartup.com/jobs/84385?utm_source=github-vansh-ouckah"
   },
+  "e401839dfc356ecd": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Lake Oswego, Oregon, United States of America",
+    "posted_at": "2026-03-30T15:36:43.475015+00:00",
+    "posting_type": "new_grad",
+    "role": "Wealth Management Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Lake-Oswego-Oregon-United-States-of-America/Wealth-Management-Associate_JR030969"
+  },
   "e4255ea5f5caec48": {
     "company": "Staples",
     "first_seen": "2026-04-28",
@@ -15949,6 +18160,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/haydenai/5087f5a0-3e5b-42de-a91e-144c25a0606c"
   },
+  "e4bff956387e79ff": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Miami",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Private Equity Investor Product Strategy, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Miami/Private-Equity-Investor-Product-Strategy--Associate_39970"
+  },
   "e4c7fd368ed1c1b4": {
     "company": "Blackstone",
     "first_seen": "2026-04-28",
@@ -15959,6 +18181,17 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-Jersey/Reporting---Insights--Associate---People-Analytics_40470-1"
+  },
+  "e4f6d150d2301ec5": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "5 Locations",
+    "posted_at": "2026-04-06T15:38:11.455226+00:00",
+    "posting_type": "new_grad",
+    "role": "PwC T\u00fcrkiye New Graduate 2026",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Istanbul/PwC-Trkiye-New-Graduate-2026_719157WD"
   },
   "e5022de8c6c28460": {
     "company": "Morgan Stanley",
@@ -16004,6 +18237,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "e5824ca4a9c06ddb": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Seattle, Washington, United States of America",
+    "posted_at": "2026-04-23T15:36:50.298035+00:00",
+    "posting_type": "new_grad",
+    "role": "Analyst, Client Reporting - Parametric",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Seattle-Washington-United-States-of-America/Analyst--Client-Reporting---Parametric_PT-JR035646"
+  },
   "e59b1b3015528ded": {
     "company": "ByteDance",
     "first_seen": "2026-04-28",
@@ -16014,6 +18258,17 @@
     "role_category": "platform",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.bytedance.com/en/position/7535646140345272584/detail?spread=A3T3U6W&utm_source=github-vansh-ouckah"
+  },
+  "e5c07fc8b1f3f66c": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Wellesley, Massachusetts, United States of America",
+    "posted_at": "2026-03-30T15:36:54.129980+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Wellesley-Massachusetts-United-States-of-America/Client-Service-Associate_JR032014"
   },
   "e5d96206562c591a": {
     "company": "Palantir",
@@ -16036,6 +18291,17 @@
     "role_category": "product",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://lifeattiktok.com/search/7531991763930827016?utm_source=github-vansh-ouckah"
+  },
+  "e63d7c4a942e6d83": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "",
+    "posted_at": "2026-03-30T15:38:02.993923+00:00",
+    "posting_type": "internship",
+    "role": "Intern - External Communications (Website)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Intern---External-Communications--Website-_688645WD"
   },
   "e64510b6b76f3185": {
     "company": "Citizens Financial Group",
@@ -16136,6 +18402,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/digs/jobs/4663926006"
   },
+  "e684aadc68405303": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Neuilly-sur-Seine",
+    "posted_at": "2026-03-30T15:38:01.399459+00:00",
+    "posting_type": "new_grad",
+    "role": "Data analyst - Deals (M&A) - F/H",
+    "role_category": "data",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Neuilly-sur-Seine/Data-analyst---Deals--M-A----CDI---H-F_671096WD"
+  },
   "e691e0f66b927732": {
     "company": "Skydio",
     "first_seen": "2026-04-28",
@@ -16190,6 +18467,28 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Cairo---ETIC/ETIC--Data-Analytics-Intern_610070WD"
+  },
+  "e778498284da658a": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York 601 Lex",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Blackstone Private Wealth - Internal Sales, Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York-601-Lex/Private-Wealth-Solutions---Internal-Sales--Associate_31726-5"
+  },
+  "e7b3c161ab596f02": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Yogyakarta",
+    "posted_at": "2026-03-30T15:38:12.453282+00:00",
+    "posting_type": "new_grad",
+    "role": "Salesforce - Associate - Salesforce Developer (Talent Pool, Placement: Yogyakarta)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Yogyakarta/Salesforce---Associate---Salesforce-Developer--Talent-Pool--Placement--Yogyakarta-_712459WD-1"
   },
   "e7e89627ed9a4866": {
     "company": "Citizens Financial Group",
@@ -16246,6 +18545,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.workatastartup.com/jobs/80610?utm_source=github-vansh-ouckah"
   },
+  "e8d857dca922d6a8": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "2 Locations",
+    "posted_at": "2026-04-22T15:37:58.340398+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate Data and Infrastructure (Amsterdam, Rotterdam)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Amsterdam/Associate-Data-and-Infrastructure--Amsterdam--Rotterdam-_723793WD-2"
+  },
   "e8e4ccbd1634fd6e": {
     "company": "Oshkosh",
     "first_seen": "2026-04-28",
@@ -16300,6 +18610,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.sharkninja.com/job/-/-/47204/86214487840?utm_source=github-vansh-ouckah"
+  },
+  "e9693525eb49afea": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "Berkeley Square House London",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Product Marketing & Education Analyst/Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/Berkeley-Square-House-London/Product-Marketing---Education-Analyst_38933"
   },
   "e9b094bca23a5dbd": {
     "company": "PwC (Campus)",
@@ -16400,6 +18721,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://grnh.se/p32j1zwl5us?utm_source=github-vansh-ouckah"
   },
+  "ebdb3357395bf75a": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-24T15:36:50.298025+00:00",
+    "posting_type": "new_grad",
+    "role": "Finance Change Management - Associate/AVP",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Finance-Change-Management---Associate-AVP_PT-JR035562"
+  },
   "ec06fb03da9275a2": {
     "company": "Blackstone",
     "first_seen": "2026-04-28",
@@ -16422,6 +18754,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/job/10003571?utm_source=github-vansh-ouckah"
   },
+  "ecb3eb9d96c0b1c4": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Neuch\u00e2tel",
+    "posted_at": "2026-04-22T15:38:06.094860+00:00",
+    "posting_type": "new_grad",
+    "role": "FY26 - TLW - TLW ICR Compliance Center CH - Neuch\u00e2tel - Associate 2 - Start 01.04.2026",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Neuchtel/FY26---TLW---TLW-ICR-Compliance-Center-CH---Neuchtel---Associate-2---Start-01042026_709449WD-1"
+  },
   "eceabaaed2d4619b": {
     "company": "Robinhood",
     "first_seen": "2026-04-28",
@@ -16432,6 +18775,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "ed9f679ca94a4dc1": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Denver, Colorado, United States of America",
+    "posted_at": "2026-03-30T15:36:42.626754+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Denver-Colorado-United-States-of-America/Registered-Client-Service-Associate_JR029934"
   },
   "edb37634d6c226cb": {
     "company": "Balyasny Asset Management",
@@ -16553,6 +18907,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://akunacapital.com/job-details?gh_jid=7055471&utm_source=github-vansh-ouckah"
+  },
+  "f030b4804331fb9d": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Private Wealth Marketing - Investment Content Strategist, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Education-Content-Strategist--Private-Wealth-Marketing--Associate_38151"
   },
   "f0412a2d8f80e8c2": {
     "company": "Shield AI",
@@ -16862,6 +19227,17 @@
     "source": "Greenhouse:stripe",
     "url": "https://stripe.com/jobs/search?gh_jid=7285986"
   },
+  "f4b5d39274328fb0": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Palo Alto, California, United States of America",
+    "posted_at": "2026-03-30T15:36:54.129976+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Palo-Alto-California-United-States-of-America/Registered-Client-Service-Associate_JR033124"
+  },
   "f4c05e1171b55022": {
     "company": "GDIT",
     "first_seen": "2026-04-28",
@@ -16983,6 +19359,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://abcfinancial.wd5.myworkdayjobs.com/abcfinancialservices/job/Dallas-TX/Software-Engineer---Intern_REQ-1246?utm_source=github-vansh-ouckah"
   },
+  "f7de9bed50455283": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Multi-Asset Investing (BXMA) - Product Management, Associate",
+    "role_category": "product",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA----Product-Management--Associate_42676"
+  },
   "f7ed4b9a8edaa869": {
     "company": "Microsoft",
     "first_seen": "2026-04-28",
@@ -17004,6 +19391,17 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-York/BXMA-Investment-Oversight-Solutions--Analyst_41325"
+  },
+  "f847e2c9cf26c14f": {
+    "company": "Fiserv",
+    "first_seen": "2026-04-29",
+    "location": "Alpharetta, GA",
+    "posted_at": "2026-04-29T00:00:00+00:00",
+    "posting_type": "internship",
+    "role": "Data Engineer Intern",
+    "role_category": "data",
+    "source": "vanshb03 Summer 2026 Internships",
+    "url": "https://fiserv.wd5.myworkdayjobs.com/EXT/job/Alpharetta-Georgia/Summer-Intern---Data-Engineer_R-10393654?utm_source=github-vansh-ouckah"
   },
   "f84d6f66dcf3221d": {
     "company": "Zoox",
@@ -17313,6 +19711,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/305901?utm_medium=jobboard&utm_source=github-vansh-ouckah"
   },
+  "fcbe149e9ac4d8e7": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Montpellier",
+    "posted_at": "2026-03-30T15:38:02.993892+00:00",
+    "posting_type": "new_grad",
+    "role": "Analyste Audit IT & Data Junior - Montpellier - F/H",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Montpellier/Analyste-Audit-IT---Data-Junior---Montpellier---F-H_703898WD"
+  },
   "fcc8106c223c7944": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-28",
@@ -17401,6 +19810,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.exptechinc.com/careers/?gh_jid=4916425007&utm_source=github-vansh-ouckah"
   },
+  "fe1a8da7bcdaa828": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Greenwood Village, Colorado, United States of America",
+    "posted_at": "2026-03-30T15:36:42.626735+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Greenwood-Village-Colorado-United-States-of-America/Registered-Client-Service-Associate_JR032787"
+  },
   "fe1b7fb7a3da0245": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-28",
@@ -17412,6 +19832,28 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/New-York-New-York-United-States-of-America/Deal-and-Investor-Operations-Analyst_JR034469"
   },
+  "fe1d2af0e3fe0e97": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Boston, Massachusetts, United States of America",
+    "posted_at": "2026-04-22T15:36:51.237513+00:00",
+    "posting_type": "new_grad",
+    "role": "MSIM- Emerging Markets- Quantitative Portfolio Analyst",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Boston-Massachusetts-United-States-of-America/MSIM--Emerging-Markets--Quantitative-Portfolio-Analyst_JR034714"
+  },
+  "fe3440e70fa30d9a": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Brussels",
+    "posted_at": "2026-04-13T15:37:53.245957+00:00",
+    "posting_type": "internship",
+    "role": "School Internship in Valuation & Modelling (2026-2027)",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Brussels/School-Internship-in-Valuation---Modelling--2026-2027-_695469WD"
+  },
   "fe5b395cad071eee": {
     "company": "CenturyLink",
     "first_seen": "2026-04-28",
@@ -17422,6 +19864,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://internaljobs.centurylink.com/job/Remote-Intern-Software-Developer-Summer-2026/1333501200/?ats=successfactors&utm_source=github-vansh-ouckah"
+  },
+  "fe66598ba6845699": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-28T15:36:55.667012+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Registered-Client-Service-Associate_JR034574-1"
   },
   "fea98a0b5a1e7326": {
     "company": "Decagon",
@@ -17477,6 +19930,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/atomicsemi/009d0819-c688-4ab9-8816-a3c7ab002470"
+  },
+  "ff08afce220e3292": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Technology Training, Associate - BXTI",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Technology-Training--Associate---BXTI_42625-1"
   },
   "ff6c7024feee190a": {
     "company": "Pierce Manufacturing",
