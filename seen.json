@@ -9536,6 +9536,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-York/Investor-Reporting--Associate---Blackstone-Credit---Insurance_42884"
   },
+  "8673b806e30b6d65": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-29",
+    "location": "Surabaya",
+    "posted_at": "2026-04-29T03:28:07.925757+00:00",
+    "posting_type": "internship",
+    "role": "Intern - Surabaya - PSS Assurance",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/job/Surabaya/Intern---Surabaya---IFS---Property-Facility-Management_718553WD"
+  },
   "867759667fd49368": {
     "company": "Axiom Space",
     "first_seen": "2026-04-28",
@@ -16168,6 +16179,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Melville-New-York-United-States-of-America/Registered-Client-Service-Associate_JR030354-1"
+  },
+  "ee4bca164542e809": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Singapore, Singapore",
+    "posted_at": "2026-04-29T03:27:07.527545+00:00",
+    "posting_type": "new_grad",
+    "role": "Listed Derivatives Margining Ops \u2013 Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/job/Singapore-Singapore/Listed-Derivatives-Margining---Regulatory-Reporting---Associate_PT-JR035030"
   },
   "eef8c45900b68fd0": {
     "company": "Bloom Energy",
