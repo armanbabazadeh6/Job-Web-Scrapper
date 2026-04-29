@@ -108,6 +108,17 @@ def categorize(
     if cfg.get("us_only", True) and is_non_us_location(p.location):
         return None
 
+    # Age filter: drop postings older than max_age_days when posted_at is known.
+    # Postings without a parseable date are kept (most GitHub list entries).
+    max_age = cfg.get("max_age_days", 0)
+    if max_age and p.posted_at is not None:
+        posted = p.posted_at
+        if posted.tzinfo is None:
+            posted = posted.replace(tzinfo=timezone.utc)
+        age_days = (datetime.now(timezone.utc) - posted).total_seconds() / 86400
+        if age_days > max_age:
+            return None
+
     for bad in cfg.get("reject_if_title_contains", []):
         if bad.lower() in title_l:
             return None
