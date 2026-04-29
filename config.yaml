@@ -1,3 +1,8 @@
+# US-only filter. When true, postings whose location clearly indicates a
+# non-US country/city are dropped. Empty/unknown locations are kept (lots of
+# remote-US or unspecified roles fall in that bucket).
+us_only: true
+
 # Posting types are checked in ORDER — first match wins. So fall/co-op needs to
 # come before "internship" (otherwise a "Summer 2026 Co-op Intern" lands in
 # generic internship instead of fall_coop).

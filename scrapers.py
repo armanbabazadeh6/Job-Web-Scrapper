@@ -266,7 +266,9 @@ def fetch_workday(label: str, base: str, site: str, max_per_search: int = 100) -
                 if external_path in seen_paths:
                     continue
                 seen_paths.add(external_path)
-                url = f"{base}{external_path}" if external_path else ""
+                # Workday's clickable URL is {base}/en-US/{site}{externalPath};
+                # without the locale + site segment the page 404s.
+                url = f"{base}/en-US/{site}{external_path}" if external_path else ""
                 posted_at = _parse_workday_posted(j.get("postedOn"))
                 out.append(Posting(
                     company=label,

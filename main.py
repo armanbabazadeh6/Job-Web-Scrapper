@@ -49,12 +49,64 @@ SENIOR_MARKERS = [
     "principal", "head of", "chief", "executive", "lead ", "staff ",
 ]
 
+# Country / city tokens that unambiguously indicate non-US locations.
+# Curated to avoid US-city overlaps (no "Paris", "Madrid", "Manchester" etc.,
+# since those are also US cities). Country tokens are safer than city tokens
+# because Workday locations almost always include the country at the end.
+NON_US_LOCATION_TOKENS = [
+    # Countries
+    "india", "united kingdom", "canada", "germany", "france", "spain", "italy",
+    "netherlands", "belgium", "switzerland", "austria", "sweden", "norway",
+    "denmark", "finland", "ireland", "poland", "czech", "greece", "portugal",
+    "romania", "hungary", "russia", "ukraine", "turkey", "israel", "saudi",
+    "uae", "egypt", "south africa", "nigeria", "kenya", "brazil", "argentina",
+    "chile", "colombia", "peru", "australia", "new zealand", "japan",
+    "china", "singapore", "hong kong", "vietnam", "thailand", "philippines",
+    "indonesia", "malaysia", "south korea", "taiwan", "cyprus", "luxembourg",
+    "iceland", "scotland", "wales",
+    "serbia", "bulgaria", "croatia", "slovenia", "slovakia", "estonia",
+    "latvia", "lithuania", "bosnia", "macedonia", "albania", "moldova",
+    "belarus",
+    # Mexico is tricky (city of New Mexico contains "mexico"), so check more carefully:
+    " mexico ", ", mexico", "mexico city",
+    # Major non-US cities (low US-overlap risk)
+    "bangalore", "bengaluru", "hyderabad", "mumbai", "gurugram", "gurgaon",
+    "noida", "ahmedabad", "chennai", "kochi", "pune", "kolkata", "jaipur",
+    "manila", "jakarta", "bangkok", "hanoi", "ho chi minh", "kuala lumpur",
+    "seoul", "taipei", "sydney", "melbourne", "brisbane",
+    "toronto", "vancouver", "montreal", "ottawa", "calgary", "edmonton",
+    "shanghai", "beijing", "shenzhen", "guangzhou", "chengdu",
+    "tokyo", "kyoto", "osaka", "yokohama",
+    "milano", "milan", "warsaw", "krakow", "prague",
+    "zurich", "stockholm", "tel aviv", "istanbul", "moscow",
+    "amsterdam", "rotterdam", "the hague", "belgrade", "sofia", "zagreb",
+    "ljubljana", "bratislava", "tallinn", "riga", "vilnius", "sarajevo",
+    "skopje", "tirana",
+    "buenos aires", "sao paulo", "rio de janeiro", "santiago",
+    "auckland", "wellington", "nicosia", "limassol",
+    "cairo", "lagos", "nairobi", "johannesburg", "cape town",
+    "abu dhabi", "doha", "dubai", "riyadh",
+]
+
+
+def is_non_us_location(location: str) -> bool:
+    """Returns True if the location string clearly indicates non-US.
+    Empty / unknown locations return False (kept), since SimplifyJobs and
+    similar sources often omit location entirely for remote/US roles."""
+    if not location:
+        return False
+    loc = location.lower()
+    return any(tok in loc for tok in NON_US_LOCATION_TOKENS)
+
 
 def categorize(
     p: Posting, cfg: dict, source_overrides: dict
 ) -> Optional[tuple[str, str]]:
     """Returns (posting_type_key, role_category_key) or None if filtered out."""
     title_l = p.role.lower()
+
+    if cfg.get("us_only", True) and is_non_us_location(p.location):
+        return None
 
     for bad in cfg.get("reject_if_title_contains", []):
         if bad.lower() in title_l:
