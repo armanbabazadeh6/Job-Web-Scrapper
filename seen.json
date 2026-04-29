@@ -1374,6 +1374,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Lyon/Data-analyst---Deals--M-A----CDI---H-F_671088WD"
   },
+  "0e84e6a6f84f4724": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Valencia, California, United States of America",
+    "posted_at": "2026-04-29T18:49:36.786535+00:00",
+    "posting_type": "new_grad",
+    "role": "Registered Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Valencia-California-United-States-of-America/Registered-Client-Service-Associate_JR036014"
+  },
   "0ea11aac150e3bd1": {
     "company": "MillerKnoll",
     "first_seen": "2026-04-28",
@@ -3210,6 +3221,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://asana.com/jobs/apply/7078082?gh_jid=7078082&utm_source=github-vansh-ouckah"
+  },
+  "2592d1f102eccf5d": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-29T18:49:27.299648+00:00",
+    "posting_type": "new_grad",
+    "role": "FXEM Product Controller - Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/FXEM-Product-Controller---Associate_PT-JR035967-1"
   },
   "25a6a4e54fdbad63": {
     "company": "PwC (Campus)",
@@ -11878,6 +11900,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=555080&utm_source=github-vansh-ouckah"
+  },
+  "91ddbf18c01003d5": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-29",
+    "location": "Purchase, New York, United States of America",
+    "posted_at": "2026-04-29T18:49:36.786536+00:00",
+    "posting_type": "new_grad",
+    "role": "Wealth Management Finance (FA Compensation Services) - Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Wealth-Management-Finance--FA-Compensation-Services----Associate_PT-JR035974"
   },
   "91f46bf614fc745d": {
     "company": "Workday",
