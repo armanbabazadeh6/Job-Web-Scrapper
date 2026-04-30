@@ -1726,6 +1726,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Investor-Reporting--Associate---Blackstone-Credit---Insurance_42884"
   },
+  "11fffed87c0fbfd6": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-30",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-04-30T17:47:27.350982+00:00",
+    "posting_type": "new_grad",
+    "role": "Alternative Investments Sales Associate",
+    "role_category": "tech_sales",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Alternative-Investments-Sales-Associate_PT-JR036095"
+  },
   "120f7caec8e0fa70": {
     "company": "Magna",
     "first_seen": "2026-04-28",
@@ -6653,6 +6664,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://app.ripplematch.com/v2/public/job/146d369a?utm_source=github-vansh-ouckah"
+  },
+  "4bdc29b6545092ac": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-30",
+    "location": "2 Locations",
+    "posted_at": "2026-04-30T17:47:47.427208+00:00",
+    "posting_type": "new_grad",
+    "role": "Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Boca-Raton-Florida-United-States-of-America/Service-Associate_JR036167"
   },
   "4beca264d2acf462": {
     "company": "LexisNexis Risk Solutions",
@@ -11791,6 +11813,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://orionadvisor.wd1.myworkdayjobs.com/en-US/orion_careers/job/Jacksonville/Intern_R2699"
   },
+  "8f0d76dc133617a7": {
+    "company": "Blackstone",
+    "first_seen": "2026-04-30",
+    "location": "New Jersey",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Private Equity FP&A, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-Jersey/Private-Equity-FP-A--Associate_41822"
+  },
   "8f12f029e3571c05": {
     "company": "Jabil",
     "first_seen": "2026-04-30",
@@ -12604,6 +12637,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.ashbyhq.com/Lambda/264f889c-38f4-42a5-9534-064a9512a3fe?utm_source=github-vansh-ouckah"
+  },
+  "96c678d3efd8af2c": {
+    "company": "Mongodb",
+    "first_seen": "2026-04-30",
+    "location": "Palo Alto",
+    "posted_at": "2026-04-30T13:04:02-04:00",
+    "posting_type": "internship",
+    "role": "Staff Product Manager - Internal AI",
+    "role_category": "product",
+    "source": "Greenhouse:mongodb",
+    "url": "https://job-boards.greenhouse.io/mongodb/jobs/7781724"
   },
   "9704cfcc453f0521": {
     "company": "Stratus Aviation",
@@ -15993,6 +16037,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.skydio.com/jobs/7493238003?utm_source=github-vansh-ouckah"
   },
+  "c664caa972a0b7ab": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-30",
+    "location": "South Jordan, Utah, United States of America",
+    "posted_at": "2026-04-30T17:47:27.350990+00:00",
+    "posting_type": "new_grad",
+    "role": "Field Communication Associate - Wealth Management Field",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/South-Jordan-Utah-United-States-of-America/Field-Communication-Associate---Wealth-Management-Field_PT-JR035267-1"
+  },
   "c67f53b4a3a6aab6": {
     "company": "Palantir",
     "first_seen": "2026-04-28",
@@ -16740,6 +16795,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Basel/Steuerspezialist-in-mit-Fokus-auf-Steuerdeklarationen_709448WD"
+  },
+  "cfba26354c28864e": {
+    "company": "Mongodb",
+    "first_seen": "2026-04-30",
+    "location": "Austin; Boston; Chicago; New York City; United States",
+    "posted_at": "2026-04-30T13:04:02-04:00",
+    "posting_type": "internship",
+    "role": "Senior Data Product Manager, Internal GTM Data",
+    "role_category": "product",
+    "source": "Greenhouse:mongodb",
+    "url": "https://job-boards.greenhouse.io/mongodb/jobs/7187739"
   },
   "cff3ea4ea0742cf8": {
     "company": "SAIC",
