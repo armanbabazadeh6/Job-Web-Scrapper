@@ -76,6 +76,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Associate-UX-Designer---Client-Platform_PT-JR032917"
   },
+  "00af55fc9fd04592": {
+    "company": "PwC (Campus)",
+    "first_seen": "2026-04-30",
+    "location": "Monterrey",
+    "posted_at": "2026-04-30T21:39:23.339341+00:00",
+    "posting_type": "internship",
+    "role": "International Tax Services Associate",
+    "role_category": "consulting",
+    "source": "Workday:PwC (Campus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Monterrey/International-Tax-Services-Associate_725908WD-1"
+  },
   "00c106019cb9821b": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-29",
@@ -2704,6 +2715,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Palo-Alto-California-United-States-of-America/Registered-Client-Service-Associate_JR033124"
+  },
+  "1dd736a0bfc7ad6a": {
+    "company": "Airbnb",
+    "first_seen": "2026-04-30",
+    "location": "San Francisco, Seattle",
+    "posted_at": "2026-04-30T17:17:03-04:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, Airbnb - New Grad",
+    "role_category": "swe",
+    "source": "Greenhouse:airbnb",
+    "url": "https://careers.airbnb.com/positions/7773838?gh_jid=7773838"
   },
   "1dde9c65df584c6a": {
     "company": "Northrop Grumman",
@@ -19864,6 +19886,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9/apply"
+  },
+  "f65d71121fc66291": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-04-30",
+    "location": "Los Gatos, California, United States of America",
+    "posted_at": "2026-04-30T21:38:32.232442+00:00",
+    "posting_type": "new_grad",
+    "role": "Client Service Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Los-Gatos-California-United-States-of-America/Registered-Client-Service-Associate_JR029462-1"
   },
   "f6742e2c1f0ff32a": {
     "company": "Tricentis",
