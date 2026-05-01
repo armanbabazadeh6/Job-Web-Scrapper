@@ -3332,6 +3332,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Naples/SAP-Consultant-Intern---Advisory-Private---BUS-TECH-ERP--Napoli_724781WD"
   },
+  "25dcbde4ff19669f": {
+    "company": "Al Warren Oil",
+    "first_seen": "2026-05-01",
+    "location": "Bensenville, Illinois, US",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Developer - Summer Internship 2026",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/A5EE78BFCF/"
+  },
   "25e1098d9fe95d5b": {
     "company": "ENFOS",
     "first_seen": "2026-04-28",
@@ -4882,6 +4893,17 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Product-Control---Regulatory-Oversight-and-Reporting-Professional--Associate_35577"
+  },
+  "374e2fa4f6e15840": {
+    "company": "Hewlett-Packard",
+    "first_seen": "2026-05-01",
+    "location": "Fort Collins, Colorado, United States of America",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineering Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Engineering-Intern_3160714"
   },
   "378b16b760d27864": {
     "company": "Home Depot",
@@ -11197,6 +11219,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "856e8e520f58bedd": {
+    "company": "CAE",
+    "first_seen": "2026-05-01",
+    "location": "Tampa",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "DNI Software Engineering Co-op",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://cae.wd3.myworkdayjobs.com/en-US/career/job/Tampa/DNI-Software-Engineering-Co-op_121708-1"
+  },
   "859b2c000fffabb8": {
     "company": "Ironclad",
     "first_seen": "2026-04-28",
@@ -12286,6 +12319,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.ashbyhq.com/gimlet/373302e0-c4ab-4fdf-a8be-18ec45e4c5f5?utm_source=Simplify&utm_source=github-vansh-ouckah"
   },
+  "93289a889807238d": {
+    "company": "HP",
+    "first_seen": "2026-05-01",
+    "location": "Fort Collins, Colorado, United States of America",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineering Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Fort-Collins-Colorado-United-States-of-America/Software-Engineering-Intern_3160714-1"
+  },
   "933af915f95350f9": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-29",
@@ -12417,6 +12461,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://peak6group.wd1.myworkdayjobs.com/apexfintechsolutions/job/Austin-TX/SWE-Intern--Front-End-_JR103893?utm_source=github-vansh-ouckah"
+  },
+  "94521810f509c3e7": {
+    "company": "General Dynamics Mission Systems",
+    "first_seen": "2026-05-01",
+    "location": "US IN Ft Wayne",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineer - Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://careers-gdms.icims.com/jobs/72386/software-engineer---intern/job"
   },
   "94547810bad97301": {
     "company": "Verizon Communications",
@@ -15123,6 +15178,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "b5b880cc4af3a355": {
+    "company": "General Dynamics Mission Systems",
+    "first_seen": "2026-05-01",
+    "location": "US AZ Scottsdale",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineer - Entry Level - Intern Conversion",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://careers-gdms.icims.com/jobs/72380/software-engineer-%e2%80%93-entry-level---intern-conversion/job"
   },
   "b5d24092872747a6": {
     "company": "Talos",
