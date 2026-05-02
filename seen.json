@@ -1,4 +1,15 @@
 {
+  "002014b1bb77a600": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-05-02",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-05-02T11:33:16.146095+00:00",
+    "posting_type": "new_grad",
+    "role": "Counterparty Reporting Credit Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Counterparty-Credit-Associate_PT-JR035158"
+  },
   "00261f1233d75c3e": {
     "company": "Susquehanna",
     "first_seen": "2026-04-28",
