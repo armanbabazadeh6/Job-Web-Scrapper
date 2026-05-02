@@ -4465,6 +4465,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Jakarta/Associate---Senior-Associate---Internal-Firm-Services--Talent-Pool-_90666WD-1"
   },
+  "31dc963bbd15a733": {
+    "company": "Gemini",
+    "first_seen": "2026-05-02",
+    "location": "New York, New York",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "Software Engineering Intern - Fall 2026",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=7875125&gh_jid=7875125"
+  },
   "3212a9d1b2beab40": {
     "company": "Blackstone",
     "first_seen": "2026-04-28",
@@ -5575,6 +5586,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Experienced)",
     "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Experienced_Careers/job/Makati/Human-Capital-Intern_607651WD-2"
+  },
+  "3fe20212c97fdd69": {
+    "company": "Snorkel AI",
+    "first_seen": "2026-05-02",
+    "location": "Redwood City, CA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineer \u2014 Summer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://job-boards.greenhouse.io/snorkelai/jobs/5774350004"
   },
   "4013fb1a37055993": {
     "company": "PwC (Campus)",
@@ -6939,6 +6961,17 @@
     "role_category": "platform",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://calix.wd1.myworkdayjobs.com/en-US/external/job/Remote---USA/Cloud-Engineer-Intern---Cloud-Platform_R-11648"
+  },
+  "4dd7605c12c264a4": {
+    "company": "Trimble",
+    "first_seen": "2026-05-02",
+    "location": "US CA, Sunnyvale",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Product Management Intern",
+    "role_category": "product",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CA-Sunnyvale/Software-Product-Management-Intern_R55692"
   },
   "4e0fac10f3d6816d": {
     "company": "Copart",
@@ -8953,6 +8986,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.adobe.com/us/en/job/R158531/2026-Intern-Software-Engineer?utm_source=github-vansh-ouckah"
   },
+  "67050a33eb129fa2": {
+    "company": "Motorola Solutions",
+    "first_seen": "2026-05-02",
+    "location": "Los Angeles, CA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Intern - Web Interface Software Engineer - 2026",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590"
+  },
   "672e734eb180cb23": {
     "company": "Allegion",
     "first_seen": "2026-04-28",
@@ -9601,6 +9645,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://koch.avature.net/en_US/careers/JobDetail/182448?source=E_VANSHB03&utm_source=github-vansh-ouckah"
+  },
+  "704624eea20f99a9": {
+    "company": "Cadence",
+    "first_seen": "2026-05-02",
+    "location": "HOME MI",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Intern-Software Engineering",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/HOME-MI/Intern-Software-Engineering_R53788"
   },
   "7052e561442bb382": {
     "company": "Leidos",
