@@ -9,7 +9,7 @@ Runs on a free GitHub Actions cron — no server, no cost.
 
 ## How it works
 
-Every 6 hours the workflow:
+Every hour the workflow:
 
 1. Pulls postings from three source types:
    - **Community GitHub lists** (SimplifyJobs Summer 2026, vanshb03 Summer 2026,
