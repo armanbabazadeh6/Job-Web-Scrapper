@@ -134,10 +134,18 @@ role_categories:
       - banking analyst
       - banking associate
       - equity research
+      - fixed income research
       - sales & trading
       - sales and trading
-      - markets analyst
       - global markets
+      - markets analyst
+      - capital markets
+      - equity capital markets
+      - debt capital markets
+      - mergers and acquisitions
+      - leveraged finance
+      - fixed income
+      - structured finance
 
   - key: pe
     label: "📈 PE / VC / Buy-side"
@@ -149,9 +157,19 @@ role_categories:
       - asset management
       - investment analyst
       - investment associate
+      - buyout
+      - secondaries
+      - credit strategies
+      - tactical opportunities
+      - real estate analyst
+      - real estate associate
+      - real estate investments
 
-# Reject postings whose title explicitly references a past season.
+# Reject postings whose title contains any of these substrings.
+# Mix of past-season tags and out-of-scope role-type tokens (back-office,
+# wealth management, client-facing roles that aren't real front-office IB/PE).
 reject_if_title_contains:
+  # Past seasons
   - spring 2025
   - summer 2025
   - fall 2025
@@ -160,6 +178,26 @@ reject_if_title_contains:
   - summer 2024
   - fall 2024
   - winter 2024
+  # Out-of-scope finance / corporate functions
+  - client relationship
+  - client service
+  - client services
+  - client onboarding
+  - private wealth
+  - wealth management
+  - internal audit
+  - fund accounting
+  - fund administration
+  - back office
+  - middle office
+  - compliance officer
+  - compliance analyst
+  - tax compliance
+  - tax associate
+  - tax intern
+  - tax advisory
+  - human resources
+  - paralegal
 
 # ---------- Sources ----------
 
@@ -215,7 +253,9 @@ workday_boards:
   - name: Morgan Stanley
     base: https://ms.wd5.myworkdayjobs.com
     site: External
-    default_role_category: ib
+    # No default_role_category — MS is diversified (IB, wealth, ops, tech…),
+    # so we require the title to match a specific keyword. finance_titles is
+    # still on so explicit "Investment Banking Analyst" → new_grad.
     finance_titles: true
   - name: Blackstone
     base: https://blackstone.wd1.myworkdayjobs.com
