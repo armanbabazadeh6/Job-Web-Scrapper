@@ -64,12 +64,21 @@ role_categories:
       - android developer
       - mobile engineer
       - web developer
+      - forward deployed engineer
+      - forward-deployed engineer
+      - forward deployed
+      - fde
+      - deployment engineer
+      - deployment strategist
+      - field engineer
 
   - key: platform
     label: "🛠️ Platform / Infra / DevOps"
     keywords:
       - platform engineer
+      - platform software engineer
       - infrastructure engineer
+      - infrastructure software engineer
       - infra engineer
       - devops
       - sre
@@ -84,11 +93,18 @@ role_categories:
       - data scientist
       - data analyst
       - machine learning
+      - machine learning engineer
       - ml engineer
       - ai engineer
+      - ai/ml engineer
+      - ml/ai engineer
       - applied scientist
       - research scientist
       - ai research
+      - deep learning
+      - generative ai
+      - llm engineer
+      - mlops
 
   - key: product
     label: "🧭 Product Management"

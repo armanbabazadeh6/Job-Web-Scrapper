@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import sys
 from collections import defaultdict
 from datetime import datetime, timezone
@@ -89,14 +90,61 @@ NON_US_LOCATION_TOKENS = [
 ]
 
 
+# Positive US indicators (no state abbreviations — those go through regex below
+# to avoid matches like ", IN" eating "Bengaluru, India").
+US_LOCATION_TOKENS = [
+    "united states", "usa", "u.s.a", " u.s.", "u.s.,", "u.s. ",
+    # Full state names. "Georgia" and "Washington" intentionally omitted —
+    # they overlap with Georgia (country) and Washington (DC vs. state).
+    # State abbreviation regex below catches ", GA" / ", WA" cases.
+    "alabama", "alaska", "arizona", "arkansas", "california", "colorado",
+    "connecticut", "delaware", "florida", "hawaii", "idaho", "illinois",
+    "indiana", "iowa", "kansas", "kentucky", "louisiana", "maine", "maryland",
+    "massachusetts", "michigan", "minnesota", "mississippi", "missouri",
+    "montana", "nebraska", "nevada", "new hampshire", "new jersey", "new mexico",
+    "new york", "north carolina", "north dakota", "ohio", "oklahoma", "oregon",
+    "pennsylvania", "rhode island", "south carolina", "south dakota", "tennessee",
+    "texas", "utah", "vermont", "virginia", "west virginia", "wisconsin", "wyoming",
+    # Common US tech hubs / cities (low international overlap)
+    "san francisco", "los angeles", "san diego", "san jose", "houston",
+    "phoenix", "philadelphia", "dallas", "austin", "seattle", "denver",
+    "atlanta", "minneapolis", "portland", "raleigh", "boston", "san antonio",
+    "indianapolis", "milwaukee", "albuquerque", "tucson", "sacramento",
+    "kansas city", "palo alto", "mountain view", "cupertino", "sunnyvale",
+    "menlo park", "redwood city", "san mateo", "santa clara", "redmond",
+    "bellevue", "san francisco bay area", "bay area",
+]
+
+# State abbreviations matched with word boundaries to avoid false positives like
+# ", IN" matching "India" or ", CA" matching "Canada". Pattern: comma + optional
+# whitespace + 2-letter abbrev + word boundary (end of word, not letter).
+_US_STATE_ABBR_RE = re.compile(
+    r",\s*(?:al|ak|az|ar|ca|co|ct|de|fl|ga|hi|id|il|in|ia|ks|ky|la|me|md|ma|"
+    r"mi|mn|ms|mo|mt|ne|nv|nh|nj|nm|ny|nc|nd|oh|ok|or|pa|ri|sc|sd|tn|tx|ut|"
+    r"vt|va|wa|wv|wi|wy|dc)\b",
+    re.IGNORECASE,
+)
+
+
 def is_non_us_location(location: str) -> bool:
-    """Returns True if the location string clearly indicates non-US.
-    Empty / unknown locations return False (kept), since SimplifyJobs and
-    similar sources often omit location entirely for remote/US roles."""
+    """Returns True if the location should be filtered out as non-US.
+
+    Strict mode:
+      - empty/unknown → keep (return False)
+      - has US state abbrev (e.g. ", TX") → keep
+      - has US indicator (full state name, "United States", US city) → keep
+      - has non-US indicator → reject
+      - has neither (ambiguous, e.g. "Belgrade") → reject"""
     if not location:
         return False
     loc = location.lower()
-    return any(tok in loc for tok in NON_US_LOCATION_TOKENS)
+    if _US_STATE_ABBR_RE.search(loc):
+        return False
+    if any(tok in loc for tok in US_LOCATION_TOKENS):
+        return False
+    if any(tok in loc for tok in NON_US_LOCATION_TOKENS):
+        return True
+    return True
 
 
 def categorize(
