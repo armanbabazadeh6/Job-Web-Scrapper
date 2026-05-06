@@ -736,6 +736,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://parsons.wd5.myworkdayjobs.com/en-US/referral/job/US---CA-Camarillo/Software-Engineer-Intern_R179340"
   },
+  "075a58291dfe260d": {
+    "company": "Compa",
+    "first_seen": "2026-05-06",
+    "location": "Denver Office",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineer - Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.ashbyhq.com/compa/4fd1ad65-040c-4740-aa05-c8170b9385ee"
+  },
   "077cced44bdd6c86": {
     "company": "New York Life Insurance",
     "first_seen": "2026-04-28",
@@ -8985,6 +8996,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Experienced)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Gurugram-8-B/IN-Senior-Associate-Java-Python-Risk-Analytics---GRC-Advisory-Gurgaon_720790WD-1"
+  },
+  "654b2d69c842f2c3": {
+    "company": "Ball Aerospace",
+    "first_seen": "2026-05-06",
+    "location": "Arlington, Virginia, United States",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineering Intern II - Summer 2026",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.baesystems.com/global/en/job/BAE1US124201BREXTERNAL/Software-Engineering-Intern-II-Summer-2026"
   },
   "655e2513f7a87a09": {
     "company": "Sentra",
@@ -17983,6 +18005,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Budapest-Hungary/Risk-Analytics-Quantitative-Analyst_PT-JR032330"
+  },
+  "d5f9b14519aab78c": {
+    "company": "Uber",
+    "first_seen": "2026-05-06",
+    "location": "San Francisco, California, United States",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "2026 Fall Software Engineering Internship - US",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
   },
   "d61e03fa4d65bc9a": {
     "company": "State Street",
