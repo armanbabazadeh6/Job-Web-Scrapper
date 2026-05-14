@@ -395,6 +395,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/xVA-Trading---Fixed-Income-Division---Analyst-Associate_JR036102"
   },
+  "03780d7f40221b8b": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-05-14",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-05-14T18:01:02.344653+00:00",
+    "posting_type": "new_grad",
+    "role": "Data Engineer - Financial Crimes - Associate",
+    "role_category": "data",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Data-Engineer---Financial-Crimes---Associate_PT-JR035703"
+  },
   "03dbd1f12fc2baa0": {
     "company": "Remarcable",
     "first_seen": "2026-04-28",
@@ -15739,6 +15750,17 @@
     "role_category": "consulting",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.cisco.com/jobs/ProjectDetail/Security-Consulting-Engineer-I-Intern-United-States/?utm_source=github-vansh-ouckah"
+  },
+  "b306b56694ae9002": {
+    "company": "Blackstone",
+    "first_seen": "2026-05-14",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Real Estate - Asset Management, Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Real-Estate---Asset-Management--Associate_43126"
   },
   "b31eb71271d53f22": {
     "company": "Kingland",
