@@ -10361,6 +10361,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Jacksonville-Florida-United-States-of-America/Registered-Client-Service-Associate_JR033478"
   },
+  "7247b82d42047d0c": {
+    "company": "Blackstone",
+    "first_seen": "2026-05-18",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Real Estate - Capital Markets, Associate",
+    "role_category": "ib",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Real-Estate---Capital-Markets--Associate_43112"
+  },
   "7249bf6c14c663f3": {
     "company": "Booz Allen",
     "first_seen": "2026-04-28",
@@ -13044,6 +13055,17 @@
     "role_category": "data",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Prague/Data-Analyst-in-Forensic-Technology-Services-team_665479WD"
+  },
+  "933b2adaa567f549": {
+    "company": "Blackstone",
+    "first_seen": "2026-05-18",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Multi-Asset Investing (BXMA), Pricing Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Pricing-Analyst_43203"
   },
   "934f74e9a6c3877b": {
     "company": "PwC (Campus)",
