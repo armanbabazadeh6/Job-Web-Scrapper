@@ -6918,6 +6918,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Prague/SOC-Analyst_721704WD"
   },
+  "492ddcc422668984": {
+    "company": "Blackstone",
+    "first_seen": "2026-05-29",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Real Estate - Asset Management, Analyst",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Real-Estate---Asset-Management--Analyst_43208"
+  },
   "4932e0e8825e8512": {
     "company": "Rockwell Automation",
     "first_seen": "2026-04-28",
@@ -18709,6 +18720,17 @@
     "role_category": "swe",
     "source": "Greenhouse:stripe",
     "url": "https://stripe.com/jobs/search?gh_jid=7176977"
+  },
+  "d139251c131a176c": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-05-29",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-05-29T15:27:55.493201+00:00",
+    "posting_type": "new_grad",
+    "role": "Quantitative Desk Strategist - Fixed Income - Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Quantitative-Desk-Strategist---Fixed-Income---Associate_JR037526"
   },
   "d14309ffa1e6a014": {
     "company": "Electronic Arts",
