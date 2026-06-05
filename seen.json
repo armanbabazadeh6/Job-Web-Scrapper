@@ -1220,6 +1220,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "0b53b2a883c847ca": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-06-05",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-06-05T15:24:35.636841+00:00",
+    "posting_type": "new_grad",
+    "role": "Non-Agency CMBS Trading - Fixed Income Division - Analyst/Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Non-Agency-CMBS-Trading---Fixed-Income-Division---Analyst-Associate_JR038427"
+  },
   "0b585c79fa1dc73b": {
     "company": "Databricks",
     "first_seen": "2026-04-28",
@@ -9701,6 +9712,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "65a20bb365a1ad81": {
+    "company": "Blackstone",
+    "first_seen": "2026-06-05",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "Blackstone Multi-Asset Investing (BXMA) -Equity Capital Markets, Associate",
+    "role_category": "ib",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Equity-Capital-Markets--Associate_42085"
+  },
   "65ede0fde36ee304": {
     "company": "Arlo",
     "first_seen": "2026-05-27",
@@ -15552,6 +15574,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5099596007"
+  },
+  "a73a4033115df2c4": {
+    "company": "Docusign",
+    "first_seen": "2026-06-05",
+    "location": "US CA San Francisco",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://uscareers-docusign.icims.com/jobs/29550/software-engineer-intern/job"
   },
   "a73f30e3a6c0feda": {
     "company": "Comcast",
