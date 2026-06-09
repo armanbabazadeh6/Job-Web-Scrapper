@@ -1396,6 +1396,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Celebration-FL-USA/WDI-Software-Developer-Intern--Art-and-Media-Pipeline--Summer-2026_10146129"
   },
+  "0cc07d1133cdae9c": {
+    "company": "Leidos",
+    "first_seen": "2026-06-09",
+    "location": "St Louis, MO",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Developer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/St-Louis-MO/Software-Developer-Intern_R-00184938-1"
+  },
   "0ce3e4fce76c5670": {
     "company": "Harmonic",
     "first_seen": "2026-04-28",
@@ -3023,6 +3034,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Regulatory-Controller-Analyst-Associate-Director_JR002949-2"
+  },
+  "1e38411a994bfc24": {
+    "company": "Hillpointe",
+    "first_seen": "2026-06-09",
+    "location": "Winter Park, FL",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Data Engineer Intern",
+    "role_category": "data",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://job-boards.greenhouse.io/hillpointe/jobs/5193706008"
   },
   "1e65437b04fd76de": {
     "company": "Teradata",
@@ -6213,6 +6235,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.tesla.com/careers/search/job/258182?utm_source=github-vansh-ouckah"
+  },
+  "4143cce3ec2158ee": {
+    "company": "Truveta",
+    "first_seen": "2026-06-09",
+    "location": "Seattle, WA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineering Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://job-boards.greenhouse.io/truveta/jobs/5659745004"
   },
   "4171e8f72eb64bf8": {
     "company": "NBCUniversal",
@@ -13408,6 +13441,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.workatastartup.com/jobs/80434?utm_source=github-vansh-ouckah"
   },
+  "9033ff1fa43adc35": {
+    "company": "Copart",
+    "first_seen": "2026-06-09",
+    "location": "Dallas, TX Headquarters",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineering Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393"
+  },
   "907a58c6dbb8c966": {
     "company": "Millennium",
     "first_seen": "2026-04-28",
@@ -15992,6 +16036,17 @@
     "role_category": "product",
     "source": "Greenhouse:robinhood",
     "url": "https://boards.greenhouse.io/robinhood/jobs/7489427?t=gh_src=&gh_jid=7489427"
+  },
+  "abb5dd64783102b6": {
+    "company": "NVIDIA",
+    "first_seen": "2026-06-09",
+    "location": "US, CA, Santa Clara",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Cloud Distributed Systems Backend Intern - GeForce NOW - Summer 2026",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
   },
   "abbe225e74ad38a6": {
     "company": "D. E. Shaw & Co.",
