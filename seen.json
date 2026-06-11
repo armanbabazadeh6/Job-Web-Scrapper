@@ -8150,6 +8150,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Chicago-Illinois-United-States-of-America/Registered-Client-Relationship-Analyst_JR035685-1"
   },
+  "5330babf81237453": {
+    "company": "Circleback",
+    "first_seen": "2026-06-11",
+    "location": "San Francisco",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineering Intern - Summer 2027",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f"
+  },
   "533bd270e4f96ecb": {
     "company": "PwC (Campus)",
     "first_seen": "2026-05-04",
@@ -11856,6 +11867,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4212371009"
+  },
+  "7d2a9dfde8b5ad89": {
+    "company": "Centerfield",
+    "first_seen": "2026-06-11",
+    "location": "Los Angeles, California",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60"
   },
   "7d409e9bbe51a1fe": {
     "company": "Aquatic Capital Management",
@@ -17984,6 +18006,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "c2e7f8cb77c21c8c": {
+    "company": "NVIDIA",
+    "first_seen": "2026-06-11",
+    "location": "US, CA, Santa Clara",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "Cloud Distributed Systems Backend Intern - GeForce NOW - Fall 2026",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
+  },
   "c2fd4c683df1e7ac": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-29",
@@ -19237,6 +19270,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210881?utm_source=github-vansh-ouckah"
+  },
+  "d14a7b3a164bd0c5": {
+    "company": "Anduril",
+    "first_seen": "2026-06-11",
+    "location": "Atlanta, Georgia, United States Boston, Massachusetts, United States Costa Mesa, California, United States Irvine, California, United States Seattle, Washington, United States",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "2027 Software Engineer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
   },
   "d14e9f6d675c300a": {
     "company": "Johnson & Johnson",
