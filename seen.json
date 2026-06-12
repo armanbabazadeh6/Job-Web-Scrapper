@@ -8260,6 +8260,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Lake-Oswego-Oregon-United-States-of-America/Client-Service-Associate_JR036114"
   },
+  "5422efcb852c2d48": {
+    "company": "Intel",
+    "first_seen": "2026-06-12",
+    "location": "US, Arizona, Phoenix",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "AI Software Engineering Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641"
+  },
   "5423b146bbe9fb5b": {
     "company": "Blackstone",
     "first_seen": "2026-04-28",
@@ -8699,6 +8710,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "59878ff5bb2275c7": {
+    "company": "Valeo",
+    "first_seen": "2026-06-12",
+    "location": "Troy, MI",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "Systems Engineering Co-Op - Software",
+    "role_category": "platform",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"
   },
   "5987d8494bead0a2": {
     "company": "d-Matrix",
@@ -16476,6 +16498,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Jakarta/Intern---Broader-Assurance-Service-Pooling-Team_660075WD"
+  },
+  "aec6486416a61cac": {
+    "company": "Leidos",
+    "first_seen": "2026-06-12",
+    "location": "Annapolis Junction, MD",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Developer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00185122-1"
   },
   "aec8b800f3628ee2": {
     "company": "Blackstone",
