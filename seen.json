@@ -3442,6 +3442,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.smartrecruiters.com/ATPCO1/744000119592468-cloud-engineer-intern?oga=true"
   },
+  "22d8e7b5ca6656a6": {
+    "company": "Cadence",
+    "first_seen": "2026-06-17",
+    "location": "SAN JOSE",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Engineer-Intern_R55128"
+  },
   "22f8fba625259a8b": {
     "company": "Blackstone",
     "first_seen": "2026-05-20",
@@ -14464,6 +14475,17 @@
     "source": "Greenhouse:mongodb",
     "url": "https://job-boards.greenhouse.io/mongodb/jobs/7781724"
   },
+  "96c88913105e893e": {
+    "company": "Lila Sciences",
+    "first_seen": "2026-06-17",
+    "location": "Cambridge, MA USA",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "Co-Op - Software Product Management",
+    "role_category": "product",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286512009"
+  },
   "9704cfcc453f0521": {
     "company": "Stratus Aviation",
     "first_seen": "2026-04-28",
@@ -15123,6 +15145,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Athens/Assurance-Graduate-Program---Audit_716612WD"
+  },
+  "9d428c436bb19e9b": {
+    "company": "Cubic",
+    "first_seen": "2026-06-17",
+    "location": "Herndon, Virginia",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineering & Automation Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://cubic.wd1.myworkdayjobs.com/en-US/cubic_usa_careers/job/Herndon-Virginia/Software-Engineering---Automation-Intern_REQ_49102"
   },
   "9d4a8cfefc7c5263": {
     "company": "NVIDIA",
@@ -16542,6 +16575,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/Santa-ClaraCA/Software-Developer-Intern_R2615062"
+  },
+  "ad9857827aad26a8": {
+    "company": "MealSuite",
+    "first_seen": "2026-06-17",
+    "location": "Cambridge, Ontario, CA",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "Co-Op Student - Software Engineer",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://apply.workable.com/mealsuite/j/4E451BC0DA/"
   },
   "ad9cf12b99bc9ee1": {
     "company": "Morgan Stanley",
@@ -19821,6 +19865,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/113495?utm_source=github-vansh-ouckah"
   },
+  "d40d583a7dbe40cb": {
+    "company": "SoloPulse",
+    "first_seen": "2026-06-17",
+    "location": "Peachtree Corners, GA",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "Software Engineer Intern/Co-Op - Fall 2026",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply"
+  },
   "d40e62164b315bc7": {
     "company": "Zoox",
     "first_seen": "2026-04-28",
@@ -22152,6 +22207,17 @@
     "role_category": "swe",
     "source": "Lever:palantir",
     "url": "https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a"
+  },
+  "efcfdd9a41de4746": {
+    "company": "Ball Aerospace",
+    "first_seen": "2026-06-17",
+    "location": "Huntsville, Alabama, United States",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Systems Software Engineering Intern - Embedded Systems",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.baesystems.com/global/en/job/BAE1US126218BREXTERNAL/Systems-Software-Engineering-Intern-Embedded-Systems"
   },
   "efe156e0de9f3c5a": {
     "company": "Kudu Dynamics",
