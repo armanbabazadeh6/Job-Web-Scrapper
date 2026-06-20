@@ -2782,6 +2782,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Skopje/Interns-in-Audit---Assurance_638421WD"
   },
+  "1b2026934d5225d1": {
+    "company": "Copart",
+    "first_seen": "2026-06-20",
+    "location": "Dallas, TX Headquarters",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineering Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441"
+  },
   "1b3949ab3ddf351f": {
     "company": "Blackstone",
     "first_seen": "2026-04-29",
@@ -11438,6 +11449,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.lever.co/palantir/e27af7ab-41fc-40c9-b31d-02c6cb1c505c?utm_source=github-vansh-ouckah"
+  },
+  "74718fb1f85410e1": {
+    "company": "Magna",
+    "first_seen": "2026-06-20",
+    "location": "Newmarket, Ontario, CA",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "Software Engineering Co-op",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013"
   },
   "747b732a69087b86": {
     "company": "Viasat",
