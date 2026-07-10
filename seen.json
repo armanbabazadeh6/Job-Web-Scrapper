@@ -120,6 +120,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/London/International-Finance--Fund-Finance--Associate_40734"
   },
+  "00f784c4ecda31d3": {
+    "company": "Jump Trading",
+    "first_seen": "2026-07-10",
+    "location": "Chicago, IL",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Campus UI Software Engineer - Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
+  },
   "011e38eec698a082": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-28",
@@ -8776,6 +8787,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Athens/IFRS-Reporting-Associate_726089WD-1"
+  },
+  "535dc7ab1648d408": {
+    "company": "Pylon",
+    "first_seen": "2026-07-10",
+    "location": "San Francisco, CA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineer - Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d"
   },
   "536885b97cd00e6d": {
     "company": "TikTok",
@@ -19325,6 +19347,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Amsterdam/Associate-Accounting--Reporting---Compliance--Utrecht--Amsterdam--Rotterdam-or-Eindhoven-_615726WD"
+  },
+  "c27e20ca55c0f03c": {
+    "company": "Jump Trading",
+    "first_seen": "2026-07-10",
+    "location": "Chicago, IL",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Campus Software Engineer - Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
   },
   "c2cf2335995f5921": {
     "company": "Cekura",
