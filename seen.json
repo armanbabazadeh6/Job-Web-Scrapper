@@ -2012,6 +2012,17 @@
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Amsterdam/Associate-AI-Adoption---Change--Amsterdam--Rotterdam-_723791WD"
   },
+  "124904abda4bca96": {
+    "company": "Black Cape",
+    "first_seen": "2026-07-13",
+    "location": "Arlington, VA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "US Military Skillbridge Internship - Software Engineer_Arlington - VA",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "http://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA"
+  },
   "12582e41267e435c": {
     "company": "Lynk",
     "first_seen": "2026-04-28",
@@ -10405,6 +10416,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/sonyglobalcareers/job/San-Diego/Software-Engineer-Intern_JR-119282"
   },
+  "63db1f0d31702b3a": {
+    "company": "Exowatt",
+    "first_seen": "2026-07-13",
+    "location": "Austin, TX",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineering Intern \u2014 Inventory Automation & IoT/Robotics",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c"
+  },
   "63e64ec865007672": {
     "company": "Tesla",
     "first_seen": "2026-04-28",
@@ -17862,6 +17884,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.amd.com/careers-home/jobs/77045?utm_source=github-vansh-ouckah"
+  },
+  "af8f5540c3ee4873": {
+    "company": "Northrop Grumman",
+    "first_seen": "2026-07-13",
+    "location": "Melbourne, FL",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "2027 Intern Software Engineer",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275"
   },
   "af971a8fb617f01f": {
     "company": "TikTok",
