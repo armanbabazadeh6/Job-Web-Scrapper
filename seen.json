@@ -5323,6 +5323,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "30d94a927e0c8918": {
+    "company": "Databricks",
+    "first_seen": "2026-07-16",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+    "posted_at": "2026-07-16T12:33:17-04:00",
+    "posting_type": "internship",
+    "role": "Product Management Intern (Summer 2027)",
+    "role_category": "product",
+    "source": "Greenhouse:databricks",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002"
+  },
   "310e15118f2b49d1": {
     "company": "Trane Technologies",
     "first_seen": "2026-04-28",
@@ -14628,6 +14639,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Kirkland-Washington-United-States-of-America/Registered-Client-Service-Associate_JR035640"
+  },
+  "8ccc7d7b7727ac84": {
+    "company": "Databricks",
+    "first_seen": "2026-07-16",
+    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+    "posted_at": "2026-07-16T12:33:20-04:00",
+    "posting_type": "new_grad",
+    "role": "Associate Product Manager, New Grad (2027 Start)",
+    "role_category": "product",
+    "source": "Greenhouse:databricks",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002"
   },
   "8cd1e3a724ac8bb2": {
     "company": "Dropbox",
