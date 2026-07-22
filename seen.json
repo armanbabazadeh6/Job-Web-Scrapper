@@ -4146,6 +4146,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Mumbai-India/IBD-Global-Capital-Markets---Corporate-Derivatives-Group_JR021043-1"
   },
+  "26af9361f165e77f": {
+    "company": "Copart",
+    "first_seen": "2026-07-22",
+    "location": "Dallas, TX",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "DevOps Engineering Intern",
+    "role_category": "platform",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/DevOps-Engineering-Intern_JR109490"
+  },
   "26b96650f10ecfc9": {
     "company": "The Walt Disney Studios",
     "first_seen": "2026-04-28",
@@ -4927,6 +4938,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Glasgow-United-Kingdom/Privacy-Compliance-Coverage---Associate_PT-JR034686"
   },
+  "2d170f8073bf562c": {
+    "company": "Arkansas Center for Data Sciences",
+    "first_seen": "2026-07-22",
+    "location": "Bentonville, AR",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "AI Software Engineer Intern- Bastazo",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.lever.co/acds/65b739c3-02ad-4814-ad24-24abecbc83f4"
+  },
   "2d1beedb72eb828a": {
     "company": "PwC (Experienced)",
     "first_seen": "2026-04-28",
@@ -5575,6 +5597,17 @@
     "role_category": "consulting",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Capital-Planning-Transformation-Associate--Scrum-Master-_PT-JR022937"
+  },
+  "334ff6662dad17df": {
+    "company": "Reply",
+    "first_seen": "2026-07-22",
+    "location": "Detroit, MI",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Android Developer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.lever.co/reply/0fb458db-7cb9-4bfd-b9b6-c1c681316061"
   },
   "336b50d55e85376d": {
     "company": "Morgan Stanley",
@@ -7071,6 +7104,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "42e4fcfec9599f30": {
+    "company": "Morgan Stanley",
+    "first_seen": "2026-07-22",
+    "location": "New York, New York, United States of America",
+    "posted_at": "2026-07-22T14:22:12.713236+00:00",
+    "posting_type": "new_grad",
+    "role": "FID, Municipal Securities, Syndicate / Debt Capital Markets - Associate",
+    "role_category": "ib",
+    "source": "Workday:Morgan Stanley",
+    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/FID--Municipal-Securities--Syndicate---Debt-Capital-Markets---Associate_JR026016-1"
   },
   "43731ba9f04783ed": {
     "company": "Morgan Stanley",
@@ -10383,6 +10427,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67/apply"
   },
+  "610ccb4ab5c7f40c": {
+    "company": "Bild AI",
+    "first_seen": "2026-07-22",
+    "location": "San Francisco, CA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "AI/SWE Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364"
+  },
   "6141c554042b1b63": {
     "company": "Xfinity",
     "first_seen": "2026-05-07",
@@ -10580,6 +10635,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pasadena-California-United-States-of-America/Intern---Bilingual-English-Mandarin_JR029493"
+  },
+  "63af808003d7c2fd": {
+    "company": "Reply",
+    "first_seen": "2026-07-22",
+    "location": "Detroit, MI",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "iOS Developer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5"
   },
   "63bd7bff69f60bf8": {
     "company": "Morgan Stanley",
@@ -12924,6 +12990,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.workatastartup.com/jobs/80569?utm_source=github-vansh-ouckah"
   },
+  "798e77ba09a88cc0": {
+    "company": "Blackstar Computers",
+    "first_seen": "2026-07-22",
+    "location": "San Francisco, CA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Embedded Systems Engineering Intern - Summer 2026",
+    "role_category": "platform",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.ashbyhq.com/blackstar/2599ef82-3105-4a12-a1d6-63b9f6ed567a"
+  },
   "799ccc53d30a5978": {
     "company": "Google",
     "first_seen": "2026-07-21",
@@ -13067,6 +13144,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-York/Marketing-Analytics--Associate---Corporate-Affairs_41799"
   },
+  "7bfe56f118a7218d": {
+    "company": "Rivian",
+    "first_seen": "2026-07-22",
+    "location": "Palo Alto, CA",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "Android Developer Intern - Fall 2026",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
+  },
   "7c366a442910bf93": {
     "company": "Palantir",
     "first_seen": "2026-06-30",
@@ -13099,6 +13187,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/New-York-New-York-United-States-of-America/Global-Capital-Markets---Strategic-Lending-Group-Analyst-Associate_JR033203-1"
+  },
+  "7d05e6f8b3f94cde": {
+    "company": "D. E. Shaw & Co.",
+    "first_seen": "2026-07-22",
+    "location": "New York City, NY",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Developer - Ph.D. Intern - New York - Summer 2027",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
   },
   "7d06c220b0e47a48": {
     "company": "Advanced Space",
@@ -15564,6 +15663,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/BXMA--Quantitative-Strategy--Analyst_41729"
   },
+  "93e8e7cc8bd869cb": {
+    "company": "GE Aerospace",
+    "first_seen": "2026-07-22",
+    "location": "Bohemia, NY",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "Embedded Systems Engineer Co-op - Bohemia - NY - Spring 2027",
+    "role_category": "platform",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bohemia/Embedded-Systems-Engineer-Co-op--Bohemia--NY----Spring-2027_R5035583-1"
+  },
   "9407166edc7561ee": {
     "company": "Apex Fintech Solutions",
     "first_seen": "2026-04-28",
@@ -15640,6 +15750,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301415?utm_source=github-vansh-ouckah"
+  },
+  "950c0332bfebfa18": {
+    "company": "Meta",
+    "first_seen": "2026-07-22",
+    "location": "Sunnyvale, CA +1",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Research Scientist Intern - Embedded Contextual AI on Wearables - PhD",
+    "role_category": "data",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
   },
   "9510fe0614d22604": {
     "company": "PwC (Campus)",
@@ -16268,6 +16389,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.tesla.com/careers/search/job/259001?utm_source=github-vansh-ouckah"
   },
+  "9a9c9383b8158d9a": {
+    "company": "Eulerity",
+    "first_seen": "2026-07-22",
+    "location": "New York City, NY",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Android Developer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4671031006"
+  },
   "9aa3178fb2baeb92": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-28",
@@ -16740,6 +16872,17 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Boston-Massachusetts-United-States-of-America/Registered-Client-Service-Associate_JR031735-1"
+  },
+  "9e90f68f5a8e941a": {
+    "company": "Gritt Robotics",
+    "first_seen": "2026-07-22",
+    "location": "South San Francisco, CA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "ML & Cloud Infrastructure Engineer Intern",
+    "role_category": "platform",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523"
   },
   "9e97d36f523bbe87": {
     "company": "Morgan Stanley",
@@ -17412,6 +17555,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "a64e4c21114f5365": {
+    "company": "NVIDIA",
+    "first_seen": "2026-07-22",
+    "location": "Santa Clara, CA",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "PhD Software Engineering Intern - Decision Intelligence - Fall 2026",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
+  },
   "a65ec090aad49d0c": {
     "company": "American Express",
     "first_seen": "2026-04-28",
@@ -17785,6 +17939,17 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Prague/Datov-internship-v-Digital-Enablement-tmu_723730WD"
+  },
+  "aafcf78f9f25b135": {
+    "company": "Agilent",
+    "first_seen": "2026-07-22",
+    "location": "Wilmington, DE",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Intern - R&D Software Engineering - AI & Test Automation",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://agilent.wd5.myworkdayjobs.com/en-US/agilent_student_careers/job/US-DE-Wilmington/Intern---R-D-Software-Engineering--AI---Test-Automation-_4038437"
   },
   "ab24ba1280a6021a": {
     "company": "Hudl",
@@ -22318,6 +22483,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://lifeattiktok.com/search/7527615375778416914?utm_source=github-vansh-ouckah"
   },
+  "db45bf966dbffb91": {
+    "company": "Eulerity",
+    "first_seen": "2026-07-22",
+    "location": "New York City, NY",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Mobile iOS Developer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4671025006"
+  },
   "db4a9852f0111883": {
     "company": "Spectrum",
     "first_seen": "2026-04-28",
@@ -24572,6 +24748,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.nintendo.com/job-openings/listing/25000000DX.html?utm_source=github-vansh-ouckah"
+  },
+  "f450c28283777ffd": {
+    "company": "Exowatt",
+    "first_seen": "2026-07-22",
+    "location": "Miami, FL",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineering Intern - Agent Platform - AI",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://jobs.lever.co/exowatt/2623555d-8b81-4f95-8bca-de9fafd2381c"
   },
   "f468a2bd4250a91f": {
     "company": "Bill",
