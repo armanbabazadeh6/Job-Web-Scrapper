@@ -263,6 +263,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Lawrenceville-New-Jersey-United-States-of-America/Client-Service-Associate_JR032189-1"
   },
+  "01f2018dd45329e9": {
+    "company": "GDIT",
+    "first_seen": "2026-08-07",
+    "location": "USA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Summer 2027 Software Developer Internship",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1"
+  },
   "01f2691ecf5ce097": {
     "company": "The New York Times",
     "first_seen": "2026-04-28",
@@ -4707,6 +4718,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/haizelabs/jobs/4685944008"
   },
+  "288c57d1cb2f4737": {
+    "company": "TikTok",
+    "first_seen": "2026-08-07",
+    "location": "San Jose, CA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Backend Software Engineer Intern - Creation Platform - 2027 Summer",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
+  },
   "2896c5b89e224ebd": {
     "company": "Vital Lyfe",
     "first_seen": "2026-07-14",
@@ -6301,6 +6323,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "3690bc44e0c9f4cf": {
+    "company": "Raytheon",
+    "first_seen": "2026-08-07",
+    "location": "Cedar Rapids, IA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineering Intern - Summer 2027",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineering-Intern--Summer-2027-_01864033"
   },
   "36a4a75d798090cb": {
     "company": "TikTok",
@@ -9503,6 +9536,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Shrewsbury-New-Jersey-United-States-of-America/Client-Relationship-Analyst_JR036349-1"
   },
+  "50f9544e12bb7726": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-07",
+    "location": "San Jose, CA",
+    "posted_at": "2026-08-06T00:00:00+00:00",
+    "posting_type": "internship",
+    "role": "Applied Machine Learning Production Engineer Intern",
+    "role_category": "data",
+    "source": "vanshb03 Summer 2026 Internships",
+    "url": "https://joinbytedance.com/search/7670009669494704437?utm_source=github-vansh-ouckah"
+  },
   "510518c026076bc1": {
     "company": "Morgan Stanley",
     "first_seen": "2026-07-07",
@@ -11670,6 +11714,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.baesystems.com/global/en/job/BAE1US124201BREXTERNAL/Software-Engineering-Intern-II-Summer-2026"
   },
+  "6550300b2504f256": {
+    "company": "TikTok",
+    "first_seen": "2026-08-07",
+    "location": "San Jose, CA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineer Intern - Media Engine - 2027 Summer",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
+  },
   "655e2513f7a87a09": {
     "company": "Sentra",
     "first_seen": "2026-04-28",
@@ -13077,6 +13132,17 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5014&PageType=JobDetails&jobid=801044#jobDetails=801044_5014&utm_source=github-vansh-ouckah"
+  },
+  "71f168a6a1768ada": {
+    "company": "Northrop Grumman",
+    "first_seen": "2026-08-07",
+    "location": "Melbourne, FL",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "2027 Intern Software Engineer",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573"
   },
   "71f5e7ac0dc9fd23": {
     "company": "Deepgram",
@@ -16081,6 +16147,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
   },
+  "8e903bd563b59644": {
+    "company": "Roblox",
+    "first_seen": "2026-08-07",
+    "location": "San Mateo, CA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Summer 2027 Software Engineer Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
+  },
   "8e99401ea5bf08e9": {
     "company": "Orion",
     "first_seen": "2026-04-30",
@@ -18853,6 +18930,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Credit-Team--Analyst_39178"
   },
+  "a5c3a7b965ce04db": {
+    "company": "NVIDIA",
+    "first_seen": "2026-08-07",
+    "location": "Santa Clara, CA",
+    "posted_at": null,
+    "posting_type": "fall_coop",
+    "role": "Software Engineering Intern - Dynamo - Fall 2026",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
+  },
   "a5c7fd37e214daaf": {
     "company": "SoloPulse",
     "first_seen": "2026-07-08",
@@ -19028,6 +19116,17 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586"
+  },
+  "a791b4bb11a06fc6": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-07",
+    "location": "San Jose, CA",
+    "posted_at": "2026-08-06T00:00:00+00:00",
+    "posting_type": "internship",
+    "role": "GPU/AI Application System Software Engineer Intern",
+    "role_category": "swe",
+    "source": "vanshb03 Summer 2026 Internships",
+    "url": "https://joinbytedance.com/search/7668464504736876853?utm_source=github-vansh-ouckah"
   },
   "a7a0b55dfb5e2244": {
     "company": "TikTok",
@@ -24375,6 +24474,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Alpharetta-Georgia-United-States-of-America/Technology---Business-Operations-Analyst_PT-JR029568"
   },
+  "dc2316cc6990f3b9": {
+    "company": "TikTok",
+    "first_seen": "2026-08-07",
+    "location": "San Jose, CA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineer Intern - Foundation Platform - 2027 Summer",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": ""
+  },
   "dc486b57d9a61456": {
     "company": "Circleback",
     "first_seen": "2026-04-28",
@@ -27663,6 +27773,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/remedy%20scientific/2e74c46f-cc91-487d-858d-62664f801efc"
+  },
+  "fe09f39e9a0feedf": {
+    "company": "Gulf Management",
+    "first_seen": "2026-08-07",
+    "location": "Covington, LA",
+    "posted_at": null,
+    "posting_type": "internship",
+    "role": "Software Engineer & Business Systems Intern",
+    "role_category": "swe",
+    "source": "speedyapply New Grad Software Jobs",
+    "url": "http://gulfmanagement.applytojob.com/apply/pnJkrOYga9/Software-Engineer-Business-Systems-Intern"
   },
   "fe1a8da7bcdaa828": {
     "company": "Morgan Stanley",
