@@ -28940,6 +28940,17 @@
     "source": "Greenhouse:stripe",
     "url": "https://stripe.com/jobs/search?gh_jid=7543868"
   },
+  "fa8785c14586eb51": {
+    "company": "Blackstone",
+    "first_seen": "2026-08-24",
+    "location": "New York",
+    "posted_at": null,
+    "posting_type": "new_grad",
+    "role": "BXHF - Content Associate",
+    "role_category": "pe",
+    "source": "Workday:Blackstone",
+    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/BXHF---Content-Associate_42647-2"
+  },
   "faa8845ff63a804e": {
     "company": "Asana",
     "first_seen": "2026-04-28",
