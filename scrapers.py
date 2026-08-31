@@ -220,7 +220,9 @@ def fetch_greenhouse(slug: str) -> list[Posting]:
         return []
     out = []
     for j in jobs:
-        posted_at = _parse_iso(j.get("updated_at") or j.get("first_published"))
+        # first_published is the real posting time; updated_at bumps on any
+        # edit and would let old-but-touched postings through as fresh.
+        posted_at = _parse_iso(j.get("first_published") or j.get("updated_at"))
         out.append(Posting(
             company=slug.title(),
             role=j.get("title", ""),

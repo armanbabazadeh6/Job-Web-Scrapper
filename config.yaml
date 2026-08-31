@@ -13,9 +13,11 @@ favorite_companies: []
 us_only: true
 
 # Drop postings older than this many days (when the source provides a date).
-# Postings with unknown posting date are kept (community lists often omit it).
+# 1 = only see postings from the last 24 hours — being an early applicant
+# matters. Postings with unknown posting date are kept (community lists
+# often omit it; their entries cycle out on their own).
 # Set to 0 or remove to disable.
-max_age_days: 7
+max_age_days: 1
 
 # Location hot spots. Postings located here get a 📍 tag and sort to the top
 # of their Discord section. Remote roles always stay. mode: prefer tags and
