@@ -6,6 +6,11 @@ on:
     - cron: "17 * * * *"
   workflow_dispatch: {}  # allow manual run from the Actions tab
 
+# Never let a scheduled run and a manual run overlap (double-notify risk).
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
 permissions:
   contents: write  # needed to commit seen.json back
 
@@ -38,4 +43,15 @@ jobs:
             git push
           else
             echo "No changes to state files"
+          fi
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          if [ -n "$DISCORD_WEBHOOK_URL" ]; then
+            curl -sS -X POST -H "Content-Type: application/json" \
+              -d '{"content": "🚨 Job scraper run failed — check the Actions tab: https://github.com/armanbabazadeh6/Job-Web-Scrapper/actions"}' \
+              "$DISCORD_WEBHOOK_URL" || true
           fi

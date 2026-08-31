@@ -7,7 +7,7 @@ import re
 import sys
 from collections import defaultdict
 from dataclasses import replace
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Optional
 
@@ -46,7 +46,30 @@ def load_seen() -> dict:
 
 
 def save_seen(seen: dict) -> None:
-    SEEN_PATH.write_text(json.dumps(seen, indent=2, sort_keys=True), encoding="utf-8")
+    SEEN_PATH.write_text(
+        json.dumps(_prune_seen(seen), indent=2, sort_keys=True), encoding="utf-8"
+    )
+
+
+def _prune_seen(seen: dict) -> dict:
+    """Drop entries that can no longer re-notify: dated postings older than 30
+    days (the age filter already blocks their return) and undated
+    community-list entries older than 90 days. Keeps seen.json bounded."""
+    today = datetime.now(timezone.utc).date()
+    keep: dict = {}
+    for k, v in seen.items():
+        if not isinstance(v, dict):
+            continue
+        try:
+            age = (
+                today - datetime.strptime(v.get("first_seen", ""), "%Y-%m-%d").date()
+            ).days
+        except ValueError:
+            keep[k] = v
+            continue
+        if age <= (30 if v.get("posted_at") else 90):
+            keep[k] = v
+    return keep
 
 
 SENIOR_MARKERS = [
@@ -248,14 +271,20 @@ def categorize(
 
 
 def _verify_note(v: dict) -> str:
-    if not v.get("verified"):
-        return "⚠️ not AI-verified"
-    yrs = v.get("years")
-    if yrs is None:
-        return "✅ AI-verified"
-    if yrs == 0:
-        return "✅ AI-verified · new-grad friendly"
-    return f"✅ AI-verified · ~{yrs} yrs exp"
+    parts: list[str] = []
+    if v.get("verified"):
+        yrs = v.get("years")
+        if yrs is None:
+            parts.append("✅ AI-verified · new-grad friendly")
+        elif yrs == 0:
+            parts.append("✅ AI-verified · new-grad friendly")
+        else:
+            parts.append(f"✅ AI-verified · ~{yrs} yrs exp")
+    else:
+        parts.append("⚠️ not AI-verified")
+    if v.get("salary"):
+        parts.append(str(v["salary"]))
+    return " · ".join(parts)
 
 
 def main() -> int:
@@ -341,6 +370,8 @@ def main() -> int:
             d["verified"] = bool(v.get("verified"))
             if v.get("years") is not None:
                 d["years_required"] = v["years"]
+            if v.get("salary"):
+                d["salary"] = v["salary"]
             if v.get("reason"):
                 d["verify_reason"] = v["reason"]
         return d
@@ -358,12 +389,31 @@ def main() -> int:
         save_seen(seen)
         return 0
 
-    # Diff against seen
+    # Diff against seen. Cross-source dedup: the same company+role arriving
+    # via a community list AND a company board is one job — ping it once.
+    dedup_days = int(cfg.get("dedup_days", 3))
+    recent_pairs: set[tuple[str, str]] = set()
+    if dedup_days:
+        cutoff = (
+            datetime.now(timezone.utc) - timedelta(days=dedup_days)
+        ).date().isoformat()
+        for v in seen.values():
+            if isinstance(v, dict) and (v.get("first_seen") or "9999") >= cutoff:
+                recent_pairs.add(
+                    (str(v.get("company", "")).lower(), str(v.get("role", "")).lower())
+                )
+
     new_groups: dict[tuple[str, str], list[Posting]] = defaultdict(list)
     for key, postings in groups.items():
         for p in postings:
-            if p.id not in seen:
-                new_groups[key].append(p)
+            if p.id in seen:
+                continue
+            if dedup_days:
+                pair = (p.company.lower(), p.role.lower())
+                if pair in recent_pairs:
+                    continue
+                recent_pairs.add(pair)
+            new_groups[key].append(p)
 
     # ---- LLM entry-level verification for ambiguous titles ----
     verify_by_cat: dict[str, list[Posting]] = defaultdict(list)
@@ -407,7 +457,8 @@ def main() -> int:
         type_order = [pt["key"] for pt in cfg["posting_types"]]
         cat_order = [c["key"] for c in cfg["role_categories"]]
         notify_discord_grouped(
-            new_groups, type_meta, cat_meta, type_order, cat_order, webhook
+            new_groups, type_meta, cat_meta, type_order, cat_order, webhook,
+            favorites=cfg.get("favorite_companies") or [],
         )
 
         for key, postings in new_groups.items():

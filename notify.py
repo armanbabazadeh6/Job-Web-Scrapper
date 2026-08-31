@@ -31,11 +31,12 @@ def _hot_badge(posted_at: Optional[datetime]) -> str:
     return ""
 
 
-def _format_line(p: Posting) -> str:
+def _format_line(p: Posting, favs: Optional[list] = None) -> str:
     badge = _hot_badge(p.posted_at)
     label = f"{p.company} — {p.role}"
     head = f"[{label}]({p.url})" if p.url else f"**{label}**"
-    line = f"{badge}{head}"
+    star = "⭐ " if favs and any(f in p.company.lower() for f in favs) else ""
+    line = f"{star}{badge}{head}"
     if p.location:
         line += f" · {p.location}"
     note = getattr(p, "verify_note", None)
@@ -79,12 +80,15 @@ def notify_discord_grouped(
     type_order: list[str],
     cat_order: list[str],
     webhook_url: str,
+    favorites: Optional[list] = None,
 ) -> None:
     if not groups:
         return
     if not webhook_url:
         print("  ! DISCORD_WEBHOOK_URL not set — skipping notification")
         return
+
+    favs = [f.lower() for f in (favorites or [])]
 
     total = sum(len(v) for v in groups.values())
     hot_count = sum(
@@ -113,7 +117,7 @@ def notify_discord_grouped(
             return (rank, p.company.lower(), p.role.lower())
 
         postings_sorted = sorted(postings, key=_sort_key)
-        lines = [_format_line(p) for p in postings_sorted]
+        lines = [_format_line(p, favs) for p in postings_sorted]
         chunks = _chunk_lines(lines, EMBED_DESC_LIMIT)
 
         for i, chunk in enumerate(chunks):

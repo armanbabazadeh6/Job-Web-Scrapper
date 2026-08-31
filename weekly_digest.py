@@ -21,6 +21,13 @@ from pathlib import Path
 
 import requests
 
+# Windows consoles default to cp1252 and choke on the emoji in these embeds
+# when printing locally. Actions runs on Linux/UTF-8 where this is a no-op.
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 ROOT = Path(__file__).parent
 SEEN_PATH = ROOT / "seen.json"
 
@@ -101,6 +108,31 @@ def compute_digest(seen: dict, today: date) -> dict:
     }
 
 
+def compute_quiet_sources(seen: dict, today: date, days: int = 14) -> list[str]:
+    """Configured sources with zero announced postings in the window.
+    Catches dead boards — the Lever API change went unnoticed for weeks."""
+    try:
+        import yaml
+        cfg = yaml.safe_load((ROOT / "config.yaml").read_text(encoding="utf-8"))
+    except Exception:
+        return []
+    expected: list[str] = []
+    expected += [f"Greenhouse:{s}" for s in cfg.get("greenhouse_boards") or []]
+    expected += [f"Lever:{s}" for s in cfg.get("lever_boards") or []]
+    expected += [f"Ashby:{s}" for s in cfg.get("ashby_boards") or []]
+    expected += [f"Workday:{wd['name']}" for wd in cfg.get("workday_boards") or []]
+    expected += [g["name"] for g in cfg.get("github_lists") or []]
+    cutoff = today - timedelta(days=days)
+    active: set = set()
+    for v in seen.values():
+        if not isinstance(v, dict):
+            continue
+        d = _entry_date(v)
+        if d and d >= cutoff:
+            active.add(v.get("source"))
+    return [s for s in expected if s not in active]
+
+
 def render_embeds(d: dict, cat_labels: dict, type_labels: dict) -> list[dict]:
     embeds = []
 
@@ -156,6 +188,18 @@ def render_embeds(d: dict, cat_labels: dict, type_labels: dict) -> list[dict]:
             "color": 0x3498DB,
         })
 
+    # Quiet sources
+    quiet = d.get("quiet_sources") or []
+    if quiet:
+        desc = "\n".join(f"`{s}`" for s in quiet)[:4000]
+    else:
+        desc = "_Every configured source posted in the last 14 days._"
+    embeds.append({
+        "title": "🔇 Quiet Sources (zero postings in 14 days)",
+        "description": desc,
+        "color": 0x95A5A6,
+    })
+
     # Top companies this week
     if d["top_companies"]:
         lines = [f"**{c}** — {n}" for c, n in d["top_companies"]]
@@ -208,6 +252,7 @@ def main() -> int:
     cat_labels, type_labels = load_label_maps()
     today = datetime.now(timezone.utc).date()
     digest = compute_digest(seen, today)
+    digest["quiet_sources"] = compute_quiet_sources(seen, today)
     embeds = render_embeds(digest, cat_labels, type_labels)
     webhook = os.environ.get("DISCORD_WEBHOOK_URL", "")
     post_to_discord(embeds, webhook)

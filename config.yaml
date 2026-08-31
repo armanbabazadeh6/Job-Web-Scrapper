@@ -1,3 +1,12 @@
+# Skip a new posting when the same company+role was announced within this
+# many days (catches the same job arriving via a community list AND a
+# company board — two links, one job). 0 disables.
+dedup_days: 3
+
+# Companies that get a ⭐ prefix on pings (substring match, case-insensitive).
+# Example: [stripe, openai, anthropic]
+favorite_companies: []
+
 # US-only filter. When true, postings whose location clearly indicates a
 # non-US country/city are dropped. Empty/unknown locations are kept (lots of
 # remote-US or unspecified roles fall in that bucket).
@@ -214,6 +223,9 @@ greenhouse_boards:
   - waymo
   - brex
   - gusto
+  - datadog
+  - airtable
+  - amplitude
 
 # NOTE: Lever killed the old `?mode=json` suffix — the plain endpoint works
 # and now includes full descriptions (scrapers.py handles this).
@@ -238,6 +250,8 @@ ashby_boards:
   - supabase
   - suno
   - modal
+  - sardine
+  - weave
 
 # Workday-hosted boards (real JSON API). PwC is the one big consulting firm
 # whose board still works — Deloitte, EY, Accenture, KPMG, and Slalom all

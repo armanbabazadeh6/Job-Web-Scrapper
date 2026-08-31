@@ -100,6 +100,43 @@ _WD_URL_RE = re.compile(
     r"(https://[A-Za-z0-9]+\.wd\d+\.myworkdayjobs\.com)/"
     r"[a-zA-Z]{2}(?:-[a-zA-Z]{2})?/([A-Za-z0-9_-]+)(/job/[^?#]+)"
 )
+_LEVER_URL_RE = re.compile(r"jobs\.lever\.co/([A-Za-z0-9_.-]+)/([A-Za-z0-9-]+)")
+_ASHBY_URL_RE = re.compile(r"jobs\.ashbyhq\.com/([A-Za-z0-9_.-]+)/([A-Za-z0-9-]+)")
+
+# Ashby has no per-job endpoint, so community-list links to Ashby pages are
+# resolved by pulling the org's board once per process and matching by id.
+_ASHBY_BOARD_CACHE: dict[str, dict[str, str]] = {}
+
+
+def _lever_description(slug: str, job_id: str) -> Optional[str]:
+    r = requests.get(
+        f"https://api.lever.co/v0/postings/{slug}/{job_id}", timeout=TIMEOUT
+    )
+    r.raise_for_status()
+    j = r.json()
+    desc = (
+        j.get("descriptionPlain")
+        or j.get("descriptionBodyPlain")
+        or html_to_text(j.get("description") or "")
+    )
+    return (desc or "").strip() or None
+
+
+def _ashby_description(org: str, job_id: str) -> Optional[str]:
+    board = _ASHBY_BOARD_CACHE.get(org)
+    if board is None:
+        r = requests.get(
+            f"https://api.ashbyhq.com/posting-api/job-board/{org}", timeout=TIMEOUT
+        )
+        r.raise_for_status()
+        board = {
+            str(j.get("id")): (
+                j.get("descriptionPlain") or html_to_text(j.get("descriptionHtml") or "")
+            )
+            for j in r.json().get("jobs", [])
+        }
+        _ASHBY_BOARD_CACHE[org] = board
+    return board.get(job_id) or None
 
 
 def fetch_description(p: Posting, workday_lookup: dict) -> Optional[str]:
@@ -123,6 +160,12 @@ def fetch_description(p: Posting, workday_lookup: dict) -> Optional[str]:
         m = _WD_URL_RE.search(p.url or "")
         if m:
             return _workday_description(m.group(1), m.group(2), m.group(3))
+        m = _LEVER_URL_RE.search(p.url or "")
+        if m:
+            return _lever_description(m.group(1), m.group(2))
+        m = _ASHBY_URL_RE.search(p.url or "")
+        if m:
+            return _ashby_description(m.group(1), m.group(2))
     except Exception as e:
         print(f"    ! desc fetch failed [{p.company} — {p.role}]: {e}")
     return None
@@ -138,10 +181,11 @@ For each job, judge from the description text:
 - years_required: minimum years of professional full-time experience the posting demands (0 if none stated, or if it targets students / recent graduates).
 - entry_level: true ONLY if this is a genuine full-time opportunity for someone graduating now — at most {max_years} years required, no senior/staff/principal/lead/manager/director/VP scope, and NOT an internship or co-op (mark internships entry_level: false, seniority: "intern"). Titles like "Associate", "Analyst", "Engineer I/II", "Solutions Engineer", "Product Manager" / "APM", and "Technology Consultant" CAN be entry level if the requirements say so.
 - seniority: one of "intern", "new_grad", "junior", "mid", "senior", "lead", "staff", "principal", "manager", "director", "vp".
+- salary: the salary or compensation range stated in the description (e.g. "$120k-$150k"), or null if none is stated.
 - reason: at most 12 words, citing evidence from the description.
 
 Respond with ONLY a JSON array (no markdown fences, no commentary), one object per input job, using the exact input ids:
-[{{"id": "...", "entry_level": true, "years_required": 0, "seniority": "new_grad", "reason": "..."}}]"""
+[{{"id": "...", "entry_level": true, "years_required": 0, "seniority": "new_grad", "salary": "$120k-$150k", "reason": "..."}}]"""
 
 
 def _parse_verdicts(content: str) -> list[dict]:
@@ -250,13 +294,14 @@ def _truthy(v) -> bool:
 
 
 def _verdict(
-    entry_level: bool, years, verified: bool, reason: str, seniority=None
+    entry_level: bool, years, verified: bool, reason: str, seniority=None, salary=None
 ) -> dict:
     return {
         "entry_level": bool(entry_level),
         "years": years,
         "verified": verified,
         "seniority": seniority,
+        "salary": (str(salary)[:40] if salary else None),
         "reason": (reason or "")[:120],
         "cached_at": datetime.now(timezone.utc).date().isoformat(),
     }
@@ -359,7 +404,8 @@ def verify_postings(
                         yrs is None or yrs <= max_years
                     )
                     v = _verdict(
-                        ok, yrs, True, str(raw.get("reason") or ""), raw.get("seniority")
+                        ok, yrs, True, str(raw.get("reason") or ""),
+                        raw.get("seniority"), raw.get("salary"),
                     )
                 results[p.id] = v
                 verdicts[p.id] = v
