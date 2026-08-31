@@ -210,6 +210,17 @@
     "verified": true,
     "years": 6
   },
+  "3249759db92788eb": {
+    "cached_at": "2026-08-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 7
+  },
   "3301e0805e2eef64": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -650,6 +661,17 @@
     "verified": false,
     "years": null
   },
+  "9980d6918494f154": {
+    "cached_at": "2026-08-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires complete autonomy and enterprise partnership; not a new grad role.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
+  },
   "9bcf07caf505b4b1": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -826,6 +848,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "ca84e516dab5ab6e": {
+    "cached_at": "2026-08-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires experienced product managers and founders, not suitable for new grads.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "cb4735d44f40f2ee": {
     "cached_at": "2026-08-31",
