@@ -179,7 +179,7 @@ You will receive a JSON array of jobs, each: {{"id": string, "title": string, "c
 
 For each job, judge from the description text:
 - years_required: minimum years of professional full-time experience the posting demands (0 if none stated, or if it targets students / recent graduates).
-- entry_level: true ONLY if this is a genuine full-time opportunity for someone graduating now — at most {max_years} years required, no senior/staff/principal/lead/manager/director/VP scope, and NOT an internship or co-op (mark internships entry_level: false, seniority: "intern"). Titles like "Associate", "Analyst", "Engineer I/II", "Solutions Engineer", "Product Manager" / "APM", and "Technology Consultant" CAN be entry level if the requirements say so.
+- entry_level: judged from the STATED experience requirement in the description, not the title's level connotation. years_required at or below {max_years} → entry_level true — even for titles like "Engineer II" or postings that call themselves "mid-level"; the stated requirement wins over the title. More than {max_years} years required, or explicitly senior scope in the description (leads a team, owns an org, staff-level breadth) → false. Internships and co-ops → false with seniority "intern". Full-time only.
 - seniority: one of "intern", "new_grad", "junior", "mid", "senior", "lead", "staff", "principal", "manager", "director", "vp".
 - salary: the salary or compensation range stated in the description (e.g. "$120k-$150k"), or null if none is stated.
 - clearance_required: true if the posting requires an active security clearance or clearance eligibility (e.g. "active TS/SCI", "must be able to obtain a clearance") as a hard requirement; false if unmentioned or merely a plus.

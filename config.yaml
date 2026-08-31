@@ -223,8 +223,8 @@ llm:
   # years of experience, before the LLM is ever called.
   hard_reject_years: 4
   # Postings per LLM call, and per run, to stay inside free tiers.
-  batch_size: 6
-  max_per_run: 50
+  batch_size: 8
+  max_per_run: 100
   max_description_chars: 3500
   seconds_between_calls: 5
   # When the API key is missing or a call fails:
@@ -273,6 +273,14 @@ greenhouse_boards:
   - datadog
   - airtable
   - amplitude
+  - duolingo
+  - block
+  - gitlab
+  - purestorage
+  - zoominfo
+  - nuro
+  - fastly
+  - ginkgobioworks
 
 # NOTE: Lever killed the old `?mode=json` suffix — the plain endpoint works
 # and now includes full descriptions (scrapers.py handles this).
@@ -299,6 +307,12 @@ ashby_boards:
   - modal
   - sardine
   - weave
+  - crusoe
+  - lambda
+  - speak
+  - openrouter
+  - rescale
+  - quora
 
 # Remote job boards. RemoteOK needs no setup; WWR entries are category
 # slugs from weworkremotely.com/categories/<slug>.
