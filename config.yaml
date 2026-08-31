@@ -8,40 +8,42 @@ us_only: true
 # Set to 0 or remove to disable.
 max_age_days: 7
 
-# Posting types are checked in ORDER — first match wins. So fall/co-op needs to
-# come before "internship" (otherwise a "Summer 2026 Co-op Intern" lands in
-# generic internship instead of fall_coop).
+# Posting types are checked in ORDER — first match wins.
+#
+# Two paths to a Discord ping:
+#   new_grad      — the title itself says it ("New Grad SWE", "Graduate
+#                   Program", "Campus", "Class of 2026"). No AI needed.
+#   verified_entry — the title has no signal either way ("Solutions
+#                   Engineer", "Software Engineer I"). These go through the
+#                   LLM verifier, which reads the full job description and
+#                   only passes genuinely entry-level postings.
+#
+# Internships and co-ops are rejected everywhere (main.py) — this pipeline
+# is full-time new-grad roles ONLY.
 posting_types:
-  - key: fall_coop
-    label: "🍂 Fall 2026 / Co-op"
-    color: 0xE67E22
-    requires_any:
-      - fall 2026
-      - fall '26
-      - autumn 2026
-      - co-op
-      - coop
-      - co op
-
   - key: new_grad
-    label: "🎓 New Grad / Full-time"
+    label: "🎓 New Grad (explicit title)"
     color: 0x3498DB
     requires_any:
       - new grad
       - new-grad
       - new graduate
       - graduate program
+      - graduate engineer
+      - graduate software
+      - recent graduate
+      - recent grad
+      - university graduate
+      - university grad
       - class of 2026
-    excludes:
-      - intern
+      - class of 2027
+      - early career
+      - early-career
+      - campus
 
-  - key: internship
-    label: "🌞 Internship (Summer / General)"
-    color: 0x2ECC71
-    requires_any:
-      - intern
-      - summer 2026
-      - 2026 internship
+  - key: verified_entry
+    label: "✅ Verified Entry-Level (AI read the JD)"
+    color: 0x1ABC9C
 
 # Role categories. Order = priority order in Discord output.
 # A posting matches the FIRST category whose keywords appear in the title.
@@ -64,6 +66,8 @@ role_categories:
       - android developer
       - mobile engineer
       - web developer
+      - member of technical staff
+      - mts
       - forward deployed engineer
       - forward-deployed engineer
       - forward deployed
@@ -85,26 +89,23 @@ role_categories:
       - site reliability
       - cloud engineer
       - systems engineer
+      - production engineer
 
-  - key: data
-    label: "📊 Data / ML / AI"
+  - key: sales_eng
+    label: "🤝 Solutions / Sales Engineering"
     keywords:
-      - data engineer
-      - data scientist
-      - data analyst
-      - machine learning
-      - machine learning engineer
-      - ml engineer
-      - ai engineer
-      - ai/ml engineer
-      - ml/ai engineer
-      - applied scientist
-      - research scientist
-      - ai research
-      - deep learning
-      - generative ai
-      - llm engineer
-      - mlops
+      - solutions engineer
+      - solution engineer
+      - solutions engineering
+      - sales engineer
+      - sales engineering
+      - technical sales engineer
+      - technical sales
+      - solutions consultant
+      - solution consultant
+      - pre-sales engineer
+      - presales engineer
+      - pre sales engineer
 
   - key: product
     label: "🧭 Product Management"
@@ -115,75 +116,16 @@ role_categories:
       - associate product
       - product analyst
 
-  - key: tech_sales
-    label: "💼 Tech Sales"
-    keywords:
-      - account executive
-      - business development
-      - bdr
-      - sdr
-      - sales development
-      - solutions engineer
-      - solutions consultant
-      - sales engineer
-      - sales associate
-      - inside sales
-      - account manager
-
   - key: consulting
-    label: "🎯 Consulting / Strategy"
+    label: "🎯 Technology / Engineering Consulting"
     keywords:
-      - consultant
-      - consulting
-      - strategy analyst
-      - strategy associate
-      - business analyst
-      - management consultant
-
-  - key: ib
-    label: "🏦 Investment Banking"
-    keywords:
-      - investment banking
-      - investment banker
-      - ib analyst
-      - ib associate
-      - banking analyst
-      - banking associate
-      - equity research
-      - fixed income research
-      - sales & trading
-      - sales and trading
-      - global markets
-      - markets analyst
-      - capital markets
-      - equity capital markets
-      - debt capital markets
-      - mergers and acquisitions
-      - leveraged finance
-      - fixed income
-      - structured finance
-
-  - key: pe
-    label: "📈 PE / VC / Buy-side"
-    keywords:
-      - private equity
-      - growth equity
-      - venture capital
-      - hedge fund
-      - asset management
-      - investment analyst
-      - investment associate
-      - buyout
-      - secondaries
-      - credit strategies
-      - tactical opportunities
-      - real estate analyst
-      - real estate associate
-      - real estate investments
+      - technical consultant
+      - technology consultant
+      - engineering consultant
+      - implementation consultant
+      - technology analyst
 
 # Reject postings whose title contains any of these substrings.
-# Mix of past-season tags and out-of-scope role-type tokens (back-office,
-# wealth management, client-facing roles that aren't real front-office IB/PE).
 reject_if_title_contains:
   # Past seasons
   - spring 2025
@@ -194,38 +136,46 @@ reject_if_title_contains:
   - summer 2024
   - fall 2024
   - winter 2024
-  # Out-of-scope finance / corporate functions
-  - client relationship
-  - client service
-  - client services
-  - client onboarding
-  - private wealth
-  - wealth management
-  - internal audit
-  - fund accounting
-  - fund administration
-  - back office
-  - middle office
-  - compliance officer
-  - compliance analyst
-  - tax compliance
-  - tax associate
-  - tax intern
-  - tax advisory
-  - human resources
-  - paralegal
+
+# ---------- Entry-level verifier (llm_verify.py) ----------
+#
+# Works with any OpenAI-compatible chat/completions endpoint. Default is
+# Google Gemini's free tier — key from https://aistudio.google.com
+# (no credit card, no billing account). Free-tier limits (~10 req/min,
+# a few hundred/day) are far above our volume (~1-3 calls/hour).
+#
+# Alternatives (change base_url + model):
+#   OpenCode Zen: https://opencode.ai/zen/v1     model: mimo-v2.5-free
+#   Groq:         https://api.groq.com/openai/v1 model: llama-3.3-70b-versatile
+llm:
+  enabled: true
+  api_key_env: LLM_API_KEY
+  base_url: https://generativelanguage.googleapis.com/v1beta/openai
+  model: gemini-flash-latest
+  # A posting passes only if the LLM says entry_level AND years_required <= max_years
+  max_years: 2
+  # Regex screen hard-rejects descriptions explicitly demanding >= this many
+  # years of experience, before the LLM is ever called.
+  hard_reject_years: 4
+  # Postings per LLM call, and per run, to stay inside free tiers.
+  batch_size: 6
+  max_per_run: 50
+  max_description_chars: 3500
+  seconds_between_calls: 5
+  # When the API key is missing or a call fails:
+  #   lenient = keep postings the regex screen didn't hard-reject (tagged
+  #             "not AI-verified"), strict = drop them.
+  fallback: lenient
 
 # ---------- Sources ----------
 
 github_lists:
-  - name: SimplifyJobs Summer 2026 Internships
-    url: https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/README.md
-  - name: vanshb03 Summer 2026 Internships
-    url: https://raw.githubusercontent.com/vanshb03/Summer2026-Internships/main/README.md
   - name: SimplifyJobs New Grad Positions
     url: https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/README.md
-  - name: speedyapply New Grad Software Jobs
-    url: https://raw.githubusercontent.com/speedyapply/2025-SWE-College-Jobs/main/README.md
+  - name: vanshb03 New-Grad 2026
+    url: https://raw.githubusercontent.com/vanshb03/New-Grad-2026/main/README.md
+  - name: speedyapply 2026 SWE College Jobs
+    url: https://raw.githubusercontent.com/speedyapply/2026-SWE-College-Jobs/main/README.md
 
 greenhouse_boards:
   - stripe
@@ -246,70 +196,59 @@ greenhouse_boards:
   - mongodb
   - elastic
   - chime
+  - figma
+  - cloudflare
+  - affirm
+  - samsara
+  - twilio
+  - okta
+  - waymo
+  - brex
+  - gusto
 
+# NOTE: Lever killed the old `?mode=json` suffix — the plain endpoint works
+# and now includes full descriptions (scrapers.py handles this).
 lever_boards:
-  - netflix
   - palantir
-  - mistral
 
-# Workday-hosted boards. Real JSON API, reliable when the tenant/site is right.
-# To find values for a new company: open their careers page in a browser, copy
-# the URL — first subdomain is `base` host, the path segment after the locale
-# (e.g. en-US) is `site`. Example URL:
+# Ashby boards — responses include the full job description, so postings
+# from these boards are verified with zero extra API calls.
+ashby_boards:
+  - openai
+  - notion
+  - ramp
+  - elevenlabs
+  - vanta
+  - cursor
+  - replit
+  - linear
+  - perplexity
+  - sierra
+  - harvey
+  - drata
+  - supabase
+  - suno
+  - modal
+
+# Workday-hosted boards (real JSON API). PwC is the one big consulting firm
+# whose board still works — Deloitte, EY, Accenture, KPMG, and Slalom all
+# gate their endpoints (422/401).
+#
+# PwC is keyword-gated on purpose: no default_role_category and no
+# finance_titles, so only titles matching our role keywords (e.g.
+# "Technology Consultant") pass — tax/audit/assurance roles on the same
+# board are ignored.
+#
+# To find values for a new company: open their careers page, copy the URL —
+# first subdomain is `base` host, the path segment after the locale (e.g.
+# en-US) is `site`. Example:
 #   https://jpmc.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/
 #                ↑─────────── base ───────────↑    ↑── site ──↑
 workday_boards:
-  # Optional per-board overrides:
-  #   default_role_category: assign this category if no role keyword matches.
-  #     (Banks/PE firms post nearly everything in their domain — saves you
-  #     having to whitelist every finance-y role keyword.)
-  #   finance_titles: true: treat 'Analyst' or 'Associate' (without senior
-  #     modifiers like VP/Director/Senior/Managing) as new-grad postings.
-  #     Required for IB/PE because those firms don't tag titles "new grad".
-  - name: Morgan Stanley
-    base: https://ms.wd5.myworkdayjobs.com
-    site: External
-    # No default_role_category — MS is diversified (IB, wealth, ops, tech…),
-    # so we require the title to match a specific keyword. finance_titles is
-    # still on so explicit "Investment Banking Analyst" → new_grad.
-    finance_titles: true
-  - name: Blackstone
-    base: https://blackstone.wd1.myworkdayjobs.com
-    site: Blackstone_Careers
-    default_role_category: pe
-    finance_titles: true
-  - name: PwC (Experienced)
-    base: https://pwc.wd3.myworkdayjobs.com
-    site: Global_Experienced_Careers
-    default_role_category: consulting
   - name: PwC (Campus)
     base: https://pwc.wd3.myworkdayjobs.com
     site: Global_Campus_Careers
-    default_role_category: consulting
-    finance_titles: true
-  # Note: JPMorgan, McKinsey, BCG, and KKR were tested but their Workday
-  # CXS endpoints return 422 (they've gated the public API or moved
-  # platforms). They remain in `watch_urls` below as a best-effort fallback.
 
-# IB / consulting / PE / Big4 — most use Workday or custom JS-heavy portals.
-# We point at their student/early-careers landing pages and grep visible links
-# for matching role keywords. Coverage is best-effort: pages rendered entirely
-# in JavaScript will return nothing useful; landing-page program announcements
-# will be picked up.
-watch_urls:
-  - name: Goldman Sachs
-    url: https://www.goldmansachs.com/careers/students/
-  - name: JPMorgan Chase
-    url: https://careers.jpmorgan.com/us/en/students/programs
-  - name: Morgan Stanley
-    url: https://www.morganstanley.com/people-opportunities/students-graduates
-  - name: McKinsey
-    url: https://www.mckinsey.com/careers
-  - name: BCG
-    url: https://careers.bcg.com/students
-  - name: Blackstone
-    url: https://www.blackstone.com/careers/students/
-  - name: KKR
-    url: https://www.kkr.com/careers
-  - name: PwC US
-    url: https://jobs.us.pwc.com/
+# Arbitrary career pages to grep for matching links (best-effort; JS-only
+# pages return nothing). Currently empty — same narrowing as workday_boards.
+watch_urls: []

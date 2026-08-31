@@ -1,4 +1,4 @@
-"""Entry point. Loads config, runs all scrapers, categorizes, diffs, and notifies."""
+"""Entry point. Loads config, runs all scrapers, categorizes, diffs, verifies, and notifies."""
 from __future__ import annotations
 
 import json
@@ -6,15 +6,18 @@ import os
 import re
 import sys
 from collections import defaultdict
+from dataclasses import replace
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
 import yaml
 
+import llm_verify
 from notify import notify_discord_grouped
 from scrapers import (
     Posting,
+    fetch_ashby,
     fetch_github_lists,
     fetch_greenhouse,
     fetch_lever,
@@ -25,10 +28,11 @@ from scrapers import (
 ROOT = Path(__file__).parent
 CONFIG_PATH = ROOT / "config.yaml"
 SEEN_PATH = ROOT / "seen.json"
+VERDICTS_PATH = ROOT / "verdicts.json"
 
 
 def load_config() -> dict:
-    with CONFIG_PATH.open() as f:
+    with CONFIG_PATH.open(encoding="utf-8") as f:
         return yaml.safe_load(f)
 
 
@@ -36,19 +40,45 @@ def load_seen() -> dict:
     if not SEEN_PATH.exists():
         return {}
     try:
-        return json.loads(SEEN_PATH.read_text())
+        return json.loads(SEEN_PATH.read_text(encoding="utf-8"))
     except json.JSONDecodeError:
         return {}
 
 
 def save_seen(seen: dict) -> None:
-    SEEN_PATH.write_text(json.dumps(seen, indent=2, sort_keys=True))
+    SEEN_PATH.write_text(json.dumps(seen, indent=2, sort_keys=True), encoding="utf-8")
 
 
 SENIOR_MARKERS = [
     "senior", "vice president", " vp,", " vp ", "director", "managing",
     "principal", "head of", "chief", "executive", "lead ", "staff ",
 ]
+
+# This pipeline is FULL-TIME new-grad roles only. Word-boundary regex so
+# "International Solutions Engineer" / "internal tools" don't false-positive.
+_INTERN_TITLE_RE = re.compile(r"\bintern(ship)?s?\b|\bco[\s-]?ops?\b", re.IGNORECASE)
+
+# Titles that are obviously not entry-level. These never reach the LLM — no
+# point paying to classify what the title already says. Word-boundary regex
+# so "Staff+" / "Lead," / "Leader" all match, while words like "diversity"
+# (contains "iii" as substring) don't.
+#
+# "manager" is exempt when preceded by "product " — Product Manager is the
+# one discipline where "manager" is the standard ENTRY-level title (APM
+# programs, "Product Manager, New Grad"). Plain "Engineering Manager",
+# "Manager, X" etc. still match.
+_SENIOR_TITLE_RE = re.compile(
+    r"\b(senior|sr|snr|staff|principal|leader|lead|leadership|architect|"
+    r"distinguished|expert|(?<!product )manager|mgr|managing|director|dir|"
+    r"tlm|vice president|vp|head of|chief|group product manager)\b"
+    r"|\b(iii|iv)\b",
+    re.IGNORECASE,
+)
+
+
+def _looks_senior(role: str) -> bool:
+    return bool(_SENIOR_TITLE_RE.search(role))
+
 
 # Country / city tokens that unambiguously indicate non-US locations.
 # Curated to avoid US-city overlaps (no "Paris", "Madrid", "Manchester" etc.,
@@ -150,7 +180,12 @@ def is_non_us_location(location: str) -> bool:
 def categorize(
     p: Posting, cfg: dict, source_overrides: dict
 ) -> Optional[tuple[str, str]]:
-    """Returns (posting_type_key, role_category_key) or None if filtered out."""
+    """Returns (posting_type_key, role_category_key) or None if filtered out.
+
+    posting_type_key may be the special value "verify": role keywords
+    matched but the title gives no seniority signal, so the posting goes
+    through the LLM entry-level verifier (see llm_verify.py).
+    """
     title_l = p.role.lower()
 
     if cfg.get("us_only", True) and is_non_us_location(p.location):
@@ -171,6 +206,10 @@ def categorize(
         if bad.lower() in title_l:
             return None
 
+    # Full-time new-grad pipeline only — no internships or co-ops.
+    if _INTERN_TITLE_RE.search(p.role):
+        return None
+
     override = source_overrides.get(p.source) or {}
 
     role_cat = None
@@ -187,22 +226,36 @@ def categorize(
     for pt in cfg["posting_types"]:
         if any(ex.lower() in title_l for ex in pt.get("excludes") or []):
             continue
-        if any(req.lower() in title_l for req in pt["requires_any"]):
+        if any(req.lower() in title_l for req in pt.get("requires_any") or []):
             posting_type = pt["key"]
             break
 
     if posting_type is None and override.get("finance_titles"):
         if any(s in title_l for s in SENIOR_MARKERS):
             return None  # too senior for early-career bucket
-        if "intern" in title_l or "summer analyst" in title_l:
-            posting_type = "internship"
-        elif "analyst" in title_l or "associate" in title_l:
+        if "analyst" in title_l or "associate" in title_l:
             posting_type = "new_grad"
 
     if posting_type is None:
-        return None
+        # No explicit new-grad signal in the title. If the title looks
+        # senior it's dropped for free; otherwise the LLM reads the
+        # description and decides.
+        if _looks_senior(p.role):
+            return None
+        return ("verify", role_cat)
 
     return (posting_type, role_cat)
+
+
+def _verify_note(v: dict) -> str:
+    if not v.get("verified"):
+        return "⚠️ not AI-verified"
+    yrs = v.get("years")
+    if yrs is None:
+        return "✅ AI-verified"
+    if yrs == 0:
+        return "✅ AI-verified · new-grad friendly"
+    return f"✅ AI-verified · ~{yrs} yrs exp"
 
 
 def main() -> int:
@@ -239,6 +292,10 @@ def main() -> int:
     for slug in cfg.get("lever_boards", []):
         all_postings.extend(fetch_lever(slug))
 
+    print("-> Ashby boards")
+    for slug in cfg.get("ashby_boards", []):
+        all_postings.extend(fetch_ashby(slug))
+
     print("-> Workday boards")
     for wd in cfg.get("workday_boards") or []:
         all_postings.extend(fetch_workday(wd["name"], wd["base"], wd["site"]))
@@ -264,19 +321,11 @@ def main() -> int:
     matched_total = sum(len(v) for v in groups.values())
     print(f"   {matched_total} match filters across {len(groups)} groups")
 
-    # Diff against seen
-    new_groups: dict[tuple[str, str], list[Posting]] = defaultdict(list)
-    for key, postings in groups.items():
-        for p in postings:
-            if p.id not in seen:
-                new_groups[key].append(p)
-    new_total = sum(len(v) for v in new_groups.values())
-    print(f"   {new_total} are new (not in seen.json)")
-
     today = datetime.now(timezone.utc).date().isoformat()
+    verdict_results: dict[str, dict] = {}
 
     def _seen_entry(p: Posting, key: tuple[str, str]) -> dict:
-        return {
+        d = {
             "first_seen": today,
             "company": p.company,
             "role": p.role,
@@ -287,15 +336,69 @@ def main() -> int:
             "posting_type": key[0],
             "role_category": key[1],
         }
+        v = verdict_results.get(p.id)
+        if v:
+            d["verified"] = bool(v.get("verified"))
+            if v.get("years") is not None:
+                d["years_required"] = v["years"]
+            if v.get("reason"):
+                d["verify_reason"] = v["reason"]
+        return d
 
-    # First run: silently populate seen.json, no notifications
+    # First run: silently populate seen.json, no notifications. Postings that
+    # need verification stay unseen so they flow through the verifier next
+    # run instead of being buried.
     if first_run:
         print("   first run — populating seen.json silently, no notification sent")
         for key, postings in groups.items():
+            if key[0] == "verify":
+                continue
             for p in postings:
                 seen[p.id] = _seen_entry(p, key)
         save_seen(seen)
         return 0
+
+    # Diff against seen
+    new_groups: dict[tuple[str, str], list[Posting]] = defaultdict(list)
+    for key, postings in groups.items():
+        for p in postings:
+            if p.id not in seen:
+                new_groups[key].append(p)
+
+    # ---- LLM entry-level verification for ambiguous titles ----
+    verify_by_cat: dict[str, list[Posting]] = defaultdict(list)
+    for key in list(new_groups.keys()):
+        if key[0] == "verify":
+            for p in new_groups.pop(key):
+                verify_by_cat[key[1]].append(p)
+
+    if verify_by_cat:
+        items = [p for ps in verify_by_cat.values() for p in ps]
+        llm_cfg = cfg.get("llm") or {}
+        workday_lookup = {
+            f"Workday:{wd['name']}": (wd["base"], wd["site"])
+            for wd in cfg.get("workday_boards") or []
+        }
+        print(f"-> Verifying {len(items)} ambiguous posting(s) for entry-level")
+        verdict_results, verdicts = llm_verify.verify_postings(
+            items, workday_lookup, llm_cfg, llm_verify.load_verdicts(VERDICTS_PATH)
+        )
+        llm_verify.save_verdicts(VERDICTS_PATH, verdicts)
+
+        passed = 0
+        for cat, ps in verify_by_cat.items():
+            for p in ps:
+                v = verdict_results.get(p.id) or {}
+                if not v.get("entry_level") or v.get("seniority") == "intern":
+                    continue
+                passed += 1
+                new_groups[("verified_entry", cat)].append(
+                    replace(p, verify_note=_verify_note(v))
+                )
+        print(f"   {passed}/{len(items)} passed entry-level verification")
+
+    new_total = sum(len(v) for v in new_groups.values())
+    print(f"   {new_total} are new (not in seen.json)")
 
     if new_total > 0:
         webhook = os.environ.get("DISCORD_WEBHOOK_URL", "")

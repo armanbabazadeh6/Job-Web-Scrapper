@@ -38,6 +38,9 @@ def _format_line(p: Posting) -> str:
     line = f"{badge}{head}"
     if p.location:
         line += f" · {p.location}"
+    note = getattr(p, "verify_note", None)
+    if note:
+        line += f" · {note}"
     return line
 
 

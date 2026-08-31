@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import hashlib
+import html as _html
 import re
 from dataclasses import dataclass, asdict, field
 from datetime import datetime, timedelta, timezone
@@ -21,6 +22,9 @@ class Posting:
     url: str
     source: str
     posted_at: Optional[datetime] = None  # when the company posted it (UTC)
+    api_id: Optional[str] = None       # source-specific id/path for detail lookups
+    description: Optional[str] = None  # embedded description (Ashby/Lever)
+    verify_note: Optional[str] = None  # set when promoted by the LLM verifier
 
     @property
     def id(self) -> str:
@@ -32,6 +36,28 @@ class Posting:
         if self.posted_at:
             d["posted_at"] = self.posted_at.isoformat()
         return d
+
+
+# ---------- HTML -> text (for LLM consumption of job descriptions) ----------
+
+_BLOCK_TAG_RE = re.compile(
+    r"(?i)</?(?:p|div|br|li|tr|h[1-6]|ul|ol|table|section|article)[^>]*>"
+)
+_WS_RE = re.compile(r"[ \t\r\f\v]+")
+
+
+def html_to_text(html: str) -> str:
+    """Crude HTML → text conversion; only used to feed job descriptions
+    to the LLM verifier, so perfect formatting doesn't matter."""
+    if not html:
+        return ""
+    s = _BLOCK_TAG_RE.sub("\n", html)
+    s = _HTML_TAG_RE.sub(" ", s)
+    s = _html.unescape(s)
+    s = _WS_RE.sub(" ", s)
+    s = re.sub(r"\n[ \t]+", "\n", s)
+    s = re.sub(r"\n{3,}", "\n\n", s)
+    return s.strip()
 
 
 # ---------- Date parsing helpers ----------
@@ -201,6 +227,7 @@ def fetch_greenhouse(slug: str) -> list[Posting]:
             url=j.get("absolute_url", ""),
             source=f"Greenhouse:{slug}",
             posted_at=posted_at,
+            api_id=str(j.get("id") or ""),
         ))
     return out
 
@@ -220,7 +247,10 @@ def fetch_greenhouse(slug: str) -> list[Posting]:
 # entry-level / intern / 2026 program postings under noise (VP/Director roles).
 # Running multiple searches and unioning the results gets us the early-career
 # postings reliably. Dedupe is handled downstream by Posting.id.
-WORKDAY_SEARCH_TERMS = ["2026", "intern", "summer", "analyst", "associate", "new grad", "campus"]
+WORKDAY_SEARCH_TERMS = [
+    "2026", "intern", "summer", "analyst", "associate", "new grad", "campus",
+    "consultant", "engineer", "developer", "product",
+]
 
 
 def fetch_workday(label: str, base: str, site: str, max_per_search: int = 100) -> list[Posting]:
@@ -277,6 +307,7 @@ def fetch_workday(label: str, base: str, site: str, max_per_search: int = 100) -
                     url=url,
                     source=f"Workday:{label}",
                     posted_at=posted_at,
+                    api_id=external_path,
                 ))
             if len(jobs) < page_size:
                 break
@@ -287,7 +318,10 @@ def fetch_workday(label: str, base: str, site: str, max_per_search: int = 100) -
 # ---------- Lever ----------
 
 def fetch_lever(slug: str) -> list[Posting]:
-    url = f"https://api.lever.co/v0/postings/{slug}?mode=json"
+    # NOTE: Lever changed their public API — the old `?mode=json` suffix now
+    # 404s. The plain endpoint returns the same JSON array, and it includes
+    # the full description, so no per-job fetch is needed for verification.
+    url = f"https://api.lever.co/v0/postings/{slug}"
     try:
         r = requests.get(url, headers=UA, timeout=TIMEOUT)
         r.raise_for_status()
@@ -299,6 +333,11 @@ def fetch_lever(slug: str) -> list[Posting]:
     for j in jobs:
         cats = j.get("categories", {}) or {}
         posted_at = _parse_epoch_ms(j.get("createdAt"))
+        desc = (
+            j.get("descriptionPlain")
+            or j.get("descriptionBodyPlain")
+            or html_to_text(j.get("description") or "")
+        )
         out.append(Posting(
             company=slug.title(),
             role=j.get("text", ""),
@@ -306,6 +345,47 @@ def fetch_lever(slug: str) -> list[Posting]:
             url=j.get("hostedUrl", ""),
             source=f"Lever:{slug}",
             posted_at=posted_at,
+            description=(desc or "")[:8000] or None,
+        ))
+    return out
+
+
+# ---------- Ashby ----------
+#
+# Ashby-hosted boards expose a public JSON API at:
+#   https://api.ashbyhq.com/posting-api/job-board/{org}
+# The response embeds the full description, so postings from this source go
+# straight to the LLM verifier with no extra fetching.
+
+def fetch_ashby(slug: str) -> list[Posting]:
+    url = f"https://api.ashbyhq.com/posting-api/job-board/{slug}"
+    try:
+        r = requests.get(url, headers=UA, timeout=TIMEOUT)
+        r.raise_for_status()
+        jobs = r.json().get("jobs", [])
+    except Exception as e:
+        print(f"  ! ashby {slug}: {e}")
+        return []
+    out = []
+    for j in jobs:
+        if j.get("isListed") is False:
+            continue
+        title = (j.get("title") or "").strip()
+        if not title:
+            continue
+        desc = j.get("descriptionPlain") or html_to_text(j.get("descriptionHtml") or "")
+        location = (j.get("location") or "").strip()
+        if not location and j.get("isRemote"):
+            location = "Remote"
+        out.append(Posting(
+            company=slug.title(),
+            role=title,
+            location=location,
+            url=j.get("jobUrl", "") or "",
+            source=f"Ashby:{slug}",
+            posted_at=_parse_iso(j.get("publishedAt")),
+            api_id=j.get("id") or "",
+            description=(desc or "")[:8000] or None,
         ))
     return out
 

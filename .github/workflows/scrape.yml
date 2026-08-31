@@ -25,16 +25,17 @@ jobs:
       - name: Run scraper
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
         run: python main.py
 
-      - name: Commit updated seen.json
+      - name: Commit updated state
         run: |
-          if [[ -n "$(git status --porcelain seen.json)" ]]; then
+          if [[ -n "$(git status --porcelain seen.json verdicts.json)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add seen.json
-            git commit -m "chore: update seen.json"
+            git add seen.json verdicts.json
+            git commit -m "chore: update seen.json + verdicts.json"
             git push
           else
-            echo "No changes to seen.json"
+            echo "No changes to state files"
           fi
