@@ -519,36 +519,59 @@ def fetch_jsearch(query: str, cfg: dict) -> list[Posting]:
         )
         r.raise_for_status()
         body = r.json() or {}
-        data = body.get("data") or []
+        data = body.get("data") or body.get("jobs_results") or []
         if not data:
             print(
                 f"    ! jsearch returned no data: status={body.get('status')!r} "
-                f"message={str(body.get('message'))[:160]!r} keys={sorted(body)[:6]}"
+                f"keys={sorted(body)[:8]}"
             )
     except Exception as e:
         print(f"  ! jsearch: {e}")
         return []
     out = []
     for j in data:
-        company = str(j.get("employer_name") or "").strip()
-        role = str(j.get("job_title") or "").strip()
+        if not isinstance(j, dict):
+            continue
+        # JSearch has shipped more than one response schema across versions;
+        # accept both field-name families.
+        company = str(
+            j.get("employer_name") or j.get("company") or j.get("company_name") or ""
+        ).strip()
+        role = str(
+            j.get("job_title") or j.get("title") or j.get("role") or ""
+        ).strip()
         if not company or not role:
             continue
-        country = str(j.get("job_country") or "").strip()
-        if j.get("job_is_remote"):
-            location = "Remote — US" if country in ("US", "United States", "") else f"Remote — {country}"
+        country = str(
+            j.get("job_country") or j.get("job_country_code") or ""
+        ).strip()
+        city = j.get("job_city")
+        state = j.get("job_state")
+        if j.get("job_is_remote") or j.get("job_is_remote_job"):
+            location = (
+                "Remote — US" if country in ("US", "United States", "") else f"Remote — {country}"
+            )
         else:
-            location = ", ".join(filter(None, [j.get("job_city"), j.get("job_state")])) or country
-        desc = html_to_text(j.get("job_description") or "")
+            location = ", ".join(filter(None, [city, state])) or country
+        desc = html_to_text(
+            j.get("job_description") or j.get("description") or ""
+        )
+        posted = _parse_jsearch_datetime(
+            j.get("job_posted_at_datetime_utc")
+            or j.get("job_published_at_datetime_utc")
+        )
         out.append(Posting(
             company=company,
             role=role,
             location=location,
-            url=j.get("job_apply_link") or "",
+            url=j.get("job_apply_link") or j.get("job_apply_link_url") or j.get("url") or "",
             source="JSearch",
-            posted_at=_parse_jsearch_datetime(j.get("job_posted_at_datetime_utc")),
+            posted_at=posted,
             description=(desc or "")[:8000] or None,
         ))
+    if data and not out:
+        first = data[0] if isinstance(data[0], dict) else {}
+        print(f"    ! jsearch: {len(data)} results, none mapped; first-entry keys: {sorted(first)[:18]}")
     return out
 
 
