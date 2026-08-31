@@ -138,6 +138,17 @@
     "verified": true,
     "years": 3
   },
+  "27041ede948a9720": {
+    "cached_at": "2026-08-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "294e994cc0c21ee7": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -480,6 +491,17 @@
     "verified": false,
     "years": 10
   },
+  "6d4c388d8f379b6e": {
+    "cached_at": "2026-08-31",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate is not available until January 2027.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "6d6bb5f51f78e667": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -618,6 +640,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 1
+  },
+  "8c139f4766134713": {
+    "cached_at": "2026-08-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "8d04d8599189b57e": {
     "cached_at": "2026-08-31",
@@ -765,6 +798,17 @@
     "cached_at": "2026-08-31",
     "entry_level": false,
     "reason": "Requires advising senior flag officers and leading major product portfolios.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "b5a195373425d9da": {
+    "cached_at": "2026-08-31",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate is not available until January 2027.",
+    "salary": null,
     "seniority": "mid",
     "verified": true,
     "years": 0

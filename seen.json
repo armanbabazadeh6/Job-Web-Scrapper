@@ -1733,6 +1733,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1"
   },
+  "3b4b3b2866afdd11": {
+    "company": "Stripe",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco, Seattle, New York",
+    "posted_at": "2026-08-31T18:22:27-04:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, New Grad",
+    "role_category": "swe",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744"
+  },
   "3b75e9f705211401": {
     "company": "Blackstone",
     "first_seen": "2026-06-10",
@@ -3176,6 +3187,21 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Equity-Research-Associate---Fintech---Payments_JR037294"
+  },
+  "6d4c388d8f379b6e": {
+    "company": "Cursor",
+    "first_seen": "2026-08-31",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-08-31T20:14:53.414000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, ML Platform",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5",
+    "verified": true,
+    "verify_reason": "Candidate is not available until January 2027.",
+    "years_required": 0
   },
   "6dc7d998511ed83f": {
     "company": "Gen",
@@ -5267,6 +5293,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321"
   },
+  "b5a195373425d9da": {
+    "company": "Purestorage",
+    "first_seen": "2026-08-31",
+    "fit_score": 1,
+    "location": "Santa Clara, California",
+    "posted_at": "2026-08-31T11:29:06-04:00",
+    "posting_type": "verified_entry",
+    "role": "Fullstack Software Engineer, AI Infra",
+    "role_category": "swe",
+    "source": "Greenhouse:purestorage",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8166226",
+    "verified": true,
+    "verify_reason": "Candidate is not available until January 2027.",
+    "years_required": 0
+  },
   "b657acc550ef1dee": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-28",
@@ -6484,6 +6525,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "e22ff34e0afa7a5e": {
+    "company": "Sierra",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-08-31T17:54:40.218000+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, Agent (New Grad 2027)",
+    "role_category": "swe",
+    "source": "Ashby:sierra",
+    "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00"
   },
   "e270ebc21145e1d4": {
     "company": "Blackstone",
