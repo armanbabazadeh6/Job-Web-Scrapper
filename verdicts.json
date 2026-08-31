@@ -1,0 +1,402 @@
+{
+  "0fd7fea33b23b349": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Associate software engineer role requiring no minimum years of experience.",
+    "seniority": "entry_level",
+    "verified": true,
+    "years": 0
+  },
+  "145c8221e3facc38": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No minimum years of experience specified.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "14ea1f6da6d67a57": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires more than 2 years of cloud and infrastructure experience.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "1ff401d231919402": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 10
+  },
+  "2443a597a57fe842": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 3+ years of Machine Learning experience.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "264053c9a1da86ff": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No minimum years of experience required in description.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "2acb8b68d5883f33": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Requires 1-3 years of experience in data or infrastructure engineering.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
+  },
+  "2b3e5b7c10337169": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires a minimum of 5 years of relevant experience.",
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
+  "2ca048a561c381c9": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires minimum 3+ years of post-internship, full-time professional software development experience.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "2f825e3dd36d2588": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Requires 2\u20134 years of software engineering experience.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
+  "39f84c95b502ba95": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "no description available",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "3b13872063e204ea": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires a minimum of 3 years fullstack development experience.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "3f03d7b65169f618": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
+  "431deac00d5b7eaf": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No minimum years of experience required; requires active clearance.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "435a4e75f421ab90": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No minimum years required; open to engineers learning on the job.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "491289c166168d03": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 3+ years of working in large codebases.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "53081f76e018b1eb": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
+  "533fffbb279af7f1": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Software Engineer II level role requiring strategic data infrastructure design experience.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
+  },
+  "5947954422345528": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 6
+  },
+  "5c5cd6147cac1565": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Requires 2+ years of software development experience.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
+  "5dc9bcf8a044f2d2": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Requires at least 1-3 years of software engineering experience.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
+  },
+  "66f8af5d571695c0": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Accepts roughly 1+ years or equivalent through internships and projects.",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "671e4f148115cb27": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No minimum years of experience specified; requires TS/SCI clearance.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "70769a699ac34c04": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Requires 2+ years of industry experience and has non-senior scope.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
+  "868484faed9da8aa": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 10
+  },
+  "8f8e5d6673ccc45a": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 3+ years of experience in large codebases.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "97e63133e7e61d0f": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "9dfabd997fd0e2f3": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "no description available",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "9fc2d64e2f520021": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 3+ years of professional full-stack software engineering experience.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "a34afa6372af25ab": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Undergraduate degree required with no minimum experience specified.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "a470985831761235": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No explicit minimum years of experience required in the job description.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "a7da6913e520e54b": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "adef3f178ea625e8": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 7
+  },
+  "ae4a2f6e920865eb": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires advising senior flag officers and leading major product portfolios.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "b9b035187d355088": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Software Engineer II role requires shipping features with minimal oversight.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
+  },
+  "b9f8bfc3476404d9": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
+  "be4b7abbabea8b16": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Explicitly stated as a senior/staff-level engineering role.",
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
+  "bfca29df1bd339cc": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "c13af746813b87df": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "no description available",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "d2cc52450e65c7d4": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 6
+  },
+  "d7425c7af7ea1e4d": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "d86e2d064c8d37ff": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No minimum years of experience specified and non-senior scope.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "e7841aad210741fa": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 7
+  },
+  "ec849d37e2142aee": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No minimum years of experience specified in requirements.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "f140a0abb134adbd": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No minimum years of experience stated; collaborates with senior engineers.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "f1f8c0812b73efc6": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No minimum experience stated for this general software engineering role.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "f4f94e0fdb9612d1": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "f6fd2f135d2a488b": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 6
+  },
+  "f754616d8cb54a1b": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "fa4e3897d7aff907": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  }
+}

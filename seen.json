@@ -2078,6 +2078,20 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.hudsonrivertrading.com/hrt-job/software-engineering-internship-summer-2026-2/?utm_source=github-vansh-ouckah"
   },
+  "0fd7fea33b23b349": {
+    "company": "Lyft",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-08-26T16:51:51-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer",
+    "role_category": "swe",
+    "source": "Greenhouse:lyft",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8678744002?gh_jid=8678744002",
+    "verified": true,
+    "verify_reason": "Associate software engineer role requiring no minimum years of experience.",
+    "years_required": 0
+  },
   "0ff88be75463a40a": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-29",
@@ -2638,6 +2652,20 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://explore.jobs.netflix.net/careers/job/790312348360?microsite=vansh.nyc&utm_source=github-vansh-ouckah"
+  },
+  "145c8221e3facc38": {
+    "company": "Chime",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco, CA, USA",
+    "posted_at": "2026-08-28T14:34:13-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Support Foundations",
+    "role_category": "swe",
+    "source": "Greenhouse:chime",
+    "url": "https://boards.greenhouse.io/chime/jobs/8607195002?gh_jid=8607195002",
+    "verified": true,
+    "verify_reason": "No minimum years of experience specified.",
+    "years_required": 0
   },
   "1467166fc947d845": {
     "company": "S&P Global",
@@ -3331,6 +3359,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3/apply"
+  },
+  "1a05ba8687153ab7": {
+    "company": "ByteDance",
+    "first_seen": "2026-08-31",
+    "location": "San Jose, CA",
+    "posted_at": "2026-08-28T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Engineer (AI Applications)",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://joinbytedance.com/search/7540808448918079752?utm_source=vansh"
   },
   "1a06111a3fae81c5": {
     "company": "NVIDIA",
@@ -4828,6 +4867,20 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1?utm_source=github-vansh-ouckah"
   },
+  "264053c9a1da86ff": {
+    "company": "Robinhood",
+    "first_seen": "2026-08-31",
+    "location": "Bellevue, WA; Menlo Park, CA",
+    "posted_at": "2026-08-30T03:05:58-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Proactive Capabilities",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&gh_jid=8067604",
+    "verified": true,
+    "verify_reason": "No minimum years of experience required in description.",
+    "years_required": 0
+  },
   "264cf2ed46c3065d": {
     "company": "Jump Trading",
     "first_seen": "2026-07-10",
@@ -5246,6 +5299,17 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://resapp.swri.org/ResApp/Job_Details.aspx?JOB_CD=10-01525&utm_source=github-vansh-ouckah"
   },
+  "29ab60c5339152bd": {
+    "company": "Commure",
+    "first_seen": "2026-08-31",
+    "location": "Mountain View, CA",
+    "posted_at": "2026-08-28T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8?utm_source=vansh"
+  },
   "29cf563823e0d7d7": {
     "company": "Morgan Stanley",
     "first_seen": "2026-04-28",
@@ -5421,6 +5485,20 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Oak-Brook-Illinois-United-States-of-America/Registered-Client-Relationship-Analyst_JR029392"
+  },
+  "2acb8b68d5883f33": {
+    "company": "Vercel",
+    "first_seen": "2026-08-31",
+    "location": "Hybrid - San Francisco, New York City",
+    "posted_at": "2026-08-25T07:09:48-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Data Platform ",
+    "role_category": "swe",
+    "source": "Greenhouse:vercel",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6161129004",
+    "verified": true,
+    "verify_reason": "Requires 1-3 years of experience in data or infrastructure engineering.",
+    "years_required": 1
   },
   "2ad4a95e54db98b4": {
     "company": "Morgan Stanley",
@@ -6180,6 +6258,20 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://githubinc.jibeapply.com/jobs/4640?utm_source=github-vansh-ouckah"
+  },
+  "2f825e3dd36d2588": {
+    "company": "Chime",
+    "first_seen": "2026-08-31",
+    "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
+    "posted_at": "2026-08-28T14:33:37-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Infrastructure",
+    "role_category": "swe",
+    "source": "Greenhouse:chime",
+    "url": "https://boards.greenhouse.io/chime/jobs/8573625002?gh_jid=8573625002",
+    "verified": true,
+    "verify_reason": "Requires 2\u20134 years of software engineering experience.",
+    "years_required": 2
   },
   "2fa25d7a83dbf9d2": {
     "company": "Hermeus",
@@ -8414,6 +8506,20 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "431deac00d5b7eaf": {
+    "company": "Scaleai",
+    "first_seen": "2026-08-31",
+    "location": "Colorado Springs, CO; Omaha, NE; St. Louis, MO; Washington, DC",
+    "posted_at": "2026-08-26T14:31:52-04:00",
+    "posting_type": "verified_entry",
+    "role": "Field Engineer, Data Engine",
+    "role_category": "swe",
+    "source": "Greenhouse:scaleai",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4518690005",
+    "verified": true,
+    "verify_reason": "No minimum years of experience required; requires active clearance.",
+    "years_required": 0
+  },
   "43473b31514cd449": {
     "company": "SpaceX",
     "first_seen": "2026-08-05",
@@ -8424,6 +8530,20 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002"
+  },
+  "435a4e75f421ab90": {
+    "company": "Robinhood",
+    "first_seen": "2026-08-31",
+    "location": "Bellevue, WA; Menlo Park, CA",
+    "posted_at": "2026-08-25T14:51:29-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Cryptography",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370",
+    "verified": true,
+    "verify_reason": "No minimum years required; open to engineers learning on the job.",
+    "years_required": 0
   },
   "43731ba9f04783ed": {
     "company": "Morgan Stanley",
@@ -11637,6 +11757,20 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Equity-Research-Associate---Media---Entertainment_JR037737-2"
   },
+  "5c5cd6147cac1565": {
+    "company": "Chime",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco, CA, USA",
+    "posted_at": "2026-08-28T14:34:03-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Membership",
+    "role_category": "swe",
+    "source": "Greenhouse:chime",
+    "url": "https://boards.greenhouse.io/chime/jobs/8614188002?gh_jid=8614188002",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of software development experience.",
+    "years_required": 2
+  },
   "5c5ea6f16a706df1": {
     "company": "TikTok",
     "first_seen": "2026-08-10",
@@ -11912,6 +12046,20 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "5dc9bcf8a044f2d2": {
+    "company": "Discord",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco Bay Area",
+    "posted_at": "2026-08-25T17:50:05-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Developer Success",
+    "role_category": "swe",
+    "source": "Greenhouse:discord",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8609250002",
+    "verified": true,
+    "verify_reason": "Requires at least 1-3 years of software engineering experience.",
+    "years_required": 1
+  },
   "5dc9e52714d1a5d8": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
@@ -11999,6 +12147,17 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.workatastartup.com/jobs/80435?utm_source=github-vansh-ouckah"
+  },
+  "5f1d6a6d63b09ffa": {
+    "company": "Samsara",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-08-28T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineering",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://www.samsara.com/company/careers/roles/7172579?utm_source=vansh"
   },
   "5f476eccf7a00749": {
     "company": "RTX",
@@ -12924,6 +13083,20 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://careers-jobyaviation.icims.com/jobs/5085/software-engineering-intern/job"
   },
+  "66f8af5d571695c0": {
+    "company": "Chime",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco, CA, USA",
+    "posted_at": "2026-08-28T14:33:54-04:00",
+    "posting_type": "verified_entry",
+    "role": "Full-Stack Engineer, Human Agent Tooling ",
+    "role_category": "swe",
+    "source": "Greenhouse:chime",
+    "url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002",
+    "verified": true,
+    "verify_reason": "Accepts roughly 1+ years or equivalent through internships and projects.",
+    "years_required": 0
+  },
   "66fdb00e9541bd8f": {
     "company": "Adobe",
     "first_seen": "2026-04-28",
@@ -12945,6 +13118,20 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590"
+  },
+  "671e4f148115cb27": {
+    "company": "Scaleai",
+    "first_seen": "2026-08-31",
+    "location": "Austin, TX; Colorado Springs, CO; Omaha, NE; St. Louis, MO; Washington, DC",
+    "posted_at": "2026-08-26T14:32:14-04:00",
+    "posting_type": "verified_entry",
+    "role": "Field Engineer, Public Sector",
+    "role_category": "swe",
+    "source": "Greenhouse:scaleai",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717648005",
+    "verified": true,
+    "verify_reason": "No minimum years of experience specified; requires TS/SCI clearance.",
+    "years_required": 0
   },
   "672e734eb180cb23": {
     "company": "Allegion",
@@ -14012,6 +14199,20 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "70769a699ac34c04": {
+    "company": "Lyft",
+    "first_seen": "2026-08-31",
+    "location": "Seattle, WA",
+    "posted_at": "2026-08-26T16:51:51-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Fulfillment Core Services",
+    "role_category": "swe",
+    "source": "Greenhouse:lyft",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8716222002?gh_jid=8716222002",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of industry experience and has non-senior scope.",
+    "years_required": 2
   },
   "70862c7789860a35": {
     "company": "Autodesk",
@@ -16807,6 +17008,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-17220"
   },
+  "86ee313ceb3f6c2f": {
+    "company": "TikTok",
+    "first_seen": "2026-08-31",
+    "location": "San Jose, CA",
+    "posted_at": "2026-08-28T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP)",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://lifeattiktok.com/search/7541178634444589319?utm_source=vansh"
+  },
   "870f07a32ded347e": {
     "company": "TraceRoot.AI",
     "first_seen": "2026-04-28",
@@ -18897,6 +19109,19 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://careers.datadoghq.com/detail/7127832/?utm_source=github-vansh-ouckah"
   },
+  "97e63133e7e61d0f": {
+    "company": "Stripe",
+    "first_seen": "2026-08-31",
+    "location": "SEA, SF, NY, Toronto",
+    "posted_at": "2026-08-24T19:07:56-04:00",
+    "posting_type": "verified_entry",
+    "role": "Backend Engineer, Developer & End-user Experience Platform",
+    "role_category": "swe",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=7476555",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
+  },
   "981473de0aa1d7dd": {
     "company": "State Street",
     "first_seen": "2026-04-28",
@@ -20327,6 +20552,20 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "a34afa6372af25ab": {
+    "company": "Waymo",
+    "first_seen": "2026-08-31",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA",
+    "posted_at": "2026-08-25T21:06:08-04:00",
+    "posting_type": "verified_entry",
+    "role": "Foundation Model Data, Software Engineer",
+    "role_category": "swe",
+    "source": "Greenhouse:waymo",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8031883",
+    "verified": true,
+    "verify_reason": "Undergraduate degree required with no minimum experience specified.",
+    "years_required": 0
+  },
   "a353bb5658902652": {
     "company": "Booz Allen",
     "first_seen": "2026-05-19",
@@ -20392,6 +20631,20 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.johnsoncontrols.com/job/WD30258854?ccuid=68244445570&ittk=3XH3IR0E9M&utm_source=github-vansh-ouckah"
+  },
+  "a470985831761235": {
+    "company": "Robinhood",
+    "first_seen": "2026-08-31",
+    "location": "Menlo Park, CA",
+    "posted_at": "2026-08-25T14:36:41-04:00",
+    "posting_type": "verified_entry",
+    "role": "iOS Engineer, Money Experience",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027",
+    "verified": true,
+    "verify_reason": "No explicit minimum years of experience required in the job description.",
+    "years_required": 0
   },
   "a477824781877539": {
     "company": "TEL",
@@ -20766,6 +21019,19 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "a7da6913e520e54b": {
+    "company": "Robinhood",
+    "first_seen": "2026-08-31",
+    "location": "Menlo Park, CA",
+    "posted_at": "2026-08-25T14:36:41-04:00",
+    "posting_type": "verified_entry",
+    "role": "Android Engineer, Money Experience",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
   },
   "a80ed03191864f2e": {
     "company": "Morgan Stanley",
@@ -23274,6 +23540,19 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011"
+  },
+  "bfca29df1bd339cc": {
+    "company": "Robinhood",
+    "first_seen": "2026-08-31",
+    "location": "New York, NY",
+    "posted_at": "2026-08-25T14:36:41-04:00",
+    "posting_type": "verified_entry",
+    "role": "iOS Engineer, Government Products",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
   },
   "bfd6c39066b3e7d9": {
     "company": "GoFundMe",
@@ -26003,6 +26282,19 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Pittsburgh-Pennsylvania-United-States-of-America/Registered-Client-Relationship-Analyst_JR036150-1"
   },
+  "d7425c7af7ea1e4d": {
+    "company": "Robinhood",
+    "first_seen": "2026-08-31",
+    "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
+    "posted_at": "2026-08-25T14:36:41-04:00",
+    "posting_type": "verified_entry",
+    "role": "Full Stack Software Engineer, Credit Cards & Banking",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
+  },
   "d74b20dcdf0aefa2": {
     "company": "Staples Inc.",
     "first_seen": "2026-04-28",
@@ -26123,6 +26415,20 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/New-York-New-York-United-States-of-America/Natural-Gas-Scheduling---Commodities---Fixed-Income---Analyst_JR034855"
+  },
+  "d86e2d064c8d37ff": {
+    "company": "Elastic",
+    "first_seen": "2026-08-31",
+    "location": "United States",
+    "posted_at": "2026-08-27T11:26:09-04:00",
+    "posting_type": "verified_entry",
+    "role": "UX & Front End Engineer, AI ",
+    "role_category": "swe",
+    "source": "Greenhouse:elastic",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8154995&gh_jid=8154995",
+    "verified": true,
+    "verify_reason": "No minimum years of experience specified and non-senior scope.",
+    "years_required": 0
   },
   "d874c7f1d8b8de90": {
     "company": "Nuro",
@@ -28401,6 +28707,20 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://careers-jobyaviation.icims.com/jobs/5168/software-engineer-intern----air-taxi/job"
   },
+  "ec849d37e2142aee": {
+    "company": "Robinhood",
+    "first_seen": "2026-08-31",
+    "location": "Menlo Park, CA; New York, NY",
+    "posted_at": "2026-08-25T14:36:41-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Wallet",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8088444?t=gh_src=&gh_jid=8088444",
+    "verified": true,
+    "verify_reason": "No minimum years of experience specified in requirements.",
+    "years_required": 0
+  },
   "ecb3eb9d96c0b1c4": {
     "company": "PwC (Campus)",
     "first_seen": "2026-04-29",
@@ -28797,6 +29117,20 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "f140a0abb134adbd": {
+    "company": "Chime",
+    "first_seen": "2026-08-31",
+    "location": "Remote, USA",
+    "posted_at": "2026-08-28T14:33:40-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, AI Enablement",
+    "role_category": "swe",
+    "source": "Greenhouse:chime",
+    "url": "https://boards.greenhouse.io/chime/jobs/8578967002?gh_jid=8578967002",
+    "verified": true,
+    "verify_reason": "No minimum years of experience stated; collaborates with senior engineers.",
+    "years_required": 0
+  },
   "f14713639ba8aba3": {
     "company": "Blackstone",
     "first_seen": "2026-04-28",
@@ -28851,6 +29185,20 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://jobs.ashbyhq.com/abridge/5a73a97b-d2c4-4cf3-8fce-081b3cb92a3b?utm_source=github-vansh-ouckah"
+  },
+  "f1f8c0812b73efc6": {
+    "company": "Robinhood",
+    "first_seen": "2026-08-31",
+    "location": "Menlo Park, CA; New York, NY",
+    "posted_at": "2026-08-25T14:36:41-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Backend",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592",
+    "verified": true,
+    "verify_reason": "No minimum experience stated for this general software engineering role.",
+    "years_required": 0
   },
   "f21bd38ae66cf08c": {
     "company": "Peraton",
@@ -29193,6 +29541,19 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
   },
+  "f4f94e0fdb9612d1": {
+    "company": "Robinhood",
+    "first_seen": "2026-08-31",
+    "location": "New York, NY",
+    "posted_at": "2026-08-25T14:36:41-04:00",
+    "posting_type": "verified_entry",
+    "role": "Android Engineer, Government Products",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
+  },
   "f512732226553ba8": {
     "company": "TikTok",
     "first_seen": "2026-08-10",
@@ -29390,6 +29751,19 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Denver-Colorado-United-States-of-America/PWM-Intern_JR031610"
+  },
+  "f754616d8cb54a1b": {
+    "company": "Stripe",
+    "first_seen": "2026-08-31",
+    "location": "Toronto, NY, SEA, SF",
+    "posted_at": "2026-08-27T15:00:25-04:00",
+    "posting_type": "verified_entry",
+    "role": "Backend Engineer, Developer & End-user Experience Platform",
+    "role_category": "swe",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=7557899",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
   },
   "f768c97f14bae3ee": {
     "company": "Magna International",
