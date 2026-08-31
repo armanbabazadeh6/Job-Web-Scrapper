@@ -215,7 +215,7 @@ def _call_with_fallback(
     else:
         candidates = list(models)
     for m in candidates:
-        for attempt in (1, 2):
+        for attempt in (1, 2, 3):
             try:
                 arr = _call_llm(base_url, m, api_key, items, max_years)
                 if state.get("working") != m:
@@ -224,7 +224,9 @@ def _call_with_fallback(
                 return arr
             except Exception as e:
                 print(f"    ! LLM {m} attempt {attempt} failed: {e}")
-                time.sleep(3)
+                # 503 "high demand" clears with patience; back off longer
+                # on later attempts.
+                time.sleep(5 if attempt == 1 else 15)
         time.sleep(5)
     if not state.get("probed"):
         state["probed"] = True
