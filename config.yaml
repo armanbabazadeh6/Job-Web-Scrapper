@@ -328,6 +328,10 @@ remote_boards:
 # requests_per_day to respect the free tier.
 jsearch:
   enabled: true
+  # RapidAPI gateway host for the JSearch subscription (shown on the app page
+  # under "request URL"). jsearch.p.rapidapi.com is APIDojo's main deployment;
+  # some subscriptions live on jsearch1/2/3 instead.
+  host: jsearch.p.rapidapi.com
   date_posted: 3days        # broad fetch; our own 24h filter trims the rest
   employment_types: FULLTIME
   requests_per_day: 24

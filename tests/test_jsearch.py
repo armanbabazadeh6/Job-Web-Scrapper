@@ -20,6 +20,9 @@ class TestJSearchDatetime:
 
 
 class _FakeResp:
+    status_code = 200
+    text = ""
+
     def __init__(self, payload):
         self._payload = payload
 

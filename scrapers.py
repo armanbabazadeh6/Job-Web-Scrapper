@@ -485,7 +485,7 @@ def fetch_wwr(category: str) -> list[Posting]:
 # JSEARCH_API_KEY secret; main.py rotates one query per run to respect
 # free-tier quotas.
 
-JSEARCH_HOST = "jsearch.p.rapidapi.com"
+JSEARCH_DEFAULT_HOST = "jsearch.p.rapidapi.com"
 
 
 def _parse_jsearch_datetime(s: Optional[str]) -> Optional[datetime]:
@@ -503,9 +503,10 @@ def fetch_jsearch(query: str, cfg: dict) -> list[Posting]:
     if not api_key:
         print("  ! jsearch: JSEARCH_API_KEY not set — skipping")
         return []
+    host = cfg.get("host") or JSEARCH_DEFAULT_HOST
     try:
         r = requests.get(
-            f"https://{JSEARCH_HOST}/search",
+            f"https://{host}/search",
             params={
                 "query": query,
                 "date_posted": cfg.get("date_posted", "3days"),
@@ -514,11 +515,14 @@ def fetch_jsearch(query: str, cfg: dict) -> list[Posting]:
             },
             headers={
                 "X-RapidAPI-Key": api_key,
-                "X-RapidAPI-Host": JSEARCH_HOST,
+                "X-RapidAPI-Host": host,
             },
             timeout=TIMEOUT,
         )
-        r.raise_for_status()
+        if r.status_code >= 400:
+            detail = " ".join((r.text or "").split())[:200]
+            print(f"  ! jsearch HTTP {r.status_code} [{host}]: {detail}")
+            return []
         body = r.json() or {}
         data = body.get("data") or body.get("jobs_results") or []
         if not data:
