@@ -1,5 +1,6 @@
 """Location tiers, hot spots, and the remote-US survival fix."""
 from dataclasses import replace
+from datetime import datetime, timezone
 
 import main
 import notify
@@ -60,29 +61,65 @@ class TestRemoteUsSurvival:
             assert main.is_non_us_location(loc), loc
 
 
-class TestNotifyRendering:
-    def test_pin_and_star(self):
-        p = mk(location="Reston, VA")
-        pinned = notify._format_line(replace(p, hotspot=True), ["x"])
-        assert pinned.startswith("\u2b50 \U0001f4cd "), pinned
-        only_pin = notify._format_line(replace(p, hotspot=True), [])
-        assert only_pin.startswith("\U0001f4cd "), only_pin
-        plain = notify._format_line(p, [])
-        assert not plain.startswith("\U0001f4cd "), plain
+class TestEmbedRendering:
+    TYPE_META = {"label": "✅ Verified Entry-Level", "color": 0x1ABC9C}
+    CAT_META = {"label": "🤝 Solutions / Sales Engineering"}
 
-    def test_verify_note_rendered(self):
-        p = replace(mk(location="Reston, VA"), verify_note="\u2705 AI-verified")
-        line = notify._format_line(p, [])
-        assert "AI-verified" in line
-
-    def test_sort_hotspot_first(self):
-        fresh = replace(
-            mk(location="Austin, TX"),
-            posted_at=None,
+    def test_embed_structure(self):
+        p = replace(
+            mk(location="Reston, VA"),
+            hotspot=True,
+            verdict={
+                "verified": True, "years": 1, "salary": "$120k-$150k",
+                "fit_score": 4, "reason": "junior role, strong match",
+            },
+            description=(
+                "Acme builds widgets. About us: we are the best. "
+                "What you'll do: build integrations and ship features."
+            ),
         )
-        pinned = replace(mk(location="Reston, VA"), hotspot=True, posted_at=None)
+        e = notify.build_posting_embed(p, self.TYPE_META, self.CAT_META, [])
+        assert e["title"].startswith("\U0001f4cd ")
+        assert e["url"] == "https://x"
+        names = [f["name"] for f in e["fields"]]
+        assert "📍 Location" in names and "💰 Comp" in names and "🎯 Fit" in names
+        assert "junior role, strong match" in e["description"]
+        assert "What you'll do: build integrations" in e["description"]
+        assert "About us" not in e["description"]  # boilerplate skipped
+        assert "Solutions / Sales Engineering" in e["footer"]["text"]
 
-        def key(p):
-            return (0 if getattr(p, "hotspot", False) else 1,)
+    def test_star_prefix(self):
+        p = replace(mk(location="Reston, VA"))
+        e = notify.build_posting_embed(p, self.TYPE_META, self.CAT_META, ["x"])
+        assert e["title"].startswith("\u2b50 ")
 
-        assert key(pinned) < key(fresh)
+    def test_no_verdict_still_renders(self):
+        p = mk(location="Remote")
+        e = notify.build_posting_embed(p, self.TYPE_META, self.CAT_META, [])
+        assert e["title"] and e["fields"]
+        assert e["description"] == "—"
+
+
+class TestJdExcerpt:
+    def test_anchor_jump(self):
+        d = "About Acme. We are great. " + "filler " * 100 + "What you'll do: ship features."
+        assert notify._jd_excerpt(d).startswith("What you'll do")
+
+    def test_no_anchor_uses_start(self):
+        assert notify._jd_excerpt("Plain description starts here").startswith("Plain")
+
+    def test_truncation(self):
+        out = notify._jd_excerpt("word " * 500, limit=50)
+        assert len(out) <= 60 and out.endswith("…")
+
+    def test_empty(self):
+        assert notify._jd_excerpt(None) == ""
+
+
+class TestPostedAgo:
+    def test_units(self):
+        from datetime import timedelta
+        now = datetime.now(timezone.utc)
+        assert "m ago" in notify._posted_ago(now - timedelta(minutes=45))
+        assert "h ago" in notify._posted_ago(now - timedelta(hours=3))
+        assert notify._posted_ago(None) == "unknown"

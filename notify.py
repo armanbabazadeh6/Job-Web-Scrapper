@@ -1,67 +1,122 @@
-"""Discord webhook notifier — sends sectioned messages grouped by posting type & role category."""
+"""Discord webhook notifier — one clean, readable embed per posting.
+
+Each posting sends its own embed: clickable title, labeled metadata fields,
+and an excerpt of the actual job description so nobody has to leave Discord
+to know what the job is.
+"""
 from __future__ import annotations
 
 import time
 from datetime import datetime, timezone
-from typing import Iterable, Optional
+from typing import Optional
 
 import requests
 
 from scrapers import Posting
 
 DEFAULT_COLOR = 0x5865F2
-EMBED_DESC_LIMIT = 4000  # Discord caps at 4096; leave headroom
 
-HOT_24H = "🔥🔥 "
-HOT_48H = "🔥 "
+# JD excerpting: skip the company boilerplate and start at the first
+# responsibilities-flavored anchor when one sits early in the text.
+_SECTION_ANCHORS = [
+    "what you'll do", "what you will do", "responsibilities", "you will",
+    "requirements", "about the role", "the role", "key responsibilities",
+    "what you'll be doing", "your impact", "day to day", "what you get to do",
+]
+_EXCERPT_CHARS = 1000
 
 
-def _hot_badge(posted_at: Optional[datetime]) -> str:
+def _posted_ago(posted_at: Optional[datetime]) -> str:
     if posted_at is None:
-        return ""
+        return "unknown"
     if posted_at.tzinfo is None:
         posted_at = posted_at.replace(tzinfo=timezone.utc)
     hours = (datetime.now(timezone.utc) - posted_at).total_seconds() / 3600
     if hours < 0:
         hours = 0
-    if hours <= 24:
-        return HOT_24H
-    if hours <= 48:
-        return HOT_48H
-    return ""
+    if hours < 1:
+        return f"{max(0, int(hours * 60))}m ago"
+    if hours < 24:
+        return f"{int(hours)}h ago"
+    return f"{int(hours / 24)}d ago"
 
 
-def _format_line(p: Posting, favs: Optional[list] = None) -> str:
-    badge = _hot_badge(p.posted_at)
-    label = f"{p.company} — {p.role}"
-    head = f"[{label}]({p.url})" if p.url else f"**{label}**"
-    star = "⭐ " if favs and any(f in p.company.lower() for f in favs) else ""
-    pin = "📍 " if getattr(p, "hotspot", False) else ""
-    line = f"{star}{pin}{badge}{head}"
+def _ts(p: Posting) -> float:
+    if p.posted_at is None:
+        return 0.0
+    if p.posted_at.tzinfo is None:
+        p.posted_at = p.posted_at.replace(tzinfo=timezone.utc)
+    return -p.posted_at.timestamp()
+
+
+def _jd_excerpt(description: Optional[str], limit: int = _EXCERPT_CHARS) -> str:
+    if not description:
+        return ""
+    text = description.strip()
+    lower = text[:2500].lower()
+    best = -1
+    for anchor in _SECTION_ANCHORS:
+        idx = lower.find(anchor)
+        if idx != -1 and (best == -1 or idx < best):
+            best = idx
+    if best > 0:
+        text = text[best:]
+    if len(text) > limit:
+        text = text[:limit].rsplit(" ", 1)[0] + "…"
+    return text
+
+
+def build_posting_embed(
+    p: Posting, pt: dict, cat: dict, favs: Optional[list] = None
+) -> dict:
+    """One posting -> one Discord embed."""
+    v = getattr(p, "verdict", None) or {}
+    title = f"{p.company} — {p.role}".strip()
+    if favs and any(f in p.company.lower() for f in favs):
+        title = f"⭐ {title}"
+    if getattr(p, "hotspot", False):
+        title = f"📍 {title}"
+    title = title[:250]
+
+    fields: list[dict] = []
     if p.location:
-        line += f" · {p.location}"
-    note = getattr(p, "verify_note", None)
-    if note:
-        line += f" · {note}"
-    return line
+        fields.append({"name": "📍 Location", "value": str(p.location)[:1024], "inline": True})
+    if v.get("salary"):
+        fields.append({"name": "💰 Comp", "value": str(v["salary"])[:1024], "inline": True})
+    yrs = v.get("years")
+    if v:
+        exp = "new-grad friendly" if not yrs else f"~{yrs} yr" + ("" if yrs == 1 else "s")
+        fields.append({"name": "🎓 Exp", "value": exp, "inline": True})
+    fit = getattr(p, "fit", None) or v.get("fit_score")
+    if fit:
+        fields.append({"name": "🎯 Fit", "value": f"{fit}/5", "inline": True})
+    if v.get("clearance_required"):
+        fields.append({"name": "🔐 Clearance", "value": "required", "inline": True})
+    fields.append({"name": "🕐 Posted", "value": _posted_ago(p.posted_at), "inline": True})
 
+    desc_parts = []
+    if v.get("verified") and v.get("reason"):
+        desc_parts.append(f"*{v['reason']}*")
+    excerpt = _jd_excerpt(getattr(p, "description", None))
+    if excerpt:
+        desc_parts.append(excerpt)
+    description = "\n\n".join(desc_parts)[:4000] or "—"
 
-def _chunk_lines(lines: list[str], max_chars: int) -> list[list[str]]:
-    chunks: list[list[str]] = []
-    current: list[str] = []
-    current_len = 0
-    for line in lines:
-        line_len = len(line) + 1  # +1 for newline
-        if current and current_len + line_len > max_chars:
-            chunks.append(current)
-            current = [line]
-            current_len = line_len
+    embed: dict = {
+        "title": title,
+        "description": description,
+        "color": pt.get("color", DEFAULT_COLOR),
+        "fields": fields,
+        "footer": {"text": f"{pt['label']} · {cat['label']}"},
+    }
+    if p.url:
+        embed["url"] = p.url
+    if p.posted_at:
+        if p.posted_at.tzinfo is None:
+            embed["timestamp"] = p.posted_at.replace(tzinfo=timezone.utc).isoformat()
         else:
-            current.append(line)
-            current_len += line_len
-    if current:
-        chunks.append(current)
-    return chunks
+            embed["timestamp"] = p.posted_at.isoformat()
+    return embed
 
 
 def _post(webhook_url: str, payload: dict) -> None:
@@ -71,10 +126,10 @@ def _post(webhook_url: str, payload: dict) -> None:
         time.sleep(retry + 0.5)
         resp = requests.post(webhook_url, json=payload, timeout=30)
     resp.raise_for_status()
-    time.sleep(0.7)  # gentle on rate limit
+    time.sleep(0.7)  # gentle on rate limits
 
 
-def notify_discord_grouped(
+def notify_discord_postings(
     groups: dict[tuple[str, str], list[Posting]],
     type_meta: dict,
     cat_meta: dict,
@@ -83,6 +138,8 @@ def notify_discord_grouped(
     webhook_url: str,
     favorites: Optional[list] = None,
 ) -> None:
+    """Sends one embed per posting, best matches first (hot spot, then fit,
+    then freshness)."""
     if not groups:
         return
     if not webhook_url:
@@ -90,44 +147,31 @@ def notify_discord_grouped(
         return
 
     favs = [f.lower() for f in (favorites or [])]
-
-    total = sum(len(v) for v in groups.values())
-    hot_count = sum(
-        1 for ps in groups.values() for p in ps if _hot_badge(p.posted_at)
-    )
-    header = f"🆕 **{total} new posting(s)** matching your filters"
-    if hot_count:
-        header += f"  ·  🔥 **{hot_count}** posted in the last 48h"
-    _post(webhook_url, {"content": header})
-
-    sorted_keys = sorted(
+    flat: list[tuple[str, str, Posting]] = []
+    for key in sorted(
         groups.keys(),
         key=lambda k: (type_order.index(k[0]), cat_order.index(k[1])),
-    )
+    ):
+        for p in sorted(
+            groups[key],
+            key=lambda q: (
+                0 if getattr(q, "hotspot", False) else 1,
+                -(getattr(q, "fit", None) or 0),
+                _ts(q),
+                q.company.lower(),
+                q.role.lower(),
+            ),
+        ):
+            flat.append((key[0], key[1], p))
 
-    for (pt_key, cat_key) in sorted_keys:
-        postings = groups[(pt_key, cat_key)]
-        pt = type_meta[pt_key]
-        cat = cat_meta[cat_key]
-        title = f"{pt['label']} — {cat['label']} ({len(postings)})"
-        color = pt.get("color", DEFAULT_COLOR)
+    hot = sum(1 for _, _, p in flat if getattr(p, "hotspot", False))
+    header = f"🆕 **{len(flat)}** new posting(s)"
+    if hot:
+        header += f" · 📍 **{hot}** in your areas"
+    _post(webhook_url, {"content": header})
 
-        def _sort_key(p: Posting) -> tuple:
-            b = _hot_badge(p.posted_at)
-            rank = 0 if b == HOT_24H else (1 if b == HOT_48H else 2)
-            hot = 0 if getattr(p, "hotspot", False) else 1
-            fit = -(getattr(p, "fit", None) or 0)
-            return (hot, fit, rank, p.company.lower(), p.role.lower())
-
-        postings_sorted = sorted(postings, key=_sort_key)
-        lines = [_format_line(p, favs) for p in postings_sorted]
-        chunks = _chunk_lines(lines, EMBED_DESC_LIMIT)
-
-        for i, chunk in enumerate(chunks):
-            chunk_title = title if len(chunks) == 1 else f"{title} — part {i+1}/{len(chunks)}"
-            embed = {
-                "title": chunk_title,
-                "description": "\n".join(chunk),
-                "color": color,
-            }
-            _post(webhook_url, {"embeds": [embed]})
+    for pt_key, cat_key, p in flat:
+        embed = build_posting_embed(
+            p, type_meta[pt_key], cat_meta[cat_key], favs
+        )
+        _post(webhook_url, {"embeds": [embed]})

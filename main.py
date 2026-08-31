@@ -14,7 +14,7 @@ from typing import Optional
 import yaml
 
 import llm_verify
-from notify import notify_discord_grouped
+from notify import notify_discord_postings
 from scrapers import (
     Posting,
     fetch_ashby,
@@ -309,24 +309,20 @@ def categorize(
 
 
 def _verify_note(v: dict) -> str:
+    """Compact one-line summary of a verdict (used in logs, not Discord)."""
     parts: list[str] = []
     if v.get("verified"):
         yrs = v.get("years")
-        if yrs is None:
-            parts.append("✅ AI-verified")
-        elif yrs == 0:
-            parts.append("✅ AI-verified · new-grad friendly")
-        else:
-            parts.append(f"✅ AI-verified · ~{yrs} yrs exp")
+        parts.append("verified" if yrs is None else f"verified {yrs}y")
     else:
-        parts.append("⚠️ not AI-verified")
+        parts.append("unverified")
     if v.get("salary"):
         parts.append(str(v["salary"]))
     fit = v.get("fit_score")
     if fit:
         parts.append(f"fit {fit}/5")
     if v.get("clearance_required"):
-        parts.append("🔐 clearance req")
+        parts.append("clearance")
     return " · ".join(parts)
 
 
@@ -482,15 +478,17 @@ def main() -> int:
             for p in new_groups.pop(key):
                 verify_by_cat[key[1]].append(p)
 
+    verdict_results: dict[str, dict] = {}
+    verify_descs: dict[str, Optional[str]] = {}
+    workday_lookup = {
+        f"Workday:{wd['name']}": (wd["base"], wd["site"])
+        for wd in cfg.get("workday_boards") or []
+    }
     if verify_by_cat:
         items = [p for ps in verify_by_cat.values() for p in ps]
         llm_cfg = {**(cfg.get("llm") or {}), "profile": cfg.get("profile") or {}}
-        workday_lookup = {
-            f"Workday:{wd['name']}": (wd["base"], wd["site"])
-            for wd in cfg.get("workday_boards") or []
-        }
         print(f"-> Verifying {len(items)} ambiguous posting(s) for entry-level")
-        verdict_results, verdicts = llm_verify.verify_postings(
+        verdict_results, verdicts, verify_descs = llm_verify.verify_postings(
             items, workday_lookup, llm_cfg, llm_verify.load_verdicts(VERDICTS_PATH)
         )
         llm_verify.save_verdicts(VERDICTS_PATH, verdicts)
@@ -506,9 +504,29 @@ def main() -> int:
                     continue
                 passed += 1
                 new_groups[("verified_entry", cat)].append(
-                    replace(p, verify_note=_verify_note(v), fit=v.get("fit_score"))
+                    replace(
+                        p,
+                        verdict=v,
+                        fit=v.get("fit_score"),
+                        description=verify_descs.get(p.id) or p.description,
+                    )
                 )
         print(f"   {passed}/{len(items)} passed entry-level verification")
+
+    # Explicit new-grad postings skip the verifier, so their embeds would
+    # have no JD excerpt. Fetch descriptions for them cheaply (one call per
+    # new posting, capped so bursts can't stall the run).
+    desc_budget = 30
+    for key, postings in new_groups.items():
+        if key[0] == "verify":
+            continue
+        for i, p in enumerate(postings):
+            if p.description or desc_budget <= 0:
+                continue
+            d = llm_verify.fetch_description(p, workday_lookup)
+            desc_budget -= 1
+            if d:
+                postings[i] = replace(p, description=d[:4000])
 
     new_total = sum(len(v) for v in new_groups.values())
     print(f"   {new_total} are new (not in seen.json)")
@@ -519,7 +537,7 @@ def main() -> int:
         cat_meta = {c["key"]: c for c in cfg["role_categories"]}
         type_order = [pt["key"] for pt in cfg["posting_types"]]
         cat_order = [c["key"] for c in cfg["role_categories"]]
-        notify_discord_grouped(
+        notify_discord_postings(
             new_groups, type_meta, cat_meta, type_order, cat_order, webhook,
             favorites=cfg.get("favorite_companies") or [],
         )

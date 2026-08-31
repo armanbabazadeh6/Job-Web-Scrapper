@@ -1,4 +1,4 @@
-"""Integration tests for the verify pipeline — the LLM is mocked, no network."""
+﻿"""Integration tests for the verify pipeline — the LLM is mocked, no network."""
 import llm_verify
 from scrapers import Posting
 
@@ -49,7 +49,7 @@ class TestLlmFlow:
 
         _mock_llm(monkeypatch, fake_call)
         postings = [mk(i) for i in range(4)]
-        results, verdicts = llm_verify.verify_postings(postings, {}, CFG, {})
+        results, verdicts, _descs = llm_verify.verify_postings(postings, {}, CFG, {})
 
         assert len(batches) == 2  # batch_size 2 -> two calls
         assert all(r["entry_level"] and r["verified"] for r in results.values())
@@ -66,11 +66,11 @@ class TestLlmFlow:
 
         _mock_llm(monkeypatch, fake_call)
         postings = [mk(i) for i in range(2)]
-        _, verdicts = llm_verify.verify_postings(postings, {}, CFG, {})
+        _, verdicts, _ = llm_verify.verify_postings(postings, {}, CFG, {})
         assert len(batches) == 1
 
         # second run with the populated cache: zero new calls
-        results2, _ = llm_verify.verify_postings(postings, {}, CFG, dict(verdicts))
+        results2, _, _ = llm_verify.verify_postings(postings, {}, CFG, dict(verdicts))
         assert len(batches) == 1
         assert len(results2) == 2
 
@@ -80,7 +80,7 @@ class TestLlmFlow:
 
         _mock_llm(monkeypatch, boom)
         p = mk(1)
-        results, _ = llm_verify.verify_postings([p], {}, CFG, {})
+        results, _, _ = llm_verify.verify_postings([p], {}, CFG, {})
         r = results[p.id]
         assert r["entry_level"] is True and r["verified"] is False
 
@@ -88,13 +88,13 @@ class TestLlmFlow:
         called = []
         _mock_llm(monkeypatch, lambda *a, **k: called.append(1))
         p = mk(1, desc="Requires 8+ years of experience leading teams.")
-        results, _ = llm_verify.verify_postings([p], {}, CFG, {})
+        results, _, _ = llm_verify.verify_postings([p], {}, CFG, {})
         assert results[p.id]["entry_level"] is False
         assert not called
 
     def test_no_description_rejected(self, monkeypatch):
         _mock_llm(monkeypatch, lambda *a, **k: (_ for _ in ()).throw(AssertionError("should not call")))
         p = mk(1, desc=None)
-        results, _ = llm_verify.verify_postings([p], {}, CFG, {})
+        results, _, _ = llm_verify.verify_postings([p], {}, CFG, {})
         assert results[p.id]["entry_level"] is False
         assert results[p.id]["reason"] == "no description available"

@@ -335,13 +335,17 @@ def verify_postings(
     workday_lookup: dict,
     cfg: dict,
     verdicts: dict,
-) -> tuple[dict[str, dict], dict]:
-    """Verifies postings; returns (results for these ids, updated cache).
+) -> tuple[dict[str, dict], dict, dict[str, Optional[str]]]:
+    """Verifies postings; returns (results for these ids, updated cache,
+    descriptions fetched along the way).
 
     Result fields: entry_level, years (int|None), verified (True = LLM made
-    the call, False = regex screen / fallback did), seniority, reason.
+    the call, False = regex screen / fallback did), seniority, salary,
+    clearance_required, fit_score, reason. Descriptions are returned so the
+    notifier can include a JD excerpt in the ping.
     """
     results: dict[str, dict] = {}
+    descs: dict[str, Optional[str]] = {}
     todo: list[Posting] = []
     for p in postings:
         v = verdicts.get(p.id)
@@ -350,7 +354,7 @@ def verify_postings(
         else:
             todo.append(p)
     if not todo:
-        return results, verdicts
+        return results, verdicts, descs
 
     hard_reject = int(cfg.get("hard_reject_years", 4))
     max_years = int(cfg.get("max_years", 2))
@@ -368,6 +372,7 @@ def verify_postings(
     needs_llm: list[tuple[Posting, str]] = []
     for p in todo:
         desc = fetch_description(p, workday_lookup)
+        descs[p.id] = desc
         if not desc:
             v = _verdict(False, None, False, "no description available")
         else:
@@ -438,7 +443,7 @@ def verify_postings(
             if i + batch_size < len(needs_llm):
                 time.sleep(pause)
 
-    return results, verdicts
+    return results, verdicts, descs
 
 
 # ---------- verdict cache ----------

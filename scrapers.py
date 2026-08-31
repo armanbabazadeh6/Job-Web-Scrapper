@@ -24,7 +24,7 @@ class Posting:
     posted_at: Optional[datetime] = None  # when the company posted it (UTC)
     api_id: Optional[str] = None       # source-specific id/path for detail lookups
     description: Optional[str] = None  # embedded description (Ashby/Lever)
-    verify_note: Optional[str] = None  # set when promoted by the LLM verifier
+    verdict: Optional[dict] = None     # set when promoted by the LLM verifier
     hotspot: bool = False              # in one of the configured hot-spot areas
     fit: Optional[int] = None         # LLM fit score 1-5 against the profile
 
