@@ -39,6 +39,14 @@
     "verified": true,
     "years": 0
   },
+  "14409caca595a0f4": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires understanding the engineering buyer and designing complex technical solutions.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "145c8221e3facc38": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -111,6 +119,14 @@
     "verified": false,
     "years": 7
   },
+  "2a17856b2e5dc693": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Enterprise-level role requiring advanced solution architecture and advisory skills.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "2acb8b68d5883f33": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -142,6 +158,14 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "2d5c97c5347ceb54": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "2f825e3dd36d2588": {
     "cached_at": "2026-08-31",
@@ -311,6 +335,14 @@
     "verified": true,
     "years": 1
   },
+  "6152633c6dd1ff8f": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "6249b08160fd839b": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -350,6 +382,14 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "655147e92d17e4c1": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires experienced developers with meaningful work in the OS kernel.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "66f8af5d571695c0": {
     "cached_at": "2026-08-31",
@@ -398,6 +438,14 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "71f5405eff408b37": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 4
   },
   "74e32d0fe800d085": {
     "cached_at": "2026-08-31",
@@ -638,6 +686,14 @@
     "seniority": "senior",
     "verified": true,
     "years": 5
+  },
+  "bf264c1e91140b0d": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Explicitly targets a Senior Solutions Engineer for complex enterprise customers.",
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
   },
   "bfca29df1bd339cc": {
     "cached_at": "2026-08-31",
