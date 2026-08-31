@@ -1,4 +1,36 @@
 {
+  "0382068f5b06d8b7": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
+  "048d1fb4bb3b7084": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
+  "09128030a7824fad": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
+  "0a6b4f3ffe828bf2": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Engineer II role denotes mid-level experience rather than new graduate.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
+  },
   "0fd7fea33b23b349": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -22,6 +54,22 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "18b7bbb4ab342d2a": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
+  "1c97a918427f829d": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 5+ years in a customer-embedded technical role.",
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
   },
   "1ff401d231919402": {
     "cached_at": "2026-08-31",
@@ -47,6 +95,22 @@
     "verified": true,
     "years": 0
   },
+  "2648c325a2c9afb0": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 3+ years of experience building large scale infra platforms.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "294e994cc0c21ee7": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 7
+  },
   "2acb8b68d5883f33": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -71,6 +135,14 @@
     "verified": true,
     "years": 3
   },
+  "2cec1d14ba6fbed1": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Requires Master's/PhD with no minimum years of experience specified.",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "2f825e3dd36d2588": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -78,6 +150,22 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "30a4b28e620af0be": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 6+ years of product management experience.",
+    "seniority": "senior",
+    "verified": true,
+    "years": 6
+  },
+  "3301e0805e2eef64": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "39f84c95b502ba95": {
     "cached_at": "2026-08-31",
@@ -95,6 +183,14 @@
     "verified": true,
     "years": 3
   },
+  "3b717dcb16c45abb": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 8
+  },
   "3f03d7b65169f618": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -102,6 +198,14 @@
     "seniority": null,
     "verified": false,
     "years": 4
+  },
+  "40b141b5a253cc84": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "431deac00d5b7eaf": {
     "cached_at": "2026-08-31",
@@ -119,6 +223,22 @@
     "verified": true,
     "years": 0
   },
+  "44e8ca035acdb19d": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 4+ years of industry experience and tech leadership.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
+  },
+  "4536462925805b8d": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Requires 2-3 years of experience with data pipelines and codebases.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "491289c166168d03": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -126,6 +246,14 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "4e07f3e8ae672a07": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "53081f76e018b1eb": {
     "cached_at": "2026-08-31",
@@ -142,6 +270,22 @@
     "seniority": "mid",
     "verified": true,
     "years": 2
+  },
+  "560ef0bd7d6d853f": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "5840aa2cc3535184": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "5947954422345528": {
     "cached_at": "2026-08-31",
@@ -167,6 +311,46 @@
     "verified": true,
     "years": 1
   },
+  "6249b08160fd839b": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 3+ years of software engineering experience.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "62afefa89c2ec218": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "6304e4fcac08c536": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Requires 2+ years of experience.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
+  "632d00d407845253": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Mid-level role designing scalable Kubernetes infrastructure and CI/CD pipelines.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "63cc6718f3b37ef8": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires demonstrated experience leading product and engineering strategy across multiple teams.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "66f8af5d571695c0": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -183,6 +367,22 @@
     "verified": true,
     "years": 0
   },
+  "6c04aadbb51e94f5": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 10
+  },
+  "6d6bb5f51f78e667": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "70769a699ac34c04": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -191,6 +391,62 @@
     "verified": true,
     "years": 2
   },
+  "71d2ab836c16cfd9": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
+  "74e32d0fe800d085": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 5+ years of professional software engineering experience.",
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
+  "765a18890b169357": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
+  "78557935b5aa05b2": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires prior product management experience and owning product roadmaps.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "78b52369920dbbad": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
+  "7b7cfb27f910d899": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
+  "7f578366b190ce3d": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "868484faed9da8aa": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -198,6 +454,38 @@
     "seniority": null,
     "verified": false,
     "years": 10
+  },
+  "8895a13cf810b7a4": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 8+ years managing corporate fleets at scale.",
+    "seniority": "senior",
+    "verified": true,
+    "years": 8
+  },
+  "89f92aa288aa8dd6": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 8
+  },
+  "8c0676fefe5237b9": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Requires 1+ years of industry experience.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
+  },
+  "8d04d8599189b57e": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 3+ years of backend programming experience.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "8f8e5d6673ccc45a": {
     "cached_at": "2026-08-31",
@@ -214,6 +502,14 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "9bcf07caf505b4b1": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires owning vendor management, leading tool consolidation, and technical autonomy.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "9dfabd997fd0e2f3": {
     "cached_at": "2026-08-31",
@@ -239,6 +535,14 @@
     "verified": true,
     "years": 0
   },
+  "a357d3e8ed01e8e9": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires a minimum of three years of industry experience.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "a470985831761235": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -246,6 +550,22 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "a55db3a0e0421f5a": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
+  "a6fcc0990b3ca1fc": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "a7da6913e520e54b": {
     "cached_at": "2026-08-31",
@@ -271,6 +591,22 @@
     "verified": true,
     "years": 0
   },
+  "b6fdeeb205047d3a": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "b709ac17931ea1e5": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires prior experience building runtimes, drivers, or firmware.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "b9b035187d355088": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -286,6 +622,14 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "ba60fe21f717cbff": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "be4b7abbabea8b16": {
     "cached_at": "2026-08-31",
@@ -307,6 +651,38 @@
     "cached_at": "2026-08-31",
     "entry_level": false,
     "reason": "no description available",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "c1ab3686132df1e2": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No years of experience required in qualifications.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "cb4735d44f40f2ee": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "No minimum years of experience required; entry-level software engineer role.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "cee0b3c027882cdd": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires 7+ years of product management experience.",
+    "seniority": "senior",
+    "verified": true,
+    "years": 7
+  },
+  "d209b875d51b83c4": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "LLM verdict missing (fallback)",
     "seniority": null,
     "verified": false,
     "years": null
@@ -334,6 +710,14 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "e284f11dfbcd375f": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "Requires track record of shipping products at large tech companies.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "e7841aad210741fa": {
     "cached_at": "2026-08-31",
@@ -375,6 +759,14 @@
     "verified": false,
     "years": null
   },
+  "f593fa0b324e2874": {
+    "cached_at": "2026-08-31",
+    "entry_level": true,
+    "reason": "Requires at least 2 years of professional C++ software experience.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "f6fd2f135d2a488b": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -398,5 +790,13 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "fe36c7f0226b70bb": {
+    "cached_at": "2026-08-31",
+    "entry_level": false,
+    "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 6
   }
 }

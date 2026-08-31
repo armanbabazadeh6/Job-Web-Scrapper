@@ -5863,6 +5863,20 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Chicago-Illinois-United-States-of-America/Client-Relationship-Analyst_JR029487"
   },
+  "2cec1d14ba6fbed1": {
+    "company": "Waymo",
+    "first_seen": "2026-08-31",
+    "location": "Mountain View, CA, US",
+    "posted_at": "2026-08-25T21:06:08-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Operational/ Process Efficiency ",
+    "role_category": "swe",
+    "source": "Greenhouse:waymo",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7926526",
+    "verified": true,
+    "verify_reason": "Requires Master's/PhD with no minimum years of experience specified.",
+    "years_required": 0
+  },
   "2cf4ad47b312a6e1": {
     "company": "TikTok",
     "first_seen": "2026-08-20",
@@ -8809,6 +8823,20 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/Chicago-Illinois-United-States-of-America/Registered-Client-Relationship-Analyst_JR035685-1"
   },
+  "4536462925805b8d": {
+    "company": "Waymo",
+    "first_seen": "2026-08-31",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+    "posted_at": "2026-08-25T21:06:08-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Statistical Evaluation and Sampling",
+    "role_category": "swe",
+    "source": "Greenhouse:waymo",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7543520",
+    "verified": true,
+    "verify_reason": "Requires 2-3 years of experience with data pipelines and codebases.",
+    "years_required": 2
+  },
   "45365c1e10c5a0cb": {
     "company": "Jabil",
     "first_seen": "2026-04-28",
@@ -10052,6 +10080,19 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c"
   },
+  "4e07f3e8ae672a07": {
+    "company": "Openai",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco",
+    "posted_at": "2026-08-24T18:48:55.627000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Systems Software Engineer, Silicon Bringup",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
+  },
   "4e08a3058e177a17": {
     "company": "ATPCO",
     "first_seen": "2026-05-27",
@@ -11063,6 +11104,19 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/job/New-York/BDC-Finance-Associate_42624-2"
+  },
+  "560ef0bd7d6d853f": {
+    "company": "Openai",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco",
+    "posted_at": "2026-08-24T16:34:31.338000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Model Runtime",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
   },
   "5616fae7ce960304": {
     "company": "ThirdLayer- YC(W25)",
@@ -12544,6 +12598,19 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Laguna-Niguel-California-United-States-of-America/Consulting-Group-Analyst_JR038323"
   },
+  "62afefa89c2ec218": {
+    "company": "Openai",
+    "first_seen": "2026-08-31",
+    "location": "New York City",
+    "posted_at": "2026-08-26T17:58:25.333000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Forward Deployed Engineer (FDE), Legal-NYC",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/51977acc-b1f8-48af-bde6-95ddba936d65",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
+  },
   "62dc364413e032f4": {
     "company": "Transcard",
     "first_seen": "2026-04-28",
@@ -12565,6 +12632,20 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "6304e4fcac08c536": {
+    "company": "Waymo",
+    "first_seen": "2026-08-31",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
+    "posted_at": "2026-08-25T21:06:08-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Perception Scaling Evaluation",
+    "role_category": "swe",
+    "source": "Greenhouse:waymo",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7449712",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of experience.",
+    "years_required": 2
   },
   "635a37a878ee162d": {
     "company": "Triumph Arcade",
@@ -17458,6 +17539,20 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/job/New-York-New-York-United-States-of-America/Central-Risk-Team-Analyst---Institutional-Securities-Group-Management_JR034786-1"
+  },
+  "8c0676fefe5237b9": {
+    "company": "Waymo",
+    "first_seen": "2026-08-31",
+    "location": "Mountain View, CA, USA; San Francisco, CA, USA ",
+    "posted_at": "2026-08-25T21:06:08-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Quantitative Evaluations",
+    "role_category": "swe",
+    "source": "Greenhouse:waymo",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7466534",
+    "verified": true,
+    "verify_reason": "Requires 1+ years of industry experience.",
+    "years_required": 1
   },
   "8c1cad1e4dd59385": {
     "company": "PwC (Campus)",
@@ -22694,6 +22789,19 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://mgic.wd5.myworkdayjobs.com/en-US/mgic/job/Milwaukee-WI/Data-Engineer-Intern_R2214"
   },
+  "b6fdeeb205047d3a": {
+    "company": "Openai",
+    "first_seen": "2026-08-31",
+    "location": "New York City",
+    "posted_at": "2026-08-27T16:14:22.852000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Forward Deployed Engineer (FDE), Legal-SF",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/832094fd-4d89-4fe4-bc18-9ba88d347a18",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
+  },
   "b70ad688460ceac4": {
     "company": "Moody's",
     "first_seen": "2026-04-28",
@@ -23089,6 +23197,19 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Lige/PwC-Audit-Academy-Associate-in-Industry---Lige---September-2026_664155WD"
+  },
+  "ba60fe21f717cbff": {
+    "company": "Cursor",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco",
+    "posted_at": "2026-08-24T20:53:14.551000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Pretraining",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/0320a8db-cb1b-407b-bd62-b23734b83330",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
   },
   "bac080f53a8ddb1d": {
     "company": "Blackstone",
@@ -23696,6 +23817,20 @@
     "role_category": "platform",
     "source": "vanshb03 Summer 2026 Internships",
     "url": ""
+  },
+  "c1ab3686132df1e2": {
+    "company": "Sierra",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-08-24T17:50:09.805000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Agent - Public Sector",
+    "role_category": "swe",
+    "source": "Ashby:sierra",
+    "url": "https://jobs.ashbyhq.com/sierra/c66b30fc-9588-4699-85c1-2166b23b8778",
+    "verified": true,
+    "verify_reason": "No years of experience required in qualifications.",
+    "years_required": 0
   },
   "c1d3e55864b77418": {
     "company": "Garner Health",
@@ -24830,6 +24965,20 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Private-Wealth-Management-Associate_JR033050-2"
   },
+  "cb4735d44f40f2ee": {
+    "company": "Cursor",
+    "first_seen": "2026-08-31",
+    "location": "San Francisco",
+    "posted_at": "2026-08-27T13:28:55.372000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, RL Data",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9",
+    "verified": true,
+    "verify_reason": "No minimum years of experience required; entry-level software engineer role.",
+    "years_required": 0
+  },
   "cb6f3a6979ce0a80": {
     "company": "Waypoint Transit",
     "first_seen": "2026-04-28",
@@ -25621,6 +25770,19 @@
     "role_category": "consulting",
     "source": "Workday:PwC (Campus)",
     "url": "https://pwc.wd3.myworkdayjobs.com/job/Trento/Test-Analyst-Specialist---Trento--DIG-_591159WD"
+  },
+  "d209b875d51b83c4": {
+    "company": "Vanta",
+    "first_seen": "2026-08-31",
+    "location": "Remote U.S.",
+    "posted_at": "2026-08-26T19:04:45.475000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Integrations Platform, Vanta For Government (V4G)",
+    "role_category": "swe",
+    "source": "Ashby:vanta",
+    "url": "https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a",
+    "verified": false,
+    "verify_reason": "LLM verdict missing (fallback)"
   },
   "d24d25380e3fbbb7": {
     "company": "Hermeus",
@@ -29575,6 +29737,20 @@
     "role_category": "platform",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://www.gd.com/careers/systems-engineer-intern-albany-ny-us-rq225289-gdit-opportunity?utm_source=github-vansh-ouckah"
+  },
+  "f593fa0b324e2874": {
+    "company": "Waymo",
+    "first_seen": "2026-08-31",
+    "location": "Mountain View, CA, US",
+    "posted_at": "2026-08-25T21:06:08-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Vehicle Platforms C++",
+    "role_category": "swe",
+    "source": "Greenhouse:waymo",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=7429873",
+    "verified": true,
+    "verify_reason": "Requires at least 2 years of professional C++ software experience.",
+    "years_required": 2
   },
   "f5f378ed2de2370f": {
     "company": "Freeform",
