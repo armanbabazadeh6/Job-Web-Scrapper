@@ -173,11 +173,65 @@ def _call_llm(
         },
         timeout=120,
     )
-    r.raise_for_status()
+    if r.status_code >= 400:
+        detail = " ".join((r.text or "").split())[:200]
+        raise RuntimeError(f"HTTP {r.status_code} [{model}]: {detail}")
     content = ((r.json().get("choices") or [{}])[0].get("message") or {}).get(
         "content", ""
     )
     return _parse_verdicts(content)
+
+
+def _list_models(base_url: str, api_key: str) -> list[str]:
+    """Best-effort list of model ids the endpoint offers, for diagnostics."""
+    try:
+        r = requests.get(
+            f"{base_url.rstrip('/')}/models",
+            headers={"Authorization": f"Bearer {api_key}"},
+            timeout=30,
+        )
+        if r.ok:
+            return [m.get("id", "?") for m in (r.json().get("data") or [])]
+    except Exception:
+        pass
+    return []
+
+
+def _call_with_fallback(
+    base_url: str,
+    models: list[str],
+    api_key: str,
+    items: list[dict],
+    max_years: int,
+    state: dict,
+) -> Optional[list[dict]]:
+    """Tries the last-known-good model first, then the configured chain.
+    Each candidate gets two attempts. On total failure, logs the endpoint's
+    model list once so a config fix needs zero guesswork."""
+    if state.get("working"):
+        candidates = [state["working"]] + [
+            m for m in models if m != state["working"]
+        ]
+    else:
+        candidates = list(models)
+    for m in candidates:
+        for attempt in (1, 2):
+            try:
+                arr = _call_llm(base_url, m, api_key, items, max_years)
+                if state.get("working") != m:
+                    print(f"    LLM model in use: {m}")
+                state["working"] = m
+                return arr
+            except Exception as e:
+                print(f"    ! LLM {m} attempt {attempt} failed: {e}")
+                time.sleep(3)
+        time.sleep(5)
+    if not state.get("probed"):
+        state["probed"] = True
+        avail = _list_models(base_url, api_key)
+        if avail:
+            print(f"    ! endpoint offers these models: {', '.join(avail)}")
+    return None
 
 
 def _coerce_years(y) -> Optional[int]:
@@ -265,10 +319,14 @@ def verify_postings(
         base_url = cfg.get(
             "base_url", "https://generativelanguage.googleapis.com/v1beta/openai"
         )
-        model = cfg.get("model", "gemini-flash-latest")
+        models = cfg.get("model") or "gemini-flash-latest"
+        if isinstance(models, str):
+            models = [models]
         batch_size = max(1, int(cfg.get("batch_size", 6)))
         truncate = int(cfg.get("max_description_chars", 3500))
         pause = float(cfg.get("seconds_between_calls", 5))
+
+        state: dict = {"working": None, "probed": False}
 
         for i in range(0, len(needs_llm), batch_size):
             batch = needs_llm[i:i + batch_size]
@@ -281,14 +339,9 @@ def verify_postings(
                 }
                 for p, desc in batch
             ]
-            arr: Optional[list[dict]] = None
-            for attempt in (1, 2):
-                try:
-                    arr = _call_llm(base_url, model, api_key, items, max_years)
-                    break
-                except Exception as e:
-                    print(f"    ! LLM attempt {attempt} failed: {e}")
-                    time.sleep(2)
+            arr = _call_with_fallback(
+                base_url, models, api_key, items, max_years, state
+            )
             by_id: dict[str, dict] = {}
             if arr:
                 for v in arr:

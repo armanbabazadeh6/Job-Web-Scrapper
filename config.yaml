@@ -151,7 +151,14 @@ llm:
   enabled: true
   api_key_env: LLM_API_KEY
   base_url: https://generativelanguage.googleapis.com/v1beta/openai
-  model: gemini-flash-latest
+  # Tried in order until one works; the first that answers is remembered
+  # for the rest of the run. If all fail, the run logs which models the
+  # endpoint actually offers — paste that list into here.
+  model:
+    - gemini-flash-latest
+    - gemini-3-flash
+    - gemini-2.5-flash
+    - gemini-2.0-flash
   # A posting passes only if the LLM says entry_level AND years_required <= max_years
   max_years: 2
   # Regex screen hard-rejects descriptions explicitly demanding >= this many
