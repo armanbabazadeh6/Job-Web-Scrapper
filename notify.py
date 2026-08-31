@@ -36,7 +36,8 @@ def _format_line(p: Posting, favs: Optional[list] = None) -> str:
     label = f"{p.company} — {p.role}"
     head = f"[{label}]({p.url})" if p.url else f"**{label}**"
     star = "⭐ " if favs and any(f in p.company.lower() for f in favs) else ""
-    line = f"{star}{badge}{head}"
+    pin = "📍 " if getattr(p, "hotspot", False) else ""
+    line = f"{star}{pin}{badge}{head}"
     if p.location:
         line += f" · {p.location}"
     note = getattr(p, "verify_note", None)
@@ -114,7 +115,8 @@ def notify_discord_grouped(
         def _sort_key(p: Posting) -> tuple:
             b = _hot_badge(p.posted_at)
             rank = 0 if b == HOT_24H else (1 if b == HOT_48H else 2)
-            return (rank, p.company.lower(), p.role.lower())
+            hot = 0 if getattr(p, "hotspot", False) else 1
+            return (hot, rank, p.company.lower(), p.role.lower())
 
         postings_sorted = sorted(postings, key=_sort_key)
         lines = [_format_line(p, favs) for p in postings_sorted]

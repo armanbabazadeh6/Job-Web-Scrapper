@@ -43,6 +43,7 @@ If the AI endpoint is down, verification falls back to a regex screen so pings k
 Edit `config.yaml`:
 
 - `role_categories` — which job titles match
+- `locations` — hot-spot areas get a 📍 tag and sort first (`mode: prefer` or `only`)
 - `greenhouse_boards`, `ashby_boards`, `lever_boards`, `workday_boards` — company slugs to watch
 - `llm.model` — which LLM verifies postings (a list, tried in order)
 - `llm.max_years` — the experience ceiling for a posting to pass

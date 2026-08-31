@@ -25,6 +25,7 @@ class Posting:
     api_id: Optional[str] = None       # source-specific id/path for detail lookups
     description: Optional[str] = None  # embedded description (Ashby/Lever)
     verify_note: Optional[str] = None  # set when promoted by the LLM verifier
+    hotspot: bool = False              # in one of the configured hot-spot areas
 
     @property
     def id(self) -> str:

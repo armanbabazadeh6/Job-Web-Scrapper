@@ -187,7 +187,8 @@ def is_non_us_location(location: str) -> bool:
       - has US state abbrev (e.g. ", TX") → keep
       - has US indicator (full state name, "United States", US city) → keep
       - has non-US indicator → reject
-      - has neither (ambiguous, e.g. "Belgrade") → reject"""
+      - remote with no clear country ("Remote", "Remote — US") → keep
+      - anything else ambiguous → reject"""
     if not location:
         return False
     loc = location.lower()
@@ -197,7 +198,22 @@ def is_non_us_location(location: str) -> bool:
         return False
     if any(tok in loc for tok in NON_US_LOCATION_TOKENS):
         return True
+    if "remote" in loc:
+        return False  # remote without a stated country — assume US-eligible
     return True
+
+
+def _location_tier(location: str, loc_cfg: dict) -> str:
+    """hotspot, remote, or other."""
+    loc = (location or "").lower()
+    if not loc:
+        return "other"
+    hotspots = [str(h).lower() for h in loc_cfg.get("hotspots") or []]
+    if any(h in loc for h in hotspots):
+        return "hotspot"
+    if "remote" in loc:
+        return "remote"
+    return "other"
 
 
 def categorize(
@@ -213,6 +229,12 @@ def categorize(
 
     if cfg.get("us_only", True) and is_non_us_location(p.location):
         return None
+
+    # Hard location filter, if enabled (mode: only keeps hot spots + remote).
+    loc_cfg = cfg.get("locations") or {}
+    if (loc_cfg.get("mode") or "prefer") == "only":
+        if _location_tier(p.location, loc_cfg) == "other":
+            return None
 
     # Age filter: drop postings older than max_age_days when posted_at is known.
     # Postings without a parseable date are kept (most GitHub list entries).
@@ -404,6 +426,10 @@ def main() -> int:
                 )
 
     new_groups: dict[tuple[str, str], list[Posting]] = defaultdict(list)
+    hot_tokens = [
+        str(h).lower()
+        for h in ((cfg.get("locations") or {}).get("hotspots") or [])
+    ]
     for key, postings in groups.items():
         for p in postings:
             if p.id in seen:
@@ -413,6 +439,10 @@ def main() -> int:
                 if pair in recent_pairs:
                     continue
                 recent_pairs.add(pair)
+            if hot_tokens and p.location and any(
+                t in p.location.lower() for t in hot_tokens
+            ):
+                p = replace(p, hotspot=True)
             new_groups[key].append(p)
 
     # ---- LLM entry-level verification for ambiguous titles ----

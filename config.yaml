@@ -17,6 +17,38 @@ us_only: true
 # Set to 0 or remove to disable.
 max_age_days: 7
 
+# Location hot spots. Postings located here get a 📍 tag and sort to the top
+# of their Discord section. Remote roles always stay. mode: prefer tags and
+# reorders; mode: only drops everything outside the hot spots.
+locations:
+  mode: prefer
+  hotspots:
+    # DMV
+    - "washington, dc"
+    - "washington dc"
+    - "washington, d"
+    - "district of columbia"
+    - ", dc"
+    - "arlington, va"
+    - "alexandria, va"
+    - "tysons"
+    - "mclean"
+    - "reston"
+    - "herndon"
+    - "fairfax, va"
+    - "northern virginia"
+    - "bethesda"
+    - "rockville"
+    - "gaithersburg"
+    - "germantown"
+    - "silver spring"
+    - "baltimore"
+    # New York
+    - "new york"
+    # Bay Area
+    - "san francisco"
+    - "santa clara"
+
 # Posting types are checked in ORDER — first match wins.
 #
 # Two paths to a Discord ping:
