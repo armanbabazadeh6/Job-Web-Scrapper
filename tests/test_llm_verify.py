@@ -59,3 +59,22 @@ class TestCoercion:
         assert llm_verify._coerce_years(1.0) == 1
         assert llm_verify._coerce_years(None) is None
         assert llm_verify._coerce_years("lots") is None
+
+    def test_fit(self):
+        assert llm_verify._coerce_fit(4) == 4
+        assert llm_verify._coerce_fit("5") == 5
+        assert llm_verify._coerce_fit(9) == 5   # clamped
+        assert llm_verify._coerce_fit(0) == 1   # clamped
+        assert llm_verify._coerce_fit(None) is None
+        assert llm_verify._coerce_fit("high") is None
+
+
+class TestVerdictSchema:
+    def test_full_verdict(self):
+        v = llm_verify._verdict(
+            True, 1, True, "junior role", "junior", "$120k",
+            clearance_required=True, fit_score=3,
+        )
+        assert v["clearance_required"] is True
+        assert v["fit_score"] == 3
+        assert v["salary"] == "$120k"

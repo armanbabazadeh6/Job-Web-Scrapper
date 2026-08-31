@@ -26,6 +26,7 @@ class Posting:
     description: Optional[str] = None  # embedded description (Ashby/Lever)
     verify_note: Optional[str] = None  # set when promoted by the LLM verifier
     hotspot: bool = False              # in one of the configured hot-spot areas
+    fit: Optional[int] = None         # LLM fit score 1-5 against the profile
 
     @property
     def id(self) -> str:

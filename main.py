@@ -297,7 +297,7 @@ def _verify_note(v: dict) -> str:
     if v.get("verified"):
         yrs = v.get("years")
         if yrs is None:
-            parts.append("✅ AI-verified · new-grad friendly")
+            parts.append("✅ AI-verified")
         elif yrs == 0:
             parts.append("✅ AI-verified · new-grad friendly")
         else:
@@ -306,6 +306,11 @@ def _verify_note(v: dict) -> str:
         parts.append("⚠️ not AI-verified")
     if v.get("salary"):
         parts.append(str(v["salary"]))
+    fit = v.get("fit_score")
+    if fit:
+        parts.append(f"fit {fit}/5")
+    if v.get("clearance_required"):
+        parts.append("🔐 clearance req")
     return " · ".join(parts)
 
 
@@ -394,6 +399,10 @@ def main() -> int:
                 d["years_required"] = v["years"]
             if v.get("salary"):
                 d["salary"] = v["salary"]
+            if v.get("fit_score") is not None:
+                d["fit_score"] = v["fit_score"]
+            if v.get("clearance_required"):
+                d["clearance_required"] = True
             if v.get("reason"):
                 d["verify_reason"] = v["reason"]
         return d
@@ -454,7 +463,7 @@ def main() -> int:
 
     if verify_by_cat:
         items = [p for ps in verify_by_cat.values() for p in ps]
-        llm_cfg = cfg.get("llm") or {}
+        llm_cfg = {**(cfg.get("llm") or {}), "profile": cfg.get("profile") or {}}
         workday_lookup = {
             f"Workday:{wd['name']}": (wd["base"], wd["site"])
             for wd in cfg.get("workday_boards") or []
@@ -465,15 +474,18 @@ def main() -> int:
         )
         llm_verify.save_verdicts(VERDICTS_PATH, verdicts)
 
+        filter_clearance = bool(cfg.get("filter_clearance"))
         passed = 0
         for cat, ps in verify_by_cat.items():
             for p in ps:
                 v = verdict_results.get(p.id) or {}
                 if not v.get("entry_level") or v.get("seniority") == "intern":
                     continue
+                if filter_clearance and v.get("clearance_required"):
+                    continue
                 passed += 1
                 new_groups[("verified_entry", cat)].append(
-                    replace(p, verify_note=_verify_note(v))
+                    replace(p, verify_note=_verify_note(v), fit=v.get("fit_score"))
                 )
         print(f"   {passed}/{len(items)} passed entry-level verification")
 

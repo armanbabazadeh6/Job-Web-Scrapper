@@ -25,6 +25,13 @@ class TestVerifyNote:
         assert main._verify_note({"verified": True, "years": 2, "salary": "$25-30/hr"}) == "\u2705 AI-verified \u00b7 ~2 yrs exp \u00b7 $25-30/hr"
         assert main._verify_note({"verified": False}) == "\u26a0\ufe0f not AI-verified"
 
+    def test_fit_and_clearance(self):
+        v = {"verified": True, "years": 1, "fit_score": 4, "clearance_required": True}
+        assert main._verify_note(v) == "\u2705 AI-verified \u00b7 ~1 yrs exp \u00b7 fit 4/5 \u00b7 \U0001f510 clearance req"
+        v2 = {"verified": True, "years": 0, "fit_score": 5}
+        assert main._verify_note(v2) == "\u2705 AI-verified \u00b7 new-grad friendly \u00b7 fit 5/5"
+        assert "\U0001f510" not in main._verify_note({"verified": True, "years": 0})
+
 
 class TestHtmlToText:
     def test_basic(self):

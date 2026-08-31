@@ -7,6 +7,19 @@ dedup_days: 3
 # Example: [stripe, openai, anthropic]
 favorite_companies: []
 
+# Candidate profile — the LLM verifier reads this to score fit 1-5 per
+# posting. Timing alone works; skills and preferences sharpen it.
+profile:
+  graduation: "December 2026"
+  available_from: "January 2027"
+  skills: []          # e.g. [python, react, sql, java]
+  preferences: []     # e.g. [backend, infrastructure, fintech]
+  dealbreakers: []    # e.g. [weekly on-call, relocation required]
+
+# Postings requiring a security clearance get an 🔐 tag. Set true to drop
+# them instead.
+filter_clearance: false
+
 # US-only filter. When true, postings whose location clearly indicates a
 # non-US country/city are dropped. Empty/unknown locations are kept (lots of
 # remote-US or unspecified roles fall in that bucket).

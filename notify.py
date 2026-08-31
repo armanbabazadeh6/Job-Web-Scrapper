@@ -116,7 +116,8 @@ def notify_discord_grouped(
             b = _hot_badge(p.posted_at)
             rank = 0 if b == HOT_24H else (1 if b == HOT_48H else 2)
             hot = 0 if getattr(p, "hotspot", False) else 1
-            return (hot, rank, p.company.lower(), p.role.lower())
+            fit = -(getattr(p, "fit", None) or 0)
+            return (hot, fit, rank, p.company.lower(), p.role.lower())
 
         postings_sorted = sorted(postings, key=_sort_key)
         lines = [_format_line(p, favs) for p in postings_sorted]

@@ -182,10 +182,14 @@ For each job, judge from the description text:
 - entry_level: true ONLY if this is a genuine full-time opportunity for someone graduating now — at most {max_years} years required, no senior/staff/principal/lead/manager/director/VP scope, and NOT an internship or co-op (mark internships entry_level: false, seniority: "intern"). Titles like "Associate", "Analyst", "Engineer I/II", "Solutions Engineer", "Product Manager" / "APM", and "Technology Consultant" CAN be entry level if the requirements say so.
 - seniority: one of "intern", "new_grad", "junior", "mid", "senior", "lead", "staff", "principal", "manager", "director", "vp".
 - salary: the salary or compensation range stated in the description (e.g. "$120k-$150k"), or null if none is stated.
+- clearance_required: true if the posting requires an active security clearance or clearance eligibility (e.g. "active TS/SCI", "must be able to obtain a clearance") as a hard requirement; false if unmentioned or merely a plus.
+- fit_score: 1-5 fit with the candidate profile below — 5 = strong match on timing, skills, and preferences; 1 = clear mismatch (wrong start timing for their availability, mismatched requirements). Score strictly from what the profile and description say.
 - reason: at most 12 words, citing evidence from the description.
 
+Candidate profile: {profile_json}
+
 Respond with ONLY a JSON array (no markdown fences, no commentary), one object per input job, using the exact input ids:
-[{{"id": "...", "entry_level": true, "years_required": 0, "seniority": "new_grad", "salary": "$120k-$150k", "reason": "..."}}]"""
+[{{"id": "...", "entry_level": true, "years_required": 0, "seniority": "new_grad", "salary": "$120k-$150k", "clearance_required": false, "fit_score": 4, "reason": "..."}}]"""
 
 
 def _parse_verdicts(content: str) -> list[dict]:
@@ -202,7 +206,8 @@ def _parse_verdicts(content: str) -> list[dict]:
 
 
 def _call_llm(
-    base_url: str, model: str, api_key: str, items: list[dict], max_years: int
+    base_url: str, model: str, api_key: str, items: list[dict],
+    max_years: int, profile_json: str,
 ) -> list[dict]:
     r = requests.post(
         f"{base_url.rstrip('/')}/chat/completions",
@@ -211,7 +216,12 @@ def _call_llm(
             "model": model,
             "temperature": 0,
             "messages": [
-                {"role": "system", "content": SYSTEM_PROMPT.format(max_years=max_years)},
+                {
+                    "role": "system",
+                    "content": SYSTEM_PROMPT.format(
+                        max_years=max_years, profile_json=profile_json
+                    ),
+                },
                 {"role": "user", "content": json.dumps(items)},
             ],
         },
@@ -248,6 +258,7 @@ def _call_with_fallback(
     items: list[dict],
     max_years: int,
     state: dict,
+    profile_json: str = "{}",
 ) -> Optional[list[dict]]:
     """Tries the last-known-good model first, then the configured chain.
     Each candidate gets two attempts. On total failure, logs the endpoint's
@@ -261,7 +272,9 @@ def _call_with_fallback(
     for m in candidates:
         for attempt in (1, 2, 3):
             try:
-                arr = _call_llm(base_url, m, api_key, items, max_years)
+                arr = _call_llm(
+                    base_url, m, api_key, items, max_years, profile_json
+                )
                 if state.get("working") != m:
                     print(f"    LLM model in use: {m}")
                 state["working"] = m
@@ -287,6 +300,13 @@ def _coerce_years(y) -> Optional[int]:
         return None
 
 
+def _coerce_fit(y) -> Optional[int]:
+    try:
+        return min(5, max(1, int(float(y))))
+    except (TypeError, ValueError):
+        return None
+
+
 def _truthy(v) -> bool:
     if isinstance(v, str):
         return v.strip().lower() in ("true", "yes", "1")
@@ -294,7 +314,8 @@ def _truthy(v) -> bool:
 
 
 def _verdict(
-    entry_level: bool, years, verified: bool, reason: str, seniority=None, salary=None
+    entry_level: bool, years, verified: bool, reason: str, seniority=None,
+    salary=None, clearance_required=False, fit_score=None,
 ) -> dict:
     return {
         "entry_level": bool(entry_level),
@@ -302,6 +323,8 @@ def _verdict(
         "verified": verified,
         "seniority": seniority,
         "salary": (str(salary)[:40] if salary else None),
+        "clearance_required": bool(clearance_required),
+        "fit_score": fit_score,
         "reason": (reason or "")[:120],
         "cached_at": datetime.now(timezone.utc).date().isoformat(),
     }
@@ -374,6 +397,7 @@ def verify_postings(
         pause = float(cfg.get("seconds_between_calls", 5))
 
         state: dict = {"working": None, "probed": False}
+        profile_json = json.dumps(cfg.get("profile") or {}, separators=(",", ":"))
 
         for i in range(0, len(needs_llm), batch_size):
             batch = needs_llm[i:i + batch_size]
@@ -387,7 +411,7 @@ def verify_postings(
                 for p, desc in batch
             ]
             arr = _call_with_fallback(
-                base_url, models, api_key, items, max_years, state
+                base_url, models, api_key, items, max_years, state, profile_json
             )
             by_id: dict[str, dict] = {}
             if arr:
@@ -406,6 +430,8 @@ def verify_postings(
                     v = _verdict(
                         ok, yrs, True, str(raw.get("reason") or ""),
                         raw.get("seniority"), raw.get("salary"),
+                        _truthy(raw.get("clearance_required")),
+                        _coerce_fit(raw.get("fit_score")),
                     )
                 results[p.id] = v
                 verdicts[p.id] = v
