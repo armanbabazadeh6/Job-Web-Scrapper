@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import hashlib
 import html as _html
+import os
 import re
 from dataclasses import dataclass, asdict, field
 from datetime import datetime, timedelta, timezone
@@ -471,6 +472,75 @@ def fetch_wwr(category: str) -> list[Posting]:
             url=(item.findtext("link") or "").strip(),
             source=f"WWR:{category}",
             posted_at=_parse_rfc822(item.findtext("pubDate") or ""),
+            description=(desc or "")[:8000] or None,
+        ))
+    return out
+
+
+# ---------- JSearch (RapidAPI) — LinkedIn / Indeed / Glassdoor ----------
+#
+# LinkedIn and Indeed can't be scraped directly (auth walls, ToS). JSearch
+# serves the same postings as structured JSON, descriptions included, so
+# the verifier reads them with no extra fetching. The key lives in the
+# JSEARCH_API_KEY secret; main.py rotates one query per run to respect
+# free-tier quotas.
+
+JSEARCH_HOST = "jsearch.p.rapidapi.com"
+
+
+def _parse_jsearch_datetime(s: Optional[str]) -> Optional[datetime]:
+    """JSearch returns '2026-08-31 13:22:01' (already UTC, no suffix)."""
+    try:
+        return datetime.strptime(s, "%Y-%m-%d %H:%M:%S").replace(
+            tzinfo=timezone.utc
+        )
+    except (TypeError, ValueError):
+        return None
+
+
+def fetch_jsearch(query: str, cfg: dict) -> list[Posting]:
+    api_key = os.environ.get("JSEARCH_API_KEY", "")
+    if not api_key:
+        return []
+    try:
+        r = requests.get(
+            f"https://{JSEARCH_HOST}/search",
+            params={
+                "query": query,
+                "date_posted": cfg.get("date_posted", "3days"),
+                "employment_types": cfg.get("employment_types", "FULLTIME"),
+                "num_pages": "1",
+            },
+            headers={
+                "X-RapidAPI-Key": api_key,
+                "X-RapidAPI-Host": JSEARCH_HOST,
+            },
+            timeout=TIMEOUT,
+        )
+        r.raise_for_status()
+        data = (r.json() or {}).get("data") or []
+    except Exception as e:
+        print(f"  ! jsearch: {e}")
+        return []
+    out = []
+    for j in data:
+        company = str(j.get("employer_name") or "").strip()
+        role = str(j.get("job_title") or "").strip()
+        if not company or not role:
+            continue
+        country = str(j.get("job_country") or "").strip()
+        if j.get("job_is_remote"):
+            location = "Remote — US" if country in ("US", "United States", "") else f"Remote — {country}"
+        else:
+            location = ", ".join(filter(None, [j.get("job_city"), j.get("job_state")])) or country
+        desc = html_to_text(j.get("job_description") or "")
+        out.append(Posting(
+            company=company,
+            role=role,
+            location=location,
+            url=j.get("job_apply_link") or "",
+            source="JSearch",
+            posted_at=_parse_jsearch_datetime(j.get("job_posted_at_datetime_utc")),
             description=(desc or "")[:8000] or None,
         ))
     return out

@@ -20,6 +20,7 @@ from scrapers import (
     fetch_ashby,
     fetch_github_lists,
     fetch_greenhouse,
+    fetch_jsearch,
     fetch_lever,
     fetch_remoteok,
     fetch_watch_url,
@@ -31,6 +32,7 @@ ROOT = Path(__file__).parent
 CONFIG_PATH = ROOT / "config.yaml"
 SEEN_PATH = ROOT / "seen.json"
 VERDICTS_PATH = ROOT / "verdicts.json"
+JSEARCH_STATE_PATH = ROOT / "jsearch_state.json"
 
 
 def load_config() -> dict:
@@ -219,6 +221,25 @@ def _fetch_boards(fn, args_list: list, workers: int = 8) -> list[Posting]:
     return out
 
 
+def _jsearch_state() -> dict:
+    """Per-day request budget + next query index, persisted so the quota
+    survives across the 48 runs per day."""
+    today = datetime.now(timezone.utc).date().isoformat()
+    st = {"date": today, "count": 0, "next": 0}
+    if JSEARCH_STATE_PATH.exists():
+        try:
+            s = json.loads(JSEARCH_STATE_PATH.read_text(encoding="utf-8"))
+            if isinstance(s, dict) and s.get("date") == today:
+                st.update(s)
+        except (json.JSONDecodeError, OSError):
+            pass
+    return st
+
+
+def _save_jsearch_state(st: dict) -> None:
+    JSEARCH_STATE_PATH.write_text(json.dumps(st), encoding="utf-8")
+
+
 def _location_tier(location: str, loc_cfg: dict) -> str:
     """hotspot, remote, or other."""
     loc = (location or "").lower()
@@ -372,6 +393,23 @@ def main() -> int:
     if rb.get("remoteok"):
         all_postings.extend(fetch_remoteok())
     all_postings.extend(_fetch_boards(fetch_wwr, rb.get("weworkremotely") or []))
+
+    print("-> JSearch (LinkedIn/Indeed via RapidAPI)")
+    js = cfg.get("jsearch") or {}
+    js_queries = js.get("queries") or []
+    if js.get("enabled") and js_queries:
+        js_state = _jsearch_state()
+        js_cap = int(js.get("requests_per_day", 24))
+        if js_state["count"] >= js_cap:
+            print("   jsearch daily budget exhausted")
+        else:
+            query = js_queries[js_state["next"] % len(js_queries)]
+            js_postings = fetch_jsearch(query, js)
+            print(f"   jsearch query {js_state['next'] % len(js_queries) + 1}/{len(js_queries)}: {query!r} -> {len(js_postings)} postings")
+            all_postings.extend(js_postings)
+            js_state["count"] += 1
+            js_state["next"] = (js_state["next"] + 1) % len(js_queries)
+            _save_jsearch_state(js_state)
 
     print("-> Watch URLs")
     for w in cfg.get("watch_urls") or []:

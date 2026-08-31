@@ -36,11 +36,11 @@ jobs:
 
       - name: Commit updated state
         run: |
-          if [[ -n "$(git status --porcelain seen.json verdicts.json)" ]]; then
+          if [[ -n "$(git status --porcelain seen.json verdicts.json jsearch_state.json)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add seen.json verdicts.json
-            git commit -m "chore: update seen.json + verdicts.json"
+            git add seen.json verdicts.json jsearch_state.json
+            git commit -m "chore: update state files"
             git push
           else
             echo "No changes to state files"

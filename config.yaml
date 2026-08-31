@@ -321,6 +321,23 @@ remote_boards:
   weworkremotely:
     - remote-programming-jobs
 
+# LinkedIn / Indeed / Glassdoor coverage via JSearch (RapidAPI). The same
+# postings LinkedIn shows, as JSON with full descriptions — every filter
+# still applies on top (24h window, US-only, description-verified 0-2 yrs).
+# One query fires per run, rotating through the list, capped at
+# requests_per_day to respect the free tier.
+jsearch:
+  enabled: true
+  date_posted: 3days        # broad fetch; our own 24h filter trims the rest
+  employment_types: FULLTIME
+  requests_per_day: 24
+  queries:
+    - "entry level software engineer United States"
+    - "new grad software engineer United States"
+    - "entry level solutions engineer United States"
+    - "entry level product manager United States"
+    - "entry level platform engineer United States"
+
 # Workday-hosted boards (real JSON API). PwC is the one big consulting firm
 # whose board still works — Deloitte, EY, Accenture, KPMG, and Slalom all
 # gate their endpoints (422/401).

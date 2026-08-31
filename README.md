@@ -5,7 +5,7 @@
 
 New-grad tech jobs, straight to your Discord.
 
-Every hour, this pipeline scans 40+ company job boards and community lists, has an AI read the full description of every posting that looks like a fit, and pings you when something genuinely entry-level posts. It runs on GitHub's free tier. Total cost: $0.
+Every hour, this pipeline scans 60+ company job boards, community lists, remote boards, and JSearch (LinkedIn/Indeed/Glassdoor postings as JSON), has an AI read the full description of every posting that looks like a fit, and pings you when something genuinely entry-level posts. It runs on GitHub's free tier. Total cost: $0.
 
 What it watches:
 
@@ -21,9 +21,10 @@ Full-time only. Internships and co-ops get rejected before they reach you.
 Four steps, about five minutes:
 
 1. **Fork the repo** (button, top right of this page).
-2. **Add two secrets** in your fork: *Settings → Secrets and variables → Actions*
+2. **Add the secrets** in your fork: *Settings → Secrets and variables → Actions*
    - `DISCORD_WEBHOOK_URL`: a webhook from your Discord server (*Server Settings → Integrations → Webhooks*)
    - `LLM_API_KEY`: a free Gemini key from [aistudio.google.com](https://aistudio.google.com), no credit card needed
+   - `JSEARCH_API_KEY`: optional — a free [RapidAPI](https://rapidapi.com) JSearch key, unlocks LinkedIn/Indeed/Glassdoor coverage
 3. **Enable Actions** in your fork's Actions tab if it prompts you.
 4. **Trigger the first run**: *Actions → Scrape jobs → Run workflow*.
 
@@ -31,7 +32,7 @@ The first run stays quiet while it records what's already posted. After that, ne
 
 ## How it works
 
-1. Pulls postings hourly from 40+ boards via the Greenhouse, Lever, Ashby, and Workday APIs (Stripe, OpenAI, Notion, Figma, Cloudflare, Ramp, Palantir, PwC, and more), plus community new-grad lists.
+1. Pulls postings hourly from 60+ boards via the Greenhouse, Lever, Ashby, and Workday APIs, RemoteOK, WeWorkRemotely RSS, and JSearch (Stripe, OpenAI, Notion, Figma, Cloudflare, Ramp, Palantir, PwC, and more), plus community new-grad lists.
 2. Filters by role keywords, drops internships, senior titles, non-US roles, and anything older than a week.
 3. Titles that say "new grad" or "graduate" go straight to Discord. Ambiguous titles ("Solutions Engineer", "Software Engineer I") go to an LLM, which reads the full job description and only passes postings asking for at most a couple years of experience. Survivors carry a "✅ AI-verified" tag.
 4. Commits state back (`seen.json`, `verdicts.json`) so nothing gets announced or AI-checked twice.
