@@ -518,7 +518,13 @@ def fetch_jsearch(query: str, cfg: dict) -> list[Posting]:
             timeout=TIMEOUT,
         )
         r.raise_for_status()
-        data = (r.json() or {}).get("data") or []
+        body = r.json() or {}
+        data = body.get("data") or []
+        if not data:
+            print(
+                f"    ! jsearch returned no data: status={body.get('status')!r} "
+                f"message={str(body.get('message'))[:160]!r} keys={sorted(body)[:6]}"
+            )
     except Exception as e:
         print(f"  ! jsearch: {e}")
         return []

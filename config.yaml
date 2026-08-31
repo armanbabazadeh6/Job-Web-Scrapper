@@ -332,11 +332,11 @@ jsearch:
   employment_types: FULLTIME
   requests_per_day: 24
   queries:
-    - "entry level software engineer United States"
-    - "new grad software engineer United States"
-    - "entry level solutions engineer United States"
-    - "entry level product manager United States"
-    - "entry level platform engineer United States"
+    - "entry level software engineer jobs in United States"
+    - "new grad software engineer jobs in United States"
+    - "entry level solutions engineer jobs in United States"
+    - "entry level product manager jobs in United States"
+    - "entry level platform engineer jobs in United States"
 
 # Workday-hosted boards (real JSON API). PwC is the one big consulting firm
 # whose board still works — Deloitte, EY, Accenture, KPMG, and Slalom all
