@@ -52,7 +52,7 @@ class TestOnlyMode:
 
 class TestRemoteUsSurvival:
     def test_remote_us_strings_kept(self):
-        for loc in ("Remote", "Remote — US", "US Remote", "Remote (US)"):
+        for loc in ("Remote", "Remote — US", "US Remote", "Remote (US)", "Worldwide", "Anywhere"):
             assert not main.is_non_us_location(loc), loc
 
     def test_remote_foreign_dropped(self):

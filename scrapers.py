@@ -394,6 +394,88 @@ def fetch_ashby(slug: str) -> list[Posting]:
     return out
 
 
+# ---------- Remote job boards ----------
+#
+# RemoteOK exposes a public JSON API (https://remoteok.com/api). Their terms
+# ask for a descriptive User-Agent and attribution — both in UA above and in
+# the README. The first element of the response is a legal notice, not a job.
+#
+# WeWorkRemotely publishes category RSS feeds; items carry a <region>
+# element (e.g. "Anywhere", "USA Only") that we use as the location.
+
+def fetch_remoteok() -> list[Posting]:
+    try:
+        r = requests.get("https://remoteok.com/api", headers=UA, timeout=TIMEOUT)
+        r.raise_for_status()
+        jobs = [j for j in r.json() if isinstance(j, dict) and j.get("position")]
+    except Exception as e:
+        print(f"  ! remoteok: {e}")
+        return []
+    out = []
+    for j in jobs:
+        company = str(j.get("company") or "").strip()
+        role = str(j.get("position") or "").strip()
+        if not company or not role:
+            continue
+        desc = html_to_text(j.get("description") or "")
+        out.append(Posting(
+            company=company,
+            role=role,
+            location=str(j.get("location") or "Remote").strip() or "Remote",
+            url=j.get("url") or j.get("apply_url") or "",
+            source="RemoteOK",
+            posted_at=_parse_iso(j.get("date")),
+            description=(desc or "")[:8000] or None,
+        ))
+    return out
+
+
+def _parse_rfc822(s: str) -> Optional[datetime]:
+    from email.utils import parsedate_to_datetime
+    try:
+        return parsedate_to_datetime(s)
+    except (TypeError, ValueError):
+        return None
+
+
+def fetch_wwr(category: str) -> list[Posting]:
+    import xml.etree.ElementTree as ET
+
+    url = f"https://weworkremotely.com/categories/{category}.rss"
+    try:
+        r = requests.get(url, headers=UA, timeout=TIMEOUT)
+        r.raise_for_status()
+        root = ET.fromstring(r.content)
+    except Exception as e:
+        print(f"  ! wwr {category}: {e}")
+        return []
+    out = []
+    for item in root.iter("item"):
+        title = (item.findtext("title") or "").strip()
+        if ":" in title:
+            company, role = (part.strip() for part in title.split(":", 1))
+        else:
+            company, role = title, title
+        if not company or not role:
+            continue
+        region = (item.findtext("region") or "").strip() or "Anywhere"
+        if region.lower() in ("anywhere", "worldwide", "usa only", "north america"):
+            location = f"Remote — {region}"
+        else:
+            location = region  # e.g. "Asia Only" -> dropped by the US filter
+        desc = html_to_text(item.findtext("description") or "")
+        out.append(Posting(
+            company=company,
+            role=role,
+            location=location,
+            url=(item.findtext("link") or "").strip(),
+            source=f"WWR:{category}",
+            posted_at=_parse_rfc822(item.findtext("pubDate") or ""),
+            description=(desc or "")[:8000] or None,
+        ))
+    return out
+
+
 # ---------- Watch URLs (best-effort HTML grep) ----------
 
 def fetch_watch_url(name: str, url: str, role_keywords: list[str]) -> list[Posting]:

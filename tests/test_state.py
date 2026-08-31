@@ -40,3 +40,11 @@ class TestHtmlToText:
 
     def test_empty(self):
         assert html_to_text("") == ""
+
+
+class TestRfc822Dates:
+    def test_parse(self):
+        from scrapers import _parse_rfc822
+        assert _parse_rfc822("Mon, 31 Aug 2026 10:00:00 GMT") is not None
+        assert _parse_rfc822("garbage") is None
+        assert _parse_rfc822("") is None

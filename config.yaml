@@ -300,6 +300,13 @@ ashby_boards:
   - sardine
   - weave
 
+# Remote job boards. RemoteOK needs no setup; WWR entries are category
+# slugs from weworkremotely.com/categories/<slug>.
+remote_boards:
+  remoteok: true
+  weworkremotely:
+    - remote-programming-jobs
+
 # Workday-hosted boards (real JSON API). PwC is the one big consulting firm
 # whose board still works — Deloitte, EY, Accenture, KPMG, and Slalom all
 # gate their endpoints (422/401).

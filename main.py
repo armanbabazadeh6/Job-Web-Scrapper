@@ -21,8 +21,10 @@ from scrapers import (
     fetch_github_lists,
     fetch_greenhouse,
     fetch_lever,
+    fetch_remoteok,
     fetch_watch_url,
     fetch_workday,
+    fetch_wwr,
 )
 
 ROOT = Path(__file__).parent
@@ -198,9 +200,23 @@ def is_non_us_location(location: str) -> bool:
         return False
     if any(tok in loc for tok in NON_US_LOCATION_TOKENS):
         return True
-    if "remote" in loc:
+    if "remote" in loc or "worldwide" in loc or "anywhere" in loc:
         return False  # remote without a stated country — assume US-eligible
     return True
+
+
+def _fetch_boards(fn, args_list: list, workers: int = 8) -> list[Posting]:
+    """Fetch board-type sources in parallel. Every fetcher swallows its own
+    errors and returns [], so one dead board costs nothing but its slot."""
+    from concurrent.futures import ThreadPoolExecutor
+
+    out: list[Posting] = []
+    if not args_list:
+        return out
+    with ThreadPoolExecutor(max_workers=workers) as ex:
+        for postings in ex.map(fn, args_list):
+            out.extend(postings)
+    return out
 
 
 def _location_tier(location: str, loc_cfg: dict) -> str:
@@ -341,20 +357,25 @@ def main() -> int:
     all_postings.extend(fetch_github_lists(cfg.get("github_lists", [])))
 
     print("-> Greenhouse boards")
-    for slug in cfg.get("greenhouse_boards", []):
-        all_postings.extend(fetch_greenhouse(slug))
+    all_postings.extend(_fetch_boards(fetch_greenhouse, cfg.get("greenhouse_boards", [])))
 
     print("-> Lever boards")
-    for slug in cfg.get("lever_boards", []):
-        all_postings.extend(fetch_lever(slug))
+    all_postings.extend(_fetch_boards(fetch_lever, cfg.get("lever_boards", [])))
 
     print("-> Ashby boards")
-    for slug in cfg.get("ashby_boards", []):
-        all_postings.extend(fetch_ashby(slug))
+    all_postings.extend(_fetch_boards(fetch_ashby, cfg.get("ashby_boards", [])))
 
     print("-> Workday boards")
-    for wd in cfg.get("workday_boards") or []:
-        all_postings.extend(fetch_workday(wd["name"], wd["base"], wd["site"]))
+    all_postings.extend(_fetch_boards(
+        lambda wd: fetch_workday(wd["name"], wd["base"], wd["site"]),
+        cfg.get("workday_boards") or [],
+    ))
+
+    print("-> Remote boards")
+    rb = cfg.get("remote_boards") or {}
+    if rb.get("remoteok"):
+        all_postings.extend(fetch_remoteok())
+    all_postings.extend(_fetch_boards(fetch_wwr, rb.get("weworkremotely") or []))
 
     print("-> Watch URLs")
     for w in cfg.get("watch_urls") or []:
