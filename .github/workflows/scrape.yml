@@ -32,6 +32,7 @@ jobs:
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
         run: python main.py
 
       - name: Commit updated state

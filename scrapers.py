@@ -501,6 +501,7 @@ def _parse_jsearch_datetime(s: Optional[str]) -> Optional[datetime]:
 def fetch_jsearch(query: str, cfg: dict) -> list[Posting]:
     api_key = os.environ.get("JSEARCH_API_KEY", "")
     if not api_key:
+        print("  ! jsearch: JSEARCH_API_KEY not set — skipping")
         return []
     try:
         r = requests.get(
