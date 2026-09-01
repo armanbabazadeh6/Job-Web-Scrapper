@@ -222,15 +222,18 @@ def _fetch_boards(fn, args_list: list, workers: int = 8) -> list[Posting]:
 
 
 def _jsearch_state() -> dict:
-    """Per-day request budget + next query index, persisted so the quota
-    survives across the 48 runs per day."""
+    """Per-day request budget, next query index, and the gateway host that
+    the key actually answers on — persisted across the 48 runs per day."""
     today = datetime.now(timezone.utc).date().isoformat()
-    st = {"date": today, "count": 0, "next": 0}
+    st = {"date": today, "count": 0, "next": 0, "host": ""}
     if JSEARCH_STATE_PATH.exists():
         try:
             s = json.loads(JSEARCH_STATE_PATH.read_text(encoding="utf-8"))
-            if isinstance(s, dict) and s.get("date") == today:
-                st.update(s)
+            if isinstance(s, dict):
+                if s.get("date") == today:
+                    st.update(s)
+                elif s.get("host"):
+                    st["host"] = s["host"]  # keep the host across days
         except (json.JSONDecodeError, OSError):
             pass
     return st
@@ -404,8 +407,15 @@ def main() -> int:
             print("   jsearch daily budget exhausted")
         else:
             query = js_queries[js_state["next"] % len(js_queries)]
-            js_postings = fetch_jsearch(query, js)
-            print(f"   jsearch query {js_state['next'] % len(js_queries) + 1}/{len(js_queries)}: {query!r} -> {len(js_postings)} postings")
+            js_postings, js_host = fetch_jsearch(
+                query, js, js_state.get("host") or ""
+            )
+            if js_host:
+                js_state["host"] = js_host
+            print(
+                f"   jsearch query {js_state['next'] % len(js_queries) + 1}/{len(js_queries)}"
+                f"{' [' + js_host + ']' if js_host else ''}: {query!r} -> {len(js_postings)} postings"
+            )
             all_postings.extend(js_postings)
             js_state["count"] += 1
             js_state["next"] = (js_state["next"] + 1) % len(js_queries)

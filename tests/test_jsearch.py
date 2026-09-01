@@ -51,7 +51,8 @@ class TestFetchJSearch:
 
     def test_no_key_returns_empty(self, monkeypatch):
         monkeypatch.delenv("JSEARCH_API_KEY", raising=False)
-        assert scrapers.fetch_jsearch("q", {}) == []
+        posts, host = scrapers.fetch_jsearch("q", {})
+        assert posts == [] and host is None
 
     def test_mapping(self, monkeypatch):
         monkeypatch.setenv("JSEARCH_API_KEY", "k")
@@ -64,8 +65,9 @@ class TestFetchJSearch:
             return _FakeResp({"data": [self._job()]})
 
         monkeypatch.setattr(scrapers.requests, "get", fake_get)
-        posts = scrapers.fetch_jsearch("entry level swe", {"date_posted": "3days"})
+        posts, host = scrapers.fetch_jsearch("entry level swe", {"date_posted": "3days"})
         assert len(posts) == 1
+        assert host == "jsearch.p.rapidapi.com"
         p = posts[0]
         assert p.company == "Stripe" and p.role == "Software Engineer, New Grad"
         assert p.location == "Arlington, VA"
@@ -84,7 +86,7 @@ class TestFetchJSearch:
                 job_is_remote=True, job_city=None, job_state=None, job_country="US"
             )]}),
         )
-        posts = scrapers.fetch_jsearch("q", {})
+        posts, _ = scrapers.fetch_jsearch("q", {})
         assert posts[0].location == "Remote — US"
 
     def test_error_returns_empty(self, monkeypatch):
@@ -94,26 +96,63 @@ class TestFetchJSearch:
             raise RuntimeError("HTTP 429: quota exceeded")
 
         monkeypatch.setattr(scrapers.requests, "get", boom)
-        assert scrapers.fetch_jsearch("q", {}) == []
+        posts, host = scrapers.fetch_jsearch("q", {})
+        assert posts == [] and host is None
+
+    def test_host_fallback_on_404(self, monkeypatch):
+        """A 404 on the first gateway moves the chain to the next host."""
+        monkeypatch.setenv("JSEARCH_API_KEY", "k")
+        calls = []
+
+        def fake_get(url, params=None, headers=None, timeout=None):
+            calls.append(url)
+            if "jsearch.p" in url:
+                resp = _FakeResp({})
+                resp.status_code = 404
+                resp.text = '{"message": "Not Found"}'
+                return resp
+            return _FakeResp({"data": [self._job()]})
+
+        monkeypatch.setattr(scrapers.requests, "get", fake_get)
+        posts, host = scrapers.fetch_jsearch("q", {})
+        assert host == "jsearch1.p.rapidapi.com"
+        assert len(posts) == 1
+        assert any("jsearch1" in u for u in calls)
+
+    def test_working_host_goes_first(self, monkeypatch):
+        monkeypatch.setenv("JSEARCH_API_KEY", "k")
+        seen = []
+
+        def fake_get(url, params=None, headers=None, timeout=None):
+            seen.append(url)
+            return _FakeResp({"data": [self._job()]})
+
+        monkeypatch.setattr(scrapers.requests, "get", fake_get)
+        _, host = scrapers.fetch_jsearch("q", {}, working_host="jsearch2.p.rapidapi.com")
+        assert host == "jsearch2.p.rapidapi.com"
+        assert "jsearch2" in seen[0] and len(seen) == 1
 
 
 class TestJSearchState:
     def test_roundtrip(self, tmp_path, monkeypatch):
         monkeypatch.setattr(main, "JSEARCH_STATE_PATH", tmp_path / "js.json")
         st = main._jsearch_state()
-        assert st == {"date": st["date"], "count": 0, "next": 0}
+        assert st == {"date": st["date"], "count": 0, "next": 0, "host": ""}
         st["count"] = 3
         st["next"] = 1
+        st["host"] = "jsearch1.p.rapidapi.com"
         main._save_jsearch_state(st)
         again = main._jsearch_state()
         assert again["count"] == 3 and again["next"] == 1
+        assert again["host"] == "jsearch1.p.rapidapi.com"
 
     def test_stale_date_resets(self, tmp_path, monkeypatch):
         f = tmp_path / "js.json"
-        f.write_text(json.dumps({"date": "2020-01-01", "count": 99, "next": 7}))
+        f.write_text(json.dumps({"date": "2020-01-01", "count": 99, "next": 7, "host": "jsearch1.p.rapidapi.com"}))
         monkeypatch.setattr(main, "JSEARCH_STATE_PATH", f)
         st = main._jsearch_state()
         assert st["count"] == 0 and st["next"] == 0
+        assert st["host"] == "jsearch1.p.rapidapi.com"  # host survives day rollovers
 
     def test_config(self):
         cfg = main.load_config()
