@@ -495,16 +495,22 @@ JSEARCH_HOSTS = [
     "jsearch2.p.rapidapi.com",
     "jsearch3.p.rapidapi.com",
 ]
+# letscrape's current deployment uses /search-v2; the legacy APIDojo-era
+# deployments used /search. Try both.
+JSEARCH_PATHS = ["search-v2", "search"]
 
 
 def _parse_jsearch_datetime(s: Optional[str]) -> Optional[datetime]:
-    """JSearch returns '2026-08-31 13:22:01' (already UTC, no suffix)."""
+    """JSearch has used two formats: '2026-08-31 13:22:01' (legacy) and
+    '2026-05-19T00:00:00.000Z' (current). Both are UTC."""
+    if not s:
+        return None
     try:
         return datetime.strptime(s, "%Y-%m-%d %H:%M:%S").replace(
             tzinfo=timezone.utc
         )
     except (TypeError, ValueError):
-        return None
+        return _parse_iso(s)
 
 
 def fetch_jsearch(
@@ -521,82 +527,84 @@ def fetch_jsearch(
         [working_host] + [cfg.get("host")] + JSEARCH_HOSTS
     ))))
     for host in hosts:
-        try:
-            r = requests.get(
-                f"https://{host}/search",
-                params={
-                    "query": query,
-                    "date_posted": cfg.get("date_posted", "3days"),
-                    "employment_types": cfg.get("employment_types", "FULLTIME"),
-                    "num_pages": "1",
-                },
-                headers={
-                    "X-RapidAPI-Key": api_key,
-                    "X-RapidAPI-Host": host,
-                },
-                timeout=TIMEOUT,
-            )
-        except Exception as e:
-            print(f"  ! jsearch [{host}]: {e}")
-            continue
-        if r.status_code >= 400:
-            detail = " ".join((r.text or "").split())[:200]
-            print(f"  ! jsearch HTTP {r.status_code} [{host}]: {detail}")
-            if r.status_code in (403, 404) and host != hosts[-1]:
-                continue  # wrong gateway for this key — try the next one
-            return [], None
-        body = r.json() or {}
-        data = body.get("data") or body.get("jobs_results") or []
-        if not data:
-            print(
-                f"    ! jsearch returned no data [{host}]: "
-                f"status={body.get('status')!r} keys={sorted(body)[:8]}"
-            )
-        out = []
-        for j in data:
-            if not isinstance(j, dict):
-                continue
-            # JSearch has shipped more than one response schema across
-            # versions; accept both field-name families.
-            company = str(
-                j.get("employer_name") or j.get("company") or j.get("company_name") or ""
-            ).strip()
-            role = str(
-                j.get("job_title") or j.get("title") or j.get("role") or ""
-            ).strip()
-            if not company or not role:
-                continue
-            country = str(
-                j.get("job_country") or j.get("job_country_code") or ""
-            ).strip()
-            city = j.get("job_city")
-            state = j.get("job_state")
-            if j.get("job_is_remote") or j.get("job_is_remote_job"):
-                location = (
-                    "Remote — US" if country in ("US", "United States", "") else f"Remote — {country}"
+        for path in JSEARCH_PATHS:
+            try:
+                r = requests.get(
+                    f"https://{host}/{path}",
+                    params={
+                        "query": query,
+                        "date_posted": cfg.get("date_posted", "3days"),
+                        "employment_types": cfg.get("employment_types", "FULLTIME"),
+                    },
+                    headers={
+                        "X-RapidAPI-Key": api_key,
+                        "X-RapidAPI-Host": host,
+                    },
+                    timeout=TIMEOUT,
                 )
-            else:
-                location = ", ".join(filter(None, [city, state])) or country
-            desc = html_to_text(
-                j.get("job_description") or j.get("description") or ""
-            )
-            posted = _parse_jsearch_datetime(
-                j.get("job_posted_at_datetime_utc")
-                or j.get("job_published_at_datetime_utc")
-            )
-            out.append(Posting(
-                company=company,
-                role=role,
-                location=location,
-                url=j.get("job_apply_link") or j.get("job_apply_link_url") or j.get("url") or "",
-                source="JSearch",
-                posted_at=posted,
-                description=(desc or "")[:8000] or None,
-            ))
-        if data and not out:
-            first = data[0] if isinstance(data[0], dict) else {}
-            print(f"    ! jsearch: {len(data)} results, none mapped; first-entry keys: {sorted(first)[:18]}")
-        return out, host
+            except Exception as e:
+                print(f"  ! jsearch [{host}/{path}]: {e}")
+                continue
+            if r.status_code >= 400:
+                detail = " ".join((r.text or "").split())[:200]
+                print(f"  ! jsearch HTTP {r.status_code} [{host}/{path}]: {detail}")
+                if r.status_code == 403:
+                    break  # wrong gateway for this key — next host
+                if r.status_code == 404:
+                    continue  # endpoint path not on this deployment — next path
+                return [], None
+            body = r.json() or {}
+            data = body.get("data") or body.get("jobs_results") or []
+            if not data:
+                print(
+                    f"    ! jsearch returned no data [{host}/{path}]: "
+                    f"status={body.get('status')!r} keys={sorted(body)[:8]}"
+                )
+            out = []
+            for j in data:
+                if not isinstance(j, dict):
+                    continue
+                # JSearch has shipped more than one response schema across
+                # versions; accept both field-name families.
+                company = str(
+                    j.get("employer_name") or j.get("company") or j.get("company_name") or ""
+                ).strip()
+                role = str(
+                    j.get("job_title") or j.get("title") or j.get("role") or ""
+                ).strip()
+                if not company or not role:
+                    continue
+                country = str(
+                    j.get("job_country") or j.get("job_country_code") or ""
+                ).strip()
+                city = j.get("job_city")
+                state = j.get("job_state")
+                if j.get("job_is_remote") or j.get("job_is_remote_job"):
+                    location = (
+                        "Remote — US" if country in ("US", "United States", "") else f"Remote — {country}"
+                    )
+                else:
+                    location = ", ".join(filter(None, [city, state])) or country
+                desc = html_to_text(
+                    j.get("job_description") or j.get("description") or ""
+                )
+                posted = _parse_jsearch_datetime(
+                    j.get("job_posted_at_datetime_utc")
+                    or j.get("job_published_at_datetime_utc")
+                )
+                out.append(Posting(
+                    company=company,
+                    role=role,
+                    location=location,
+                    url=j.get("job_apply_link") or j.get("job_apply_link_url") or j.get("url") or "",
+                    source="JSearch",
+                    posted_at=posted,
+                    description=(desc or "")[:8000] or None,
+                ))
+            if data and not out:
+                first = data[0] if isinstance(data[0], dict) else {}
+                print(f"    ! jsearch: {len(data)} results, none mapped; first-entry keys: {sorted(first)[:18]}")
+            return out, host
     return [], None
 
 

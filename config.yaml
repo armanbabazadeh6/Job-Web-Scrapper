@@ -334,7 +334,9 @@ jsearch:
   host: jsearch.p.rapidapi.com
   date_posted: 3days        # broad fetch; our own 24h filter trims the rest
   employment_types: FULLTIME
-  requests_per_day: 24
+  # letscrape's free tier is ~200 requests/month, so keep this lean.
+  # Each run fires ONE query, rotating through the list.
+  requests_per_day: 6
   queries:
     - "entry level software engineer jobs in United States"
     - "new grad software engineer jobs in United States"

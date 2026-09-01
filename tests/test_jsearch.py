@@ -13,6 +13,12 @@ class TestJSearchDatetime:
         assert dt is not None and dt.tzinfo == timezone.utc
         assert (dt.year, dt.month, dt.day, dt.hour) == (2026, 8, 31, 13)
 
+    def test_parse_iso_z(self):
+        dt = _parse_jsearch_datetime("2026-05-19T00:00:00.000Z")
+        assert dt is not None and (dt.year, dt.month, dt.day) == (2026, 5, 19)
+        from datetime import timezone
+        assert dt.tzinfo == timezone.utc
+
     def test_bad(self):
         assert _parse_jsearch_datetime(None) is None
         assert _parse_jsearch_datetime("Aug 31") is None
@@ -74,7 +80,7 @@ class TestFetchJSearch:
         assert p.source == "JSearch"
         assert p.posted_at is not None
         assert "ship" in (p.description or "")
-        assert captured["url"].endswith("/search")
+        assert captured["url"].endswith("/search-v2")
         assert captured["params"]["query"] == "entry level swe"
         assert "X-RapidAPI-Key" in captured["headers"]
 
