@@ -442,17 +442,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "137e6225abc5e72d": {
-    "company": "Palantir",
-    "first_seen": "2026-06-02",
-    "location": "New York, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Year at Palantir - Software Engineer - Internship",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329/apply"
-  },
   "138c79fc58ef340a": {
     "company": "Copart",
     "first_seen": "2026-07-08",
@@ -2005,17 +1994,6 @@
     "verified": true,
     "verify_reason": "No minimum years specified, requires previous systems administration experience.",
     "years_required": 0
-  },
-  "447deb5f113b14c0": {
-    "company": "Ken Garff Automotive Group",
-    "first_seen": "2026-06-02",
-    "location": "Garff Enterprises Corporate Office Salt Lake City, UT",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Part Time",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://kengarff.wd1.myworkdayjobs.com/en-US/external_site/job/Garff-Enterprises-Corporate-Office---Salt-Lake-City-UT/Software-Engineering-Intern--Part-Time-_R0042587"
   },
   "44acff93b634bc38": {
     "company": "Netsmart",
@@ -3997,17 +3975,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046"
-  },
-  "869c0e0b93878bdc": {
-    "company": "GenBio AI",
-    "first_seen": "2026-06-02",
-    "location": "Palo Alto, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.lever.co/genbio/4bdb14ae-e19f-40c8-84db-1307dbdabe74/apply"
   },
   "86ee313ceb3f6c2f": {
     "company": "TikTok",
@@ -6437,6 +6404,21 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931&utm_source=github-vansh-ouckah"
+  },
+  "df15137be8f9c1dc": {
+    "company": "Harvey",
+    "first_seen": "2026-09-01",
+    "fit_score": 2,
+    "location": "San Francisco",
+    "posted_at": "2026-09-01T14:38:55.762000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Security",
+    "role_category": "swe",
+    "source": "Ashby:harvey",
+    "url": "https://jobs.ashbyhq.com/harvey/d2624850-8dd4-4eb4-b5dc-f386b715a26f",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of experience; candidate is a new grad.",
+    "years_required": 2
   },
   "df479960c37d1831": {
     "company": "TikTok",

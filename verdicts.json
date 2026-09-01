@@ -114,6 +114,17 @@
     "verified": false,
     "years": 10
   },
+  "214b8c99b26b4ee0": {
+    "cached_at": "2026-09-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Explicitly excludes new graduates and entry-level applicants.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "2443a597a57fe842": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -788,6 +799,17 @@
     "verified": false,
     "years": null
   },
+  "aa66afaa2770dd03": {
+    "cached_at": "2026-09-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "aaecdcde2034a94a": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -962,6 +984,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "df15137be8f9c1dc": {
+    "cached_at": "2026-09-01",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years of experience; candidate is a new grad.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "e284f11dfbcd375f": {
     "cached_at": "2026-08-31",
