@@ -554,7 +554,22 @@ def fetch_jsearch(
                     continue  # endpoint path not on this deployment — next path
                 return [], None
             body = r.json() or {}
-            data = body.get("data") or body.get("jobs_results") or []
+            raw = body.get("data")
+            if isinstance(raw, dict):
+                # search-v2 wraps results alongside cursor pagination —
+                # grab the first list inside the wrapper.
+                data = next(
+                    (v for v in raw.values() if isinstance(v, list) and v), []
+                )
+                if not data:
+                    print(
+                        f"    ! jsearch data dict [{host}/{path}] "
+                        f"keys={sorted(raw)[:10]}"
+                    )
+            elif isinstance(raw, list):
+                data = raw
+            else:
+                data = body.get("jobs_results") or []
             if not data:
                 print(
                     f"    ! jsearch returned no data [{host}/{path}]: "

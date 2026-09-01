@@ -105,6 +105,20 @@ class TestFetchJSearch:
         posts, host = scrapers.fetch_jsearch("q", {})
         assert posts == [] and host is None
 
+    def test_dict_wrapped_data(self, monkeypatch):
+        """search-v2 wraps the job list inside a dict (cursor pagination)."""
+        monkeypatch.setenv("JSEARCH_API_KEY", "k")
+        monkeypatch.setattr(
+            scrapers.requests, "get",
+            lambda *a, **k: _FakeResp({
+                "status": "OK",
+                "data": {"jobs": [self._job()], "cursor": "abc123"},
+            }),
+        )
+        posts, host = scrapers.fetch_jsearch("q", {})
+        assert host == "jsearch.p.rapidapi.com"
+        assert len(posts) == 1 and posts[0].company == "Stripe"
+
     def test_host_fallback_on_404(self, monkeypatch):
         """A 404 on the first gateway moves the chain to the next host."""
         monkeypatch.setenv("JSEARCH_API_KEY", "k")
