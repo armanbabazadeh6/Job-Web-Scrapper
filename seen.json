@@ -5947,6 +5947,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/pebl/656500ff-2bb5-4152-a553-02af70eff612"
   },
+  "cded6820f5f9bf2e": {
+    "company": "Lambda",
+    "first_seen": "2026-09-01",
+    "fit_score": 2,
+    "location": "San Jose Office (Zanker)",
+    "posted_at": "2026-09-01T18:26:47.353000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Data Center Operations Systems Engineer (San Jose)",
+    "role_category": "platform",
+    "source": "Ashby:lambda",
+    "url": "https://jobs.ashbyhq.com/lambda/5a093b1b-11da-4f6d-8c04-89e6b02c5ddd",
+    "verified": true,
+    "verify_reason": "Entry-level requirements, but timing mismatch with January 2027 availability.",
+    "years_required": 0
+  },
   "ce5bd3125ca5b85e": {
     "company": "Virtu Financial",
     "first_seen": "2026-07-31",

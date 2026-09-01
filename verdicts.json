@@ -327,6 +327,17 @@
     "verified": true,
     "years": 0
   },
+  "448a1abcd08b22b8": {
+    "cached_at": "2026-09-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 4+ years of professional software development experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
+  },
   "44e6fc79b216343b": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -743,6 +754,17 @@
     "verified": false,
     "years": null
   },
+  "9fbdff7825383713": {
+    "cached_at": "2026-09-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Staff-level role requiring extensive product management experience.",
+    "salary": null,
+    "seniority": "staff",
+    "verified": true,
+    "years": 8
+  },
   "9fc2d64e2f520021": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -945,6 +967,17 @@
     "verified": true,
     "years": 0
   },
+  "cded6820f5f9bf2e": {
+    "cached_at": "2026-09-01",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Entry-level requirements, but timing mismatch with January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "cee0b3c027882cdd": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -995,6 +1028,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "e101a9aa294180c8": {
+    "cached_at": "2026-09-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Explicitly states not intended for entry-level or new graduate applicants.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "e284f11dfbcd375f": {
     "cached_at": "2026-08-31",
