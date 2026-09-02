@@ -5172,6 +5172,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275"
   },
+  "afdba7cf6374838f": {
+    "company": "Perplexity",
+    "first_seen": "2026-09-02",
+    "fit_score": 2,
+    "location": "San Francisco",
+    "posted_at": "2026-09-02T16:40:35.506000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager, Growth",
+    "role_category": "product",
+    "source": "Ashby:perplexity",
+    "url": "https://jobs.ashbyhq.com/perplexity/fa088d92-b08b-43f7-9232-275b0ae08827",
+    "verified": true,
+    "verify_reason": "Requires 2 years of investment banking or consulting experience.",
+    "years_required": 2
+  },
   "b0863db7fcc7a775": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -6238,6 +6253,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/plus-2/06b808df-85a1-4ddd-863c-3e1cbe61eda9"
+  },
+  "d5456c42884384a6": {
+    "company": "Perplexity",
+    "first_seen": "2026-09-02",
+    "fit_score": 2,
+    "location": "San Francisco",
+    "posted_at": "2026-09-02T16:40:40.894000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager, SMB Growth",
+    "role_category": "product",
+    "source": "Ashby:perplexity",
+    "url": "https://jobs.ashbyhq.com/perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13",
+    "verified": true,
+    "verify_reason": "Requires 2 years of investment banking or consulting experience.",
+    "years_required": 2
   },
   "d59db2bf5c0e843d": {
     "company": "Syska Hennessy Group",

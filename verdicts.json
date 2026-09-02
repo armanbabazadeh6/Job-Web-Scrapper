@@ -100,6 +100,17 @@
     "verified": false,
     "years": 5
   },
+  "18cf0a1242720526": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "1b8d460c812e6ea8": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -732,6 +743,17 @@
     "verified": false,
     "years": null
   },
+  "8237becfafaf1800": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires at least 3 years of experience with a Master's.",
+    "salary": "$235,090-$285,600",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "864ba5f13d5a8b4c": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -822,6 +844,17 @@
     "verified": true,
     "years": 3
   },
+  "942b7f6e9bd69b1c": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "945f488ccd63f5df": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -869,6 +902,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 2
+  },
+  "9b740b65e888e0a7": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
   },
   "9bcf07caf505b4b1": {
     "cached_at": "2026-08-31",
@@ -988,6 +1032,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "afdba7cf6374838f": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2 years of investment banking or consulting experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "b55c17fb3caa51d9": {
     "cached_at": "2026-09-02",
@@ -1166,6 +1221,17 @@
     "seniority": null,
     "verified": false,
     "years": 6
+  },
+  "d5456c42884384a6": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2 years of investment banking or consulting experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "d7425c7af7ea1e4d": {
     "cached_at": "2026-08-31",
