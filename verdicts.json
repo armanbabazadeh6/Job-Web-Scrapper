@@ -933,6 +933,17 @@
     "verified": true,
     "years": 3
   },
+  "9dc03b4d14cc3dec": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 4+ years of professional backend software engineering experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
+  },
   "9dfabd997fd0e2f3": {
     "cached_at": "2026-08-31",
     "entry_level": false,
