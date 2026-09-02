@@ -168,6 +168,17 @@
     "verified": false,
     "years": 7
   },
+  "2a0b9f95b64e54d9": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "2a17856b2e5dc693": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -294,6 +305,17 @@
     "verified": false,
     "years": 4
   },
+  "3fbdaab99a518e78": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "40b141b5a253cc84": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -301,6 +323,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "40ddc9fc0239badb": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "431deac00d5b7eaf": {
     "cached_at": "2026-08-31",
@@ -436,6 +469,17 @@
     "verified": true,
     "years": 2
   },
+  "5d246923614b7d23": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "5dc9bcf8a044f2d2": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -451,6 +495,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "62039db58ed7a3d4": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "6249b08160fd839b": {
     "cached_at": "2026-08-31",
@@ -567,6 +622,17 @@
     "verified": false,
     "years": 4
   },
+  "72dd4b5c50e2f14d": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "74e32d0fe800d085": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -633,6 +699,17 @@
     "verified": false,
     "years": 5
   },
+  "819247ab07c85441": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "864ba5f13d5a8b4c": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -693,6 +770,17 @@
     "verified": true,
     "years": 3
   },
+  "8f8c53bdb38d8997": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "8f8e5d6673ccc45a": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -700,6 +788,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "945f488ccd63f5df": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "96355cb9edb40ab1": {
     "cached_at": "2026-08-31",
@@ -857,6 +956,17 @@
     "verified": true,
     "years": 0
   },
+  "b55c17fb3caa51d9": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "b5a195373425d9da": {
     "cached_at": "2026-08-31",
     "clearance_required": false,
@@ -904,6 +1014,17 @@
     "cached_at": "2026-08-31",
     "entry_level": true,
     "reason": "LLM verdict missing (fallback)",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "bd4fa3fdc09343a0": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
     "seniority": null,
     "verified": false,
     "years": null
@@ -994,6 +1115,17 @@
     "verified": false,
     "years": null
   },
+  "d275bf736fc77316": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "d2cc52450e65c7d4": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1017,6 +1149,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "ddd49c2fb1efbaab": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "df15137be8f9c1dc": {
     "cached_at": "2026-09-01",
@@ -1060,6 +1203,17 @@
     "cached_at": "2026-08-31",
     "entry_level": false,
     "reason": "Requires 3+ years of product management experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "ec0b37aaba78d985": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Explicitly states it is not for new graduates or entry-level applicants.",
     "salary": null,
     "seniority": "mid",
     "verified": true,
