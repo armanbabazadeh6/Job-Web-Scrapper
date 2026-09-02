@@ -41,6 +41,17 @@
     "verified": false,
     "years": 5
   },
+  "0a1c94eb0aa8fdff": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of experience across infrastructure engineering or SRE.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
   "0a6b4f3ffe828bf2": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -202,6 +213,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 5
+  },
+  "2bb9441928793c7c": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of experience building and operating cloud infrastructure.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "2ca048a561c381c9": {
     "cached_at": "2026-08-31",
