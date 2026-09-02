@@ -2654,6 +2654,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.zipline.com/open-roles?gh_jid=7767667003"
   },
+  "5be98d0c08a0b5b6": {
+    "company": "Duolingo",
+    "first_seen": "2026-09-02",
+    "fit_score": 1,
+    "location": "New York, NY",
+    "posted_at": "2026-09-02T15:02:08-04:00",
+    "posting_type": "verified_entry",
+    "role": "Platform Engineer II",
+    "role_category": "platform",
+    "source": "Greenhouse:duolingo",
+    "url": "https://careers.duolingo.com/jobs/8778700002?gh_jid=8778700002",
+    "verified": true,
+    "verify_reason": "Immediate hire role; candidate is not available until January 2027.",
+    "years_required": 0
+  },
   "5c5cd6147cac1565": {
     "company": "Chime",
     "first_seen": "2026-08-31",
@@ -5161,6 +5176,21 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://lifeattiktok.com/search/7667935633764370741?utm_source=github-vansh-ouckah"
   },
+  "af8a0a9a114f0776": {
+    "company": "Palantir",
+    "first_seen": "2026-09-02",
+    "fit_score": 1,
+    "location": "Miami, FL",
+    "posted_at": "2026-09-02T20:46:05.526000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Deployment Strategist - US Government",
+    "role_category": "swe",
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/e2a3c133-7964-4e64-ba17-84a8b0b19506",
+    "verified": true,
+    "verify_reason": "Immediate hire role; candidate is not available until January 2027.",
+    "years_required": 0
+  },
   "af8f5540c3ee4873": {
     "company": "Northrop Grumman",
     "first_seen": "2026-07-13",
@@ -6951,6 +6981,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411"
+  },
+  "ef3b9fe94458dd6c": {
+    "company": "Gitlab",
+    "first_seen": "2026-09-02",
+    "fit_score": 1,
+    "location": "Remote, Canada; Remote, United States",
+    "posted_at": "2026-09-02T14:45:41-04:00",
+    "posting_type": "verified_entry",
+    "role": "Intermediate Backend Engineer, AMER",
+    "role_category": "swe",
+    "source": "Greenhouse:gitlab",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773006002",
+    "verified": true,
+    "verify_reason": "Immediate hire role; candidate is not available until January 2027.",
+    "years_required": 0
   },
   "efcfdd9a41de4746": {
     "company": "Ball Aerospace",
