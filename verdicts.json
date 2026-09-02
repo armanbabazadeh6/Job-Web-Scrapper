@@ -770,6 +770,17 @@
     "verified": true,
     "years": 3
   },
+  "8f406134e810ebc3": {
+    "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3 years of experience, not suitable for a new graduate.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "8f8c53bdb38d8997": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
