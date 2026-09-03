@@ -2625,6 +2625,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1"
   },
+  "5b6d1acd0c4901a2": {
+    "company": "Chime",
+    "first_seen": "2026-09-03",
+    "fit_score": 1,
+    "location": "San Francisco, CA, USA",
+    "posted_at": "2026-09-03T14:18:20-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Growth",
+    "role_category": "swe",
+    "salary": "$133k-$184k",
+    "source": "Greenhouse:chime",
+    "url": "https://boards.greenhouse.io/chime/jobs/8782503002?gh_jid=8782503002",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience; start date mismatch (available Jan 2027).",
+    "years_required": 2
+  },
   "5ba84416ec0afbc3": {
     "company": "Zipline",
     "first_seen": "2026-06-24",
@@ -4596,6 +4612,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/eulerity/jobs/4671031006"
+  },
+  "9ade58e8b1220607": {
+    "company": "Coinbase",
+    "first_seen": "2026-09-03",
+    "fit_score": 1,
+    "location": "Remote - USA",
+    "posted_at": "2026-09-03T14:02:16-04:00",
+    "posting_type": "verified_entry",
+    "role": "Threat Intelligence Platform Engineer",
+    "role_category": "platform",
+    "source": "Greenhouse:coinbase",
+    "url": "https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience; start date mismatch (available Jan 2027).",
+    "years_required": 2
   },
   "9b2d231a8177a4b5": {
     "company": "northwoodspace",

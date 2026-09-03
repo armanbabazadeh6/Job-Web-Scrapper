@@ -505,6 +505,17 @@
     "verified": false,
     "years": 6
   },
+  "5b6d1acd0c4901a2": {
+    "cached_at": "2026-09-03",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2+ years experience; start date mismatch (available Jan 2027).",
+    "salary": "$133k-$184k",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "5be98d0c08a0b5b6": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -922,6 +933,17 @@
     "reason": "Requires complete autonomy and enterprise partnership; not a new grad role.",
     "salary": null,
     "seniority": "mid",
+    "verified": true,
+    "years": 2
+  },
+  "9ade58e8b1220607": {
+    "cached_at": "2026-09-03",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2+ years experience; start date mismatch (available Jan 2027).",
+    "salary": null,
+    "seniority": "junior",
     "verified": true,
     "years": 2
   },
