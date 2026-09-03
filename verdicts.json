@@ -111,6 +111,17 @@
     "verified": false,
     "years": 4
   },
+  "19c20330fb18b316": {
+    "cached_at": "2026-09-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "1b8d460c812e6ea8": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -581,6 +592,17 @@
     "verified": true,
     "years": 3
   },
+  "62a7ace6e6d41d43": {
+    "cached_at": "2026-09-03",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate available January 2027; role is for immediate hire.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "62afefa89c2ec218": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -748,6 +770,17 @@
     "verified": false,
     "years": 4
   },
+  "7ba7dea07787b35e": {
+    "cached_at": "2026-09-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "7c6c928877352c28": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -876,6 +909,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "8fd0bec3311c06fc": {
+    "cached_at": "2026-09-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "942b7f6e9bd69b1c": {
     "cached_at": "2026-09-02",
@@ -1171,6 +1215,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "bb8ffe8ff5a4f95c": {
+    "cached_at": "2026-09-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "bd4fa3fdc09343a0": {
     "cached_at": "2026-09-02",

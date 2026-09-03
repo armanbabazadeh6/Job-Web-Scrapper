@@ -2860,6 +2860,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://aoins.wd5.myworkdayjobs.com/en-US/autoowners/job/Lansing-MI/Software-Developer-Internship_R_2121"
   },
+  "62a7ace6e6d41d43": {
+    "company": "Openai",
+    "first_seen": "2026-09-03",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-09-03T20:29:00.146000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Full Stack Software Engineer, Product Explorations",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/4d1ede8c-3d4c-4503-8408-81e4b68c5c91",
+    "verified": true,
+    "verify_reason": "Candidate available January 2027; role is for immediate hire.",
+    "years_required": 0
+  },
   "62afefa89c2ec218": {
     "company": "Openai",
     "first_seen": "2026-08-31",
