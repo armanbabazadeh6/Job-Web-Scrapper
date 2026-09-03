@@ -1042,6 +1042,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7"
   },
+  "2700b7867afcc953": {
+    "company": "Instacart",
+    "first_seen": "2026-09-03",
+    "fit_score": 1,
+    "location": "United States - Remote",
+    "posted_at": "2026-09-03T19:15:32-04:00",
+    "posting_type": "verified_entry",
+    "role": "Associate Product Manager",
+    "role_category": "product",
+    "source": "Greenhouse:instacart",
+    "url": "https://instacart.careers/job/?gh_jid=8175807",
+    "verified": true,
+    "verify_reason": "Requires 12 months experience; timing mismatch with January 2027 availability.",
+    "years_required": 1
+  },
   "270b46f8cdae9714": {
     "company": "Blackstone",
     "first_seen": "2026-07-09",
