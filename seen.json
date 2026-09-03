@@ -365,17 +365,6 @@
     "verify_reason": "Associate software engineer role requiring no minimum years of experience.",
     "years_required": 0
   },
-  "1031da4b10e9c112": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-03",
-    "location": "Minneapolis, Minnesota, United States of America",
-    "posted_at": "2026-08-03T19:58:25.476461+00:00",
-    "posting_type": "new_grad",
-    "role": "Investment Analyst - Parametric",
-    "role_category": "pe",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Minneapolis-Minnesota-United-States-of-America/Investment-Analyst---Parametric_PT-JR041606-1"
-  },
   "117880c183d14f28": {
     "company": "Booz Allen",
     "first_seen": "2026-08-29",
@@ -731,17 +720,6 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/BXMA--Investment-Operations--Analyst_43757"
   },
-  "1bb7db00823ef30a": {
-    "company": "Heliux",
-    "first_seen": "2026-08-03",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-08-03T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef?utm_source=github-vansh-ouckah"
-  },
   "1d4e3a47b04aa6a7": {
     "company": "Brunswick",
     "first_seen": "2026-08-25",
@@ -1016,17 +994,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166-1"
-  },
-  "261c939e18e23704": {
-    "company": "Capital One",
-    "first_seen": "2026-08-03",
-    "location": "McLean, VAPlano, TXRichmond, VA",
-    "posted_at": "2026-08-03T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Technology-Internship-Program---Summer-2027_R244387-1?utm_source=github-vansh-ouckah"
   },
   "264053c9a1da86ff": {
     "company": "Robinhood",
@@ -2028,6 +1995,21 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667?utm_source=github-vansh-ouckah"
   },
+  "44b30b053578c06c": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-09-03",
+    "fit_score": 1,
+    "location": "United States",
+    "posted_at": "2026-09-03T13:13:09.417000+00:00",
+    "posting_type": "verified_entry",
+    "role": "HPC Infrastructure Engineer - GPU Clusters",
+    "role_category": "platform",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
+    "verified": true,
+    "verify_reason": "Candidate available Jan 2027; immediate hire role is timing mismatch.",
+    "years_required": 0
+  },
   "44c396edff309787": {
     "company": "TikTok",
     "first_seen": "2026-08-04",
@@ -2693,17 +2675,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "5c68fbe37033765f": {
-    "company": "BillionToOne",
-    "first_seen": "2026-06-04",
-    "location": "Menlo Park, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/billiontoone/jobs/4702398005"
   },
   "5d196374c5774e9d": {
     "company": "Optiver",
@@ -3550,17 +3521,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434"
-  },
-  "773ffaaf94a61ae6": {
-    "company": "Medtronic",
-    "first_seen": "2026-08-03",
-    "location": "5 locationsFridley, MNTempe, AZEatontown, NJSanta Rosa, CALafayette, CO",
-    "posted_at": "2026-08-03T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineering Intern \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1?utm_source=github-vansh-ouckah"
   },
   "780e1e3563a6f1d0": {
     "company": "Harman",
@@ -5465,17 +5425,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629"
   },
-  "b8f0808e15d355e7": {
-    "company": "HPR",
-    "first_seen": "2026-08-03",
-    "location": "Needham, MA",
-    "posted_at": "2026-08-03T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineering Intern \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003?utm_source=github-vansh-ouckah"
-  },
   "b8f408f71c830c3c": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-21",
@@ -5790,17 +5739,6 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Equity-Research-Analyst-Associate---Software_JR040545-1"
-  },
-  "c3ffa18e9448118f": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-03",
-    "location": "Multiple Locations, United States",
-    "posted_at": "2026-08-03T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, CoreAI",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&utm_source=github-vansh-ouckah"
   },
   "c46116a63645ba78": {
     "company": "TikTok",
@@ -6149,17 +6087,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304"
-  },
-  "d04fd6d8aa3758ba": {
-    "company": "Al Warren Oil",
-    "first_seen": "2026-06-04",
-    "location": "Bensenville, Illinois, US",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Developer - Fall Internship 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://apply.workable.com/al-warren-oil-company-inc/j/345DC0E6D4/"
   },
   "d0906c8a7e5edce0": {
     "company": "TikTok",
@@ -7265,17 +7192,6 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Equity-Research-Associate---Autos---Shared-Mobility_JR040528-2"
-  },
-  "f903f7d12c8de2e5": {
-    "company": "Leidos",
-    "first_seen": "2026-06-04",
-    "location": "Poulsbo, WA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - DevOps",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Poulsbo-WA/Software-Engineer-Intern--DevOps-_R-00184709"
   },
   "f919cfffe2f41eaf": {
     "company": "Zipline",
