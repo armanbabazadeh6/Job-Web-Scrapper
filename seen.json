@@ -175,28 +175,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
   },
-  "0846a4b9f8de0e77": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "Seattle, WA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Trust and Safety-Engineering \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7662684280234232117?utm_source=github-vansh-ouckah"
-  },
-  "089c44b8a03bca31": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, TikTok-Agentic Creation-AIGC",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668675500744837381?utm_source=github-vansh-ouckah"
-  },
   "0991e64125a98061": {
     "company": "Copart",
     "first_seen": "2026-07-31",
@@ -218,17 +196,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
-  },
-  "0a7f392539e73075": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern, Global E-Commerce",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668834837268138293?utm_source=github-vansh-ouckah"
   },
   "0af49df16c67eb2f": {
     "company": "Replit",
@@ -489,17 +456,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004"
   },
-  "1470c45bff14d151": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "Seattle, WA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern, Global E-Commerce",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668834837268416821?utm_source=github-vansh-ouckah"
-  },
   "1492904fc0ef393c": {
     "company": "Northrop Grumman",
     "first_seen": "2026-08-07",
@@ -521,17 +477,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "15b895ae59cee651": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Intelligent Creation-Camera",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668862422178318597?utm_source=github-vansh-ouckah"
   },
   "15f84e92bf6f4319": {
     "company": "Leidos",
@@ -654,6 +599,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "1a21a33eee435886": {
+    "clearance_required": true,
+    "company": "Cursor",
+    "first_seen": "2026-09-04",
+    "fit_score": 1,
+    "location": "Remote",
+    "posted_at": "2026-09-04T07:03:13.944000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Field Engineer, Public Sector",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/a750c967-7c4d-4704-a528-dcb63afc5f64",
+    "verified": true,
+    "verify_reason": "Timeline mismatch (available Jan 2027) and requires prior field engineering experience.",
+    "years_required": 0
+  },
   "1a2abbc4ded2b3fe": {
     "company": "Human Computer Lab",
     "first_seen": "2026-06-07",
@@ -763,17 +724,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003"
-  },
-  "1dcf1a3d824fe9b6": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, PGC Creator Strategy \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667933770819897605?utm_source=github-vansh-ouckah"
   },
   "1e0d9da4179e3be3": {
     "company": "SAGE",
@@ -1009,17 +959,6 @@
     "verify_reason": "No minimum years of experience required in description.",
     "years_required": 0
   },
-  "26903eabbd651cea": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Transaction Platform",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7669943120351906053?utm_source=github-vansh-ouckah"
-  },
   "26af9361f165e77f": {
     "company": "Copart",
     "first_seen": "2026-07-22",
@@ -1236,17 +1175,6 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012148?utm_source=github-vansh-ouckah"
   },
-  "2ba7e969b98382d2": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern, Social Foundation",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667935565120112949?utm_source=github-vansh-ouckah"
-  },
   "2bd3a58aaa1f9fa8": {
     "company": "Blackstone",
     "first_seen": "2026-07-08",
@@ -1382,17 +1310,6 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/GP-Stakes-Strategic-Value--Analyst_44673"
   },
-  "2f5fcc5c172e773b": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "Seattle, WA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Data Arch - E-commerce",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668582086899763461?utm_source=github-vansh-ouckah"
-  },
   "2f825e3dd36d2588": {
     "company": "Chime",
     "first_seen": "2026-08-31",
@@ -1417,17 +1334,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf"
-  },
-  "30355e9bc1d9da97": {
-    "company": "ByteDance",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Distributed NoSQL Database Systems",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://joinbytedance.com/search/7668374190764050741?utm_source=github-vansh-ouckah"
   },
   "30c4b3c841a8783c": {
     "company": "GEICO",
@@ -1472,17 +1378,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "327f7220b04c6d61": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern, Social Friending",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667934635573692725?utm_source=github-vansh-ouckah"
   },
   "32f5371f73dc9093": {
     "company": "Campbell Soup",
@@ -1572,17 +1467,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "35e413ebe993f08b": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern, PGC-Digital Content Center \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667934302872537397?utm_source=github-vansh-ouckah"
-  },
   "3690bc44e0c9f4cf": {
     "company": "Raytheon",
     "first_seen": "2026-08-07",
@@ -1670,28 +1554,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.pathai.com/careers/8651564002?gh_jid=8651564002"
-  },
-  "396e4d32946dab88": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-04",
-    "location": "Redmond, WA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Security & Identity",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922930&utm_source=github-vansh-ouckah"
-  },
-  "39f321f123ea0c24": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Code Graph and Quality Validation \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667935738376227077?utm_source=github-vansh-ouckah"
   },
   "3a973004379686d1": {
     "company": "Blackstone",
@@ -1999,17 +1861,6 @@
     "verify_reason": "No minimum years specified, requires previous systems administration experience.",
     "years_required": 0
   },
-  "44acff93b634bc38": {
-    "company": "Netsmart",
-    "first_seen": "2026-08-04",
-    "location": "Overland Park, KS",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667?utm_source=github-vansh-ouckah"
-  },
   "44b30b053578c06c": {
     "company": "Elevenlabs",
     "first_seen": "2026-09-03",
@@ -2024,17 +1875,6 @@
     "verified": true,
     "verify_reason": "Candidate available Jan 2027; immediate hire role is timing mismatch.",
     "years_required": 0
-  },
-  "44c396edff309787": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Ads Measurement Signal and Privacy",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668582031916435717?utm_source=github-vansh-ouckah"
   },
   "44e6fc79b216343b": {
     "company": "Datadog",
@@ -2162,17 +2002,6 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Investment-Banking-Mergers-and-Acquisitions-Analyst---New-York_JR042410"
-  },
-  "48cacdf9144de7ed": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Agentic Creation-Effect Platform",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668445566565321013?utm_source=github-vansh-ouckah"
   },
   "49778b1425c88e9b": {
     "company": "Verkada",
@@ -2682,6 +2511,21 @@
     "verify_reason": "Immediate hire role; candidate is not available until January 2027.",
     "years_required": 0
   },
+  "5c380e6365bb3292": {
+    "company": "Cursor",
+    "first_seen": "2026-09-04",
+    "fit_score": 1,
+    "location": "Remote",
+    "posted_at": "2026-09-04T07:10:56.962000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Field Engineer, Healthcare & SLED",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde",
+    "verified": true,
+    "verify_reason": "Timeline mismatch (available Jan 2027) and requires prior field engineering experience.",
+    "years_required": 0
+  },
   "5c5cd6147cac1565": {
     "company": "Chime",
     "first_seen": "2026-08-31",
@@ -2775,17 +2619,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://www.samsara.com/company/careers/roles/7172579?utm_source=vansh"
-  },
-  "5f476eccf7a00749": {
-    "company": "RTX",
-    "first_seen": "2026-08-04",
-    "location": "McKinney, TX",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Fleet Health Instrumentation \ud83c\uddfa\ud83c\uddf8",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/Software-Engineering-Intern--Summer-2027-_01863072?utm_source=github-vansh-ouckah"
   },
   "5f7680592dc11a85": {
     "company": "Booz Allen",
@@ -2950,17 +2783,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c"
   },
-  "64d1d08873891ce5": {
-    "company": "Melius",
-    "first_seen": "2026-08-04",
-    "location": "New York City, NY",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280?utm_source=github-vansh-ouckah"
-  },
   "6550300b2504f256": {
     "company": "TikTok",
     "first_seen": "2026-08-07",
@@ -2971,17 +2793,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "65a20bb365a1ad81": {
-    "company": "Blackstone",
-    "first_seen": "2026-06-05",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Blackstone Multi-Asset Investing (BXMA) -Equity Capital Markets, Associate",
-    "role_category": "ib",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA---Equity-Capital-Markets--Associate_42085"
   },
   "65f462fe1dec5810": {
     "company": "Ultra Group",
@@ -3015,17 +2826,6 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Associate--Public-Finance-Quantitative-Developer---Strategist--New-York-_JR042586"
-  },
-  "663455339ef53e98": {
-    "company": "ByteDance",
-    "first_seen": "2026-08-04",
-    "location": "Seattle, WA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Distributed NoSQL Database Systems",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://joinbytedance.com/search/7668373268886161669?utm_source=github-vansh-ouckah"
   },
   "6645115cbbf6d19f": {
     "company": "Microsoft",
@@ -3098,17 +2898,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1"
-  },
-  "67d0871246f15d0b": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Frontend Engineer Intern, Global CRM",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7669711026846058757?utm_source=github-vansh-ouckah"
   },
   "67edc7cfe8b6270b": {
     "company": "TikTok",
@@ -3469,17 +3258,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "73f6945cef155982": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Trust and Safety-Engineering \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7662700594251958581?utm_source=github-vansh-ouckah"
-  },
   "74718fb1f85410e1": {
     "company": "Magna",
     "first_seen": "2026-06-20",
@@ -3645,17 +3423,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "794076aa5ee2cc75": {
-    "company": "American Express",
-    "first_seen": "2026-08-04",
-    "location": "New York, NY",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Product Management Intern \ud83d\udec2",
-    "role_category": "product",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011916?utm_source=github-vansh-ouckah"
-  },
   "798e77ba09a88cc0": {
     "company": "Blackstar Computers",
     "first_seen": "2026-07-22",
@@ -3699,17 +3466,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "7aac004cf9dd5d78": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-04",
-    "location": "Multiple Locations, United States",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Fullstack Product (Web + Services)",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922922&utm_source=github-vansh-ouckah"
   },
   "7ab631f38478a997": {
     "company": "General Matter",
@@ -3798,17 +3554,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
-  },
-  "7cd741f14d9140d5": {
-    "company": "Samsara",
-    "first_seen": "2026-08-04",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091&utm_source=github-vansh-ouckah"
   },
   "7d05e6f8b3f94cde": {
     "company": "D. E. Shaw & Co.",
@@ -3908,17 +3653,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "7fb43e2e05e0579d": {
-    "company": "RenderATL",
-    "first_seen": "2026-08-04",
-    "location": "Seattle, WA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800617003?utm_source=github-vansh-ouckah"
   },
   "7fdab9bce9037f6b": {
     "company": "PathAI",
@@ -4176,17 +3910,6 @@
     "verify_reason": "Requires 1+ years of industry experience.",
     "years_required": 1
   },
-  "8c5d4f8c49eb2f9f": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Business Integrity",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668584916620527925?utm_source=github-vansh-ouckah"
-  },
   "8c9d38a80dbf4d07": {
     "company": "Zipline",
     "first_seen": "2026-06-10",
@@ -4285,17 +4008,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.smartrecruiters.com/RESPECInc/744000012676985-student-software-engineering-intern?oga=true"
-  },
-  "91b2f49d1d9fce9e": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Global CRM",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7669711844487399685?utm_source=github-vansh-ouckah"
   },
   "92ab3918df855845": {
     "company": "Flowith",
@@ -4553,28 +4265,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "9707a6c43e3dfa5a": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern, Search \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667933335084124469?utm_source=github-vansh-ouckah"
-  },
-  "973f0e8ea1bebd11": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-04",
-    "location": "Redmond, WA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, AI/ML & LLM",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929&utm_source=github-vansh-ouckah"
-  },
   "97e63133e7e61d0f": {
     "company": "Stripe",
     "first_seen": "2026-08-31",
@@ -4620,17 +4310,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1"
-  },
-  "99443ba2b57e4268": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "Seattle, WA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Data Arch - E-commerce",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668582146236631349?utm_source=github-vansh-ouckah"
   },
   "9a9c9383b8158d9a": {
     "company": "Eulerity",
@@ -4701,17 +4380,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003"
-  },
-  "9d1d15152bb456be": {
-    "company": "RTX",
-    "first_seen": "2026-08-04",
-    "location": "Fullerton, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Fleet Health Instrumentation \ud83c\uddfa\ud83c\uddf8",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CA-FULLERTON-675--1801-Hughes-Dr--BLDG-675/Software-Engineering-Intern--Summer-2027-_01863012?utm_source=github-vansh-ouckah"
   },
   "9d332fab496cea0d": {
     "company": "TikTok",
@@ -4812,17 +4480,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005"
   },
-  "a27f12095ac939e1": {
-    "company": "ByteDance",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, AI Platform \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://joinbytedance.com/search/7668212952030841093?utm_source=github-vansh-ouckah"
-  },
   "a2c0d3c41285c715": {
     "company": "Availity",
     "first_seen": "2026-08-22",
@@ -4872,17 +4529,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895"
-  },
-  "a5182b939340da8d": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-04",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-04T15:35:04.241820+00:00",
-    "posting_type": "new_grad",
-    "role": "Alternative Investments Sales Associate",
-    "role_category": "tech_sales",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Alternative-Sales-Associate_JR041715-1"
   },
   "a5c3a7b965ce04db": {
     "company": "NVIDIA",
@@ -4939,17 +4585,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9"
   },
-  "a73a4033115df2c4": {
-    "company": "Docusign",
-    "first_seen": "2026-06-05",
-    "location": "US CA San Francisco",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://uscareers-docusign.icims.com/jobs/29550/software-engineer-intern/job"
-  },
   "a772d96aef715b3b": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
@@ -4995,17 +4630,6 @@
     "url": "https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823",
     "verified": false,
     "verify_reason": "LLM verdict missing (fallback)"
-  },
-  "a85974ec5398a82b": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-04",
-    "location": "Redmond, WA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Cloud & Distributed Backend",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922923&utm_source=github-vansh-ouckah"
   },
   "a96ae3c346b3aa34": {
     "company": "Hermeus",
@@ -5120,17 +4744,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ultra.wd3.myworkdayjobs.com/en-US/uiccareers/job/Austin-TX-United-States/Software-Engineer-Intern_REQ-12111"
   },
-  "ae10dc5774987a91": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Creative Intelligence and Brand Innovation",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668642761473902901?utm_source=github-vansh-ouckah"
-  },
   "ae81868881b7caf5": {
     "company": "Plexus",
     "first_seen": "2026-08-28",
@@ -5141,17 +4754,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060"
-  },
-  "aea4f08d012073c9": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Frontend Software Engineer Intern, Ads Measurement Signal and Privacy",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668584161852229893?utm_source=github-vansh-ouckah"
   },
   "aec6486416a61cac": {
     "company": "Leidos",
@@ -5185,17 +4787,6 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1?utm_source=github-vansh-ouckah"
-  },
-  "af42106b967635fb": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern, Product Infrastructure",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667935633764370741?utm_source=github-vansh-ouckah"
   },
   "af8a0a9a114f0776": {
     "company": "Palantir",
@@ -5541,17 +5132,6 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781?utm_source=github-vansh-ouckah"
   },
-  "b9f3a1a76720c721": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, AI Agent & Global Revenue Platform",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7669712589169117445?utm_source=github-vansh-ouckah"
-  },
   "ba60fe21f717cbff": {
     "company": "Cursor",
     "first_seen": "2026-08-31",
@@ -5735,17 +5315,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "c2abade74244b11f": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Shoot Experience Optimization",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668921505254410549?utm_source=github-vansh-ouckah"
-  },
   "c2b04a7260abc933": {
     "company": "talentpluto",
     "first_seen": "2026-08-26",
@@ -5801,17 +5370,6 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Equity-Research-Analyst-Associate---Software_JR040545-1"
   },
-  "c46116a63645ba78": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Privacy and Security",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667935739300317493?utm_source=github-vansh-ouckah"
-  },
   "c4ca7bebf3b760ee": {
     "company": "Leidos",
     "first_seen": "2026-06-13",
@@ -5844,17 +5402,6 @@
     "role_category": "consulting",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Lead-Business-Analyst_PT-JR041640-1"
-  },
-  "c563b6428dc00707": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Ads Interface",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7669705785962727733?utm_source=github-vansh-ouckah"
   },
   "c5b10f6f18c1b49a": {
     "company": "N1",
@@ -5910,17 +5457,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "c7ffa1babd88631b": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Frontend Engineer Intern, TikTok-Open Platform",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667935739300792629?utm_source=github-vansh-ouckah"
   },
   "c8edcd865205cd2e": {
     "company": "TikTok",
@@ -6369,17 +5905,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/plus-2/a3bcdba6-b0d0-46ba-9af3-a387926a6fb4"
   },
-  "d9488f378e8c5c83": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-04",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-04T21:35:56.727556+00:00",
-    "posting_type": "new_grad",
-    "role": "MSIM - Private Equity Solutions - Secondaries Associate",
-    "role_category": "pe",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/MSIM---Private-Equity-Solutions---Secondaries-Associate_JR041838-1"
-  },
   "d94ead7ea6df942c": {
     "company": "Netic",
     "first_seen": "2026-07-17",
@@ -6479,17 +6004,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "dca0d4b6488edaaf": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Global Live-Foundation \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667935150530840837?utm_source=github-vansh-ouckah"
-  },
   "dcd36b69e4dd536a": {
     "company": "American Express",
     "first_seen": "2026-08-21",
@@ -6533,17 +6047,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "dee70926bba52469": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-04",
-    "location": "Redmond, WA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Data Platform/Analytics",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922931&utm_source=github-vansh-ouckah"
   },
   "df15137be8f9c1dc": {
     "company": "Harvey",
@@ -6658,17 +6161,6 @@
     "role_category": "swe",
     "source": "Ashby:sierra",
     "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00"
-  },
-  "e270ebc21145e1d4": {
-    "company": "Blackstone",
-    "first_seen": "2026-06-05",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Software Engineer, Associate \u2013 Enterprise Technology",
-    "role_category": "swe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Platform-Engineer--Associate---Physical-Security_41692-1"
   },
   "e28a91bbde3a4a4c": {
     "company": "Bosch",
@@ -6790,28 +6282,6 @@
     "role_category": "swe",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002?utm_source=github-vansh-ouckah"
-  },
-  "e789b7ddd07be305": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7668725183121000757?utm_source=github-vansh-ouckah"
-  },
-  "e7b3673b308ef92c": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, TikTok-Social-Friending",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667935399050692917?utm_source=github-vansh-ouckah"
   },
   "e8a081178fbf3ae7": {
     "company": "Workiva",
@@ -7111,17 +6581,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066"
-  },
-  "f4a6cbfa1082f085": {
-    "company": "TikTok",
-    "first_seen": "2026-08-04",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-04T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern, Growth Innovation",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://lifeattiktok.com/search/7667934860750063925?utm_source=github-vansh-ouckah"
   },
   "f4b9a79e18a61871": {
     "company": "Advanced Space",

@@ -122,6 +122,17 @@
     "verified": false,
     "years": 5
   },
+  "1a21a33eee435886": {
+    "cached_at": "2026-09-04",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Timeline mismatch (available Jan 2027) and requires prior field engineering experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "1b8d460c812e6ea8": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -557,6 +568,17 @@
     "reason": "Immediate hire role; candidate is not available until January 2027.",
     "salary": null,
     "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "5c380e6365bb3292": {
+    "cached_at": "2026-09-04",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Timeline mismatch (available Jan 2027) and requires prior field engineering experience.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },
