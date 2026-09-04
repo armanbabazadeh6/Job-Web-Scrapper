@@ -6779,6 +6779,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Massachusetts-US-Offsite/Software-Engineering--Co-Op_R66728"
   },
+  "fa7bf1d1efed6478": {
+    "company": "Block",
+    "first_seen": "2026-09-04",
+    "fit_score": 1,
+    "location": "Bay Area, CA, United States of America",
+    "posted_at": "2026-09-04T16:24:12-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Justice Engineering",
+    "role_category": "swe",
+    "source": "Greenhouse:block",
+    "url": "http://block.xyz/careers/jobs/5406194008?gh_jid=5406194008",
+    "verified": true,
+    "verify_reason": "Immediate start date mismatch for a December 2026 graduate.",
+    "years_required": 0
+  },
   "fa8785c14586eb51": {
     "company": "Blackstone",
     "first_seen": "2026-08-24",
