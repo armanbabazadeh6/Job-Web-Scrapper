@@ -87,17 +87,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4"
   },
-  "04ee57d9a7fd9691": {
-    "company": "NVIDIA",
-    "first_seen": "2026-06-06",
-    "location": "US, CA, Santa Clara",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering Intern - Mapping Autonomous Vehicles - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "052f94581571bd68": {
     "company": "American Express",
     "first_seen": "2026-08-21",
@@ -544,17 +533,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c"
   },
-  "192998894c56033a": {
-    "company": "Zipline",
-    "first_seen": "2026-06-06",
-    "location": "South San Francisco, California, USA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Embedded Software Engineer Intern - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.zipline.com/careers?gh_jid=7765240003#open-roles"
-  },
   "19c6e6e14fce1a86": {
     "company": "ING",
     "first_seen": "2026-08-11",
@@ -957,6 +935,21 @@
     "url": "https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&gh_jid=8067604",
     "verified": true,
     "verify_reason": "No minimum years of experience required in description.",
+    "years_required": 0
+  },
+  "269caba8a3f18edd": {
+    "company": "Openai",
+    "first_seen": "2026-09-05",
+    "fit_score": 2,
+    "location": "San Francisco",
+    "posted_at": "2026-09-05T14:19:37.047000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Host Assurance",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/0b9e565a-ae5f-40fc-8350-b59f71f76df1",
+    "verified": true,
+    "verify_reason": "Candidate not available until January 2027; immediate hire expected.",
     "years_required": 0
   },
   "26af9361f165e77f": {
@@ -6837,17 +6830,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142898574-powertrain-controls-software-engineering-intern-6-months-full-time-?oga=true"
-  },
-  "fc911b768b71b100": {
-    "company": "Roblox",
-    "first_seen": "2026-08-05",
-    "location": "San Mateo, CA",
-    "posted_at": "2026-08-05T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Software Engineer Intern \ud83c\uddfa\ud83c\uddf8",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713&gh_src=nnh32o631us&utm_source=github-vansh-ouckah"
   },
   "fcb868d978e43bb7": {
     "company": "Booz Allen",
