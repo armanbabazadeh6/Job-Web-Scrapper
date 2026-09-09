@@ -1,4 +1,15 @@
 {
+  "00616bee5f4bef9e": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 6
+  },
   "02d0ccf0f2e98285": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -59,6 +70,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 2
+  },
+  "0dadb87a0b0b2e07": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate available Jan 2027; role is for immediate hire.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "0fd7fea33b23b349": {
     "cached_at": "2026-08-31",
@@ -244,6 +266,17 @@
     "seniority": null,
     "verified": false,
     "years": 7
+  },
+  "2969f76d69339f37": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years experience; candidate available Jan 2027.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "2a0b9f95b64e54d9": {
     "cached_at": "2026-09-02",
@@ -520,6 +553,17 @@
     "verified": false,
     "years": null
   },
+  "50d38ed316d6ead3": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "53081f76e018b1eb": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -570,6 +614,17 @@
     "seniority": null,
     "verified": false,
     "years": 6
+  },
+  "59e65a50dce568b6": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "5b6d1acd0c4901a2": {
     "cached_at": "2026-09-03",
@@ -818,6 +873,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "79ca2f67b362519c": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Candidate available Jan 2027; role is for immediate hire.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "7a2a50b96c3e771f": {
     "cached_at": "2026-08-31",
@@ -1508,6 +1574,17 @@
     "verified": false,
     "years": 6
   },
+  "d36e59047282ecdd": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Candidate available Jan 2027; role is for immediate hire.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "d5456c42884384a6": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -1586,6 +1663,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "e3879a1610a36e3f": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate available Jan 2027; role is for immediate hire.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "e7841aad210741fa": {
     "cached_at": "2026-08-31",

@@ -1,4 +1,15 @@
 {
+  "00231641ebdd485c": {
+    "company": "Agave (W22)",
+    "first_seen": "2026-09-09",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-09-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2025: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://www.workatastartup.com/jobs/81441?utm_source=vansh"
+  },
   "008463bffc0cd3f7": {
     "company": "Zipline",
     "first_seen": "2026-08-26",
@@ -164,6 +175,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
   },
+  "0896f8171769963a": {
+    "company": "Scale",
+    "first_seen": "2026-09-09",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-09-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
   "0991e64125a98061": {
     "company": "Copart",
     "first_seen": "2026-07-31",
@@ -230,17 +252,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689"
   },
-  "0cc07d1133cdae9c": {
-    "company": "Leidos",
-    "first_seen": "2026-06-09",
-    "location": "St Louis, MO",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Developer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/St-Louis-MO/Software-Developer-Intern_R-00184938-1"
-  },
   "0cfe684907de3e54": {
     "company": "Blackstone",
     "first_seen": "2026-08-28",
@@ -251,6 +262,21 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Strategic-Incentives-Group---Global-Equity--Analyst_45164-2"
+  },
+  "0dadb87a0b0b2e07": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-09-09",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-09-08T21:58:04.004000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Forward Deployed Engineer - Software Engineer - North America",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+    "verified": true,
+    "verify_reason": "Candidate available Jan 2027; role is for immediate hire.",
+    "years_required": 0
   },
   "0db99af241db33e3": {
     "company": "The Trade Desk",
@@ -593,17 +619,6 @@
     "verify_reason": "Timeline mismatch (available Jan 2027) and requires prior field engineering experience.",
     "years_required": 0
   },
-  "1a2abbc4ded2b3fe": {
-    "company": "Human Computer Lab",
-    "first_seen": "2026-06-07",
-    "location": "San Francisco",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Intern - Software/ML Engineering",
-    "role_category": "data",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705"
-  },
   "1a486383ea2e3c70": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -714,17 +729,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
   },
-  "1e38411a994bfc24": {
-    "company": "Hillpointe",
-    "first_seen": "2026-06-09",
-    "location": "Winter Park, FL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Data Engineer Intern",
-    "role_category": "data",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/hillpointe/jobs/5193706008"
-  },
   "1ed38e0877bbc432": {
     "company": "Palantir",
     "first_seen": "2026-07-14",
@@ -768,17 +772,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://cra.com/job-listings/job?gh_jid=8047653"
-  },
-  "206e57b7cdb9bde0": {
-    "company": "Nidec",
-    "first_seen": "2026-06-10",
-    "location": "North America USA Missouri St Louis WPE, MO",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineer Co-Op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://nidec.wd1.myworkdayjobs.com/en-US/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Software-Engineer-Co-Op_R0015871"
   },
   "21058af57b5779b4": {
     "company": "Uncountable",
@@ -1592,17 +1585,6 @@
     "source": "Greenhouse:stripe",
     "url": "https://stripe.com/jobs/search?gh_jid=8128744"
   },
-  "3b75e9f705211401": {
-    "company": "Blackstone",
-    "first_seen": "2026-06-10",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Data Analyst, Associate - Private Equity and Real Estate Technology",
-    "role_category": "data",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Data-Analyst--Associate---Private-Equity-and-Real-Estate-Technology_43594-1"
-  },
   "3b8171813b7a7a8b": {
     "company": "TikTok",
     "first_seen": "2026-07-08",
@@ -1657,17 +1639,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021"
-  },
-  "3d6484bc11e44c36": {
-    "company": "Saronic Technologies",
-    "first_seen": "2026-06-07",
-    "location": "Austin, TX",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineer Intern - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/saronic/1c74957f-0895-415b-9324-08b0994747d7"
   },
   "3d8ac4160390ff9b": {
     "company": "Campbell Soup",
@@ -1734,17 +1705,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
-  },
-  "4143cce3ec2158ee": {
-    "company": "Truveta",
-    "first_seen": "2026-06-09",
-    "location": "Seattle, WA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/truveta/jobs/5659745004"
   },
   "41e18a4c2b2a177d": {
     "company": "Databricks",
@@ -1929,17 +1889,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "469c439917f7035a": {
-    "company": "kos.ai",
-    "first_seen": "2026-06-07",
-    "location": "San Francisco",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/kos.ai/efab6ffb-9658-47f7-8b5f-a295c55957d3"
   },
   "46b2e11363fbed3c": {
     "company": "TikTok",
@@ -2207,17 +2156,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "50f9544e12bb7726": {
-    "company": "ByteDance",
-    "first_seen": "2026-08-07",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-06T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "Applied Machine Learning Production Engineer Intern",
-    "role_category": "data",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://joinbytedance.com/search/7670009669494704437?utm_source=github-vansh-ouckah"
-  },
   "514d8299619a81ac": {
     "company": "N1",
     "first_seen": "2026-07-08",
@@ -2316,17 +2254,6 @@
     "role_category": "platform",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003"
-  },
-  "54ac080ea48583f9": {
-    "company": "Blackstone",
-    "first_seen": "2026-06-10",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Blackstone Multi-Asset Investing (BXMA) - Product Management, Associate",
-    "role_category": "product",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA----Product-Management--Associate_42678-1"
   },
   "54ec1e16c505264f": {
     "company": "Draper",
@@ -2565,6 +2492,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/auctor/9d67c881-3ca7-4616-a059-e94c03e19607"
+  },
+  "5db3329a975634a1": {
+    "company": "Visa",
+    "first_seen": "2026-09-09",
+    "location": "Highlands Ranch, CO",
+    "posted_at": "2026-09-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Engineer \ud83d\udec2",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://jobs.smartrecruiters.com/visa/744000080906828-software-engineer-new-college-grad-2026?utm_source=vansh"
   },
   "5dc9bcf8a044f2d2": {
     "company": "Discord",
@@ -2947,17 +2885,6 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Investment-Banking-Healthcare-Associate---New-York_JR042158-1"
   },
-  "69f44b632aa6b9cc": {
-    "company": "Rivian",
-    "first_seen": "2026-06-07",
-    "location": "Irvine, California",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering Intern - Applications - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "6a644cc30d1f3fb6": {
     "company": "Akuna Capital",
     "first_seen": "2026-07-14",
@@ -2979,17 +2906,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166"
-  },
-  "6aeda6840498ff20": {
-    "company": "Rivian",
-    "first_seen": "2026-06-07",
-    "location": "Palo Alto, California",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering Intern - Embedded Platforms - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "6b33077f5ae6eed2": {
     "company": "TikTok",
@@ -3023,17 +2939,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
-  },
-  "6cb998e1372d66ab": {
-    "company": "Ball Aerospace",
-    "first_seen": "2026-06-10",
-    "location": "Reston, Virginia, United States",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern III - Summer 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US125787BREXTERNAL/Software-Engineering-Intern-III-Summer-2026"
   },
   "6d24b7e270f0e4ca": {
     "company": "Morgan Stanley",
@@ -3185,17 +3090,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.gusto.com/postings/game-plan-tech-llc-software-engineering-intern-bc91da14-6a89-4532-9ee0-367e0f51f3ea"
   },
-  "71a336b494fa72e3": {
-    "company": "Rudler, PSC",
-    "first_seen": "2026-06-10",
-    "location": "Fort Wright, KY, United States",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Developer - Intern or Junior",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "http://rudlerpsc.applytojob.com/apply/4Ircat14nb/Software-Developer-Intern-Or-Junior"
-  },
   "71f168a6a1768ada": {
     "company": "Northrop Grumman",
     "first_seen": "2026-08-07",
@@ -3239,17 +3133,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d"
-  },
-  "73e0a5648d727740": {
-    "company": "TikTok",
-    "first_seen": "2026-06-10",
-    "location": "San Jose",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "AI software Engineer Project Intern - Transaction Platform - 2026 Start - BS/MS",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "74718fb1f85410e1": {
     "company": "Magna",
@@ -3305,17 +3188,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155"
-  },
-  "765584c90f3d3382": {
-    "company": "Rivian",
-    "first_seen": "2026-06-07",
-    "location": "Irvine, California",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering Intern - Connected Systems - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "767f1749ddffcf6a": {
     "company": "Blackstone",
@@ -3768,6 +3640,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67"
   },
+  "8465144e4eec0366": {
+    "company": "Visa",
+    "first_seen": "2026-09-09",
+    "location": "Foster City, CA",
+    "posted_at": "2026-09-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Associate Product Manager (APM) \ud83d\udec2",
+    "role_category": "product",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://jobs.smartrecruiters.com/visa/744000080643295-associate-product-manager-apm-new-college-graduate-rotational-program-2026?utm_source=vansh"
+  },
   "853d57d80bf45902": {
     "company": "TikTok",
     "first_seen": "2026-08-07",
@@ -3822,17 +3705,6 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Real-Estate---Core--BREIT--Shareholder-Relations---Analyst_43874"
-  },
-  "87c9f26987e5b1c6": {
-    "company": "SEL",
-    "first_seen": "2026-06-10",
-    "location": "Idaho Boise",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://selinc.wd1.myworkdayjobs.com/en-US/sel/job/Idaho---Boise/Software-Engineer-Intern_2026-21665"
   },
   "88515973183cdfed": {
     "company": "Axway",
@@ -3903,17 +3775,6 @@
     "verify_reason": "Requires 1+ years of industry experience.",
     "years_required": 1
   },
-  "8c9d38a80dbf4d07": {
-    "company": "Zipline",
-    "first_seen": "2026-06-10",
-    "location": "South San Francisco, California, USA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Enterprise Systems Software Engineer Intern - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.zipline.com/careers?gh_jid=7767667003#open-roles"
-  },
   "8d936e635b2128b4": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-21",
@@ -3958,17 +3819,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "9033ff1fa43adc35": {
-    "company": "Copart",
-    "first_seen": "2026-06-09",
-    "location": "Dallas, TX Headquarters",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109393"
-  },
   "903b4e662ece0929": {
     "company": "American Express",
     "first_seen": "2026-08-21",
@@ -4012,17 +3862,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.smartrecruiters.com/RESPECInc/744000012676985-student-software-engineering-intern?oga=true"
-  },
-  "92ab3918df855845": {
-    "company": "Flowith",
-    "first_seen": "2026-06-08",
-    "location": "San Francisco, California, US",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Full-stack Developer - Full-Time/Intern - San Francisco",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://apply.workable.com/flowith/j/DFF775C201/"
   },
   "934cd726a3d769f8": {
     "company": "TikTok",
@@ -4462,17 +4301,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "a22be662d07fa93e": {
-    "company": "Beacon Software",
-    "first_seen": "2026-06-07",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/beaconsoftware/2452d342-a069-4eda-adbe-9df296808ca1"
-  },
   "a2529da9b5938da3": {
     "company": "Chicago Trading Company",
     "first_seen": "2026-08-05",
@@ -4600,28 +4428,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007"
   },
-  "a77e1305f9e28b1c": {
-    "company": "Blackstone",
-    "first_seen": "2026-06-10",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Public Affairs, Analyst",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586"
-  },
-  "a791b4bb11a06fc6": {
-    "company": "ByteDance",
-    "first_seen": "2026-08-07",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-06T00:00:00+00:00",
-    "posting_type": "internship",
-    "role": "GPU/AI Application System Software Engineer Intern",
-    "role_category": "swe",
-    "source": "vanshb03 Summer 2026 Internships",
-    "url": "https://joinbytedance.com/search/7668464504736876853?utm_source=github-vansh-ouckah"
-  },
   "a7da6913e520e54b": {
     "company": "Robinhood",
     "first_seen": "2026-08-31",
@@ -4703,17 +4509,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3"
-  },
-  "abb5dd64783102b6": {
-    "company": "NVIDIA",
-    "first_seen": "2026-06-09",
-    "location": "US, CA, Santa Clara",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Cloud Distributed Systems Backend Intern - GeForce NOW - Summer 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "acf9da0558a2a4d8": {
     "company": "Blackstone",
@@ -5396,17 +5191,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "c54576f031b74bea": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-07",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-07T20:01:16.053868+00:00",
-    "posting_type": "new_grad",
-    "role": "Technical Business Analyst",
-    "role_category": "consulting",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Lead-Business-Analyst_PT-JR041640-1"
-  },
   "c5b10f6f18c1b49a": {
     "company": "N1",
     "first_seen": "2026-07-08",
@@ -5574,17 +5358,6 @@
     "role_category": "platform",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631"
-  },
-  "cc9ea295bc492f2a": {
-    "company": "Rivian",
-    "first_seen": "2026-06-07",
-    "location": "Irvine, California",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering Intern - Vehicle Controls - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "ccd7912e2425a2c1": {
     "company": "Samsara",
@@ -5768,17 +5541,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply"
   },
-  "d45172f42206e460": {
-    "company": "Prospect Equities",
-    "first_seen": "2026-06-10",
-    "location": "Chicago, IL, United States",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend / Frontend Developer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "http://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern"
-  },
   "d4a0551c1e1f1df4": {
     "company": "American Express",
     "first_seen": "2026-08-21",
@@ -5789,17 +5551,6 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698?utm_source=github-vansh-ouckah"
-  },
-  "d4d156d50ca9443e": {
-    "company": "Blackstone",
-    "first_seen": "2026-06-10",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Blackstone Credit & Insurance - CIO - Capital Markets & Bank Relations, Associate",
-    "role_category": "ib",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Credit--Insurance---CIO---Capital-Formation--Associate_42901"
   },
   "d4eff6dfd67677b4": {
     "company": "Plus",
@@ -6019,17 +5770,6 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679?utm_source=github-vansh-ouckah"
   },
-  "ddbb86d6d31c405e": {
-    "company": "Blackstar Computers",
-    "first_seen": "2026-06-07",
-    "location": "San Francisco",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "SWE Internship - Summer 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/blackstar/cdf1a311-09a2-4591-85ce-606bf0120700"
-  },
   "de0d3da40c302e67": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -6199,6 +5939,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003"
   },
+  "e3879a1610a36e3f": {
+    "company": "Openai",
+    "first_seen": "2026-09-09",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-09-08T23:43:33.720000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, AI for Chip Design",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405",
+    "verified": true,
+    "verify_reason": "Candidate available Jan 2027; role is for immediate hire.",
+    "years_required": 0
+  },
   "e409ccf278f1cb99": {
     "company": "Univera Healthcare",
     "first_seen": "2026-08-21",
@@ -6209,17 +5964,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://lthc.wd1.myworkdayjobs.com/en-US/univerahealthcarecareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-1"
-  },
-  "e516788e4b0ba7ed": {
-    "company": "Blackstone",
-    "first_seen": "2026-06-10",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Public Affairs, Associate",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Public-Affairs--Associate_43586"
   },
   "e5655667a8ca3a1d": {
     "company": "Blackstone",
@@ -6432,6 +6176,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440"
+  },
+  "ee01c00947fd1192": {
+    "company": "Visa",
+    "first_seen": "2026-09-09",
+    "location": "Ashburn, VA",
+    "posted_at": "2026-09-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Site Reliability Engineer \ud83d\udec2",
+    "role_category": "platform",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://jobs.smartrecruiters.com/visa/744000080909305-site-reliability-engineer-new-college-grad-2026?utm_source=vansh"
   },
   "ee64ee53ba261e83": {
     "company": "CesiumAstro",
@@ -6694,17 +6449,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009"
-  },
-  "f819288abf102086": {
-    "company": "Latent Defense",
-    "first_seen": "2026-06-07",
-    "location": "New York City",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/latent%20defense/54841e7d-d80a-4c2f-8c44-d492fe8eb487"
   },
   "f8996f2f7f15b61f": {
     "company": "Morgan Stanley",
