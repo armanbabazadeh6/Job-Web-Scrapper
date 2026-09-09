@@ -52,6 +52,17 @@
     "verified": false,
     "years": 5
   },
+  "09cda35341a05802": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate opening; candidate not available until January 2027.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "0a1c94eb0aa8fdff": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -822,6 +833,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "71ee3f92cd9e47dd": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 8+ years of experience; candidate is a new grad.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 8
   },
   "71f5405eff408b37": {
     "cached_at": "2026-08-31",
