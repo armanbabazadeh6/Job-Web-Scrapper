@@ -475,6 +475,17 @@
     "verified": true,
     "years": 0
   },
+  "43566685fbe9896a": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "435a4e75f421ab90": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -697,6 +708,17 @@
     "verified": true,
     "years": 1
   },
+  "5f715f8c44919dde": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Immediate start role; mismatch with January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "6152633c6dd1ff8f": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -790,6 +812,28 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "680cc7dbbae1e910": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 6+ years of experience and immediate start.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 6
+  },
+  "69e450eea082a453": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 1.5 years experience and immediate start.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
   },
   "6c04aadbb51e94f5": {
     "cached_at": "2026-08-31",
@@ -1826,6 +1870,17 @@
     "reason": "Immediate start date mismatch for a December 2026 graduate.",
     "salary": null,
     "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "fb61428d6bce9eaf": {
+    "cached_at": "2026-09-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Senior role requiring extensive experience and immediate start.",
+    "salary": null,
+    "seniority": "senior",
     "verified": true,
     "years": 0
   },

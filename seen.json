@@ -2248,6 +2248,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/external/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
   },
+  "541702aa56287551": {
+    "company": "Replit",
+    "first_seen": "2026-09-09",
+    "location": "Foster City, CA",
+    "posted_at": "2026-09-09T18:23:24.396000+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer - New Grad (Summer 2027)",
+    "role_category": "swe",
+    "source": "Ashby:replit",
+    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
+  },
   "5422efcb852c2d48": {
     "company": "Intel",
     "first_seen": "2026-06-12",
@@ -2565,6 +2576,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://www.samsara.com/company/careers/roles/7172579?utm_source=vansh"
+  },
+  "5f715f8c44919dde": {
+    "company": "Twilio",
+    "first_seen": "2026-09-09",
+    "fit_score": 2,
+    "location": "Remote - US",
+    "posted_at": "2026-09-09T15:12:46-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer (L2), Identity",
+    "role_category": "swe",
+    "source": "Greenhouse:twilio",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8052068",
+    "verified": true,
+    "verify_reason": "Immediate start role; mismatch with January 2027 availability.",
+    "years_required": 0
   },
   "5f7680592dc11a85": {
     "company": "Booz Allen",
@@ -2899,6 +2925,21 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Investment-Banking-Healthcare-Associate---New-York_JR042158-1"
+  },
+  "69e450eea082a453": {
+    "company": "Datadog",
+    "first_seen": "2026-09-09",
+    "fit_score": 2,
+    "location": "Denver, Colorado, USA",
+    "posted_at": "2026-09-09T14:16:12-04:00",
+    "posting_type": "verified_entry",
+    "role": "Sales Engineer 2 (Customer Success) - Denver",
+    "role_category": "sales_eng",
+    "source": "Greenhouse:datadog",
+    "url": "https://careers.datadoghq.com/detail/8185903/?gh_jid=8185903",
+    "verified": true,
+    "verify_reason": "Requires 1.5 years experience and immediate start.",
+    "years_required": 1
   },
   "6a644cc30d1f3fb6": {
     "company": "Akuna Capital",
