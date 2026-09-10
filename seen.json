@@ -3835,6 +3835,21 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/FID--Public-Finance-Investment-Banking---Associate_JR026014-1"
   },
+  "8dff176143f6c64f": {
+    "company": "Okta",
+    "first_seen": "2026-09-10",
+    "fit_score": 1,
+    "location": "Boston, Massachusetts; New York, New York; Pennsylvania",
+    "posted_at": "2026-09-10T14:09:11-04:00",
+    "posting_type": "verified_entry",
+    "role": "Solutions Engineering Associate, Okta",
+    "role_category": "sales_eng",
+    "source": "Greenhouse:okta",
+    "url": "https://www.okta.com/company/careers/opportunity/8191371?gh_jid=8191371",
+    "verified": true,
+    "verify_reason": "Requires 2-3 years experience; candidate not available until January 2027.",
+    "years_required": 2
+  },
   "8e8e495a86e305ae": {
     "company": "Virtu Financial",
     "first_seen": "2026-08-02",
