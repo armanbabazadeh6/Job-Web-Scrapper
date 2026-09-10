@@ -1391,6 +1391,17 @@
     "verified": true,
     "years": 0
   },
+  "a47249a9fe52454b": {
+    "cached_at": "2026-09-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of experience designing and developing backend systems.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "a4a8daf2bf88180f": {
     "cached_at": "2026-09-04",
     "clearance_required": false,
@@ -1862,6 +1873,17 @@
     "reason": "Immediate hire role; candidate is not available until January 2027.",
     "salary": null,
     "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "f1074fe0a5a29064": {
+    "cached_at": "2026-09-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Explicitly seeks a senior engineer to own ambiguous 0-to-1 work.",
+    "salary": null,
+    "seniority": "senior",
     "verified": true,
     "years": 0
   },
