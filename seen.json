@@ -689,6 +689,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/BXMA--Investment-Operations--Analyst_43757"
   },
+  "1d1b88ad2b5b17e2": {
+    "company": "D3 Global Inc",
+    "first_seen": "2026-09-10",
+    "location": "Los Angeles, CA",
+    "posted_at": "2026-09-11T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Backend Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://d3.com/careers#jobs-listing?utm_source=vansh"
+  },
   "1d4e3a47b04aa6a7": {
     "company": "Brunswick",
     "first_seen": "2026-08-25",
@@ -1523,17 +1534,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "37fb4812786e9648": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-10",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-10T19:17:11.547424+00:00",
-    "posting_type": "new_grad",
-    "role": "Desk Analyst (West Power) - Fixed Income - Associate",
-    "role_category": "ib",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Desk-Analyst--West-Power----Fixed-Income---Associate_JR041634"
-  },
   "390051135b50ea6f": {
     "company": "Excellus BCBS",
     "first_seen": "2026-08-21",
@@ -2182,16 +2182,16 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/n1/298585c3-96b1-4728-8d37-31482f85a064"
   },
-  "5330babf81237453": {
-    "company": "Circleback",
-    "first_seen": "2026-06-11",
-    "location": "San Francisco",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Summer 2027",
+  "51cbb97c7fd914b4": {
+    "company": "SpiderRock",
+    "first_seen": "2026-09-10",
+    "location": "Chicago, IL",
+    "posted_at": "2026-09-11T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Engineer",
     "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f"
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=560273&utm_source=vansh&ref=vansh"
   },
   "535dc7ab1648d408": {
     "company": "Pylon",
@@ -2915,17 +2915,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "69c2ccbae6a9f2e7": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-10",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-10T21:02:15.814386+00:00",
-    "posting_type": "new_grad",
-    "role": "Investment Banking Healthcare Associate \u2013 New York",
-    "role_category": "ib",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Investment-Banking-Healthcare-Associate---New-York_JR042158-1"
-  },
   "69e450eea082a453": {
     "company": "Datadog",
     "first_seen": "2026-09-09",
@@ -3487,17 +3476,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "7d2a9dfde8b5ad89": {
-    "company": "Centerfield",
-    "first_seen": "2026-06-11",
-    "location": "Los Angeles, California",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/centerfield/3279e803-56ab-4e12-8168-c2fd60bc8e60"
-  },
   "7e1c729804fbdf0b": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -3874,6 +3852,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "8f41e5bbeb98734a": {
+    "company": "Replit",
+    "first_seen": "2026-09-10",
+    "location": "Foster City, CA",
+    "posted_at": "2026-09-09T18:23:24.396000+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer - New Grad (2027)",
+    "role_category": "swe",
+    "source": "Ashby:replit",
+    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
   },
   "903b4e662ece0929": {
     "company": "American Express",
@@ -5181,17 +5170,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://apply.workable.com/talentpluto/j/290A067DC5/"
   },
-  "c2e7f8cb77c21c8c": {
-    "company": "NVIDIA",
-    "first_seen": "2026-06-11",
-    "location": "US, CA, Santa Clara",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Cloud Distributed Systems Backend Intern - GeForce NOW - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "c3398bc72e528129": {
     "company": "Teledyne",
     "first_seen": "2026-08-14",
@@ -5550,17 +5528,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "d14a7b3a164bd0c5": {
-    "company": "Anduril",
-    "first_seen": "2026-06-11",
-    "location": "Atlanta, Georgia, United States Boston, Massachusetts, United States Costa Mesa, California, United States Irvine, California, United States Seattle, Washington, United States",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "2027 Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007"
   },
   "d209b875d51b83c4": {
     "company": "Vanta",
