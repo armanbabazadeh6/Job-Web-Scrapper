@@ -1479,6 +1479,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "353260fcc61f47b2": {
+    "company": "Robinhood",
+    "first_seen": "2026-09-10",
+    "fit_score": 1,
+    "location": "Menlo Park, CA; New York, NY",
+    "posted_at": "2026-09-10T06:55:18-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Tokenization",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience; candidate not available until January 2027.",
+    "years_required": 2
+  },
   "3690bc44e0c9f4cf": {
     "company": "Raytheon",
     "first_seen": "2026-08-07",
