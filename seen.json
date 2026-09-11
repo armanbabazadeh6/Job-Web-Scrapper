@@ -1096,6 +1096,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af"
   },
+  "28af4d9232ac6a1a": {
+    "company": "Adobe",
+    "first_seen": "2026-09-11",
+    "location": "San Francisco, CASan Jose, CA",
+    "posted_at": "2026-09-12T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Junior Product Manager",
+    "role_category": "product",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
   "295bed22d06c9e3d": {
     "company": "Composio",
     "first_seen": "2026-08-15",
@@ -1391,6 +1402,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "3245097dead42b44": {
+    "company": "Susquehanna International Group (SIG)",
+    "first_seen": "2026-09-11",
+    "location": "Ardmore, PA",
+    "posted_at": "2026-09-12T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Developer, Sprc",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false&utm_source=vansh&ref=vansh"
+  },
   "32f5371f73dc9093": {
     "company": "Campbell Soup",
     "first_seen": "2026-06-13",
@@ -1445,17 +1467,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://apply.workable.com/fooji/j/6563DA99B5/"
-  },
-  "3430ffb254c171d2": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-11",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-11T13:42:51.222073+00:00",
-    "posting_type": "new_grad",
-    "role": "Fixed Income Research \u2013 Securitized Products Strategist  Analyst",
-    "role_category": "ib",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Fixed-Income-Research---Securitized-Products-Strategist--Analyst_JR042147-1"
   },
   "3471c0b668ff1e76": {
     "company": "Valeo",
@@ -2274,17 +2285,6 @@
     "source": "Ashby:replit",
     "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
   },
-  "5422efcb852c2d48": {
-    "company": "Intel",
-    "first_seen": "2026-06-12",
-    "location": "US, Arizona, Phoenix",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "AI Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641"
-  },
   "54ab8348ab5fb4d8": {
     "company": "Varda",
     "first_seen": "2026-08-10",
@@ -2385,17 +2385,6 @@
     "role_category": "data",
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392?utm_source=github-vansh-ouckah"
-  },
-  "59878ff5bb2275c7": {
-    "company": "Valeo",
-    "first_seen": "2026-06-12",
-    "location": "Troy, MI",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Systems Engineering Co-Op - Software",
-    "role_category": "platform",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241"
   },
   "59c5241039084483": {
     "company": "Sentry",
@@ -4629,17 +4618,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060"
   },
-  "aec6486416a61cac": {
-    "company": "Leidos",
-    "first_seen": "2026-06-12",
-    "location": "Annapolis Junction, MD",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Developer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00185122-1"
-  },
   "af1635497aad195e": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-21",
@@ -4713,6 +4691,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "b108f3a71d053f3f": {
+    "company": "Adobe",
+    "first_seen": "2026-09-11",
+    "location": "San Jose, CALehi, UT",
+    "posted_at": "2026-09-12T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://careers.adobe.com/us/en/job/ADOBUSR159163EXTERNALENUS/2026-University-Graduate-Software-Engineer?utm_source=vansh"
   },
   "b10e7983a874c9b7": {
     "company": "Charles Schwab",
