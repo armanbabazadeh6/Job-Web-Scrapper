@@ -112,6 +112,17 @@
     "verified": false,
     "years": null
   },
+  "120f12a9917a75ee": {
+    "cached_at": "2026-09-11",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "14409caca595a0f4": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -429,6 +440,17 @@
     "seniority": null,
     "verified": false,
     "years": 7
+  },
+  "32ada46e53c96166": {
+    "cached_at": "2026-09-11",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of experience, not suitable for new grads.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "3301e0805e2eef64": {
     "cached_at": "2026-08-31",
