@@ -3803,6 +3803,22 @@
     "source": "Greenhouse:robinhood",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8123231?t=gh_src=&gh_jid=8123231"
   },
+  "8b1be7e5c0110e46": {
+    "company": "Discord",
+    "first_seen": "2026-09-11",
+    "fit_score": 2,
+    "location": "San Francisco Bay Area",
+    "posted_at": "2026-09-11T13:13:31-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Notifications",
+    "role_category": "swe",
+    "salary": "$160k-$180k",
+    "source": "Greenhouse:discord",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8642213002",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience; timeline mismatch for Jan 2027 availability.",
+    "years_required": 2
+  },
   "8b45727a1cd31ccf": {
     "company": "Booz Allen",
     "first_seen": "2026-08-30",

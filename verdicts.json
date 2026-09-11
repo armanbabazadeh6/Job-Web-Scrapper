@@ -1120,6 +1120,17 @@
     "verified": false,
     "years": null
   },
+  "7e5713c104c56438": {
+    "cached_at": "2026-09-11",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires experienced engineer with deep Android experience; timeline mismatch.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "7f578366b190ce3d": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1182,6 +1193,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "8b1be7e5c0110e46": {
+    "cached_at": "2026-09-11",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years experience; timeline mismatch for Jan 2027 availability.",
+    "salary": "$160k-$180k",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "8c0676fefe5237b9": {
     "cached_at": "2026-08-31",
@@ -1897,6 +1919,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "dd2a3b8665f871ff": {
+    "cached_at": "2026-09-11",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires experienced backend engineer; timeline mismatch for Jan 2027 availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "ddd49c2fb1efbaab": {
     "cached_at": "2026-09-02",
