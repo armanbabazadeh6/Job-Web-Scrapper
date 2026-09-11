@@ -363,6 +363,21 @@
     "source": "vanshb03 Summer 2026 Internships",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745?utm_source=github-vansh-ouckah"
   },
+  "0fc1c2b5ea1d3302": {
+    "company": "Ramp",
+    "first_seen": "2026-09-11",
+    "fit_score": 4,
+    "location": "Remote (US)",
+    "posted_at": "2026-09-11T20:36:34.947000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Technical Consultant, Commercial",
+    "role_category": "consulting",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642",
+    "verified": true,
+    "verify_reason": "No experience required; suitable for a technical new graduate.",
+    "years_required": 0
+  },
   "0fd7fea33b23b349": {
     "company": "Lyft",
     "first_seen": "2026-08-31",
@@ -588,6 +603,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c"
+  },
+  "198509d45af3deef": {
+    "company": "Datadog",
+    "first_seen": "2026-09-11",
+    "fit_score": 2,
+    "location": "New York, New York, USA",
+    "posted_at": "2026-09-11T17:16:58-04:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager 2 \u2013 IaC Detection",
+    "role_category": "product",
+    "source": "Greenhouse:datadog",
+    "url": "https://careers.datadoghq.com/detail/8197852/?gh_jid=8197852",
+    "verified": true,
+    "verify_reason": "PM 2 role with no stated experience requirements.",
+    "years_required": 0
   },
   "19c6e6e14fce1a86": {
     "company": "ING",
