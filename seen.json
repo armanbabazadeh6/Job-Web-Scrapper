@@ -87,6 +87,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=vansh"
   },
+  "0404d504b727169e": {
+    "company": "Stripe",
+    "first_seen": "2026-09-11",
+    "fit_score": 2,
+    "location": "NYC, Chicago, Seattle, San Francisco",
+    "posted_at": "2026-09-11T08:19:17-04:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager,  Startup Products",
+    "role_category": "product",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8176254",
+    "verified": true,
+    "verify_reason": "No experience stated, but high-level PM scope is not new-grad friendly.",
+    "years_required": 0
+  },
   "0418dcc3b8cd4dd2": {
     "company": "Centerfield",
     "first_seen": "2026-08-07",
@@ -5243,6 +5258,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "c547d728e663d754": {
+    "company": "Stripe",
+    "first_seen": "2026-09-11",
+    "fit_score": 2,
+    "location": "Seattle, New-York, San Francisco",
+    "posted_at": "2026-09-11T09:10:53-04:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager, Connect",
+    "role_category": "product",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8195440",
+    "verified": true,
+    "verify_reason": "No experience stated, but high-level PM scope is not new-grad friendly.",
+    "years_required": 0
   },
   "c5b10f6f18c1b49a": {
     "company": "N1",

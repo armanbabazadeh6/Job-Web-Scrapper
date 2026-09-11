@@ -27,6 +27,17 @@
     "verified": false,
     "years": 5
   },
+  "0404d504b727169e": {
+    "cached_at": "2026-09-11",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience stated, but high-level PM scope is not new-grad friendly.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "042c95dd4aaa87d3": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1759,6 +1770,17 @@
     "entry_level": true,
     "reason": "No years of experience required in qualifications.",
     "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "c547d728e663d754": {
+    "cached_at": "2026-09-11",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience stated, but high-level PM scope is not new-grad friendly.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },
