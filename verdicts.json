@@ -1392,6 +1392,17 @@
     "verified": true,
     "years": 1
   },
+  "9665915b77f7cc68": {
+    "cached_at": "2026-09-11",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of engineering or technical deployment experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
   "975604a3c3bbf965": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1430,6 +1441,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "9a01220c95cee566": {
+    "cached_at": "2026-09-11",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of software development experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "9ade58e8b1220607": {
     "cached_at": "2026-09-03",
