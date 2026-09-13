@@ -2217,6 +2217,17 @@
     "verified": true,
     "years": 0
   },
+  "efd58be41c6ed8c1": {
+    "cached_at": "2026-09-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires a mid-to-senior engineer, not suitable for a new graduate.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "f1074fe0a5a29064": {
     "cached_at": "2026-09-10",
     "clearance_required": false,
