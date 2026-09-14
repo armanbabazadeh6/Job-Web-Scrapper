@@ -892,6 +892,17 @@
     "verified": false,
     "years": 5
   },
+  "61c31174e81361c5": {
+    "cached_at": "2026-09-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "62039db58ed7a3d4": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -1696,6 +1707,17 @@
     "verified": false,
     "years": 5
   },
+  "a60f010debfe1626": {
+    "cached_at": "2026-09-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Mismatched start timing (Jan 2027) and requires experienced engineer.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "a6fcc0990b3ca1fc": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1977,6 +1999,17 @@
     "verified": false,
     "years": null
   },
+  "c04b8cdbf466c661": {
+    "cached_at": "2026-09-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Mismatched start timing (Jan 2027) and requires distributed systems experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "c13af746813b87df": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2117,6 +2150,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "da49b1b9e582885e": {
+    "cached_at": "2026-09-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 8
   },
   "dd2a3b8665f871ff": {
     "cached_at": "2026-09-11",

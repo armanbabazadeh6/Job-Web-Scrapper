@@ -4432,6 +4432,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56"
   },
+  "a60f010debfe1626": {
+    "company": "Openai",
+    "first_seen": "2026-09-14",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-09-14T18:34:43.801000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Ads Integrity",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce",
+    "verified": true,
+    "verify_reason": "Mismatched start timing (Jan 2027) and requires experienced engineer.",
+    "years_required": 0
+  },
   "a64e4c21114f5365": {
     "company": "NVIDIA",
     "first_seen": "2026-07-22",
@@ -5048,6 +5063,21 @@
     "url": "https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980",
     "verified": false,
     "verify_reason": "LLM verdict missing (fallback)"
+  },
+  "c04b8cdbf466c661": {
+    "company": "Openai",
+    "first_seen": "2026-09-14",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-09-14T18:47:19.139000+00:00",
+    "posting_type": "verified_entry",
+    "role": "AI Infrastructure Engineer, pAGI",
+    "role_category": "platform",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba",
+    "verified": true,
+    "verify_reason": "Mismatched start timing (Jan 2027) and requires distributed systems experience.",
+    "years_required": 0
   },
   "c09bf50d8cae4063": {
     "company": "Composio",
