@@ -436,6 +436,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "http://healthpeak.applytojob.com/apply/U3DSnosY5g/Forward-Deployed-Software-Engineer-Internship"
   },
+  "120b881922b05c4c": {
+    "company": "Stripe",
+    "first_seen": "2026-09-14",
+    "fit_score": 2,
+    "location": "Seattle, WA",
+    "posted_at": "2026-09-14T17:46:08-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Payins Card Networks",
+    "role_category": "swe",
+    "salary": "$156,800 - $235,200/yr",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8198207",
+    "verified": true,
+    "verify_reason": "Requires two years of experience in software development.",
+    "years_required": 2
+  },
   "12361b229776b8d2": {
     "company": "Zipline",
     "first_seen": "2026-08-20",
@@ -1535,6 +1551,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "34e9bfb9675a267f": {
+    "company": "Cursor",
+    "first_seen": "2026-09-14",
+    "fit_score": 2,
+    "location": "Remote",
+    "posted_at": "2026-09-14T21:51:30.118000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Field Engineer",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa",
+    "verified": true,
+    "verify_reason": "Requires experience in field engineering, solutions architecture, or consulting.",
+    "years_required": 0
+  },
   "353260fcc61f47b2": {
     "company": "Robinhood",
     "first_seen": "2026-09-10",
@@ -1736,6 +1767,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007"
+  },
+  "3e2ef52522d5c71f": {
+    "company": "Openai",
+    "first_seen": "2026-09-14",
+    "fit_score": 5,
+    "location": "San Francisco",
+    "posted_at": "2026-09-14T22:37:58.189000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Applied Emerging Talent (2027)",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
+    "verified": true,
+    "verify_reason": "Perfect match for 2027 emerging talent with 0-1 years experience.",
+    "years_required": 0
   },
   "3f0bd31fd31406e4": {
     "company": "Neuralink",

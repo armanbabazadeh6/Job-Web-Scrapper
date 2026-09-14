@@ -156,6 +156,17 @@
     "verified": false,
     "years": null
   },
+  "120b881922b05c4c": {
+    "cached_at": "2026-09-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires two years of experience in software development.",
+    "salary": "$156,800 - $235,200/yr",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "120f12a9917a75ee": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -526,6 +537,17 @@
     "verified": false,
     "years": 5
   },
+  "34e9bfb9675a267f": {
+    "cached_at": "2026-09-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires experience in field engineering, solutions architecture, or consulting.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "34ef61e76df136dc": {
     "cached_at": "2026-09-01",
     "clearance_required": false,
@@ -571,6 +593,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "3e2ef52522d5c71f": {
+    "cached_at": "2026-09-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Perfect match for 2027 emerging talent with 0-1 years experience.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "3f03d7b65169f618": {
     "cached_at": "2026-08-31",
@@ -709,6 +742,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "4a887f14d549d0e8": {
+    "cached_at": "2026-09-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires Master's degree plus six years of software development experience.",
+    "salary": "$206,086 - $285,600/yr",
+    "seniority": "senior",
+    "verified": true,
+    "years": 6
   },
   "4e07f3e8ae672a07": {
     "cached_at": "2026-08-31",
@@ -1770,6 +1814,17 @@
     "verified": true,
     "years": 0
   },
+  "af12966bd4b3d0c6": {
+    "cached_at": "2026-09-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires three or more years of professional experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "af8a0a9a114f0776": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -1990,6 +2045,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 0
+  },
+  "bf6c46fd48b740b0": {
+    "cached_at": "2026-09-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires at least three to five years of software development experience.",
+    "salary": "$206,086 - $285,600/yr",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "bfca29df1bd339cc": {
     "cached_at": "2026-08-31",
