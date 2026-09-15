@@ -260,17 +260,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "0b123b82fca84eb9": {
-    "company": "Pebl",
-    "first_seen": "2026-06-16",
-    "location": "Palo Alto, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Conversational AI - Alfie",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/pebl/dda67c17-87a7-477b-a0d4-a748fd75ae44"
-  },
   "0c1b42357d08e30b": {
     "company": "Copart",
     "first_seen": "2026-07-16",
@@ -307,6 +296,17 @@
     "verified": true,
     "verify_reason": "Candidate available Jan 2027; role is for immediate hire.",
     "years_required": 0
+  },
+  "0db8841be3445069": {
+    "company": "Sigma Computing",
+    "first_seen": "2026-09-15",
+    "location": "San Francisco, CANew York, NY",
+    "posted_at": "2026-09-16T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer \ud83d\udec2",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
   },
   "0db99af241db33e3": {
     "company": "The Trade Desk",
