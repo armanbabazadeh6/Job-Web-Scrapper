@@ -1405,6 +1405,21 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/GP-Stakes-Strategic-Value--Analyst_44673"
   },
+  "2f0bcfb29ab78146": {
+    "company": "Ramp",
+    "first_seen": "2026-09-15",
+    "fit_score": 1,
+    "location": "New York, NY (HQ)",
+    "posted_at": "2026-09-15T21:58:39.274000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Technical Consultant, Enterprise",
+    "role_category": "consulting",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/7fd0e6c9-202b-44ad-9742-4284b69b88a1",
+    "verified": true,
+    "verify_reason": "Candidate not available until January 2027; immediate start required.",
+    "years_required": 0
+  },
   "2f825e3dd36d2588": {
     "company": "Chime",
     "first_seen": "2026-08-31",

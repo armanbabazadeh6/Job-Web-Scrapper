@@ -491,6 +491,17 @@
     "verified": false,
     "years": 5
   },
+  "2f0bcfb29ab78146": {
+    "cached_at": "2026-09-15",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate not available until January 2027; immediate start required.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "2f825e3dd36d2588": {
     "cached_at": "2026-08-31",
     "entry_level": true,
