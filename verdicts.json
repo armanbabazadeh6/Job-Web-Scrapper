@@ -762,6 +762,17 @@
     "verified": false,
     "years": null
   },
+  "4ea4949cd84be307": {
+    "cached_at": "2026-09-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of experience, not suitable for a new graduate.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 5
+  },
   "4f2be39363fda65d": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -1049,6 +1060,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "663a1ae81a327cae": {
+    "cached_at": "2026-09-15",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years experience and immediate start, mismatch for Jan 2027.",
+    "salary": "$180k-$220k",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "66f8af5d571695c0": {
     "cached_at": "2026-08-31",
@@ -2122,6 +2144,17 @@
     "reason": "No experience stated, but high-level PM scope is not new-grad friendly.",
     "salary": null,
     "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "c8d7a9455de8b9d2": {
+    "cached_at": "2026-09-15",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Perfect match for 2027 graduation timeline and entry-level requirements.",
+    "salary": null,
+    "seniority": "new_grad",
     "verified": true,
     "years": 0
   },

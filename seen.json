@@ -2850,6 +2850,22 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Associate--Public-Finance-Quantitative-Developer---Strategist--New-York-_JR042586"
   },
+  "663a1ae81a327cae": {
+    "company": "Discord",
+    "first_seen": "2026-09-15",
+    "fit_score": 2,
+    "location": "San Francisco Bay Area",
+    "posted_at": "2026-09-15T15:10:07-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Distributed Systems",
+    "role_category": "swe",
+    "salary": "$180k-$220k",
+    "source": "Greenhouse:discord",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8806163002",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience and immediate start, mismatch for Jan 2027.",
+    "years_required": 2
+  },
   "6645115cbbf6d19f": {
     "company": "Microsoft",
     "first_seen": "2026-08-05",
@@ -5307,6 +5323,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "c8d7a9455de8b9d2": {
+    "clearance_required": true,
+    "company": "BAE Systems",
+    "first_seen": "2026-09-15",
+    "fit_score": 5,
+    "location": "San Diego, California",
+    "posted_at": "2026-09-15T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "2027 Entry Level Software Engineer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://jobs.baesystems.com/global/en/job/128864BR/2027-Entry-Level-Software-Engineer",
+    "verified": true,
+    "verify_reason": "Perfect match for 2027 graduation timeline and entry-level requirements.",
+    "years_required": 0
   },
   "c8edcd865205cd2e": {
     "company": "TikTok",
