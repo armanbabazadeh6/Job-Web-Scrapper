@@ -1493,6 +1493,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf"
   },
+  "30ba6f09ddd630fe": {
+    "company": "IIIIIIUS",
+    "first_seen": "2026-09-16",
+    "fit_score": 3,
+    "location": "Reston, Virginia",
+    "posted_at": "2026-09-15T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Junior Software Engineer (Entry level - Remote US)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://careers.icf.com/us/en/job/R2603054/Junior-Software-Engineer-Entry-level-Remote-US",
+    "verified": true,
+    "verify_reason": "Targets CS graduates, though start timing mismatches January 2027.",
+    "years_required": 0
+  },
   "30c4b3c841a8783c": {
     "company": "GEICO",
     "first_seen": "2026-08-21",
@@ -4882,6 +4897,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "b3f3b6702801d55e": {
+    "company": "Iowa State University",
+    "first_seen": "2026-09-16",
+    "fit_score": 2,
+    "location": "Ames, Iowa",
+    "posted_at": "2026-09-16T06:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Developer I",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-developer-i-at-iowa-state-university-4466582014",
+    "verified": true,
+    "verify_reason": "Early career role, but wrong start timing for January 2027.",
+    "years_required": 0
+  },
   "b44458ecf0655b90": {
     "company": "The Hartford",
     "first_seen": "2026-08-28",
@@ -5246,6 +5276,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "c0fedd5de312d2b5": {
+    "company": "Vercel",
+    "first_seen": "2026-09-16",
+    "fit_score": 2,
+    "location": "Hybrid - San Francisco, New York City",
+    "posted_at": "2026-09-16T13:48:47-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Platform ",
+    "role_category": "swe",
+    "source": "Greenhouse:vercel",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6195280004",
+    "verified": true,
+    "verify_reason": "Requires production infrastructure experience and wrong start timing.",
+    "years_required": 0
   },
   "c1a31672bf19996d": {
     "company": "Spatial Front, Inc",
@@ -5985,6 +6030,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "e02b7f5616a807f1": {
+    "company": "Stripe",
+    "first_seen": "2026-09-16",
+    "fit_score": 2,
+    "location": "Seattle, San Francisco, New York",
+    "posted_at": "2026-09-15T19:32:22-04:00",
+    "posting_type": "verified_entry",
+    "role": "Backend Engineer, Intelligent Commerce",
+    "role_category": "swe",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=7988264",
+    "verified": true,
+    "verify_reason": "No experience required, but timing mismatches January 2027 availability.",
+    "years_required": 0
+  },
   "e0ed85b5db341de9": {
     "company": "Abridge",
     "first_seen": "2026-08-15",
@@ -6404,6 +6464,21 @@
     "url": "https://boards.greenhouse.io/chime/jobs/8578967002?gh_jid=8578967002",
     "verified": true,
     "verify_reason": "No minimum years of experience stated; collaborates with senior engineers.",
+    "years_required": 0
+  },
+  "f1c6a0ed2eb3428c": {
+    "company": "Samsara",
+    "first_seen": "2026-09-16",
+    "fit_score": 2,
+    "location": "Remote - US",
+    "posted_at": "2026-09-16T14:31:53-04:00",
+    "posting_type": "verified_entry",
+    "role": "Enterprise Implementation Consultant",
+    "role_category": "consulting",
+    "source": "Greenhouse:samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8209046?gh_jid=8209046",
+    "verified": true,
+    "verify_reason": "Implementation consultant role; timing mismatches January 2027 availability.",
     "years_required": 0
   },
   "f1f8c0812b73efc6": {

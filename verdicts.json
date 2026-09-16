@@ -562,6 +562,17 @@
     "verified": true,
     "years": 6
   },
+  "30ba6f09ddd630fe": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Targets CS graduates, though start timing mismatches January 2027.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "3249759db92788eb": {
     "cached_at": "2026-08-31",
     "clearance_required": false,
@@ -819,6 +830,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 6
+  },
+  "4a9951c60ad43b32": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of product management experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "4d81a5305ec3a6c6": {
     "cached_at": "2026-09-16",
@@ -1603,6 +1625,17 @@
     "verified": false,
     "years": 5
   },
+  "91b8c29523a5da1f": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 10
+  },
   "91c14e7168e5cff6": {
     "cached_at": "2026-09-12",
     "clearance_required": false,
@@ -2056,6 +2089,17 @@
     "verified": false,
     "years": null
   },
+  "b3f3b6702801d55e": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Early career role, but wrong start timing for January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "b40c6dac8cfb3fd7": {
     "cached_at": "2026-09-10",
     "clearance_required": false,
@@ -2269,6 +2313,17 @@
     "entry_level": true,
     "fit_score": 1,
     "reason": "Mismatched start timing (Jan 2027) and requires distributed systems experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "c0fedd5de312d2b5": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires production infrastructure experience and wrong start timing.",
     "salary": null,
     "seniority": "mid",
     "verified": true,
@@ -2492,6 +2547,17 @@
     "verified": false,
     "years": null
   },
+  "e02b7f5616a807f1": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience required, but timing mismatches January 2027 availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "e101a9aa294180c8": {
     "cached_at": "2026-09-01",
     "clearance_required": false,
@@ -2618,6 +2684,17 @@
     "entry_level": true,
     "reason": "No minimum years of experience stated; collaborates with senior engineers.",
     "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "f1c6a0ed2eb3428c": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Implementation consultant role; timing mismatches January 2027 availability.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },
