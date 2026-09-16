@@ -1347,6 +1347,17 @@
     "verified": true,
     "years": 0
   },
+  "7a0866442411736c": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "7a2a50b96c3e771f": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1931,6 +1942,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "a9a11e9b6ad1d2c2": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires senior-level experience and proven mastery of distributed systems.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
   },
   "aa66afaa2770dd03": {
     "cached_at": "2026-09-01",
