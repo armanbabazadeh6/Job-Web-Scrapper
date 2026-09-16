@@ -1296,6 +1296,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/Software-Engineer-Co-op_R-100664"
   },
+  "2b566f4d03e40f3b": {
+    "company": "Sierra",
+    "first_seen": "2026-09-16",
+    "fit_score": 1,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-09-16T21:15:34.318000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Web Developer, Marketing Site",
+    "role_category": "swe",
+    "source": "Ashby:sierra",
+    "url": "https://jobs.ashbyhq.com/sierra/3f6911c0-b49b-4d8e-a434-4064df2cde44",
+    "verified": true,
+    "verify_reason": "Immediate hire role; candidate not available until January 2027.",
+    "years_required": 0
+  },
   "2b688e6cbe66e5bd": {
     "company": "Eventual",
     "first_seen": "2026-09-16",
@@ -5371,6 +5386,21 @@
     "role_category": "ib",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Equity-Research-Analyst-Associate---Software_JR040545-1"
+  },
+  "c4c976e91e91e852": {
+    "company": "Cox Automotive",
+    "first_seen": "2026-09-16",
+    "fit_score": 1,
+    "location": "Pflugerville, Texas",
+    "posted_at": "2026-09-16T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Engineer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://bebee.com/us/jobs/entry-level-software-engineer-cox-automotive-pflugerville-tx-us--jobgoal-29194_f3ee4185-8782-492c-8b5e-83d76d1c59ed",
+    "verified": true,
+    "verify_reason": "Immediate hire role; candidate not available until January 2027.",
+    "years_required": 0
   },
   "c52fa56179d2bcb5": {
     "company": "Microsoft",

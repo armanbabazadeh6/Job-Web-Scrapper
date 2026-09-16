@@ -312,6 +312,17 @@
     "verified": false,
     "years": 10
   },
+  "200c0f650e595f75": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "2019010b69bb5f57": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
@@ -499,6 +510,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 5
+  },
+  "2b566f4d03e40f3b": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate hire role; candidate not available until January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "2bb9441928793c7c": {
     "cached_at": "2026-09-02",
@@ -2342,6 +2364,17 @@
     "entry_level": true,
     "reason": "No years of experience required in qualifications.",
     "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "c4c976e91e91e852": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate hire role; candidate not available until January 2027.",
+    "salary": null,
+    "seniority": "new_grad",
     "verified": true,
     "years": 0
   },
