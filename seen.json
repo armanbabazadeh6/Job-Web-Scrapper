@@ -915,17 +915,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/blueorigin/job/Greater-Seattle-Area/Spring-2027--Software-Developer-Internship---Graduate_R66409"
   },
-  "22d8e7b5ca6656a6": {
-    "company": "Cadence",
-    "first_seen": "2026-06-17",
-    "location": "SAN JOSE",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/SAN-JOSE/Software-Engineer-Intern_R55128"
-  },
   "231bf2fb9c4508d8": {
     "company": "Blackstone",
     "first_seen": "2026-07-28",
@@ -1258,6 +1247,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/Software-Engineer-Co-op_R-100664"
+  },
+  "2b688e6cbe66e5bd": {
+    "company": "Eventual",
+    "first_seen": "2026-09-16",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-09-17T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application?utm_source=vansh"
   },
   "2b83bc0400d0d366": {
     "company": "American Express",
@@ -3492,6 +3492,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://careers-sri.icims.com/jobs/6432/drexel-university-co-op%3a-software-engineering-full-stack-development/job"
   },
+  "7b4437468cd586ad": {
+    "company": "NewsBreak",
+    "first_seen": "2026-09-16",
+    "location": "Mountain View, CA",
+    "posted_at": "2026-09-17T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
   "7b926d97d7bdd0aa": {
     "company": "Spacial AI",
     "first_seen": "2026-07-31",
@@ -4211,17 +4222,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255"
   },
-  "96c88913105e893e": {
-    "company": "Lila Sciences",
-    "first_seen": "2026-06-17",
-    "location": "Cambridge, MA USA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Co-Op - Software Product Management",
-    "role_category": "product",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286512009"
-  },
   "96d89f23cf5c8560": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -4359,17 +4359,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "9d428c436bb19e9b": {
-    "company": "Cubic",
-    "first_seen": "2026-06-17",
-    "location": "Herndon, Virginia",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering & Automation Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://cubic.wd1.myworkdayjobs.com/en-US/cubic_usa_careers/job/Herndon-Virginia/Software-Engineering---Automation-Intern_REQ_49102"
   },
   "9ded022dbc3e1a38": {
     "company": "Kastle",
@@ -4661,17 +4650,6 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Threat-Intelligence-Analyst--Associate---Security-Operations_43986-1"
   },
-  "ad9857827aad26a8": {
-    "company": "MealSuite",
-    "first_seen": "2026-06-17",
-    "location": "Cambridge, Ontario, CA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Co-Op Student - Software Engineer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://apply.workable.com/mealsuite/j/4E451BC0DA/"
-  },
   "ae81868881b7caf5": {
     "company": "Plexus",
     "first_seen": "2026-08-28",
@@ -4866,6 +4844,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609"
+  },
+  "b447dc4b17d3c46a": {
+    "company": "Cursor",
+    "first_seen": "2026-09-16",
+    "fit_score": 2,
+    "location": "San Francisco",
+    "posted_at": "2026-09-16T00:07:09.327000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Research Tools",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/c1ac67d4-645a-4632-a178-ea6b5f49bb26",
+    "verified": true,
+    "verify_reason": "Requires prior experience shipping products; start date mismatch (Jan 2027).",
+    "years_required": 0
   },
   "b44cbebd0cfd26fa": {
     "company": "Heliux",
@@ -5628,17 +5621,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004"
   },
-  "d40d583a7dbe40cb": {
-    "company": "SoloPulse",
-    "first_seen": "2026-06-17",
-    "location": "Peachtree Corners, GA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineer Intern/Co-Op - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.lever.co/solopulseco/00fbde18-a387-4c9f-97d4-77059aec7b56/apply"
-  },
   "d4a0551c1e1f1df4": {
     "company": "American Express",
     "first_seen": "2026-08-21",
@@ -6322,17 +6304,6 @@
     "verified": true,
     "verify_reason": "Immediate hire role; candidate is not available until January 2027.",
     "years_required": 0
-  },
-  "efcfdd9a41de4746": {
-    "company": "Ball Aerospace",
-    "first_seen": "2026-06-17",
-    "location": "Huntsville, Alabama, United States",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Systems Software Engineering Intern - Embedded Systems",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.baesystems.com/global/en/job/BAE1US126218BREXTERNAL/Systems-Software-Engineering-Intern-Embedded-Systems"
   },
   "f002dc765058533a": {
     "company": "Morgan Stanley",

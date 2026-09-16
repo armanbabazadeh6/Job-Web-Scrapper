@@ -301,6 +301,17 @@
     "verified": false,
     "years": 10
   },
+  "2019010b69bb5f57": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "214b8c99b26b4ee0": {
     "cached_at": "2026-09-01",
     "clearance_required": false,
@@ -765,6 +776,17 @@
     "verified": true,
     "years": 6
   },
+  "4d81a5305ec3a6c6": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "4e07f3e8ae672a07": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -783,6 +805,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 5
+  },
+  "4ed364f8ac5f5424": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires pursuing a BS; candidate wants full-time from Jan 2027.",
+    "salary": "$22-$28/hr",
+    "seniority": "intern",
+    "verified": true,
+    "years": 0
   },
   "4f2be39363fda65d": {
     "cached_at": "2026-09-11",
@@ -1157,6 +1190,17 @@
     "reason": "high experience requirement",
     "seniority": null,
     "verified": false,
+    "years": 5
+  },
+  "6e892d9ca10d57c5": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of product management experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
     "years": 5
   },
   "70769a699ac34c04": {
@@ -1719,6 +1763,17 @@
     "verified": true,
     "years": 3
   },
+  "a1d25480402f5725": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "a27756f5d0587dfb": {
     "cached_at": "2026-09-12",
     "clearance_required": false,
@@ -1945,6 +2000,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "b447dc4b17d3c46a": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires prior experience shipping products; start date mismatch (Jan 2027).",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "b55c17fb3caa51d9": {
     "cached_at": "2026-09-02",
@@ -2338,6 +2404,17 @@
     "verified": true,
     "years": 2
   },
+  "df8062f4743774c5": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "e101a9aa294180c8": {
     "cached_at": "2026-09-01",
     "clearance_required": false,
@@ -2557,6 +2634,17 @@
   },
   "fcd6c4ddd77ac0a1": {
     "cached_at": "2026-09-04",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "fd9f357f8a359485": {
+    "cached_at": "2026-09-16",
     "clearance_required": false,
     "entry_level": false,
     "fit_score": null,
