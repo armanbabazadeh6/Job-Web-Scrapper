@@ -115,6 +115,17 @@
     "verified": false,
     "years": 5
   },
+  "0d9fbd9b387ee759": {
+    "cached_at": "2026-09-16",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Requires 1 year experience; fits graduation timeline of January 2027.",
+    "salary": "$70,000 - $80,000",
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
+  },
   "0dadb87a0b0b2e07": {
     "cached_at": "2026-09-09",
     "clearance_required": false,
@@ -333,6 +344,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "225daf3f0676e6a0": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience required; fits graduation timeline of January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "23101fc35557246a": {
     "cached_at": "2026-09-10",
@@ -558,6 +580,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "34e07ce389a7e6f4": {
+    "cached_at": "2026-09-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 7
   },
   "34e9bfb9675a267f": {
     "cached_at": "2026-09-14",
@@ -2106,6 +2139,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "bab8751511cfac9f": {
+    "cached_at": "2026-09-16",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Perfect timeline match for entry-level role; requires security clearance.",
+    "salary": "$57,200 - $108,800",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "bb8ffe8ff5a4f95c": {
     "cached_at": "2026-09-03",

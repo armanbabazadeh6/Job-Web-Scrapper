@@ -282,6 +282,23 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Strategic-Incentives-Group---Global-Equity--Analyst_45164-2"
   },
+  "0d9fbd9b387ee759": {
+    "clearance_required": true,
+    "company": "Abeyon",
+    "first_seen": "2026-09-16",
+    "fit_score": 4,
+    "location": "Arlington, Virginia",
+    "posted_at": "2026-09-15T16:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Developer I",
+    "role_category": "swe",
+    "salary": "$70,000 - $80,000",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-developer-i-at-abeyon-4465579052",
+    "verified": true,
+    "verify_reason": "Requires 1 year experience; fits graduation timeline of January 2027.",
+    "years_required": 1
+  },
   "0dadb87a0b0b2e07": {
     "company": "Elevenlabs",
     "first_seen": "2026-09-09",
@@ -903,6 +920,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
+  },
+  "225daf3f0676e6a0": {
+    "company": "Cursor",
+    "first_seen": "2026-09-16",
+    "fit_score": 4,
+    "location": "San Francisco",
+    "posted_at": "2026-09-16T00:33:21.885000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, RL Environments",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23",
+    "verified": true,
+    "verify_reason": "No experience required; fits graduation timeline of January 2027.",
+    "years_required": 0
   },
   "2281dabf2c9672cd": {
     "company": "Blue Origin",
@@ -5033,6 +5065,23 @@
     "verified": false,
     "verify_reason": "LLM verdict missing (fallback)"
   },
+  "bab8751511cfac9f": {
+    "clearance_required": true,
+    "company": "Raytheon",
+    "first_seen": "2026-09-16",
+    "fit_score": 5,
+    "location": "Portsmouth, Rhode Island",
+    "posted_at": "2026-09-15T21:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I (Onsite)",
+    "role_category": "swe",
+    "salary": "$57,200 - $108,800",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-onsite-at-raytheon-4467902038",
+    "verified": true,
+    "verify_reason": "Perfect timeline match for entry-level role; requires security clearance.",
+    "years_required": 0
+  },
   "bb502fae832e1e08": {
     "company": "Zipline",
     "first_seen": "2026-08-21",
@@ -5181,6 +5230,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "c1a31672bf19996d": {
+    "company": "Spatial Front, Inc",
+    "first_seen": "2026-09-16",
+    "location": "Arlington, Virginia",
+    "posted_at": "2026-09-15T15:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Associate Software Developer \u2014 Recent Graduates",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/associate-software-developer-%E2%80%94-recent-graduates-at-spatial-front-inc-4438972097"
   },
   "c1ab3686132df1e2": {
     "company": "Sierra",
