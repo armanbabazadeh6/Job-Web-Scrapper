@@ -3229,6 +3229,17 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/AI-Integration-Software-Engineer---Associate_PT-JR040555"
   },
+  "70bb6339d3bfb287": {
+    "company": "General Motors",
+    "first_seen": "2026-09-17",
+    "location": "Warren, Michigan",
+    "posted_at": "2026-09-16T07:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Data Engineer - Data Software Engineering and Cloud Platforms, Early Career",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://search-careers.gm.com/en/jobs/jr-202620428/data-engineer-data-software-engineering-and-cloud-platforms-early-career/"
+  },
   "70fc2f5a5f56185d": {
     "company": "Copart",
     "first_seen": "2026-07-08",
