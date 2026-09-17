@@ -1337,6 +1337,17 @@
     "verified": false,
     "years": null
   },
+  "74e2dec8244f531c": {
+    "cached_at": "2026-09-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires experience owning production distributed systems and has incorrect start timing.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "74e32d0fe800d085": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2627,6 +2638,17 @@
     "entry_level": true,
     "fit_score": 1,
     "reason": "Candidate available Jan 2027; role is for immediate hire.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "e3ed3b39593ad240": {
+    "cached_at": "2026-09-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Great entry-level role, but start timing mismatches January 2027 availability.",
     "salary": null,
     "seniority": "junior",
     "verified": true,

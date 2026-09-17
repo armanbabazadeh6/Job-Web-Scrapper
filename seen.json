@@ -43,17 +43,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "0198d0d32d6791f0": {
-    "company": "KnowBe4",
-    "first_seen": "2026-06-18",
-    "location": "Clearwater, Florida",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Hybrid",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8597668002"
-  },
   "01f2018dd45329e9": {
     "company": "GDIT",
     "first_seen": "2026-08-07",
@@ -2137,17 +2126,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://firstam.wd1.myworkdayjobs.com/en-US/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260"
   },
-  "478c2018e216ccfc": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-17",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-17T15:41:30.088312+00:00",
-    "posting_type": "new_grad",
-    "role": "Investment Banking Mergers and Acquisitions Analyst - New York",
-    "role_category": "ib",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Investment-Banking-Mergers-and-Acquisitions-Analyst---New-York_JR042410"
-  },
   "49778b1425c88e9b": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
@@ -2888,17 +2866,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5"
   },
-  "63ca0058dc7464f7": {
-    "company": "Sony",
-    "first_seen": "2026-06-18",
-    "location": "San Diego",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/sonyglobalcareers/job/San-Diego/Software-Engineer-Intern_JR-119282"
-  },
   "63db1f0d31702b3a": {
     "company": "Exowatt",
     "first_seen": "2026-07-13",
@@ -3415,17 +3382,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434"
-  },
-  "780e1e3563a6f1d0": {
-    "company": "Harman",
-    "first_seen": "2026-06-18",
-    "location": "Sunnyvale California, USA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Intern - Software Engineering",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://harman.wd3.myworkdayjobs.com/en-US/harman/job/Sunnyvale---California-USA/Intern---Software-Engineering_R-53546-2026"
   },
   "78950adb74d46d43": {
     "company": "Hyannis Port Research",
@@ -5576,17 +5532,6 @@
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/FXEM-STIRT-Strat---Fixed-Income---Associate_JR041431"
   },
-  "cae706df7918883d": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-17",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-17T20:44:11.698112+00:00",
-    "posting_type": "new_grad",
-    "role": "Equity Research Associate - Softlines/Apparel/Footwear",
-    "role_category": "ib",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Equity-Research-Associate---Softlines-Apparel-Footwear_JR042444-1"
-  },
   "cb4735d44f40f2ee": {
     "company": "Cursor",
     "first_seen": "2026-08-31",
@@ -6198,6 +6143,21 @@
     "url": "https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405",
     "verified": true,
     "verify_reason": "Candidate available Jan 2027; role is for immediate hire.",
+    "years_required": 0
+  },
+  "e3ed3b39593ad240": {
+    "company": "Crusoe",
+    "first_seen": "2026-09-17",
+    "fit_score": 1,
+    "location": "San Francisco, CA - US",
+    "posted_at": "2026-09-16T22:52:30.178000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I, Network",
+    "role_category": "swe",
+    "source": "Ashby:crusoe",
+    "url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+    "verified": true,
+    "verify_reason": "Great entry-level role, but start timing mismatches January 2027 availability.",
     "years_required": 0
   },
   "e409ccf278f1cb99": {
