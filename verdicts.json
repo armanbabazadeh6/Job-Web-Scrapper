@@ -115,6 +115,17 @@
     "verified": false,
     "years": 5
   },
+  "0d0f7a485a0c1d9f": {
+    "cached_at": "2026-09-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 6
+  },
   "0d9fbd9b387ee759": {
     "cached_at": "2026-09-16",
     "clearance_required": true,
@@ -704,6 +715,17 @@
     "verified": false,
     "years": 8
   },
+  "3d225850e60ab944": {
+    "cached_at": "2026-09-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Perfect match targeting December 2026 graduates starting in 2027.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "3e2ef52522d5c71f": {
     "cached_at": "2026-09-14",
     "clearance_required": false,
@@ -994,6 +1016,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "577383e6374b6e90": {
+    "cached_at": "2026-09-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate available January 2027; role requires immediate start.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "5788281d01d5d748": {
     "cached_at": "2026-09-15",
@@ -2546,6 +2579,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "db836b9f4d84504e": {
+    "cached_at": "2026-09-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate available January 2027; role requires immediate start.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "dd2a3b8665f871ff": {
     "cached_at": "2026-09-11",

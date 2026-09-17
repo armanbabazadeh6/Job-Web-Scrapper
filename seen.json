@@ -1828,6 +1828,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021"
   },
+  "3d225850e60ab944": {
+    "company": "Mastercard",
+    "first_seen": "2026-09-17",
+    "fit_score": 5,
+    "location": "",
+    "posted_at": "2026-09-17T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Launch Program 2027 \u2013 United States",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://careers.mastercard.com/us/en/job/R-288578/Software-Engineer-Launch-Program-2027-United-States",
+    "verified": true,
+    "verify_reason": "Perfect match targeting December 2026 graduates starting in 2027.",
+    "years_required": 0
+  },
   "3d96bba0b8c363fc": {
     "company": "Blackstone",
     "first_seen": "2026-07-24",
@@ -2470,6 +2485,21 @@
     "url": "https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
     "verified": false,
     "verify_reason": "LLM verdict missing (fallback)"
+  },
+  "577383e6374b6e90": {
+    "company": "DoorDash",
+    "first_seen": "2026-09-17",
+    "fit_score": 1,
+    "location": "Los Angeles, California",
+    "posted_at": "2026-09-16T20:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Full Stack - Developer Insights",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-developer-insights-at-doordash-4466235207",
+    "verified": true,
+    "verify_reason": "Candidate available January 2027; role requires immediate start.",
+    "years_required": 2
   },
   "584f737eaaa7c085": {
     "company": "MORSE Corp Co-op Opportunities",
@@ -5934,6 +5964,21 @@
     "role_category": "product",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Product-Manager--Associate---Investor-Technology_45126"
+  },
+  "db836b9f4d84504e": {
+    "company": "Reddit",
+    "first_seen": "2026-09-17",
+    "fit_score": 1,
+    "location": "Remote - United States",
+    "posted_at": "2026-09-17T13:07:34-04:00",
+    "posting_type": "verified_entry",
+    "role": "Front End Software Engineer, Consumer Engineering",
+    "role_category": "swe",
+    "source": "Greenhouse:reddit",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8147559",
+    "verified": true,
+    "verify_reason": "Candidate available January 2027; role requires immediate start.",
+    "years_required": 0
   },
   "dc2316cc6990f3b9": {
     "company": "TikTok",
