@@ -2444,6 +2444,17 @@
     "verified": true,
     "years": 0
   },
+  "c6205c3ac81d1a0f": {
+    "cached_at": "2026-09-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of backend infrastructure experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "c8d7a9455de8b9d2": {
     "cached_at": "2026-09-15",
     "clearance_required": true,
@@ -2541,6 +2552,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "d499d309a77000bc": {
+    "cached_at": "2026-09-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 1+ year technical sales experience; timing mismatch for 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
   },
   "d5456c42884384a6": {
     "cached_at": "2026-09-02",

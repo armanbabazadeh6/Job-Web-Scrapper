@@ -5758,6 +5758,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004"
   },
+  "d499d309a77000bc": {
+    "company": "Datadog",
+    "first_seen": "2026-09-17",
+    "fit_score": 1,
+    "location": "Denver, Colorado, USA",
+    "posted_at": "2026-09-17T14:29:57-04:00",
+    "posting_type": "verified_entry",
+    "role": "Sales Engineer (Customer Success)",
+    "role_category": "sales_eng",
+    "source": "Greenhouse:datadog",
+    "url": "https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163",
+    "verified": true,
+    "verify_reason": "Requires 1+ year technical sales experience; timing mismatch for 2027.",
+    "years_required": 1
+  },
   "d4a0551c1e1f1df4": {
     "company": "American Express",
     "first_seen": "2026-08-21",
