@@ -1,4 +1,19 @@
 {
+  "00143477efc041f8": {
+    "company": "Airbnb",
+    "first_seen": "2026-09-18",
+    "fit_score": 1,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-09-18T16:54:20-04:00",
+    "posting_type": "verified_entry",
+    "role": "Business Systems Engineer, Tech Foundations",
+    "role_category": "platform",
+    "source": "Greenhouse:airbnb",
+    "url": "https://careers.airbnb.com/positions/8214444?gh_jid=8214444",
+    "verified": true,
+    "verify_reason": "Candidate available January 2027; role is for immediate hire.",
+    "years_required": 0
+  },
   "00231641ebdd485c": {
     "company": "Agave (W22)",
     "first_seen": "2026-09-09",
