@@ -4981,6 +4981,21 @@
     "verify_reason": "Candidate is not available until January 2027.",
     "years_required": 0
   },
+  "b64058f9a8dfec29": {
+    "company": "CGI Technologies and Solutions, Inc.",
+    "first_seen": "2026-09-18",
+    "fit_score": 1,
+    "location": "Belton, Texas",
+    "posted_at": "2026-09-18T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer -- Entry Level",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/27sfDjvRkne5i4fK8kjzHa",
+    "verified": true,
+    "verify_reason": "Application period is Fall 2024; candidate is not available until 2027.",
+    "years_required": 0
+  },
   "b657acc550ef1dee": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-28",

@@ -2265,6 +2265,17 @@
     "verified": false,
     "years": null
   },
+  "b64058f9a8dfec29": {
+    "cached_at": "2026-09-18",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Application period is Fall 2024; candidate is not available until 2027.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "b6fdeeb205047d3a": {
     "cached_at": "2026-08-31",
     "entry_level": true,
