@@ -538,6 +538,17 @@
     "verify_reason": "No minimum years of experience specified.",
     "years_required": 0
   },
+  "1466f3464c7a7abb": {
+    "company": "Stripe",
+    "first_seen": "2026-09-18",
+    "location": "San Francisco, Seattle, New York",
+    "posted_at": "2026-09-17T19:22:32-04:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, Early Career \u2014 Immediate Start",
+    "role_category": "swe",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8212508"
+  },
   "14695ebde7e34352": {
     "company": "SAGE",
     "first_seen": "2026-08-25",
@@ -1390,17 +1401,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/acds/65b739c3-02ad-4814-ad24-24abecbc83f4"
-  },
-  "2d87bb0024afbeb0": {
-    "company": "TD Bank",
-    "first_seen": "2026-06-19",
-    "location": "Mount Laurel, New Jersey",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "2026 Fall Co-op - Global Technology Solutions - Data Engineer",
-    "role_category": "data",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Fall-Co-op---Global-Technology-Solutions---Data-Engineer_R_1495653"
   },
   "2e07a62472fe1f0e": {
     "company": "TikTok",
@@ -2319,17 +2319,6 @@
     "verified": false,
     "verify_reason": "LLM verdict missing (fallback)"
   },
-  "4e0d5c9d195eadeb": {
-    "company": "TD Bank",
-    "first_seen": "2026-06-19",
-    "location": "Mount Laurel, New Jersey",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "2026 Fall Co-op - Global Technology Solutions - Software Engineer - SWE",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://td.wd3.myworkdayjobs.com/en-US/td_bank_careers/job/Mount-Laurel-New-Jersey/XMLNAME-2026-Fall-Co-op---Global-Technology-Solutions---Software-Engineer--SWE-_R_1495659"
-  },
   "4e7d8248aefa5b8a": {
     "company": "Persona AI",
     "first_seen": "2026-08-05",
@@ -3168,17 +3157,6 @@
     "verify_reason": "Candidate is not available until January 2027.",
     "years_required": 0
   },
-  "6dc7d998511ed83f": {
-    "company": "Gen",
-    "first_seen": "2026-06-19",
-    "location": "USA Mountain View, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer - Intern - Payments & Wallets",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/gen-digital/0818d1f1-e3c0-4a8a-afb8-72dd1265a13d"
-  },
   "6e56d5ed8da23ff6": {
     "company": "Morgan Stanley",
     "first_seen": "2026-08-21",
@@ -3247,17 +3225,6 @@
     "verified": true,
     "verify_reason": "Requires 2+ years of industry experience and has non-senior scope.",
     "years_required": 2
-  },
-  "709d21516858469e": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-18",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-18T14:52:28.934910+00:00",
-    "posting_type": "new_grad",
-    "role": "AI Integration Software Engineer - Associate",
-    "role_category": "swe",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/AI-Integration-Software-Engineer---Associate_PT-JR040555"
   },
   "70bb6339d3bfb287": {
     "company": "General Motors",
