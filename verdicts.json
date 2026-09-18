@@ -468,6 +468,17 @@
     "verified": false,
     "years": 5
   },
+  "2715a67300bcdf2b": {
+    "cached_at": "2026-09-18",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Wrong start timing for January 2027 availability; targets immediate hires.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "294e994cc0c21ee7": {
     "cached_at": "2026-08-31",
     "entry_level": false,

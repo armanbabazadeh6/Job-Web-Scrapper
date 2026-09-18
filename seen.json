@@ -1112,6 +1112,22 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA----Product-Management--Associate--BSOF-_43913-1"
   },
+  "2715a67300bcdf2b": {
+    "clearance_required": true,
+    "company": "SkillStorm",
+    "first_seen": "2026-09-18",
+    "fit_score": 1,
+    "location": "Dallas, Texas",
+    "posted_at": "2026-09-18T13:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Developer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-skillstorm-4469173320",
+    "verified": true,
+    "verify_reason": "Wrong start timing for January 2027 availability; targets immediate hires.",
+    "years_required": 0
+  },
   "2729e85071c1dc5f": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
