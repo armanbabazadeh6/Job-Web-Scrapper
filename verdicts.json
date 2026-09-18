@@ -498,6 +498,17 @@
     "verified": false,
     "years": null
   },
+  "2a123e67fca337c4": {
+    "cached_at": "2026-09-18",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2 years of experience and immediate availability; candidate graduates December 2026.",
+    "salary": "$79,365 - $134,921",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "2a17856b2e5dc693": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -986,6 +997,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 2
+  },
+  "54109f921f0f0f19": {
+    "cached_at": "2026-09-18",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
   },
   "541ceb8bbd811934": {
     "cached_at": "2026-09-04",
@@ -2450,6 +2472,17 @@
     "entry_level": false,
     "fit_score": 1,
     "reason": "Requires 3+ years of backend infrastructure experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "c7cb0e7f0102a026": {
+    "cached_at": "2026-09-18",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of professional software engineering experience.",
     "salary": null,
     "seniority": "mid",
     "verified": true,

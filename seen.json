@@ -1238,6 +1238,22 @@
     "verify_reason": "Immediate opening; candidate is not available until January 2027.",
     "years_required": 0
   },
+  "2a123e67fca337c4": {
+    "company": "BAE Systems",
+    "first_seen": "2026-09-18",
+    "fit_score": 2,
+    "location": "Hudson, New Hampshire",
+    "posted_at": "2026-09-17T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer II",
+    "role_category": "swe",
+    "salary": "$79,365 - $134,921",
+    "source": "JSearch",
+    "url": "https://jobs.baesystems.com/global/en/job/130079BR/Software-Engineer-II",
+    "verified": true,
+    "verify_reason": "Requires 2 years of experience and immediate availability; candidate graduates December 2026.",
+    "years_required": 2
+  },
   "2a2c3ae2ec84e7d2": {
     "company": "Vertiv",
     "first_seen": "2026-08-21",
