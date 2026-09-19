@@ -1689,6 +1689,17 @@
     "verified": true,
     "years": 3
   },
+  "8274174039fae5fa": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Perfect match for December 2026 graduate starting in 2027.",
+    "salary": "$114,400",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "836fc9a1035c2c0d": {
     "cached_at": "2026-09-13",
     "clearance_required": false,
@@ -2706,6 +2717,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "d3f84c2338f3a1fe": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires minimum of 2 years of experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
   },
   "d4175182d64aea8c": {
     "cached_at": "2026-09-11",

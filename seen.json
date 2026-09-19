@@ -3783,6 +3783,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "8274174039fae5fa": {
+    "company": "Visa",
+    "first_seen": "2026-09-19",
+    "fit_score": 5,
+    "location": "Bellevue, Washington",
+    "posted_at": "2026-09-18T07:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, New College Grad, Bellevue - 2027 | Bellevue, WA, USA",
+    "role_category": "swe",
+    "salary": "$114,400",
+    "source": "JSearch",
+    "url": "https://www.efinancialcareers.com/jobs-USA-WA-Bellevue-Software_Engineer_New_College_Grad_Bellevue_-_2027.id24791779",
+    "verified": true,
+    "verify_reason": "Perfect match for December 2026 graduate starting in 2027.",
+    "years_required": 0
+  },
   "83454af5c47a2b15": {
     "company": "Astranis Space Technologies",
     "first_seen": "2026-07-24",
@@ -5805,6 +5821,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004"
+  },
+  "d3f84c2338f3a1fe": {
+    "company": "Pinterest",
+    "first_seen": "2026-09-19",
+    "fit_score": 2,
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-09-18T20:32:32-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer II, Data Analytics & Engineering",
+    "role_category": "swe",
+    "source": "Greenhouse:pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
+    "verified": true,
+    "verify_reason": "Requires minimum of 2 years of experience.",
+    "years_required": 2
   },
   "d499d309a77000bc": {
     "company": "Datadog",
