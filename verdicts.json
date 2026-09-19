@@ -1667,6 +1667,17 @@
     "verified": false,
     "years": null
   },
+  "8107e37abaf38d6c": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Specifically targets 2027 graduates, matching candidate's availability perfectly.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "819247ab07c85441": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -1727,6 +1738,17 @@
     "seniority": null,
     "verified": false,
     "years": 10
+  },
+  "87be9b5c77474362": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires prior experience in solution engineering and technical strategy.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "8895a13cf810b7a4": {
     "cached_at": "2026-08-31",
@@ -3003,6 +3025,17 @@
     "entry_level": true,
     "reason": "No minimum years of experience stated; collaborates with senior engineers.",
     "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "f1a2eac1bbdd787e": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires leading complex projects and mentoring, not entry-level.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },

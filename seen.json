@@ -3750,6 +3750,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "8107e37abaf38d6c": {
+    "company": "IBM",
+    "first_seen": "2026-09-19",
+    "fit_score": 5,
+    "location": "Durham, North Carolina",
+    "posted_at": "2026-09-18T15:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Storage Client Solutions Engineer 2027 - NC",
+    "role_category": "sales_eng",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-storage-client-solutions-engineer-2027-nc-at-ibm-4458087751",
+    "verified": true,
+    "verify_reason": "Specifically targets 2027 graduates, matching candidate's availability perfectly.",
+    "years_required": 0
+  },
   "8199ab7e297ca006": {
     "company": "Booz Allen",
     "first_seen": "2026-08-30",
