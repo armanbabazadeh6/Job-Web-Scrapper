@@ -642,6 +642,17 @@
     "verified": true,
     "years": 2
   },
+  "307f1ad9428974e2": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "30a4b28e620af0be": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -735,6 +746,17 @@
     "verified": true,
     "years": 2
   },
+  "39c38c65847b67c7": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "39f84c95b502ba95": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -799,6 +821,17 @@
     "seniority": null,
     "verified": false,
     "years": 4
+  },
+  "3f77596c7f369433": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate hire role mismatches candidate's January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "3fbdaab99a518e78": {
     "cached_at": "2026-09-02",
@@ -929,6 +962,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "49dc87898056cf82": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "4a887f14d549d0e8": {
     "cached_at": "2026-09-14",
@@ -1202,6 +1246,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "5fbbcc21174b2d0b": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "6152633c6dd1ff8f": {
     "cached_at": "2026-08-31",
@@ -1955,6 +2010,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "9cbfa06cceaa7caf": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2+ years experience and immediate start; candidate graduates December 2026.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
   },
   "9cccba653ff45726": {
     "cached_at": "2026-09-11",

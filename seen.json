@@ -760,17 +760,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/impact/jobs/8645964002"
   },
-  "1b2026934d5225d1": {
-    "company": "Copart",
-    "first_seen": "2026-06-20",
-    "location": "Dallas, TX Headquarters",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109441"
-  },
   "1ba7ad267dbb563d": {
     "company": "TikTok",
     "first_seen": "2026-08-20",
@@ -1949,6 +1938,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/hermeus/49f7cf3f-bf66-44ca-bf97-ee0f7180a68d"
   },
+  "3f77596c7f369433": {
+    "company": "Reddit",
+    "first_seen": "2026-09-19",
+    "fit_score": 1,
+    "location": "Remote - United States",
+    "posted_at": "2026-09-18T19:35:09-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Ingestion Platform",
+    "role_category": "swe",
+    "source": "Greenhouse:reddit",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8214910",
+    "verified": true,
+    "verify_reason": "Immediate hire role mismatches candidate's January 2027 availability.",
+    "years_required": 0
+  },
   "400272453462dae0": {
     "company": "Notion",
     "first_seen": "2026-08-15",
@@ -2376,6 +2380,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08"
+  },
+  "4fa051c9098f2882": {
+    "company": "AIG",
+    "first_seen": "2026-09-19",
+    "location": "Jersey City, NJCharlotte, NC",
+    "posted_at": "2026-09-20T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Technology Analyst",
+    "role_category": "consulting",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
   },
   "504dc3af439d1e8c": {
     "company": "TikTok",
@@ -3360,17 +3375,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d"
-  },
-  "74718fb1f85410e1": {
-    "company": "Magna",
-    "first_seen": "2026-06-20",
-    "location": "Newmarket, Ontario, CA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://magna.wd3.myworkdayjobs.com/en-US/magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013"
   },
   "7476172cd7ca8106": {
     "company": "SRI International",
@@ -4426,6 +4430,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137"
+  },
+  "9cbfa06cceaa7caf": {
+    "company": "Lyft",
+    "first_seen": "2026-09-19",
+    "fit_score": 1,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-09-18T18:40:33-04:00",
+    "posting_type": "verified_entry",
+    "role": "Backend Software Engineer, Airports",
+    "role_category": "swe",
+    "source": "Greenhouse:lyft",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience and immediate start; candidate graduates December 2026.",
+    "years_required": 2
   },
   "9cf2e61bdd4fdf35": {
     "company": "MORSE Corp Co-op Opportunities",
@@ -6391,6 +6410,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140317669-adas-software-engineering-intern?oga=true"
+  },
+  "eb1372056a0e0a41": {
+    "company": "Perplexity",
+    "first_seen": "2026-09-19",
+    "location": "San Francisco",
+    "posted_at": "2026-09-18T23:01:00.672000+00:00",
+    "posting_type": "new_grad",
+    "role": "Member of Technical Staff, AI Products (Early Career)",
+    "role_category": "swe",
+    "source": "Ashby:perplexity",
+    "url": "https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409"
   },
   "eb903af2289f04c4": {
     "company": "Metaphor",
