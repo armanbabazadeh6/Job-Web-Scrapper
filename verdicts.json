@@ -2104,6 +2104,17 @@
     "verified": true,
     "years": 3
   },
+  "a187bd5f58e920ad": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Role scope requires prior strategy experience and start date mismatch.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "a1d25480402f5725": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
@@ -2371,6 +2382,17 @@
     "fit_score": 2,
     "reason": "Requires prior experience shipping products; start date mismatch (Jan 2027).",
     "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "b4d3a93e9afa849f": {
+    "cached_at": "2026-09-19",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires active TS/SCI clearance and start date is January 2027.",
+    "salary": "$81,900-$115,200",
     "seniority": "junior",
     "verified": true,
     "years": 0

@@ -5025,6 +5025,23 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef"
   },
+  "b4d3a93e9afa849f": {
+    "clearance_required": true,
+    "company": "KBR Careers",
+    "first_seen": "2026-09-19",
+    "fit_score": 1,
+    "location": "Columbia, Maryland",
+    "posted_at": "2026-09-18T18:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "JR Software Engineer",
+    "role_category": "swe",
+    "salary": "$81,900-$115,200",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/jr-software-engineer-at-kbr-careers-4469217355",
+    "verified": true,
+    "verify_reason": "Requires active TS/SCI clearance and start date is January 2027.",
+    "years_required": 0
+  },
   "b55971557f624e89": {
     "company": "Rockwell Automation",
     "first_seen": "2026-08-11",
