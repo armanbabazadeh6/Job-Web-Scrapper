@@ -246,6 +246,17 @@
     "verified": true,
     "years": 3
   },
+  "167787a1bf0eb7d3": {
+    "cached_at": "2026-09-19",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Perfect match for 2026 graduate; requires security clearance eligibility.",
+    "salary": "$64,723 - $103,557",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "1740d06c22d9d748": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -2920,6 +2931,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "e206f869c9e7b153": {
+    "cached_at": "2026-09-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
   },
   "e252dfe0dae4d419": {
     "cached_at": "2026-09-11",

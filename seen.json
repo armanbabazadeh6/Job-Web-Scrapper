@@ -619,6 +619,23 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138"
   },
+  "167787a1bf0eb7d3": {
+    "clearance_required": true,
+    "company": "BAE Systems",
+    "first_seen": "2026-09-19",
+    "fit_score": 5,
+    "location": "San Diego, California",
+    "posted_at": "2026-09-19T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "2026 Entry Level Software Engineer - Full-time",
+    "role_category": "swe",
+    "salary": "$64,723 - $103,557",
+    "source": "JSearch",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/69F0CGPAK6AS9iDz5ScJVg",
+    "verified": true,
+    "verify_reason": "Perfect match for 2026 graduate; requires security clearance eligibility.",
+    "years_required": 0
+  },
   "1839a29bc3307ae4": {
     "company": "Droyd",
     "first_seen": "2026-07-08",
@@ -2523,6 +2540,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785"
+  },
+  "55bdfce9747d9f6b": {
+    "company": "Perplexity",
+    "first_seen": "2026-09-19",
+    "location": "San Francisco",
+    "posted_at": "2026-09-18T23:01:00.672000+00:00",
+    "posting_type": "new_grad",
+    "role": "Member of Technical Staff, AI Products (Early Career - Industry)",
+    "role_category": "swe",
+    "source": "Ashby:perplexity",
+    "url": "https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409"
   },
   "560ef0bd7d6d853f": {
     "company": "Openai",
