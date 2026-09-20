@@ -4806,6 +4806,23 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Threat-Intelligence-Analyst--Associate---Security-Operations_43986-1"
   },
+  "ad33e85937826efc": {
+    "clearance_required": true,
+    "company": "BAE Systems",
+    "first_seen": "2026-09-20",
+    "fit_score": 5,
+    "location": "",
+    "posted_at": "2026-09-20T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Engineer",
+    "role_category": "swe",
+    "salary": "$64,926-$110,374",
+    "source": "JSearch",
+    "url": "https://jobs.baesystems.com/global/en/job/129314BR/Entry-Level-Software-Engineer",
+    "verified": true,
+    "verify_reason": "Targets 2027 entry-level candidates, matching candidate's graduation timeline perfectly.",
+    "years_required": 0
+  },
   "ae81868881b7caf5": {
     "company": "Plexus",
     "first_seen": "2026-08-28",

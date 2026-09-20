@@ -2282,6 +2282,17 @@
     "verified": true,
     "years": 1
   },
+  "ad33e85937826efc": {
+    "cached_at": "2026-09-20",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Targets 2027 entry-level candidates, matching candidate's graduation timeline perfectly.",
+    "salary": "$64,926-$110,374",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "adef3f178ea625e8": {
     "cached_at": "2026-08-31",
     "entry_level": false,
