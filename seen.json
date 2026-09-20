@@ -5417,6 +5417,21 @@
     "verify_reason": "Requires production infrastructure experience and wrong start timing.",
     "years_required": 0
   },
+  "c12d4eb6dec331c0": {
+    "company": "IBM",
+    "first_seen": "2026-09-20",
+    "fit_score": 5,
+    "location": "Austin, Texas",
+    "posted_at": "2026-09-19T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Product Manager 2026",
+    "role_category": "product",
+    "source": "JSearch",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/rDCzuLV2QLDCbMVbwpCu",
+    "verified": true,
+    "verify_reason": "Targets 2026 graduates, perfect timeline match for January 2027 availability.",
+    "years_required": 0
+  },
   "c1a31672bf19996d": {
     "company": "Spatial Front, Inc",
     "first_seen": "2026-09-16",
