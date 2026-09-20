@@ -615,6 +615,17 @@
     "verified": true,
     "years": 0
   },
+  "2d4930de4f1b3cf9": {
+    "cached_at": "2026-09-20",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Targets graduates between December 2026 and June 2027, matching candidate perfectly.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "2d5c97c5347ceb54": {
     "cached_at": "2026-08-31",
     "entry_level": false,

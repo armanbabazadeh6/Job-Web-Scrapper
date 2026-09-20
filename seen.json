@@ -1455,6 +1455,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/acds/65b739c3-02ad-4814-ad24-24abecbc83f4"
   },
+  "2d4930de4f1b3cf9": {
+    "company": "General Motors",
+    "first_seen": "2026-09-20",
+    "fit_score": 5,
+    "location": "Milford, Michigan",
+    "posted_at": "2026-09-20T01:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Engineer - Full-time",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.snagajob.com/jobs/1293202195",
+    "verified": true,
+    "verify_reason": "Targets graduates between December 2026 and June 2027, matching candidate perfectly.",
+    "years_required": 0
+  },
   "2e07a62472fe1f0e": {
     "company": "TikTok",
     "first_seen": "2026-07-08",
