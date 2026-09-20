@@ -1981,17 +1981,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
   },
-  "41e18a4c2b2a177d": {
-    "company": "Databricks",
-    "first_seen": "2026-08-20",
-    "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
-    "posted_at": "2026-08-20T19:40:25-04:00",
-    "posting_type": "internship",
-    "role": "Software Engineering Intern (2027 Start) - Winter",
-    "role_category": "swe",
-    "source": "Greenhouse:databricks",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002"
-  },
   "41f85f7e1f7719b0": {
     "company": "Raytheon",
     "first_seen": "2026-08-13",
@@ -5780,6 +5769,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1"
+  },
+  "ce759def5a75572e": {
+    "clearance_required": true,
+    "company": "Zekiah Technologies",
+    "first_seen": "2026-09-20",
+    "fit_score": 1,
+    "location": "Dahlgren, Virginia",
+    "posted_at": "2026-09-19T08:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Developer I",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-developer-i-at-zekiah-technologies-4469504934",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience and immediate availability; candidate available January 2027.",
+    "years_required": 2
   },
   "ce96bdb38875c3d8": {
     "company": "Palantir",
