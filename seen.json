@@ -4153,6 +4153,21 @@
     "verified": false,
     "verify_reason": "LLM verdict missing (fallback)"
   },
+  "98a50309d9a97adf": {
+    "company": "Lorven Technologies",
+    "first_seen": "2026-09-21",
+    "fit_score": 2,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-09-20T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Billing Platform Engineer",
+    "role_category": "platform",
+    "source": "JSearch",
+    "url": "https://www.ziprecruiter.com/c/lorven-technologies/Job/Billing-Platform-Engineer/-in-Remote,US?jid=04429a7e5902cbad",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience; timeline mismatch for January 2027 graduate.",
+    "years_required": 2
+  },
   "98b86ac96ca2527e": {
     "company": "Blackstone",
     "first_seen": "2026-07-28",

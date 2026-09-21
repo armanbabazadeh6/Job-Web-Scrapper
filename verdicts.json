@@ -331,6 +331,17 @@
     "verified": true,
     "years": 0
   },
+  "1ab309bce7a46f34": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 4+ years building and operating production systems.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
+  },
   "1b8d460c812e6ea8": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -800,6 +811,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "38034139dbf6a66c": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 10
   },
   "39c38c65847b67c7": {
     "cached_at": "2026-09-19",
@@ -1473,6 +1495,17 @@
     "verified": true,
     "years": 1
   },
+  "6ad86cfb12852c51": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "6c04aadbb51e94f5": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1480,6 +1513,17 @@
     "seniority": null,
     "verified": false,
     "years": 10
+  },
+  "6c8bdadd143ded72": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "6d4c388d8f379b6e": {
     "cached_at": "2026-08-31",
@@ -1805,6 +1849,17 @@
     "verified": true,
     "years": 0
   },
+  "88495d9bc1a09738": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of professional software engineering experience.",
+    "salary": "$160k-$220k",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "8895a13cf810b7a4": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1933,6 +1988,17 @@
     "verified": false,
     "years": 5
   },
+  "9072134e916bd2bb": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "91b8c29523a5da1f": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
@@ -2046,6 +2112,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "98a50309d9a97adf": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years experience; timeline mismatch for January 2027 graduate.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "9980d6918494f154": {
     "cached_at": "2026-08-31",
@@ -2654,6 +2731,17 @@
     "verified": true,
     "years": 5
   },
+  "bed7f8a2ac7c8c31": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "bf264c1e91140b0d": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2680,6 +2768,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "bfea8bc25236612d": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 4+ years in technical roles.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
   },
   "c04b8cdbf466c661": {
     "cached_at": "2026-09-14",
