@@ -520,6 +520,17 @@
     "verified": true,
     "years": 3
   },
+  "29cbe26e585a90fd": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Demands substantial hands-on networking development experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
   "29d04bd5df47c783": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
@@ -722,6 +733,17 @@
     "reason": "high experience requirement",
     "seniority": null,
     "verified": false,
+    "years": 5
+  },
+  "34491582466e22e4": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires substantial Linux kernel development experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
     "years": 5
   },
   "34e07ce389a7e6f4": {
@@ -1837,6 +1859,17 @@
     "verified": true,
     "years": 3
   },
+  "8dc4bf4f13377f7a": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires substantial hands-on systems experience, exceeding new graduate level.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
   "8dff176143f6c64f": {
     "cached_at": "2026-09-10",
     "clearance_required": false,
@@ -2264,6 +2297,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "a73cc8b45549deaa": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Product engineering role, but expects industry experience building software.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "a7da6913e520e54b": {
     "cached_at": "2026-08-31",
