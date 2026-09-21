@@ -768,6 +768,17 @@
     "verified": true,
     "years": 2
   },
+  "36983b33b8cf4c4f": {
+    "cached_at": "2026-09-21",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Explicitly targets graduates completing degrees by start date.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "39c38c65847b67c7": {
     "cached_at": "2026-09-19",
     "clearance_required": false,
