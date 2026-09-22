@@ -10,6 +10,17 @@
     "verified": true,
     "years": 0
   },
+  "002a21e3b5474308": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "00616bee5f4bef9e": {
     "cached_at": "2026-09-09",
     "clearance_required": false,
@@ -37,6 +48,28 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "03a9b5364298ac54": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
+  "03d2358eaaefddc2": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 6
   },
   "0404d504b727169e": {
     "cached_at": "2026-09-11",
@@ -76,6 +109,17 @@
     "seniority": null,
     "verified": false,
     "years": 6
+  },
+  "083d8837b6925cd4": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Entry-level role, but unavailable until January 2027 graduate timeline.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "09128030a7824fad": {
     "cached_at": "2026-08-31",
@@ -2117,6 +2161,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 5
+  },
+  "9724ddc1ebd24475": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years experience, mismatching new graduate status.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "975604a3c3bbf965": {
     "cached_at": "2026-08-31",
