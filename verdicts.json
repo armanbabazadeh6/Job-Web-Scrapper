@@ -353,6 +353,17 @@
     "verified": true,
     "years": 4
   },
+  "1b8c6d9d069c0295": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate graduates December 2026; job is for immediate or near-term hire.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "1b8d460c812e6ea8": {
     "cached_at": "2026-08-31",
     "entry_level": false,
