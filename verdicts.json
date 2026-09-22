@@ -170,6 +170,17 @@
     "verified": true,
     "years": 0
   },
+  "0f9ff574bb27b4f1": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Directly targets Dec 2026 graduates for 2027 full-time program.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "0fc1c2b5ea1d3302": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -2676,6 +2687,17 @@
     "reason": "Perfect timeline match for entry-level role; requires security clearance.",
     "salary": "$57,200 - $108,800",
     "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "bb0fcc14244365c4": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires specialized safeguards experience; not structured as a new grad role.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },

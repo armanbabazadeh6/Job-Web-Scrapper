@@ -362,6 +362,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c"
   },
+  "0f9ff574bb27b4f1": {
+    "company": "MasterCard",
+    "first_seen": "2026-09-22",
+    "fit_score": 5,
+    "location": "Holladay, Utah",
+    "posted_at": "2026-09-21T06:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Launch Program 2027 - United States",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.ziprecruiter.com/c/Mastercard/Job/Software-Engineer,-Launch-Program-2027-United-States/-in-Holladay,UT?jid=6b5449cf4b9c290c",
+    "verified": true,
+    "verify_reason": "Directly targets Dec 2026 graduates for 2027 full-time program.",
+    "years_required": 0
+  },
   "0fc1c2b5ea1d3302": {
     "company": "Ramp",
     "first_seen": "2026-09-11",
@@ -2383,17 +2398,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "53b151b60c2a4911": {
-    "company": "Persistent Systems",
-    "first_seen": "2026-06-23",
-    "location": "US NY New York",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Intern - Embedded Software Engineer - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://careers-persistentsystems.icims.com/jobs/2272/intern---embedded-software-engineer-%28fall-2026%29/job"
   },
   "53ea5ee184f62277": {
     "company": "Stripe",
@@ -4972,6 +4976,21 @@
     "url": "https://www.linkedin.com/jobs/view/software-engineer-i-onsite-at-raytheon-4467902038",
     "verified": true,
     "verify_reason": "Perfect timeline match for entry-level role; requires security clearance.",
+    "years_required": 0
+  },
+  "bb0fcc14244365c4": {
+    "company": "Anthropic",
+    "first_seen": "2026-09-22",
+    "fit_score": 2,
+    "location": "San Francisco, CA | New York City, NY",
+    "posted_at": "2026-09-21T19:59:29-04:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager, Safeguards (Generalist) ",
+    "role_category": "product",
+    "source": "Greenhouse:anthropic",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400720008",
+    "verified": true,
+    "verify_reason": "Requires specialized safeguards experience; not structured as a new grad role.",
     "years_required": 0
   },
   "bb502fae832e1e08": {
