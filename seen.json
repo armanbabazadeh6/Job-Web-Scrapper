@@ -4142,6 +4142,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "961321b7c5d18289": {
+    "company": "Nuro",
+    "first_seen": "2026-09-22",
+    "fit_score": 2,
+    "location": "Mountain View, California (HQ)",
+    "posted_at": "2026-09-22T16:51:43-04:00",
+    "posting_type": "verified_entry",
+    "role": "Embedded Software Engineer",
+    "role_category": "swe",
+    "source": "Greenhouse:nuro",
+    "url": "https://nuro.ai/careersitem?gh_jid=8180955",
+    "verified": true,
+    "verify_reason": "Requires two years embedded experience; availability timing mismatch.",
+    "years_required": 2
+  },
   "96355cb9edb40ab1": {
     "company": "Datadog",
     "first_seen": "2026-08-31",
@@ -4759,6 +4774,22 @@
     "role_category": "product",
     "source": "Workday:Morgan Stanley",
     "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Deposit-Product-Associate_PT-JR039252"
+  },
+  "b29f249e39124ac7": {
+    "clearance_required": true,
+    "company": "VetJobs",
+    "first_seen": "2026-09-22",
+    "fit_score": 2,
+    "location": "Durham, North Carolina",
+    "posted_at": "2026-09-22T18:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Engineer (Hybrid) - Durham, NC",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-hybrid-durham-nc-at-vetjobs-4469035981",
+    "verified": true,
+    "verify_reason": "Requires TS/SCI clearance eligibility; available start date mismatch.",
+    "years_required": 0
   },
   "b2bc2ce9ef7a6289": {
     "company": "Netsmart",

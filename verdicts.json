@@ -2164,6 +2164,17 @@
     "verified": false,
     "years": null
   },
+  "961321b7c5d18289": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires two years embedded experience; availability timing mismatch.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "96355cb9edb40ab1": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -2605,6 +2616,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "b29f249e39124ac7": {
+    "cached_at": "2026-09-22",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires TS/SCI clearance eligibility; available start date mismatch.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "b33e56aeb29bd963": {
     "cached_at": "2026-09-11",
