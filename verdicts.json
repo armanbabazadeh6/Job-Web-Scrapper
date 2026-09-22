@@ -1098,6 +1098,17 @@
     "verified": true,
     "years": 0
   },
+  "474b54b67daec05c": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Accepts bachelor's with 0 years experience, perfect match.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "491289c166168d03": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1560,6 +1571,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 1
+  },
+  "6ac836f3ec48f333": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
   },
   "6ad86cfb12852c51": {
     "cached_at": "2026-09-21",
@@ -3048,6 +3070,17 @@
     "verified": false,
     "years": 6
   },
+  "d340349d44287535": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "d36e59047282ecdd": {
     "cached_at": "2026-09-09",
     "clearance_required": false,
@@ -3162,6 +3195,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "de1af7a558001c14": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Product Manager role requiring significant industry experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "de5f42bc4c4fb236": {
     "cached_at": "2026-09-04",
@@ -3288,6 +3332,17 @@
     "seniority": null,
     "verified": false,
     "years": 7
+  },
+  "e7d86d48c60d2fb8": {
+    "cached_at": "2026-09-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 6
   },
   "eba4cda02707b391": {
     "cached_at": "2026-08-31",
