@@ -1260,6 +1260,17 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8?utm_source=vansh"
   },
+  "29ca553aec360b09": {
+    "company": "Nuro",
+    "first_seen": "2026-09-23",
+    "location": "Mountain View, California (HQ)",
+    "posted_at": "2026-09-23T16:25:45-04:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, Performance Tooling and Infrastructure New Grad",
+    "role_category": "swe",
+    "source": "Greenhouse:nuro",
+    "url": "https://nuro.ai/careersitem?gh_jid=8227399"
+  },
   "29d04bd5df47c783": {
     "company": "Keysight Technologies, Inc.",
     "first_seen": "2026-09-16",
@@ -2429,6 +2440,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=560273&utm_source=vansh&ref=vansh"
+  },
+  "52154c91deb65b18": {
+    "company": "Purestorage",
+    "first_seen": "2026-09-23",
+    "fit_score": 2,
+    "location": "Santa Clara, California",
+    "posted_at": "2026-09-23T16:42:57-04:00",
+    "posting_type": "verified_entry",
+    "role": "Systems Software Engineer",
+    "role_category": "swe",
+    "source": "Greenhouse:purestorage",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8220346",
+    "verified": true,
+    "verify_reason": "No experience required, but timing mismatch for January 2027 availability.",
+    "years_required": 0
   },
   "523be5f96bba1343": {
     "company": "SynergisticIT",
@@ -4512,6 +4538,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895"
   },
+  "a58c0989f9dca009": {
+    "company": "Palantir",
+    "first_seen": "2026-09-23",
+    "fit_score": 2,
+    "location": "Seattle, WA",
+    "posted_at": "2026-09-23T20:22:09.272000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Security Systems Engineer",
+    "role_category": "platform",
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/98c244fc-444b-43ba-b152-30227191170b",
+    "verified": true,
+    "verify_reason": "No experience required, but timing mismatch for January 2027 availability.",
+    "years_required": 0
+  },
   "a5c3a7b965ce04db": {
     "company": "NVIDIA",
     "first_seen": "2026-08-07",
@@ -5640,6 +5681,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/deductive/f391540a-8742-4455-89d5-0022a9ac6f9d"
+  },
+  "cef20504e47a8ccf": {
+    "company": "Airbnb",
+    "first_seen": "2026-09-23",
+    "fit_score": 2,
+    "location": "United States",
+    "posted_at": "2026-09-23T17:27:50-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Application Platform",
+    "role_category": "swe",
+    "source": "Greenhouse:airbnb",
+    "url": "https://careers.airbnb.com/positions/8227620?gh_jid=8227620",
+    "verified": true,
+    "verify_reason": "No experience required, but timing mismatch for January 2027 availability.",
+    "years_required": 0
   },
   "cfa68c6ed969e26c": {
     "company": "Plus",

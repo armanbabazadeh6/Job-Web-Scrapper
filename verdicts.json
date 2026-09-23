@@ -1279,6 +1279,17 @@
     "verified": false,
     "years": 5
   },
+  "52154c91deb65b18": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience required, but timing mismatch for January 2027 availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "523be5f96bba1343": {
     "cached_at": "2026-09-23",
     "clearance_required": false,
@@ -2576,6 +2587,17 @@
     "verified": false,
     "years": 5
   },
+  "a58c0989f9dca009": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience required, but timing mismatch for January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "a60f010debfe1626": {
     "cached_at": "2026-09-14",
     "clearance_required": false,
@@ -3207,6 +3229,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 7
+  },
+  "cef20504e47a8ccf": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience required, but timing mismatch for January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "d209b875d51b83c4": {
     "cached_at": "2026-08-31",
