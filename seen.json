@@ -811,17 +811,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "1bad41b1c350ed59": {
-    "company": "Blackstone",
-    "first_seen": "2026-06-24",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "BXMA- Investment Operations, Analyst",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/BXMA--Investment-Operations--Analyst_43757"
-  },
   "1d1b88ad2b5b17e2": {
     "company": "D3 Global Inc",
     "first_seen": "2026-09-10",
@@ -1460,17 +1449,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "2e082b5ba855f790": {
-    "company": "Zipline",
-    "first_seen": "2026-06-24",
-    "location": "South San Francisco, California, USA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Embedded Software Engineer Intern - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7765240003"
-  },
   "2e3920c0b2ecfa21": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -1503,6 +1481,21 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/GP-Stakes-Strategic-Value--Analyst_44673"
+  },
+  "2ea6cf6ccaef105b": {
+    "company": "Stripe",
+    "first_seen": "2026-09-23",
+    "fit_score": 1,
+    "location": "San Francisco Or New York",
+    "posted_at": "2026-09-22T20:07:07-04:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager - Issuance, Bridge",
+    "role_category": "product",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8223723",
+    "verified": true,
+    "verify_reason": "No experience stated, but availability timing mismatch for Jan 2027.",
+    "years_required": 0
   },
   "2f0bcfb29ab78146": {
     "company": "Ramp",
@@ -2582,6 +2575,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://selinc.wd1.myworkdayjobs.com/en-US/sel/job/Washington---Pullman/Software-Engineer-Intern_2026-21720"
   },
+  "59830107c9196ffa": {
+    "company": "Notion",
+    "first_seen": "2026-09-23",
+    "location": "San Francisco, CANew York, NY",
+    "posted_at": "2026-09-24T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, Fullstack, Early Career",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b?utm_source=vansh"
+  },
   "59c5241039084483": {
     "company": "Sentry",
     "first_seen": "2026-08-12",
@@ -2630,17 +2634,6 @@
     "verified": true,
     "verify_reason": "Requires 2+ years experience; start date mismatch (available Jan 2027).",
     "years_required": 2
-  },
-  "5ba84416ec0afbc3": {
-    "company": "Zipline",
-    "first_seen": "2026-06-24",
-    "location": "South San Francisco, California, USA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Enterprise Systems Software Engineer Intern - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7767667003"
   },
   "5be98d0c08a0b5b6": {
     "company": "Duolingo",
@@ -5519,6 +5512,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456"
+  },
+  "cd1379a13a8ff264": {
+    "company": "Notion",
+    "first_seen": "2026-09-23",
+    "location": "San Francisco, CANew York, NY",
+    "posted_at": "2026-09-24T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, Infrastructure, Early Career",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80?utm_source=vansh"
   },
   "cded6820f5f9bf2e": {
     "company": "Lambda",
