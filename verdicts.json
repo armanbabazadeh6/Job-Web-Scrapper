@@ -676,6 +676,17 @@
     "verified": true,
     "years": 0
   },
+  "2b631bec13a13225": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of experience with PostgreSQL.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "2bb9441928793c7c": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -762,6 +773,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "303aadc97c09b332": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Full-time software engineering role in insurance.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "307f1ad9428974e2": {
     "cached_at": "2026-09-19",
@@ -884,6 +906,17 @@
     "entry_level": true,
     "fit_score": 5,
     "reason": "Explicitly targets graduates completing degrees by start date.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "377bf3d5fcd7dd4c": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience requirement specified, but description cuts off early.",
     "salary": null,
     "seniority": "new_grad",
     "verified": true,
@@ -1016,6 +1049,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "41f978388de54d1a": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Full-time software engineering role in financial services.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "431deac00d5b7eaf": {
     "cached_at": "2026-08-31",
@@ -1284,6 +1328,17 @@
     "verified": false,
     "years": null
   },
+  "54bf1f953415bc10": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Full-time software engineering role in travel and hospitality.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "5607bbf23644fa5d": {
     "cached_at": "2026-09-10",
     "clearance_required": false,
@@ -1511,6 +1566,17 @@
     "cached_at": "2026-08-31",
     "entry_level": false,
     "reason": "Requires demonstrated experience leading product and engineering strategy across multiple teams.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "642483841e11fec2": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Full-time software engineering role on retail AI agents.",
+    "salary": null,
     "seniority": "mid",
     "verified": true,
     "years": 3
@@ -2559,6 +2625,17 @@
     "verified": true,
     "years": 0
   },
+  "aa47dbb2fe5ff79a": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of product management experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
   "aa66afaa2770dd03": {
     "cached_at": "2026-09-01",
     "clearance_required": false,
@@ -2671,6 +2748,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "b33e31822550ac09": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "b33e56aeb29bd963": {
     "cached_at": "2026-09-11",
@@ -2832,6 +2920,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "ba8a76e4bbbdc2f4": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Full-time role building AI agents, experience level implied.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "bab8751511cfac9f": {
     "cached_at": "2026-09-16",
@@ -3218,6 +3317,17 @@
     "verified": true,
     "years": 0
   },
+  "da33dd4aa87c6dac": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Experience requirement not explicitly stated as entry-level.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "da49b1b9e582885e": {
     "cached_at": "2026-09-14",
     "clearance_required": false,
@@ -3228,6 +3338,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "dad55e7cc07ee794": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Requires full stack software development skills.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "db836b9f4d84504e": {
     "cached_at": "2026-09-17",

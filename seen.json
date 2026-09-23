@@ -1762,6 +1762,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "377bf3d5fcd7dd4c": {
+    "company": "Sierra",
+    "first_seen": "2026-09-23",
+    "fit_score": 3,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-09-23T17:08:47.244000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Agent - Tech, Media & Telecom",
+    "role_category": "swe",
+    "source": "Ashby:sierra",
+    "url": "https://jobs.ashbyhq.com/sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f",
+    "verified": true,
+    "verify_reason": "No experience requirement specified, but description cuts off early.",
+    "years_required": 0
+  },
   "390051135b50ea6f": {
     "company": "Excellus BCBS",
     "first_seen": "2026-08-21",
@@ -3535,6 +3550,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1"
+  },
+  "7bcae4055a3ac038": {
+    "company": "Scaleai",
+    "first_seen": "2026-09-23",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-09-23T13:55:35-04:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, Public Sector - New Grad",
+    "role_category": "swe",
+    "source": "Greenhouse:scaleai",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
   },
   "7bfe56f118a7218d": {
     "company": "Rivian",
