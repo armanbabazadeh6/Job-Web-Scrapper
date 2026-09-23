@@ -2415,6 +2415,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=560273&utm_source=vansh&ref=vansh"
   },
+  "523be5f96bba1343": {
+    "company": "SynergisticIT",
+    "first_seen": "2026-09-23",
+    "fit_score": 1,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-09-22T22:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "junior software developer/data scientist",
+    "role_category": "swe",
+    "salary": "$90k-$154k",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/junior-software-developer-data-scientist-at-synergisticit-4469063935",
+    "verified": true,
+    "verify_reason": "Training program, not a direct job; starts before candidate's availability.",
+    "years_required": 0
+  },
   "535dc7ab1648d408": {
     "company": "Pylon",
     "first_seen": "2026-07-10",

@@ -1235,6 +1235,17 @@
     "verified": false,
     "years": 5
   },
+  "523be5f96bba1343": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Training program, not a direct job; starts before candidate's availability.",
+    "salary": "$90k-$154k",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "53081f76e018b1eb": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1612,6 +1623,17 @@
     "seniority": null,
     "verified": false,
     "years": 10
+  },
+  "6c5fe9ad99107f9b": {
+    "cached_at": "2026-09-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires prior experience building enterprise products; starts before candidate's availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "6c8bdadd143ded72": {
     "cached_at": "2026-09-21",
