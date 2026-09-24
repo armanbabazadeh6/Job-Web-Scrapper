@@ -4547,6 +4547,22 @@
     "verify_reason": "Undergraduate degree required with no minimum experience specified.",
     "years_required": 0
   },
+  "a3e893d1e9634e1f": {
+    "clearance_required": true,
+    "company": "General Dynamics Electric Boat",
+    "first_seen": "2026-09-24",
+    "fit_score": 1,
+    "location": "New London, Connecticut",
+    "posted_at": "2026-09-24T15:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Developer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-general-dynamics-electric-boat-4470004127",
+    "verified": true,
+    "verify_reason": "Candidate available Jan 2027; job is for immediate hire.",
+    "years_required": 0
+  },
   "a470985831761235": {
     "company": "Robinhood",
     "first_seen": "2026-08-31",
