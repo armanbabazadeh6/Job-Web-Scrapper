@@ -1523,6 +1523,21 @@
     "verify_reason": "Candidate not available until January 2027; immediate start required.",
     "years_required": 0
   },
+  "2f242670c0b63b31": {
+    "company": "Southwest Airlines",
+    "first_seen": "2026-09-24",
+    "fit_score": 5,
+    "location": "Dallas, Texas",
+    "posted_at": "2026-09-23T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Associate Software Engineer - Direct College Hire",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://careers.southwestair.com/us/en/job/R-2026-72886/Associate-Software-Engineer-Direct-College-Hire",
+    "verified": true,
+    "verify_reason": "Hiring for January 2027 cohort, perfect match for graduation timeline.",
+    "years_required": 0
+  },
   "2f825e3dd36d2588": {
     "company": "Chime",
     "first_seen": "2026-08-31",
