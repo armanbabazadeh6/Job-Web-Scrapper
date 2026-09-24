@@ -698,6 +698,17 @@
     "verified": true,
     "years": 3
   },
+  "2c5768b49d094a84": {
+    "cached_at": "2026-09-24",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2+ years experience; candidate graduates December 2026.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "2ca048a561c381c9": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2240,6 +2251,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "8fc12339e7c3ca22": {
+    "cached_at": "2026-09-24",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2 years experience; candidate graduates December 2026.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "8fd0bec3311c06fc": {
     "cached_at": "2026-09-03",

@@ -1387,6 +1387,21 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Data-Analyst--Associate---Private-Equity-Technology_43933-2"
   },
+  "2c5768b49d094a84": {
+    "company": "Asana",
+    "first_seen": "2026-09-24",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-09-24T17:42:35-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer",
+    "role_category": "swe",
+    "source": "Greenhouse:asana",
+    "url": "https://www.asana.com/jobs/apply/8078102?gh_jid=8078102",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience; candidate graduates December 2026.",
+    "years_required": 2
+  },
   "2cac7afa327ad161": {
     "company": "Five Rings",
     "first_seen": "2026-07-15",
@@ -4038,6 +4053,21 @@
     "role_category": "swe",
     "source": "Ashby:replit",
     "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
+  },
+  "8fc12339e7c3ca22": {
+    "company": "Sierra",
+    "first_seen": "2026-09-24",
+    "fit_score": 1,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-09-24T22:10:13.906000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Horizon",
+    "role_category": "swe",
+    "source": "Ashby:sierra",
+    "url": "https://jobs.ashbyhq.com/sierra/87f2a303-c2a1-484e-9e4b-efdcaafa440e",
+    "verified": true,
+    "verify_reason": "Requires 2 years experience; candidate graduates December 2026.",
+    "years_required": 2
   },
   "90461bddb96ef513": {
     "company": "Scaleai",
