@@ -1069,6 +1069,17 @@
     "verified": true,
     "years": 0
   },
+  "432781aeadaff87e": {
+    "cached_at": "2026-09-24",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "43566685fbe9896a": {
     "cached_at": "2026-09-09",
     "clearance_required": false,
@@ -2635,6 +2646,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "a87663a242d3065b": {
+    "cached_at": "2026-09-24",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires production AI systems experience, unsuitable for new graduates.",
+    "salary": "$255k+",
+    "seniority": "senior",
+    "verified": true,
+    "years": 3
   },
   "a9a11e9b6ad1d2c2": {
     "cached_at": "2026-09-16",
