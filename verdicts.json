@@ -1020,6 +1020,17 @@
     "verified": false,
     "years": 4
   },
+  "3f3ca3ba8f22eb40": {
+    "cached_at": "2026-09-24",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience requirement stated; suitable for new graduates.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "3f77596c7f369433": {
     "cached_at": "2026-09-19",
     "clearance_required": false,
@@ -1237,6 +1248,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "4df807b2b8445f38": {
+    "cached_at": "2026-09-24",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience required, fits new college graduate timeline.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "4e07f3e8ae672a07": {
     "cached_at": "2026-08-31",
@@ -2068,6 +2090,17 @@
     "seniority": null,
     "verified": false,
     "years": 10
+  },
+  "87822b95558fe84c": {
+    "cached_at": "2026-09-24",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires 2-5 years of product management experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
   },
   "87be9b5c77474362": {
     "cached_at": "2026-09-19",
@@ -3273,6 +3306,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "d187954eae0db66a": {
+    "cached_at": "2026-09-24",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "d209b875d51b83c4": {
     "cached_at": "2026-08-31",

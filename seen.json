@@ -1987,6 +1987,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003"
   },
+  "3f3ca3ba8f22eb40": {
+    "company": "Palantir",
+    "first_seen": "2026-09-24",
+    "fit_score": 4,
+    "location": "Kitsap, WA",
+    "posted_at": "2026-09-24T14:50:21.850000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Forward Deployed Software Engineer - US Government",
+    "role_category": "swe",
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
+    "verified": true,
+    "verify_reason": "No experience requirement stated; suitable for new graduates.",
+    "years_required": 0
+  },
   "3f4284149ef655c1": {
     "company": "Hermeus",
     "first_seen": "2026-07-08",
@@ -2354,6 +2369,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/junior/23ee686b-d305-4ac9-860d-16c99ddb4891"
+  },
+  "4df807b2b8445f38": {
+    "company": "Palantir",
+    "first_seen": "2026-09-24",
+    "fit_score": 4,
+    "location": "Kitsap, WA",
+    "posted_at": "2026-09-24T14:53:54.739000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Deployment Strategist - US Government",
+    "role_category": "swe",
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/802add74-04cf-479c-9479-ff3043940e29",
+    "verified": true,
+    "verify_reason": "No experience required, fits new college graduate timeline.",
+    "years_required": 0
   },
   "4e04700bfbadf24f": {
     "company": "Heliux",
@@ -2750,6 +2780,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "5d3ef78bd7714c00": {
+    "company": "Perplexity",
+    "first_seen": "2026-09-24",
+    "location": "San Francisco",
+    "posted_at": "2026-09-24T15:03:30.731000+00:00",
+    "posting_type": "new_grad",
+    "role": "Member of Technical Staff (New Grad)",
+    "role_category": "swe",
+    "source": "Ashby:perplexity",
+    "url": "https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523"
   },
   "5d6ab1aeaf83a227": {
     "company": "Auctor",
