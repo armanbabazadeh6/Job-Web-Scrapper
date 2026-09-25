@@ -1648,6 +1648,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false&utm_source=vansh&ref=vansh"
   },
+  "3288acbfdb52637a": {
+    "company": "Palantir",
+    "first_seen": "2026-09-25",
+    "fit_score": 1,
+    "location": "New York, NY",
+    "posted_at": "2026-09-25T10:28:07.251000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer \u2013 Query Engines",
+    "role_category": "swe",
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3",
+    "verified": true,
+    "verify_reason": "Start date mismatch; candidate not available until January 2027.",
+    "years_required": 0
+  },
   "331038082f95d63a": {
     "company": "Epic",
     "first_seen": "2026-09-25",

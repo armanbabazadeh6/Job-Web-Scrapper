@@ -892,6 +892,17 @@
     "verified": false,
     "years": 7
   },
+  "3288acbfdb52637a": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Start date mismatch; candidate not available until January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "32ada46e53c96166": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -2762,6 +2773,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "a5729825ea3f60a9": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 6
   },
   "a58c0989f9dca009": {
     "cached_at": "2026-09-23",
