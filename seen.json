@@ -3491,6 +3491,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155"
   },
+  "75b2596642e19884": {
+    "company": "Instacart",
+    "first_seen": "2026-09-25",
+    "fit_score": 1,
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "posted_at": "2026-09-25T13:57:51-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer II, Advertiser Optimization",
+    "role_category": "swe",
+    "source": "Greenhouse:instacart",
+    "url": "https://instacart.careers/job/?gh_jid=8233716",
+    "verified": true,
+    "verify_reason": "Candidate available January 2027; posting is for immediate start.",
+    "years_required": 0
+  },
   "767f1749ddffcf6a": {
     "company": "Blackstone",
     "first_seen": "2026-08-13",
