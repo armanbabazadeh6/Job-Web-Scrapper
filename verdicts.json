@@ -3892,6 +3892,17 @@
     "verified": false,
     "years": 4
   },
+  "f3c9ca960987bd90": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires graduation by August 2025; candidate graduates December 2026.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "f4f94e0fdb9612d1": {
     "cached_at": "2026-08-31",
     "entry_level": true,
