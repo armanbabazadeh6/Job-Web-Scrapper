@@ -1648,6 +1648,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false&utm_source=vansh&ref=vansh"
   },
+  "331038082f95d63a": {
+    "company": "Epic",
+    "first_seen": "2026-09-25",
+    "fit_score": 5,
+    "location": "State College, Pennsylvania",
+    "posted_at": "2026-09-24T21:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry-Level Software Developer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-4470030741",
+    "verified": true,
+    "verify_reason": "Entry-level role accepting recent graduates with no experience required.",
+    "years_required": 0
+  },
   "334ff6662dad17df": {
     "company": "Reply",
     "first_seen": "2026-07-22",
@@ -3244,6 +3259,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "6b9cbea15798018b": {
+    "company": "Pinterest",
+    "first_seen": "2026-09-25",
+    "location": "Palo Alto, CASeattle, WASF",
+    "posted_at": "2026-09-26T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012&utm_source=vansh&ref=vansh"
   },
   "6bd9c961033bb84e": {
     "company": "TikTok",

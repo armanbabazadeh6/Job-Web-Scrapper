@@ -301,6 +301,17 @@
     "verified": true,
     "years": 3
   },
+  "1517acfc45bdb162": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires prior experience building and shipping developer-facing products.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
+  },
   "167787a1bf0eb7d3": {
     "cached_at": "2026-09-19",
     "clearance_required": true,
@@ -353,6 +364,17 @@
     "verified": false,
     "years": null
   },
+  "197a8bbb451855f3": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "198509d45af3deef": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -396,6 +418,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 4
+  },
+  "1b8830943e3c09ae": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "1b8c6d9d069c0295": {
     "cached_at": "2026-09-22",
@@ -517,6 +550,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "248a2488c7911431": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires senior-level experience and significant distributed systems background.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
   },
   "264053c9a1da86ff": {
     "cached_at": "2026-08-31",
@@ -867,6 +911,17 @@
     "verified": false,
     "years": 5
   },
+  "331038082f95d63a": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Entry-level role accepting recent graduates with no experience required.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "34491582466e22e4": {
     "cached_at": "2026-09-21",
     "clearance_required": false,
@@ -932,6 +987,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "37525921d8e80456": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "377bf3d5fcd7dd4c": {
     "cached_at": "2026-09-23",
@@ -1495,6 +1561,17 @@
     "verified": true,
     "years": 0
   },
+  "5c2a3c789422cb09": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "5c380e6365bb3292": {
     "cached_at": "2026-09-04",
     "clearance_required": false,
@@ -1562,6 +1639,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "6173023dbb13c45e": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "61c31174e81361c5": {
     "cached_at": "2026-09-14",
@@ -3176,6 +3264,17 @@
     "verified": true,
     "years": 4
   },
+  "bfee8e0f180ebb9a": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "c04b8cdbf466c661": {
     "cached_at": "2026-09-14",
     "clearance_required": false,
@@ -3224,6 +3323,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "c2cf9fdce116b133": {
+    "cached_at": "2026-09-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "c4c976e91e91e852": {
     "cached_at": "2026-09-16",
