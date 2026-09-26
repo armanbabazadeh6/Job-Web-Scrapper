@@ -1141,6 +1141,17 @@
     "verified": true,
     "years": 0
   },
+  "3fb4f80d6d3845ee": {
+    "cached_at": "2026-09-26",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Start date of May/June 2026 conflicts with January 2027 availability.",
+    "salary": "$65,000",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "3fbdaab99a518e78": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -2686,6 +2697,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "a16f10d22b6cd658": {
+    "cached_at": "2026-09-26",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Perfect match for graduation date of Fall 2026-Summer 2027.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "a187bd5f58e920ad": {
     "cached_at": "2026-09-19",
