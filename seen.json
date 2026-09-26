@@ -6657,6 +6657,22 @@
     "verify_reason": "No minimum years of experience stated; collaborates with senior engineers.",
     "years_required": 0
   },
+  "f1aac432cae30d29": {
+    "company": "RoviSys Building Technologies",
+    "first_seen": "2026-09-26",
+    "fit_score": 5,
+    "location": "",
+    "posted_at": "2026-09-26T13:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "2027 - Entry Level Systems Engineer/Controls Specialist",
+    "role_category": "platform",
+    "salary": "$80,000-$82,000",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/2027-entry-level-systems-engineer-controls-specialist-at-rovisys-building-technologies-4462316098",
+    "verified": true,
+    "verify_reason": "Targets 2027 college graduates, matching candidate's graduation and availability timeline.",
+    "years_required": 0
+  },
   "f1c6a0ed2eb3428c": {
     "company": "Samsara",
     "first_seen": "2026-09-16",
