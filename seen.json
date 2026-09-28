@@ -3215,17 +3215,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://careers.roblox.com/jobs/7167345?utm_source=vansh"
   },
-  "67a95ea54102b9e8": {
-    "company": "BorgWarner",
-    "first_seen": "2026-06-29",
-    "location": "Auburn Hills Michigan USA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Year-Round",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1"
-  },
   "67edc7cfe8b6270b": {
     "company": "TikTok",
     "first_seen": "2026-08-11",
@@ -3236,17 +3225,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "6808d93771fc6a03": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-27",
-    "location": "Indianapolis, Indiana, United States of America",
-    "posted_at": "2026-08-26T09:50:07.312686+00:00",
-    "posting_type": "new_grad",
-    "role": "Institutional Consulting Associate",
-    "role_category": "consulting",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Indianapolis-Indiana-United-States-of-America/Institutional-Consulting-Associate_JR042946"
   },
   "6822ba4c5e9fd986": {
     "company": "Chicago Trading Company",
@@ -3537,6 +3515,17 @@
     "verified": true,
     "verify_reason": "Candidate available January 2027; posting is for immediate start.",
     "years_required": 0
+  },
+  "767946cd610b8b60": {
+    "company": "Perplexity",
+    "first_seen": "2026-09-28",
+    "location": "San Francisco",
+    "posted_at": "2026-09-27T16:15:48.951000+00:00",
+    "posting_type": "new_grad",
+    "role": "Member of Technical Staff (New Grad)",
+    "role_category": "swe",
+    "source": "Ashby:perplexity",
+    "url": "https://jobs.ashbyhq.com/perplexity/b539e100-4b8c-4701-a5a8-52b9a72f435e"
   },
   "767f1749ddffcf6a": {
     "company": "Blackstone",
@@ -5023,17 +5012,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "b22550b328b27257": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-28",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-28T18:43:23.031161+00:00",
-    "posting_type": "new_grad",
-    "role": "Deposit Product Analyst/Associate",
-    "role_category": "product",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Deposit-Product-Associate_PT-JR039252"
-  },
   "b29f249e39124ac7": {
     "clearance_required": true,
     "company": "VetJobs",
@@ -5204,17 +5182,6 @@
     "verify_reason": "Application period is Fall 2024; candidate is not available until 2027.",
     "years_required": 0
   },
-  "b657acc550ef1dee": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-28",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-28T18:43:17.815819+00:00",
-    "posting_type": "new_grad",
-    "role": "Fixed Income Division - Municipal Securities - Analyst/Associate, Syndicate-Client Financing (New York)",
-    "role_category": "ib",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Municipal-Securities---Analyst-Associate--Syndicate-Client-Financing--New-York-_JR043034"
-  },
   "b6fdeeb205047d3a": {
     "company": "Openai",
     "first_seen": "2026-08-31",
@@ -5382,17 +5349,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079"
-  },
-  "bccd2c639d619199": {
-    "company": "Morgan Stanley",
-    "first_seen": "2026-08-28",
-    "location": "New York, New York, United States of America",
-    "posted_at": "2026-08-28T18:43:17.815744+00:00",
-    "posting_type": "new_grad",
-    "role": "Global Capital Markets Strat - Strats - Associate",
-    "role_category": "ib",
-    "source": "Workday:Morgan Stanley",
-    "url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Global-Capital-Markets-Strat---Strats---Associate_JR043014"
   },
   "bf909b22154f5073": {
     "company": "Copart",
@@ -6307,17 +6263,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b"
   },
-  "e19b886c7f6a0e5e": {
-    "company": "Zipline",
-    "first_seen": "2026-06-28",
-    "location": "South San Francisco, California, USA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineer Intern - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7787509003"
-  },
   "e206b4005a20aa5b": {
     "company": "Optiver",
     "first_seen": "2026-07-02",
@@ -6766,17 +6711,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "f39ee4338210d602": {
-    "company": "Intel",
-    "first_seen": "2026-06-28",
-    "location": "US, Oregon, Hillsboro",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "AI Software Engineering Undergraduate Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/AI-Software-Engineering-Undergraduate-Intern_JR0285167"
-  },
   "f3c9ca960987bd90": {
     "company": "Visa",
     "first_seen": "2026-09-25",
@@ -6981,17 +6915,6 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/BXHF---Content-Associate_42647-2"
-  },
-  "fb328362fb434593": {
-    "company": "BorgWarner",
-    "first_seen": "2026-06-28",
-    "location": "Auburn Hills Michigan USA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern (Year-Round)",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/borgwarner_careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1"
   },
   "fbcc5a92580f785e": {
     "company": "TikTok",
