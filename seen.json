@@ -1616,6 +1616,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/hermeus/10d69ef6-a754-42ab-833c-76adf01367bf"
   },
+  "309e6f59dfd6ac2f": {
+    "company": "Openai",
+    "first_seen": "2026-09-28",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-09-28T18:26:42.221000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, DevOps",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
+    "verified": true,
+    "verify_reason": "Requires prior experience; timing mismatch for candidate available January 2027.",
+    "years_required": 0
+  },
   "30ba6f09ddd630fe": {
     "company": "IIIIIIUS",
     "first_seen": "2026-09-16",
