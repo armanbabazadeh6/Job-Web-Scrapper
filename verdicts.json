@@ -1054,6 +1054,17 @@
     "verified": false,
     "years": 10
   },
+  "39047e8fca86b8ce": {
+    "cached_at": "2026-09-28",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires prior experience owning multiple connected infrastructure products.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "39c38c65847b67c7": {
     "cached_at": "2026-09-19",
     "clearance_required": false,
@@ -1149,6 +1160,17 @@
     "reason": "Immediate hire role mismatches candidate's January 2027 availability.",
     "salary": null,
     "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "3f7dfe5ab733645a": {
+    "cached_at": "2026-09-28",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Explicitly states senior role requiring prior infrastructure product experience.",
+    "salary": null,
+    "seniority": "senior",
     "verified": true,
     "years": 0
   },
@@ -2630,6 +2652,17 @@
     "verified": true,
     "years": 2
   },
+  "9b4624009809ac4a": {
+    "cached_at": "2026-09-28",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires an experienced infrastructure engineer with strong experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "9b740b65e888e0a7": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -3630,6 +3663,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 1
+  },
+  "d4e7c2c29b053967": {
+    "cached_at": "2026-09-28",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of software engineering experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "d5456c42884384a6": {
     "cached_at": "2026-09-02",
