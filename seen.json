@@ -2675,6 +2675,21 @@
     "source": "Ashby:replit",
     "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
   },
+  "547cc93203224008": {
+    "company": "Purestorage",
+    "first_seen": "2026-09-29",
+    "fit_score": 2,
+    "location": "Santa Clara, California",
+    "posted_at": "2026-09-29T11:24:30-04:00",
+    "posting_type": "verified_entry",
+    "role": " Forward Deployed Engineer, AI Systems",
+    "role_category": "swe",
+    "source": "Greenhouse:purestorage",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8165519",
+    "verified": true,
+    "verify_reason": "No experience required, but likely requires immediate start before Jan 2027.",
+    "years_required": 0
+  },
   "54ab8348ab5fb4d8": {
     "company": "Varda",
     "first_seen": "2026-08-10",

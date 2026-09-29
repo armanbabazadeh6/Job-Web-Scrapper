@@ -521,6 +521,17 @@
     "verified": true,
     "years": 3
   },
+  "2172cc76225f34d0": {
+    "cached_at": "2026-09-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of professional front-end engineering experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "21e3f65b14861491": {
     "cached_at": "2026-09-04",
     "clearance_required": false,
@@ -1548,6 +1559,17 @@
     "verified": false,
     "years": null
   },
+  "547cc93203224008": {
+    "cached_at": "2026-09-29",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience required, but likely requires immediate start before Jan 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "54bf1f953415bc10": {
     "cached_at": "2026-09-23",
     "clearance_required": false,
@@ -1818,6 +1840,17 @@
     "entry_level": false,
     "fit_score": 3,
     "reason": "Full-time software engineering role on retail AI agents.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "64a8f11c583c0a59": {
+    "cached_at": "2026-09-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of professional iOS engineering experience.",
     "salary": null,
     "seniority": "mid",
     "verified": true,
@@ -3067,6 +3100,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "af2a690b1e451a1a": {
+    "cached_at": "2026-09-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires owning platform areas and setting technical direction.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "af8a0a9a114f0776": {
     "cached_at": "2026-09-02",
