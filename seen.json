@@ -3641,6 +3641,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "79e568535f1b3553": {
+    "company": "Zettabyte",
+    "first_seen": "2026-09-29",
+    "location": "Palo Alto, California",
+    "posted_at": "2026-09-28T11:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer (New Grad)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-zettabyte-4399493417"
+  },
   "7a4ae355e949f514": {
     "company": "Datadog",
     "first_seen": "2026-08-18",
@@ -3980,6 +3991,17 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://jobs.smartrecruiters.com/visa/744000080643295-associate-product-manager-apm-new-college-graduate-rotational-program-2026?utm_source=vansh"
   },
+  "8536d196c14c43a0": {
+    "company": "Google",
+    "first_seen": "2026-09-29",
+    "location": "Mountain View, CA",
+    "posted_at": "2026-09-30T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/79125737784648390?utm_source=vansh"
+  },
   "853d57d80bf45902": {
     "company": "TikTok",
     "first_seen": "2026-08-07",
@@ -4131,17 +4153,6 @@
     "posted_at": null,
     "posting_type": "internship",
     "role": "Summer 2027 Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "8ed6c89eba0162af": {
-    "company": "TikTok",
-    "first_seen": "2026-06-30",
-    "location": "San Jose",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Frontend Software Engineer Project Intern - Global CRM - 2026 Start\uff08BS/MS\uff09",
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
