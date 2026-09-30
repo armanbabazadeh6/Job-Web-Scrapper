@@ -2451,17 +2451,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968338003"
   },
-  "4cbf62a9fc9c9005": {
-    "company": "Palantir",
-    "first_seen": "2026-07-01",
-    "location": "Chicago, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Forward Deployed Software Engineer - Internship - Commercial",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2/apply"
-  },
   "4ceb671a700ec30a": {
     "company": "TikTok",
     "first_seen": "2026-07-08",
@@ -3048,6 +3037,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364"
+  },
+  "6119471dd5e05a1f": {
+    "company": "Coinbase",
+    "first_seen": "2026-09-30",
+    "fit_score": 1,
+    "location": "Remote - USA",
+    "posted_at": "2026-09-29T18:40:13-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, CDP - Foundations ",
+    "role_category": "swe",
+    "source": "Greenhouse:coinbase",
+    "url": "https://www.coinbase.com/careers/positions/8241522?gh_jid=8241522",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience; wrong start timing for January 2027.",
+    "years_required": 2
   },
   "6186a7e5eec21437": {
     "company": "Figma",
@@ -5402,6 +5406,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137-1"
   },
+  "bc4e647eed69b275": {
+    "clearance_required": true,
+    "company": "Jacobs",
+    "first_seen": "2026-09-30",
+    "fit_score": 1,
+    "location": "Nashua, New Hampshire",
+    "posted_at": "2026-09-29T21:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Associate Level Software Engineer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.indeed.com/viewjob?jk=296812f856e55845",
+    "verified": true,
+    "verify_reason": "Requires security clearance; wrong start timing for January 2027.",
+    "years_required": 0
+  },
   "bc95dd029968f4c8": {
     "company": "Copart",
     "first_seen": "2026-07-23",
@@ -6432,17 +6452,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": ""
-  },
-  "e5655667a8ca3a1d": {
-    "company": "Blackstone",
-    "first_seen": "2026-07-01",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Finance - Corporate FP&A, Associate",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Finance---Corporate-FP-A--Associate_43838-6"
   },
   "e5d60cef27f9d95a": {
     "company": "Zip",

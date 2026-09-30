@@ -1742,6 +1742,17 @@
     "verified": false,
     "years": null
   },
+  "6119471dd5e05a1f": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2+ years experience; wrong start timing for January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "6152633c6dd1ff8f": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -3052,6 +3063,17 @@
     "verified": true,
     "years": 1
   },
+  "ab2c40472fa2deec": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires mid-level experience and has wrong start timing for January 2027.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "ad33e85937826efc": {
     "cached_at": "2026-09-20",
     "clearance_required": true,
@@ -3393,6 +3415,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "bc4e647eed69b275": {
+    "cached_at": "2026-09-30",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires security clearance; wrong start timing for January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "bd4fa3fdc09343a0": {
     "cached_at": "2026-09-02",
