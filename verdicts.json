@@ -2707,6 +2707,17 @@
     "verified": false,
     "years": null
   },
+  "99f5253bbc1044cb": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Perfect match for December 2026 graduate with 2027 start date.",
+    "salary": "$121600 - $243200",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "9a01220c95cee566": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -3528,6 +3539,17 @@
     "verified": true,
     "years": 0
   },
+  "c0fcb48339e1650b": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "General entry-level role; does not specify 2027 start date.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "c0fedd5de312d2b5": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
@@ -4289,5 +4311,16 @@
     "seniority": null,
     "verified": false,
     "years": 6
+  },
+  "ff3ec34db280a175": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires graduation within 12 months; candidate graduates December 2026.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   }
 }

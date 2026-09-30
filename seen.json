@@ -4523,6 +4523,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1"
   },
+  "99f5253bbc1044cb": {
+    "company": "ByteDance",
+    "first_seen": "2026-09-30",
+    "fit_score": 5,
+    "location": "",
+    "posted_at": "2026-09-29T18:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer Graduate (AI Infra Compute) - 2027 Start",
+    "role_category": "swe",
+    "salary": "$121600 - $243200",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-graduate-ai-infra-compute-2027-start-at-bytedance-4473502521",
+    "verified": true,
+    "verify_reason": "Perfect match for December 2026 graduate with 2027 start date.",
+    "years_required": 0
+  },
   "9a9c9383b8158d9a": {
     "company": "Eulerity",
     "first_seen": "2026-07-22",
@@ -5504,6 +5520,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "c0fcb48339e1650b": {
+    "company": "Emonics LLC",
+    "first_seen": "2026-09-30",
+    "fit_score": 3,
+    "location": "",
+    "posted_at": "2026-09-29T20:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer \u2013 Entry Level",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-entry-level-at-emonics-llc-4471957197",
+    "verified": true,
+    "verify_reason": "General entry-level role; does not specify 2027 start date.",
+    "years_required": 0
   },
   "c0fedd5de312d2b5": {
     "company": "Vercel",
@@ -7064,6 +7095,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/make-rain/b45f954e-19df-45b1-8748-c8ae442a2e8b"
+  },
+  "ff3ec34db280a175": {
+    "company": "Cisco",
+    "first_seen": "2026-09-30",
+    "fit_score": 2,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-09-29T22:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer Compiler II (Full Time) \u2013 United States",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://talentbridge.cisco.com/en/job/software-engineer-compiler-ii-full-time-united-states-56644",
+    "verified": true,
+    "verify_reason": "Requires graduation within 12 months; candidate graduates December 2026.",
+    "years_required": 0
   },
   "ff689588cbc089c4": {
     "company": "Garda Capital Partners",
