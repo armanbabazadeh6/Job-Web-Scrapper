@@ -107,6 +107,21 @@
     "verify_reason": "Candidate not available until January 2027; role is for immediate hire.",
     "years_required": 0
   },
+  "03e234fc5a728eea": {
+    "company": "Block",
+    "first_seen": "2026-09-30",
+    "fit_score": 1,
+    "location": "Bay Area, CA, United States of America",
+    "posted_at": "2026-09-30T17:05:34-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Program Engineering",
+    "role_category": "swe",
+    "source": "Greenhouse:block",
+    "url": "http://block.xyz/careers/jobs/5427880008?gh_jid=5427880008",
+    "verified": true,
+    "verify_reason": "Immediate hire role creates a major timeline mismatch for January 2027.",
+    "years_required": 0
+  },
   "0404d504b727169e": {
     "company": "Stripe",
     "first_seen": "2026-09-11",
@@ -2422,6 +2437,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007"
+  },
+  "4a72ae8dd9b15901": {
+    "company": "Block",
+    "first_seen": "2026-09-30",
+    "fit_score": 1,
+    "location": "Bay Area, CA, United States of America",
+    "posted_at": "2026-09-30T14:33:32-04:00",
+    "posting_type": "verified_entry",
+    "role": "AI Evaluation Infrastructure Engineer",
+    "role_category": "platform",
+    "source": "Greenhouse:block",
+    "url": "http://block.xyz/careers/jobs/5434157008?gh_jid=5434157008",
+    "verified": true,
+    "verify_reason": "Immediate opening is not compatible with candidate's January 2027 availability.",
+    "years_required": 0
   },
   "4aaf8468cd4cbfbc": {
     "company": "Northrop Grumman",
@@ -5159,6 +5189,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "b3be6b7848121944": {
+    "company": "Asana",
+    "first_seen": "2026-09-30",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-09-30T14:10:01-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Data Loading Infrastructure ",
+    "role_category": "swe",
+    "source": "Greenhouse:asana",
+    "url": "https://www.asana.com/jobs/apply/7962412?gh_jid=7962412",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience and starts before candidate's 2027 availability.",
+    "years_required": 2
   },
   "b3f3b6702801d55e": {
     "company": "Iowa State University",

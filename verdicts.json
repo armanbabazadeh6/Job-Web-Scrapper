@@ -82,6 +82,17 @@
     "verified": false,
     "years": 6
   },
+  "03e234fc5a728eea": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate hire role creates a major timeline mismatch for January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "0404d504b727169e": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -1391,6 +1402,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "4a72ae8dd9b15901": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate opening is not compatible with candidate's January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "4a887f14d549d0e8": {
     "cached_at": "2026-09-14",
@@ -3016,6 +3038,17 @@
     "verified": true,
     "years": 0
   },
+  "a6d5b70178beaa54": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Lead role with senior scope and major timeline mismatch for 2027.",
+    "salary": null,
+    "seniority": "lead",
+    "verified": true,
+    "years": 0
+  },
   "a6fcc0990b3ca1fc": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -3243,6 +3276,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "b3be6b7848121944": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2+ years experience and starts before candidate's 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "b3f3b6702801d55e": {
     "cached_at": "2026-09-16",
