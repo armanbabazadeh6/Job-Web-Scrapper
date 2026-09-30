@@ -2377,6 +2377,17 @@
     "verified": true,
     "years": 2
   },
+  "87915addd2359939": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 7
+  },
   "87be9b5c77474362": {
     "cached_at": "2026-09-19",
     "clearance_required": false,
@@ -4061,6 +4072,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "e6ec8b20d35bbd5a": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "High school internship, not a full-time role.",
+    "salary": null,
+    "seniority": "intern",
+    "verified": true,
+    "years": 0
   },
   "e7841aad210741fa": {
     "cached_at": "2026-08-31",
