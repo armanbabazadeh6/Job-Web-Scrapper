@@ -1502,6 +1502,22 @@
     "verify_reason": "Targets graduates between December 2026 and June 2027, matching candidate perfectly.",
     "years_required": 0
   },
+  "2d83f224d0d57921": {
+    "company": "#twiceasnice Recruiting",
+    "first_seen": "2026-09-30",
+    "fit_score": 1,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-09-29T15:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Sales Engineer (Entry Level; Engineering degree. req. OTE: $110K+)",
+    "role_category": "sales_eng",
+    "salary": "$70k-$80k",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/sales-engineer-entry-level-engineering-degree-req-ote-%24110k%2B-at-%23twiceasnice-recruiting-4471922100",
+    "verified": true,
+    "verify_reason": "Requires ASAP start, mismatch for January 2027 availability.",
+    "years_required": 0
+  },
   "2e07a62472fe1f0e": {
     "company": "TikTok",
     "first_seen": "2026-07-08",
@@ -7051,6 +7067,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
+  },
+  "fd46421ba149126c": {
+    "company": "Epic",
+    "first_seen": "2026-09-30",
+    "fit_score": 4,
+    "location": "Sitka, Alaska",
+    "posted_at": "2026-09-29T15:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Infrastructure Engineer",
+    "role_category": "platform",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/infrastructure-engineer-at-epic-4454298040",
+    "verified": true,
+    "verify_reason": "Welcomes entry-level applicants; great fit for upcoming graduates.",
+    "years_required": 0
   },
   "fd6b9a90fc48db96": {
     "company": "Specialisterne",

@@ -821,6 +821,17 @@
     "verified": false,
     "years": 5
   },
+  "2d83f224d0d57921": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires ASAP start, mismatch for January 2027 availability.",
+    "salary": "$70k-$80k",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "2e6edd70360ad6b5": {
     "cached_at": "2026-09-17",
     "clearance_required": false,
@@ -4292,6 +4303,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "fd46421ba149126c": {
+    "cached_at": "2026-09-30",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Welcomes entry-level applicants; great fit for upcoming graduates.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "fd9f357f8a359485": {
     "cached_at": "2026-09-16",
