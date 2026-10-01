@@ -460,20 +460,6 @@
     "verify_reason": "No experience required; suitable for a technical new graduate.",
     "years_required": 0
   },
-  "0fd7fea33b23b349": {
-    "company": "Lyft",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-08-26T16:51:51-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer",
-    "role_category": "swe",
-    "source": "Greenhouse:lyft",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8678744002?gh_jid=8678744002",
-    "verified": true,
-    "verify_reason": "Associate software engineer role requiring no minimum years of experience.",
-    "years_required": 0
-  },
   "117880c183d14f28": {
     "company": "Booz Allen",
     "first_seen": "2026-08-29",
@@ -599,20 +585,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449"
-  },
-  "145c8221e3facc38": {
-    "company": "Chime",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco, CA, USA",
-    "posted_at": "2026-08-28T14:34:13-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Support Foundations",
-    "role_category": "swe",
-    "source": "Greenhouse:chime",
-    "url": "https://boards.greenhouse.io/chime/jobs/8607195002?gh_jid=8607195002",
-    "verified": true,
-    "verify_reason": "No minimum years of experience specified.",
-    "years_required": 0
   },
   "1466f3464c7a7abb": {
     "company": "Stripe",
@@ -766,17 +738,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/ACT-Amsterdam---Acanthus/INTERNSHIP-SOFTWARE-ENGINEER_REQ-10119555"
-  },
-  "1a05ba8687153ab7": {
-    "company": "ByteDance",
-    "first_seen": "2026-08-31",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-28T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Software Engineer (AI Applications)",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://joinbytedance.com/search/7540808448918079752?utm_source=vansh"
   },
   "1a06111a3fae81c5": {
     "company": "NVIDIA",
@@ -1099,20 +1060,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166-1"
   },
-  "264053c9a1da86ff": {
-    "company": "Robinhood",
-    "first_seen": "2026-08-31",
-    "location": "Bellevue, WA; Menlo Park, CA",
-    "posted_at": "2026-08-30T03:05:58-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Proactive Capabilities",
-    "role_category": "swe",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8067604?t=gh_src=&gh_jid=8067604",
-    "verified": true,
-    "verify_reason": "No minimum years of experience required in description.",
-    "years_required": 0
-  },
   "269caba8a3f18edd": {
     "company": "Openai",
     "first_seen": "2026-09-05",
@@ -1302,17 +1249,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d"
   },
-  "29ab60c5339152bd": {
-    "company": "Commure",
-    "first_seen": "2026-08-31",
-    "location": "Mountain View, CA",
-    "posted_at": "2026-08-28T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.ashbyhq.com/Commure-Athelas/00dbfa4a-986c-4c98-a966-47874d1ff0f8?utm_source=vansh"
-  },
   "29ca553aec360b09": {
     "company": "Nuro",
     "first_seen": "2026-09-23",
@@ -1377,20 +1313,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e"
-  },
-  "2acb8b68d5883f33": {
-    "company": "Vercel",
-    "first_seen": "2026-08-31",
-    "location": "Hybrid - San Francisco, New York City",
-    "posted_at": "2026-08-25T07:09:48-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Data Platform ",
-    "role_category": "swe",
-    "source": "Greenhouse:vercel",
-    "url": "https://job-boards.greenhouse.io/vercel/jobs/6161129004",
-    "verified": true,
-    "verify_reason": "Requires 1-3 years of experience in data or infrastructure engineering.",
-    "years_required": 1
   },
   "2b03d6ce728e6285": {
     "company": "Penn Mutual",
@@ -1465,20 +1387,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "2cec1d14ba6fbed1": {
-    "company": "Waymo",
-    "first_seen": "2026-08-31",
-    "location": "Mountain View, CA, US",
-    "posted_at": "2026-08-25T21:06:08-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Operational/ Process Efficiency ",
-    "role_category": "swe",
-    "source": "Greenhouse:waymo",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=7926526",
-    "verified": true,
-    "verify_reason": "Requires Master's/PhD with no minimum years of experience specified.",
-    "years_required": 0
   },
   "2cf4ad47b312a6e1": {
     "company": "TikTok",
@@ -1621,20 +1529,6 @@
     "verified": true,
     "verify_reason": "Hiring for January 2027 cohort, perfect match for graduation timeline.",
     "years_required": 0
-  },
-  "2f825e3dd36d2588": {
-    "company": "Chime",
-    "first_seen": "2026-08-31",
-    "location": "Chicago, IL, USA; New York, NY, USA; San Francisco, CA, USA",
-    "posted_at": "2026-08-28T14:33:37-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Infrastructure",
-    "role_category": "swe",
-    "source": "Greenhouse:chime",
-    "url": "https://boards.greenhouse.io/chime/jobs/8573625002?gh_jid=8573625002",
-    "verified": true,
-    "verify_reason": "Requires 2\u20134 years of software engineering experience.",
-    "years_required": 2
   },
   "2fa25d7a83dbf9d2": {
     "company": "Hermeus",
@@ -1987,17 +1881,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1"
   },
-  "3b4b3b2866afdd11": {
-    "company": "Stripe",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco, Seattle, New York",
-    "posted_at": "2026-08-31T18:22:27-04:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, New Grad",
-    "role_category": "swe",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8128744"
-  },
   "3b6346cf9a559944": {
     "company": "Lockheed Martin",
     "first_seen": "2026-09-26",
@@ -2195,6 +2078,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
   },
+  "40ee0e69be92b4df": {
+    "company": "Berkeley Industrial Engineering & Operations Research",
+    "first_seen": "2026-10-01",
+    "fit_score": 2,
+    "location": "Oregon",
+    "posted_at": "2026-09-30T11:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry-Level Software Engineer / Data Engineer / AI Engineer at Lumiture",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-data-engineer-ai-engineer-at-lumiture-at-berkeley-industrial-engineering-operations-research-4473746666",
+    "verified": true,
+    "verify_reason": "Excellent entry-level SWE role, but wrong start timing for January 2027.",
+    "years_required": 0
+  },
   "41f85f7e1f7719b0": {
     "company": "Raytheon",
     "first_seen": "2026-08-13",
@@ -2239,20 +2137,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "431deac00d5b7eaf": {
-    "company": "Scaleai",
-    "first_seen": "2026-08-31",
-    "location": "Colorado Springs, CO; Omaha, NE; St. Louis, MO; Washington, DC",
-    "posted_at": "2026-08-26T14:31:52-04:00",
-    "posting_type": "verified_entry",
-    "role": "Field Engineer, Data Engine",
-    "role_category": "swe",
-    "source": "Greenhouse:scaleai",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4518690005",
-    "verified": true,
-    "verify_reason": "No minimum years of experience required; requires active clearance.",
-    "years_required": 0
-  },
   "43473b31514cd449": {
     "company": "SpaceX",
     "first_seen": "2026-08-05",
@@ -2263,34 +2147,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002"
-  },
-  "435a4e75f421ab90": {
-    "company": "Robinhood",
-    "first_seen": "2026-08-31",
-    "location": "Bellevue, WA; Menlo Park, CA",
-    "posted_at": "2026-08-25T14:51:29-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Cryptography",
-    "role_category": "swe",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8077370?t=gh_src=&gh_jid=8077370",
-    "verified": true,
-    "verify_reason": "No minimum years required; open to engineers learning on the job.",
-    "years_required": 0
-  },
-  "43cedc9f1364eb51": {
-    "company": "Datadog",
-    "first_seen": "2026-08-31",
-    "location": "Denver, Colorado, USA",
-    "posted_at": "2026-08-27T16:40:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "Commercial Sales Engineer (AMER - West)",
-    "role_category": "sales_eng",
-    "source": "Greenhouse:datadog",
-    "url": "https://careers.datadoghq.com/detail/7683226/?gh_jid=7683226",
-    "verified": true,
-    "verify_reason": "No minimum years specified, requires previous systems administration experience.",
-    "years_required": 0
   },
   "44b30b053578c06c": {
     "company": "Elevenlabs",
@@ -2307,20 +2163,6 @@
     "verify_reason": "Candidate available Jan 2027; immediate hire role is timing mismatch.",
     "years_required": 0
   },
-  "44e6fc79b216343b": {
-    "company": "Datadog",
-    "first_seen": "2026-08-31",
-    "location": "New York, New York, USA",
-    "posted_at": "2026-08-27T16:40:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "Product Manager II - Alerting",
-    "role_category": "product",
-    "source": "Greenhouse:datadog",
-    "url": "https://careers.datadoghq.com/detail/8076871/?gh_jid=8076871",
-    "verified": true,
-    "verify_reason": "Requires 2+ years of experience, meeting the entry-level threshold.",
-    "years_required": 2
-  },
   "44f300451ab54d83": {
     "company": "Neuralink",
     "first_seen": "2026-07-08",
@@ -2331,20 +2173,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003"
-  },
-  "4536462925805b8d": {
-    "company": "Waymo",
-    "first_seen": "2026-08-31",
-    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-    "posted_at": "2026-08-25T21:06:08-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Statistical Evaluation and Sampling",
-    "role_category": "swe",
-    "source": "Greenhouse:waymo",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=7543520",
-    "verified": true,
-    "verify_reason": "Requires 2-3 years of experience with data pipelines and codebases.",
-    "years_required": 2
   },
   "45cee6840c3d8477": {
     "company": "Nutanix",
@@ -2556,19 +2384,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c"
   },
-  "4e07f3e8ae672a07": {
-    "company": "Openai",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco",
-    "posted_at": "2026-08-24T18:48:55.627000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Systems Software Engineer, Silicon Bringup",
-    "role_category": "swe",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
-  },
   "4e7d8248aefa5b8a": {
     "company": "Persona AI",
     "first_seen": "2026-08-05",
@@ -2769,19 +2584,6 @@
     "source": "Ashby:perplexity",
     "url": "https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409"
   },
-  "560ef0bd7d6d853f": {
-    "company": "Openai",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco",
-    "posted_at": "2026-08-24T16:34:31.338000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Model Runtime",
-    "role_category": "swe",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
-  },
   "577383e6374b6e90": {
     "company": "DoorDash",
     "first_seen": "2026-09-17",
@@ -2920,20 +2722,6 @@
     "verify_reason": "Timeline mismatch (available Jan 2027) and requires prior field engineering experience.",
     "years_required": 0
   },
-  "5c5cd6147cac1565": {
-    "company": "Chime",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco, CA, USA",
-    "posted_at": "2026-08-28T14:34:03-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Membership",
-    "role_category": "swe",
-    "source": "Greenhouse:chime",
-    "url": "https://boards.greenhouse.io/chime/jobs/8614188002?gh_jid=8614188002",
-    "verified": true,
-    "verify_reason": "Requires 2+ years of software development experience.",
-    "years_required": 2
-  },
   "5c5ea6f16a706df1": {
     "company": "TikTok",
     "first_seen": "2026-08-10",
@@ -2941,17 +2729,6 @@
     "posted_at": null,
     "posting_type": "internship",
     "role": "Software Engineer Intern - TikTok- Developer Platform - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "5d196374c5774e9d": {
-    "company": "Optiver",
-    "first_seen": "2026-07-02",
-    "location": "Chicago, Illinois, United States",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Summer 2027 - Chicago",
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
@@ -2989,20 +2766,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://jobs.smartrecruiters.com/visa/744000080906828-software-engineer-new-college-grad-2026?utm_source=vansh"
   },
-  "5dc9bcf8a044f2d2": {
-    "company": "Discord",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco Bay Area",
-    "posted_at": "2026-08-25T17:50:05-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Developer Success",
-    "role_category": "swe",
-    "source": "Greenhouse:discord",
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8609250002",
-    "verified": true,
-    "verify_reason": "Requires at least 1-3 years of software engineering experience.",
-    "years_required": 1
-  },
   "5dc9e52714d1a5d8": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
@@ -3013,17 +2776,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007"
-  },
-  "5f1d6a6d63b09ffa": {
-    "company": "Samsara",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-08-28T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineering",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://www.samsara.com/company/careers/roles/7172579?utm_source=vansh"
   },
   "5f715f8c44919dde": {
     "company": "Twilio",
@@ -3158,33 +2910,6 @@
     "verify_reason": "Candidate available January 2027; role is for immediate hire.",
     "years_required": 0
   },
-  "62afefa89c2ec218": {
-    "company": "Openai",
-    "first_seen": "2026-08-31",
-    "location": "New York City",
-    "posted_at": "2026-08-26T17:58:25.333000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Forward Deployed Engineer (FDE), Legal-NYC",
-    "role_category": "swe",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/51977acc-b1f8-48af-bde6-95ddba936d65",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
-  },
-  "6304e4fcac08c536": {
-    "company": "Waymo",
-    "first_seen": "2026-08-31",
-    "location": "Mountain View, CA, USA; San Francisco, CA, USA",
-    "posted_at": "2026-08-25T21:06:08-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Perception Scaling Evaluation",
-    "role_category": "swe",
-    "source": "Greenhouse:waymo",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=7449712",
-    "verified": true,
-    "verify_reason": "Requires 2+ years of experience.",
-    "years_required": 2
-  },
   "63af808003d7c2fd": {
     "company": "Reply",
     "first_seen": "2026-07-22",
@@ -3266,34 +2991,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://careers-jobyaviation.icims.com/jobs/5085/software-engineering-intern/job"
-  },
-  "66f8af5d571695c0": {
-    "company": "Chime",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco, CA, USA",
-    "posted_at": "2026-08-28T14:33:54-04:00",
-    "posting_type": "verified_entry",
-    "role": "Full-Stack Engineer, Human Agent Tooling ",
-    "role_category": "swe",
-    "source": "Greenhouse:chime",
-    "url": "https://boards.greenhouse.io/chime/jobs/8606649002?gh_jid=8606649002",
-    "verified": true,
-    "verify_reason": "Accepts roughly 1+ years or equivalent through internships and projects.",
-    "years_required": 0
-  },
-  "671e4f148115cb27": {
-    "company": "Scaleai",
-    "first_seen": "2026-08-31",
-    "location": "Austin, TX; Colorado Springs, CO; Omaha, NE; St. Louis, MO; Washington, DC",
-    "posted_at": "2026-08-26T14:32:14-04:00",
-    "posting_type": "verified_entry",
-    "role": "Field Engineer, Public Sector",
-    "role_category": "swe",
-    "source": "Greenhouse:scaleai",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4717648005",
-    "verified": true,
-    "verify_reason": "No minimum years of experience specified; requires TS/SCI clearance.",
-    "years_required": 0
   },
   "679b3373d8cc2bcf": {
     "company": "Roblox",
@@ -3420,21 +3117,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
   },
-  "6d4c388d8f379b6e": {
-    "company": "Cursor",
-    "first_seen": "2026-08-31",
-    "fit_score": 1,
-    "location": "San Francisco",
-    "posted_at": "2026-08-31T20:14:53.414000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, ML Platform",
-    "role_category": "swe",
-    "source": "Ashby:cursor",
-    "url": "https://jobs.ashbyhq.com/cursor/167f0e93-6915-4d56-803a-be89d1441fb5",
-    "verified": true,
-    "verify_reason": "Candidate is not available until January 2027.",
-    "years_required": 0
-  },
   "6f391ceee6efe150": {
     "company": "DRW",
     "first_seen": "2026-07-14",
@@ -3467,20 +3149,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "http://blackcape.applytojob.com/apply/UZbmDcgUZp/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA"
-  },
-  "70769a699ac34c04": {
-    "company": "Lyft",
-    "first_seen": "2026-08-31",
-    "location": "Seattle, WA",
-    "posted_at": "2026-08-26T16:51:51-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Fulfillment Core Services",
-    "role_category": "swe",
-    "source": "Greenhouse:lyft",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8716222002?gh_jid=8716222002",
-    "verified": true,
-    "verify_reason": "Requires 2+ years of industry experience and has non-senior scope.",
-    "years_required": 2
   },
   "70bb6339d3bfb287": {
     "company": "General Motors",
@@ -4089,17 +3757,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046"
   },
-  "86ee313ceb3f6c2f": {
-    "company": "TikTok",
-    "first_seen": "2026-08-31",
-    "location": "San Jose, CA",
-    "posted_at": "2026-08-28T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: AI/ML Software Engineer (Data Platform TikTok BP)",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://lifeattiktok.com/search/7541178634444589319?utm_source=vansh"
-  },
   "871ab28b816b582a": {
     "company": "Blackstone",
     "first_seen": "2026-07-06",
@@ -4170,20 +3827,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130"
-  },
-  "8c0676fefe5237b9": {
-    "company": "Waymo",
-    "first_seen": "2026-08-31",
-    "location": "Mountain View, CA, USA; San Francisco, CA, USA ",
-    "posted_at": "2026-08-25T21:06:08-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Quantitative Evaluations",
-    "role_category": "swe",
-    "source": "Greenhouse:waymo",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=7466534",
-    "verified": true,
-    "verify_reason": "Requires 1+ years of industry experience.",
-    "years_required": 1
   },
   "8dff176143f6c64f": {
     "company": "Okta",
@@ -4461,20 +4104,6 @@
     "verify_reason": "Requires two years embedded experience; availability timing mismatch.",
     "years_required": 2
   },
-  "96355cb9edb40ab1": {
-    "company": "Datadog",
-    "first_seen": "2026-08-31",
-    "location": "Boston, Massachusetts, USA",
-    "posted_at": "2026-08-27T16:40:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "Sales Engineer (Customer Success)",
-    "role_category": "sales_eng",
-    "source": "Greenhouse:datadog",
-    "url": "https://careers.datadoghq.com/detail/8045678/?gh_jid=8045678",
-    "verified": true,
-    "verify_reason": "Requires at least one year of technical sales experience.",
-    "years_required": 1
-  },
   "9682b7d00482a3d2": {
     "company": "Medtronic",
     "first_seen": "2026-08-05",
@@ -4507,19 +4136,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "97e63133e7e61d0f": {
-    "company": "Stripe",
-    "first_seen": "2026-08-31",
-    "location": "SEA, SF, NY, Toronto",
-    "posted_at": "2026-08-24T19:07:56-04:00",
-    "posting_type": "verified_entry",
-    "role": "Backend Engineer, Developer & End-user Experience Platform",
-    "role_category": "swe",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=7476555",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
   },
   "98a50309d9a97adf": {
     "company": "Lorven Technologies",
@@ -4784,20 +4400,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://availity.wd1.myworkdayjobs.com/en-US/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436"
   },
-  "a34afa6372af25ab": {
-    "company": "Waymo",
-    "first_seen": "2026-08-31",
-    "location": "Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA",
-    "posted_at": "2026-08-25T21:06:08-04:00",
-    "posting_type": "verified_entry",
-    "role": "Foundation Model Data, Software Engineer",
-    "role_category": "swe",
-    "source": "Greenhouse:waymo",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8031883",
-    "verified": true,
-    "verify_reason": "Undergraduate degree required with no minimum experience specified.",
-    "years_required": 0
-  },
   "a3e893d1e9634e1f": {
     "clearance_required": true,
     "company": "General Dynamics Electric Boat",
@@ -4812,20 +4414,6 @@
     "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-general-dynamics-electric-boat-4470004127",
     "verified": true,
     "verify_reason": "Candidate available Jan 2027; job is for immediate hire.",
-    "years_required": 0
-  },
-  "a470985831761235": {
-    "company": "Robinhood",
-    "first_seen": "2026-08-31",
-    "location": "Menlo Park, CA",
-    "posted_at": "2026-08-25T14:36:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "iOS Engineer, Money Experience",
-    "role_category": "swe",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7794027?t=gh_src=&gh_jid=7794027",
-    "verified": true,
-    "verify_reason": "No explicit minimum years of experience required in the job description.",
     "years_required": 0
   },
   "a4a7c93e5e330f31": {
@@ -4924,19 +4512,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007"
   },
-  "a7da6913e520e54b": {
-    "company": "Robinhood",
-    "first_seen": "2026-08-31",
-    "location": "Menlo Park, CA",
-    "posted_at": "2026-08-25T14:36:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "Android Engineer, Money Experience",
-    "role_category": "swe",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
-  },
   "a818a2f03154d9a9": {
     "company": "Duolingo",
     "first_seen": "2026-09-14",
@@ -4969,20 +4544,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989"
-  },
-  "aaecdcde2034a94a": {
-    "company": "Datadog",
-    "first_seen": "2026-08-31",
-    "location": "Denver, Colorado, USA",
-    "posted_at": "2026-08-27T16:40:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "Commercial Sales Engineer 2 (AMER - West)",
-    "role_category": "sales_eng",
-    "source": "Greenhouse:datadog",
-    "url": "https://careers.datadoghq.com/detail/8053714/?gh_jid=8053714",
-    "verified": true,
-    "verify_reason": "Requires ideally 1.5 years or greater as a Sales Engineer.",
-    "years_required": 1
   },
   "aafcf78f9f25b135": {
     "company": "Agilent",
@@ -5296,21 +4857,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321"
   },
-  "b5a195373425d9da": {
-    "company": "Purestorage",
-    "first_seen": "2026-08-31",
-    "fit_score": 1,
-    "location": "Santa Clara, California",
-    "posted_at": "2026-08-31T11:29:06-04:00",
-    "posting_type": "verified_entry",
-    "role": "Fullstack Software Engineer, AI Infra",
-    "role_category": "swe",
-    "source": "Greenhouse:purestorage",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8166226",
-    "verified": true,
-    "verify_reason": "Candidate is not available until January 2027.",
-    "years_required": 0
-  },
   "b64058f9a8dfec29": {
     "company": "CGI Technologies and Solutions, Inc.",
     "first_seen": "2026-09-18",
@@ -5325,19 +4871,6 @@
     "verified": true,
     "verify_reason": "Application period is Fall 2024; candidate is not available until 2027.",
     "years_required": 0
-  },
-  "b6fdeeb205047d3a": {
-    "company": "Openai",
-    "first_seen": "2026-08-31",
-    "location": "New York City",
-    "posted_at": "2026-08-27T16:14:22.852000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Forward Deployed Engineer (FDE), Legal-SF",
-    "role_category": "swe",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/832094fd-4d89-4fe4-bc18-9ba88d347a18",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
   },
   "b7857e974c8be9f0": {
     "company": "Copart",
@@ -5393,19 +4926,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/reliable-robotics/c4968e8a-a901-4ec1-9a9d-bb5cd96efc4f"
-  },
-  "ba60fe21f717cbff": {
-    "company": "Cursor",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco",
-    "posted_at": "2026-08-24T20:53:14.551000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Pretraining",
-    "role_category": "swe",
-    "source": "Ashby:cursor",
-    "url": "https://jobs.ashbyhq.com/cursor/0320a8db-cb1b-407b-bd62-b23734b83330",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
   },
   "bab8751511cfac9f": {
     "clearance_required": true,
@@ -5521,19 +5041,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011"
   },
-  "bfca29df1bd339cc": {
-    "company": "Robinhood",
-    "first_seen": "2026-08-31",
-    "location": "New York, NY",
-    "posted_at": "2026-08-25T14:36:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "iOS Engineer, Government Products",
-    "role_category": "swe",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/6674980?t=gh_src=&gh_jid=6674980",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
-  },
   "c04b8cdbf466c661": {
     "company": "Openai",
     "first_seen": "2026-09-14",
@@ -5637,20 +5144,6 @@
     "role_category": "swe",
     "source": "JSearch",
     "url": "https://www.linkedin.com/jobs/view/associate-software-developer-%E2%80%94-recent-graduates-at-spatial-front-inc-4438972097"
-  },
-  "c1ab3686132df1e2": {
-    "company": "Sierra",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-08-24T17:50:09.805000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Agent - Public Sector",
-    "role_category": "swe",
-    "source": "Ashby:sierra",
-    "url": "https://jobs.ashbyhq.com/sierra/c66b30fc-9588-4699-85c1-2166b23b8778",
-    "verified": true,
-    "verify_reason": "No years of experience required in qualifications.",
-    "years_required": 0
   },
   "c27e20ca55c0f03c": {
     "company": "Jump Trading",
@@ -5841,20 +5334,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120"
   },
-  "cb4735d44f40f2ee": {
-    "company": "Cursor",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco",
-    "posted_at": "2026-08-27T13:28:55.372000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, RL Data",
-    "role_category": "swe",
-    "source": "Ashby:cursor",
-    "url": "https://jobs.ashbyhq.com/cursor/9a175381-45e2-42b6-bd64-6c84532365f9",
-    "verified": true,
-    "verify_reason": "No minimum years of experience required; entry-level software engineer role.",
-    "years_required": 0
-  },
   "cbc7465e0c442a7f": {
     "company": "Copart",
     "first_seen": "2026-08-21",
@@ -5952,17 +5431,6 @@
     "verify_reason": "Requires 2+ years experience and immediate availability; candidate available January 2027.",
     "years_required": 2
   },
-  "ce96bdb38875c3d8": {
-    "company": "Palantir",
-    "first_seen": "2026-08-31",
-    "location": "Honolulu, HI",
-    "posted_at": "2026-08-31T16:27:36.814000+00:00",
-    "posting_type": "new_grad",
-    "role": "Forward Deployed Infrastructure Engineer, New Grad - US Government",
-    "role_category": "swe",
-    "source": "Lever:palantir",
-    "url": "https://jobs.lever.co/palantir/701a9307-0619-45d3-b077-cabe9897cd12"
-  },
   "cef04b5341466d38": {
     "company": "Deductive AI",
     "first_seen": "2026-07-08",
@@ -6022,6 +5490,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "d09cbe3169e53e24": {
+    "company": "Sierra Nevada Corporation",
+    "first_seen": "2026-10-01",
+    "fit_score": 2,
+    "location": "Plano, Texas",
+    "posted_at": "2026-09-30T18:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I",
+    "role_category": "swe",
+    "salary": "$82,039.23 - $112,803.95",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-sierra-nevada-corporation-4472620672",
+    "verified": true,
+    "verify_reason": "Great entry-level SWE role, but wrong start timing for January 2027.",
+    "years_required": 0
+  },
   "d0ef5db2eac3e893": {
     "company": "SpaceX",
     "first_seen": "2026-07-08",
@@ -6043,19 +5527,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "d209b875d51b83c4": {
-    "company": "Vanta",
-    "first_seen": "2026-08-31",
-    "location": "Remote U.S.",
-    "posted_at": "2026-08-26T19:04:45.475000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Integrations Platform, Vanta For Government (V4G)",
-    "role_category": "swe",
-    "source": "Ashby:vanta",
-    "url": "https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
   },
   "d333a217eb46fba4": {
     "company": "Redwood Materials",
@@ -6146,19 +5617,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "d7425c7af7ea1e4d": {
-    "company": "Robinhood",
-    "first_seen": "2026-08-31",
-    "location": "Bellevue, WA; Menlo Park, CA; New York, NY",
-    "posted_at": "2026-08-25T14:36:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "Full Stack Software Engineer, Credit Cards & Banking",
-    "role_category": "swe",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8008723?t=gh_src=&gh_jid=8008723",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
-  },
   "d7ece5df1141ab08": {
     "company": "GDIT",
     "first_seen": "2026-08-07",
@@ -6180,20 +5638,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "d86e2d064c8d37ff": {
-    "company": "Elastic",
-    "first_seen": "2026-08-31",
-    "location": "United States",
-    "posted_at": "2026-08-27T11:26:09-04:00",
-    "posting_type": "verified_entry",
-    "role": "UX & Front End Engineer, AI ",
-    "role_category": "swe",
-    "source": "Greenhouse:elastic",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8154995&gh_jid=8154995",
-    "verified": true,
-    "verify_reason": "No minimum years of experience specified and non-senior scope.",
-    "years_required": 0
   },
   "d9131c3d02c3a3ad": {
     "company": "Plus",
@@ -6438,28 +5882,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b"
   },
-  "e206b4005a20aa5b": {
-    "company": "Optiver",
-    "first_seen": "2026-07-02",
-    "location": "Austin, Texas, United States",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Summer 2027 - Austin",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "e22ff34e0afa7a5e": {
-    "company": "Sierra",
-    "first_seen": "2026-08-31",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-08-31T17:54:40.218000+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, Agent (New Grad 2027)",
-    "role_category": "swe",
-    "source": "Ashby:sierra",
-    "url": "https://jobs.ashbyhq.com/sierra/149f368c-52d5-408f-ba26-ad888f318a00"
-  },
   "e28a91bbde3a4a4c": {
     "company": "Bosch",
     "first_seen": "2026-07-28",
@@ -6677,20 +6099,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://careers-jobyaviation.icims.com/jobs/5168/software-engineer-intern----air-taxi/job"
   },
-  "ec849d37e2142aee": {
-    "company": "Robinhood",
-    "first_seen": "2026-08-31",
-    "location": "Menlo Park, CA; New York, NY",
-    "posted_at": "2026-08-25T14:36:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Wallet",
-    "role_category": "swe",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8088444?t=gh_src=&gh_jid=8088444",
-    "verified": true,
-    "verify_reason": "No minimum years of experience specified in requirements.",
-    "years_required": 0
-  },
   "ed32d6ce0c829f3a": {
     "company": "Neuralink",
     "first_seen": "2026-07-08",
@@ -6783,20 +6191,6 @@
     "verify_reason": "Immediate hire role; candidate is not available until January 2027.",
     "years_required": 0
   },
-  "f140a0abb134adbd": {
-    "company": "Chime",
-    "first_seen": "2026-08-31",
-    "location": "Remote, USA",
-    "posted_at": "2026-08-28T14:33:40-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, AI Enablement",
-    "role_category": "swe",
-    "source": "Greenhouse:chime",
-    "url": "https://boards.greenhouse.io/chime/jobs/8578967002?gh_jid=8578967002",
-    "verified": true,
-    "verify_reason": "No minimum years of experience stated; collaborates with senior engineers.",
-    "years_required": 0
-  },
   "f1aac432cae30d29": {
     "company": "RoviSys Building Technologies",
     "first_seen": "2026-09-26",
@@ -6826,20 +6220,6 @@
     "url": "https://www.samsara.com/company/careers/roles/8209046?gh_jid=8209046",
     "verified": true,
     "verify_reason": "Implementation consultant role; timing mismatches January 2027 availability.",
-    "years_required": 0
-  },
-  "f1f8c0812b73efc6": {
-    "company": "Robinhood",
-    "first_seen": "2026-08-31",
-    "location": "Menlo Park, CA; New York, NY",
-    "posted_at": "2026-08-25T14:36:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Backend",
-    "role_category": "swe",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/7263592?t=gh_src=&gh_jid=7263592",
-    "verified": true,
-    "verify_reason": "No minimum experience stated for this general software engineering role.",
     "years_required": 0
   },
   "f2f172d957ab35ed": {
@@ -6923,19 +6303,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324855009"
   },
-  "f4f94e0fdb9612d1": {
-    "company": "Robinhood",
-    "first_seen": "2026-08-31",
-    "location": "New York, NY",
-    "posted_at": "2026-08-25T14:36:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "Android Engineer, Government Products",
-    "role_category": "swe",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
-  },
   "f512732226553ba8": {
     "company": "TikTok",
     "first_seen": "2026-08-10",
@@ -6947,34 +6314,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "f590a6c22d707dba": {
-    "company": "Datadog",
-    "first_seen": "2026-08-31",
-    "location": "Boston, Massachusetts, USA",
-    "posted_at": "2026-08-27T16:40:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "Commercial Sales Engineer - Boston",
-    "role_category": "sales_eng",
-    "source": "Greenhouse:datadog",
-    "url": "https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669",
-    "verified": true,
-    "verify_reason": "No minimum years specified, requires previous systems administration experience.",
-    "years_required": 0
-  },
-  "f593fa0b324e2874": {
-    "company": "Waymo",
-    "first_seen": "2026-08-31",
-    "location": "Mountain View, CA, US",
-    "posted_at": "2026-08-25T21:06:08-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Vehicle Platforms C++",
-    "role_category": "swe",
-    "source": "Greenhouse:waymo",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=7429873",
-    "verified": true,
-    "verify_reason": "Requires at least 2 years of professional C++ software experience.",
-    "years_required": 2
-  },
   "f60c732e1e785c3f": {
     "company": "Rilla",
     "first_seen": "2026-07-08",
@@ -6985,19 +6324,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/rilla/123a6a38-c7f9-4378-b00d-c6ae54688bd5"
-  },
-  "f754616d8cb54a1b": {
-    "company": "Stripe",
-    "first_seen": "2026-08-31",
-    "location": "Toronto, NY, SEA, SF",
-    "posted_at": "2026-08-27T15:00:25-04:00",
-    "posting_type": "verified_entry",
-    "role": "Backend Engineer, Developer & End-user Experience Platform",
-    "role_category": "swe",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=7557899",
-    "verified": false,
-    "verify_reason": "LLM verdict missing (fallback)"
   },
   "f7f2a4113bbc828d": {
     "company": "Quantbot Technologies",

@@ -1185,6 +1185,17 @@
     "verified": false,
     "years": 4
   },
+  "3f2495eeb995f7a7": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires significant technical sourcing experience and has wrong start timing.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "3f3ca3ba8f22eb40": {
     "cached_at": "2026-09-24",
     "clearance_required": false,
@@ -1258,6 +1269,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "40ee0e69be92b4df": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Excellent entry-level SWE role, but wrong start timing for January 2027.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "41f978388de54d1a": {
     "cached_at": "2026-09-23",
@@ -1520,6 +1542,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "511bb2eb8c2d1bf0": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 6+ years of experience and has wrong start timing.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 6
   },
   "515553cd6f2288de": {
     "cached_at": "2026-09-29",
@@ -1826,6 +1859,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "6241bc95d2a50ce6": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Product Manager role requiring experience and has wrong start timing.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "6249b08160fd839b": {
     "cached_at": "2026-08-31",
@@ -3414,6 +3458,17 @@
     "verified": true,
     "years": 3
   },
+  "b98ae6892d71eb47": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "b9b035187d355088": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -3791,6 +3846,17 @@
     "verified": true,
     "years": 0
   },
+  "d09cbe3169e53e24": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Great entry-level SWE role, but wrong start timing for January 2027.",
+    "salary": "$82,039.23 - $112,803.95",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "d187954eae0db66a": {
     "cached_at": "2026-09-24",
     "clearance_required": false,
@@ -3976,6 +4042,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "ddb6778095bf91b2": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "High school internship, not a full-time role for college graduates.",
+    "salary": null,
+    "seniority": "intern",
+    "verified": true,
+    "years": 0
   },
   "ddd49c2fb1efbaab": {
     "cached_at": "2026-09-02",
