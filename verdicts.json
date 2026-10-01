@@ -104,6 +104,17 @@
     "verified": true,
     "years": 0
   },
+  "0419ab2418548e8f": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires Master's degree and 4 years of experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
+  },
   "042c95dd4aaa87d3": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -276,6 +287,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "11b83d13a6131732": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Mobile engineering role with no professional experience requirement.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "120b881922b05c4c": {
     "cached_at": "2026-09-14",
@@ -1715,6 +1737,17 @@
     "verified": false,
     "years": 6
   },
+  "595746395464a20b": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires 2+ years of professional backend experience.",
+    "salary": "$152,405",
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
+  },
   "59e65a50dce568b6": {
     "cached_at": "2026-09-09",
     "clearance_required": false,
@@ -1767,6 +1800,17 @@
     "reason": "Timeline mismatch (available Jan 2027) and requires prior field engineering experience.",
     "salary": null,
     "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "5c5002a80c3661c9": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Manufacturing test software role with no minimum years required.",
+    "salary": null,
+    "seniority": "junior",
     "verified": true,
     "years": 0
   },
@@ -2173,6 +2217,17 @@
     "verified": false,
     "years": null
   },
+  "7395da38fdee454a": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Low-level systems role without explicit experience requirement.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "74e2dec8244f531c": {
     "cached_at": "2026-09-17",
     "clearance_required": false,
@@ -2495,6 +2550,17 @@
     "verified": true,
     "years": 8
   },
+  "89c93a681adbb8d8": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Frontend engineering role with no stated experience requirement.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "89f92aa288aa8dd6": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2540,6 +2606,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "8d85e6b4dac51a69": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Entry-level full-stack role with no stated experience minimum.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "8dc4bf4f13377f7a": {
     "cached_at": "2026-09-21",

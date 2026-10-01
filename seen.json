@@ -310,6 +310,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "0b3bd4a9476d56b7": {
+    "company": "Pinterest",
+    "first_seen": "2026-10-01",
+    "location": "Toronto, ON, CA",
+    "posted_at": "2026-10-01T13:02:38-04:00",
+    "posting_type": "new_grad",
+    "role": "University Grad Software Engineer (Toronto)",
+    "role_category": "swe",
+    "source": "Greenhouse:pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049"
+  },
   "0bbd55e16e320f55": {
     "company": "NorthMark Strategies",
     "first_seen": "2026-09-24",
@@ -481,6 +492,21 @@
     "role_category": "product",
     "source": "Greenhouse:robinhood",
     "url": "https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973"
+  },
+  "11b83d13a6131732": {
+    "company": "Notion",
+    "first_seen": "2026-10-01",
+    "fit_score": 4,
+    "location": "San Francisco, California",
+    "posted_at": "2026-10-01T18:43:46.346000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Mobile Core (Android)",
+    "role_category": "swe",
+    "source": "Ashby:notion",
+    "url": "https://jobs.ashbyhq.com/notion/d82a0b31-59b8-4699-ae8d-6fb3fe47518c",
+    "verified": true,
+    "verify_reason": "Mobile engineering role with no professional experience requirement.",
+    "years_required": 0
   },
   "11cc040bcf99fd9e": {
     "company": "The Hartford",
@@ -2722,6 +2748,21 @@
     "verify_reason": "Timeline mismatch (available Jan 2027) and requires prior field engineering experience.",
     "years_required": 0
   },
+  "5c5002a80c3661c9": {
+    "company": "Purestorage",
+    "first_seen": "2026-10-01",
+    "fit_score": 3,
+    "location": "Santa Clara, California",
+    "posted_at": "2026-10-01T14:47:07-04:00",
+    "posting_type": "verified_entry",
+    "role": "MFG Test Development Software Engineer",
+    "role_category": "swe",
+    "source": "Greenhouse:purestorage",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8244460",
+    "verified": true,
+    "verify_reason": "Manufacturing test software role with no minimum years required.",
+    "years_required": 0
+  },
   "5c5ea6f16a706df1": {
     "company": "TikTok",
     "first_seen": "2026-08-10",
@@ -3227,6 +3268,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d"
   },
+  "7395da38fdee454a": {
+    "company": "Anthropic",
+    "first_seen": "2026-10-01",
+    "fit_score": 3,
+    "location": "San Francisco, CA | New York City, NY",
+    "posted_at": "2026-10-01T11:27:13-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Sandboxing",
+    "role_category": "swe",
+    "source": "Greenhouse:anthropic",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440427008",
+    "verified": true,
+    "verify_reason": "Low-level systems role without explicit experience requirement.",
+    "years_required": 0
+  },
   "7476172cd7ca8106": {
     "company": "SRI International",
     "first_seen": "2026-08-05",
@@ -3609,6 +3665,17 @@
     "verify_reason": "Specifically targets 2027 graduates, matching candidate's availability perfectly.",
     "years_required": 0
   },
+  "8109baa7bf89cfb1": {
+    "company": "Pinterest",
+    "first_seen": "2026-10-01",
+    "location": "San Francisco, CA, US; Remote, US",
+    "posted_at": "2026-10-01T13:03:43-04:00",
+    "posting_type": "new_grad",
+    "role": "University Grad Software Engineer 2027 (USA)",
+    "role_category": "swe",
+    "source": "Greenhouse:pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591"
+  },
   "8199ab7e297ca006": {
     "company": "Booz Allen",
     "first_seen": "2026-08-30",
@@ -3801,6 +3868,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/plus-2/7a1afea9-b468-4b7c-a508-185e8e4032db"
   },
+  "89c93a681adbb8d8": {
+    "company": "Openai",
+    "first_seen": "2026-10-01",
+    "fit_score": 4,
+    "location": "San Francisco",
+    "posted_at": "2026-10-01T18:52:47.769000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Frontend Software Engineer, Codex App",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/5f6685ad-2fba-4e60-8982-fa142b33e194",
+    "verified": true,
+    "verify_reason": "Frontend engineering role with no stated experience requirement.",
+    "years_required": 0
+  },
   "8b1be7e5c0110e46": {
     "company": "Discord",
     "first_seen": "2026-09-11",
@@ -3827,6 +3909,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130"
+  },
+  "8d85e6b4dac51a69": {
+    "company": "Instacart",
+    "first_seen": "2026-10-01",
+    "fit_score": 4,
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "posted_at": "2026-10-01T12:24:52-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer II, CRM & SEO",
+    "role_category": "swe",
+    "source": "Greenhouse:instacart",
+    "url": "https://instacart.careers/job/?gh_jid=8244914",
+    "verified": true,
+    "verify_reason": "Entry-level full-stack role with no stated experience minimum.",
+    "years_required": 0
   },
   "8dff176143f6c64f": {
     "company": "Okta",
