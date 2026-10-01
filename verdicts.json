@@ -483,6 +483,17 @@
     "verified": false,
     "years": 5
   },
+  "1bdb67d57b37818e": {
+    "cached_at": "2026-10-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires deep iOS engineering experience at scale, not entry-level.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
+  },
   "1c97a918427f829d": {
     "cached_at": "2026-08-31",
     "entry_level": false,
