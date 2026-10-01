@@ -5915,6 +5915,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003"
   },
+  "e372fedf8ab366bf": {
+    "clearance_required": true,
+    "company": "Raytheon",
+    "first_seen": "2026-10-01",
+    "fit_score": 5,
+    "location": "Portsmouth, Rhode Island",
+    "posted_at": "2026-09-30T21:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer/Developer I (Onsite)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-developer-i-onsite-at-raytheon-4473971043",
+    "verified": true,
+    "verify_reason": "Entry-level role with perfect timing for a December 2026 graduate.",
+    "years_required": 0
+  },
   "e3879a1610a36e3f": {
     "company": "Openai",
     "first_seen": "2026-09-09",
