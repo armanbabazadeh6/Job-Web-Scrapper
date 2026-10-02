@@ -656,6 +656,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "159165011e4cae22": {
+    "company": "Coinbase",
+    "first_seen": "2026-10-02",
+    "fit_score": 2,
+    "location": "Remote - USA",
+    "posted_at": "2026-10-01T16:38:28-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, CDP - Stablecoin",
+    "role_category": "swe",
+    "source": "Greenhouse:coinbase",
+    "url": "https://www.coinbase.com/careers/positions/8234278?gh_jid=8234278",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of experience building production backend services.",
+    "years_required": 2
+  },
   "15f84e92bf6f4319": {
     "company": "Leidos",
     "first_seen": "2026-08-29",
@@ -2318,6 +2333,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486"
   },
+  "4aebfacf08d28f28": {
+    "company": "Palantir Technologies",
+    "first_seen": "2026-10-02",
+    "location": "Denver, Colorado",
+    "posted_at": "2026-10-01T15:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, New Grad",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-palantir-technologies-4434136634"
+  },
   "4b876fd2c66355e9": {
     "company": "Security Risk Advisors",
     "first_seen": "2026-08-13",
@@ -2528,6 +2554,17 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112?utm_source=vansh"
+  },
+  "53ed566227077a87": {
+    "company": "Otis Elevator Co.",
+    "first_seen": "2026-10-02",
+    "location": "Farmington, Connecticut",
+    "posted_at": "2026-10-01T01:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer \u2013 Early Career Digital Technology Rising Leaders Program",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-early-career-digital-technology-rising-leaders-program-at-otis-elevator-co-4472373678"
   },
   "53f31dd3a3f0d804": {
     "company": "Freddie Mac",
@@ -3506,6 +3543,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": ""
+  },
+  "7b89292a88a7addd": {
+    "company": "Town Fair Tire",
+    "first_seen": "2026-10-02",
+    "fit_score": 2,
+    "location": "East Haven, Connecticut",
+    "posted_at": "2026-10-01T12:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Developer (No Sponsorship/ No Remote)Software Developer (No Sponsorship/ No Remote)Software Developer (No Sponsorship/ No Remote)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-developer-no-sponsorship-no-remote-software-developer-no-sponsorship-no-remote-software-developer-no-sponsorship-no-remote-at-town-fair-tire-4472539833",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of Applications Development experience.",
+    "years_required": 2
   },
   "7b926d97d7bdd0aa": {
     "company": "Spacial AI",
@@ -5475,21 +5527,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80?utm_source=vansh"
   },
-  "cded6820f5f9bf2e": {
-    "company": "Lambda",
-    "first_seen": "2026-09-01",
-    "fit_score": 2,
-    "location": "San Jose Office (Zanker)",
-    "posted_at": "2026-09-01T18:26:47.353000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Data Center Operations Systems Engineer (San Jose)",
-    "role_category": "platform",
-    "source": "Ashby:lambda",
-    "url": "https://jobs.ashbyhq.com/lambda/5a093b1b-11da-4f6d-8c04-89e6b02c5ddd",
-    "verified": true,
-    "verify_reason": "Entry-level requirements, but timing mismatch with January 2027 availability.",
-    "years_required": 0
-  },
   "ce5bd3125ca5b85e": {
     "company": "Virtu Financial",
     "first_seen": "2026-07-31",
@@ -5882,21 +5919,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "df15137be8f9c1dc": {
-    "company": "Harvey",
-    "first_seen": "2026-09-01",
-    "fit_score": 2,
-    "location": "San Francisco",
-    "posted_at": "2026-09-01T14:38:55.762000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Security",
-    "role_category": "swe",
-    "source": "Ashby:harvey",
-    "url": "https://jobs.ashbyhq.com/harvey/d2624850-8dd4-4eb4-b5dc-f386b715a26f",
-    "verified": true,
-    "verify_reason": "Requires 2+ years of experience; candidate is a new grad.",
-    "years_required": 2
   },
   "df479960c37d1831": {
     "company": "TikTok",

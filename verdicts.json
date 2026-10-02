@@ -367,6 +367,17 @@
     "verified": true,
     "years": 2
   },
+  "159165011e4cae22": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years of experience building production backend services.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "167787a1bf0eb7d3": {
     "cached_at": "2026-09-19",
     "clearance_required": true,
@@ -2343,6 +2354,17 @@
     "verified": false,
     "years": 4
   },
+  "7b89292a88a7addd": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years of Applications Development experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "7b8ffc98d689224b": {
     "cached_at": "2026-09-05",
     "clearance_required": false,
@@ -3797,6 +3819,17 @@
     "verified": true,
     "years": 0
   },
+  "c1f4ecf3c2aae1bb": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of professional Android engineering experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "c2cf9fdce116b133": {
     "cached_at": "2026-09-25",
     "clearance_required": false,
@@ -4556,6 +4589,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "fd7967e1b185d2a3": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of professional software engineering experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
   },
   "fd9f357f8a359485": {
     "cached_at": "2026-09-16",
