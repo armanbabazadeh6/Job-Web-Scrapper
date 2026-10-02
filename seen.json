@@ -1682,6 +1682,21 @@
     "verify_reason": "Start date mismatch; candidate not available until January 2027.",
     "years_required": 0
   },
+  "330be6c53eea392b": {
+    "company": "ElevenLabs",
+    "first_seen": "2026-10-02",
+    "fit_score": 1,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-10-01T18:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Enterprise Solutions Engineer - North America",
+    "role_category": "sales_eng",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-north-america-at-elevenlabs-4474367565",
+    "verified": true,
+    "verify_reason": "Immediate opening does not align with January 2027 availability.",
+    "years_required": 0
+  },
   "331038082f95d63a": {
     "company": "Epic",
     "first_seen": "2026-09-25",
