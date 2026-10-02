@@ -2003,6 +2003,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021"
   },
+  "3d027a5a10bd3257": {
+    "company": "National Security Agency",
+    "first_seen": "2026-10-02",
+    "fit_score": 5,
+    "location": "Fort Meade, Maryland",
+    "posted_at": "2026-10-02T09:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer - Entry Level (MD, TX, CO)",
+    "role_category": "swe",
+    "salary": "$87,362 - $123,388",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-level-md-tx-co-at-national-security-agency-4474715608",
+    "verified": true,
+    "verify_reason": "Entry level software engineering role requiring no prior experience.",
+    "years_required": 0
+  },
   "3d225850e60ab944": {
     "company": "Mastercard",
     "first_seen": "2026-09-17",
@@ -4564,6 +4580,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://availity.wd1.myworkdayjobs.com/en-US/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436"
   },
+  "a2cc2a73858001cd": {
+    "company": "Harvey",
+    "first_seen": "2026-10-02",
+    "location": "San Francisco",
+    "posted_at": "2026-10-02T19:13:45.839000+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, New Grad (2027)",
+    "role_category": "swe",
+    "source": "Ashby:harvey",
+    "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5"
+  },
   "a3e893d1e9634e1f": {
     "clearance_required": true,
     "company": "General Dynamics Electric Boat",
@@ -5913,6 +5940,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "dc6919bb3224493c": {
+    "company": "Openai",
+    "first_seen": "2026-10-02",
+    "fit_score": 1,
+    "location": "US - Remote",
+    "posted_at": "2026-10-02T17:13:03.539000+00:00",
+    "posting_type": "verified_entry",
+    "role": "People Technology Analyst, Workday PATT & Benefits",
+    "role_category": "consulting",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c",
+    "verified": true,
+    "verify_reason": "Requires deep Workday expertise; availability mismatch for Jan 2027.",
+    "years_required": 0
+  },
   "de0d3da40c302e67": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -6588,6 +6630,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
+  },
+  "fced6222395da5c9": {
+    "company": "Samsara",
+    "first_seen": "2026-10-02",
+    "fit_score": 4,
+    "location": "Remote - US",
+    "posted_at": "2026-10-02T13:38:10-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer II",
+    "role_category": "swe",
+    "source": "Greenhouse:samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645",
+    "verified": true,
+    "verify_reason": "No experience required stated in posting, suitable for entry level.",
+    "years_required": 0
   },
   "fd46421ba149126c": {
     "company": "Epic",

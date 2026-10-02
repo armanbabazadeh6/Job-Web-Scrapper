@@ -1098,6 +1098,17 @@
     "verified": false,
     "years": 4
   },
+  "351334e98570d64a": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires an experienced engineer to mentor teammates and lead architecture.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "353260fcc61f47b2": {
     "cached_at": "2026-09-10",
     "clearance_required": false,
@@ -1209,6 +1220,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "3d027a5a10bd3257": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Entry level software engineering role requiring no prior experience.",
+    "salary": "$87,362 - $123,388",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "3d225850e60ab944": {
     "cached_at": "2026-09-17",
@@ -1873,6 +1895,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 1
+  },
+  "5edd83e2f6c4043a": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3 years of software engineering experience.",
+    "salary": "$156,800 - $235,200/yr",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "5f715f8c44919dde": {
     "cached_at": "2026-09-09",
@@ -2886,6 +2919,17 @@
     "verified": true,
     "years": 3
   },
+  "97cf57aebd436a8e": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires more than 2 years of cloud and infrastructure experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "97e63133e7e61d0f": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -3180,6 +3224,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "a5623be9d9e10f5b": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires prior professional real estate acquisitions or credit experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "a5729825ea3f60a9": {
     "cached_at": "2026-09-25",
@@ -4175,6 +4230,17 @@
     "verified": true,
     "years": 0
   },
+  "dc6919bb3224493c": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires deep Workday expertise; availability mismatch for Jan 2027.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "dd2a3b8665f871ff": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -4560,6 +4626,17 @@
     "verified": false,
     "years": null
   },
+  "f7dc574e72b3c15f": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires prior professional deal experience in private equity or buyouts.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "fa4e3897d7aff907": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -4576,6 +4653,17 @@
     "reason": "Immediate start date mismatch for a December 2026 graduate.",
     "salary": null,
     "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "fabf8dd05287692f": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires prior professional experience as a credit investor.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },
@@ -4611,6 +4699,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "fced6222395da5c9": {
+    "cached_at": "2026-10-02",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience required stated in posting, suitable for entry level.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "fd46421ba149126c": {
     "cached_at": "2026-09-30",
