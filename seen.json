@@ -80,17 +80,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004"
   },
-  "036643896d74dba8": {
-    "company": "Gecko Robotics",
-    "first_seen": "2026-09-02",
-    "location": "Boston, MANYC",
-    "posted_at": "2026-09-03T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer - New Graduate Rotational Development Program",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=vansh"
-  },
   "03c42719a5c3e9a2": {
     "company": "Nuro",
     "first_seen": "2026-09-26",
@@ -1623,17 +1612,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://geico.wd1.myworkdayjobs.com/en-US/external/job/Bethesda-MD/Technology-Development-Program---Software-Engineer-Development-Track_R0065373"
   },
-  "30f0a38073af2d16": {
-    "company": "Stripe",
-    "first_seen": "2026-09-02",
-    "location": "Seattle, WASF",
-    "posted_at": "2026-09-03T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer - New Grad",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://stripe.com/jobs/search?gh_jid=7210112&utm_source=vansh&ref=vansh"
-  },
   "31d8b4e95177bf0e": {
     "company": "TikTok",
     "first_seen": "2026-08-20",
@@ -2246,17 +2224,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003"
   },
-  "45cee6840c3d8477": {
-    "company": "Nutanix",
-    "first_seen": "2026-09-02",
-    "location": "Durham, NC",
-    "posted_at": "2026-09-03T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.jobvite.com/nutanix/job/oGXDxfwx?nl=1&nl=1&fr=false&utm_source=vansh&ref=vansh"
-  },
   "45d00f2f6c9edf81": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -2575,17 +2542,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "53ea5ee184f62277": {
-    "company": "Stripe",
-    "first_seen": "2026-09-02",
-    "location": "South San Francisco, CASeattle, WA",
-    "posted_at": "2026-09-03T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112?utm_source=vansh"
-  },
   "53ed566227077a87": {
     "company": "Otis Elevator Co.",
     "first_seen": "2026-10-02",
@@ -2785,21 +2741,6 @@
     "verified": true,
     "verify_reason": "Requires 2+ years experience; start date mismatch (available Jan 2027).",
     "years_required": 2
-  },
-  "5be98d0c08a0b5b6": {
-    "company": "Duolingo",
-    "first_seen": "2026-09-02",
-    "fit_score": 1,
-    "location": "New York, NY",
-    "posted_at": "2026-09-02T15:02:08-04:00",
-    "posting_type": "verified_entry",
-    "role": "Platform Engineer II",
-    "role_category": "platform",
-    "source": "Greenhouse:duolingo",
-    "url": "https://careers.duolingo.com/jobs/8778700002?gh_jid=8778700002",
-    "verified": true,
-    "verify_reason": "Immediate hire role; candidate is not available until January 2027.",
-    "years_required": 0
   },
   "5c380e6365bb3292": {
     "company": "Cursor",
@@ -3052,17 +2993,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "65ff4a9538964d8d": {
-    "company": "Roblox",
-    "first_seen": "2026-09-02",
-    "location": "San Mateo, CA",
-    "posted_at": "2026-09-03T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Associate Product Manager",
-    "role_category": "product",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://careers.roblox.com/jobs/7167343?utm_source=vansh"
-  },
   "663a1ae81a327cae": {
     "company": "Discord",
     "first_seen": "2026-09-15",
@@ -3100,17 +3030,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://careers-jobyaviation.icims.com/jobs/5085/software-engineering-intern/job"
-  },
-  "679b3373d8cc2bcf": {
-    "company": "Roblox",
-    "first_seen": "2026-09-02",
-    "location": "San Mateo, CA",
-    "posted_at": "2026-09-03T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Associate Product Designer \ud83d\udec2",
-    "role_category": "product",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://careers.roblox.com/jobs/7167345?utm_source=vansh"
   },
   "67edc7cfe8b6270b": {
     "company": "TikTok",
@@ -3225,6 +3144,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
+  },
+  "6e77255025dccdf8": {
+    "company": "Perplexity",
+    "first_seen": "2026-10-03",
+    "fit_score": 1,
+    "location": "New York City",
+    "posted_at": "2026-10-02T22:04:40.814000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager, Platform",
+    "role_category": "product",
+    "source": "Ashby:perplexity",
+    "url": "https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097",
+    "verified": true,
+    "verify_reason": "Candidate not available until January 2027 for immediate hiring need.",
+    "years_required": 0
   },
   "6f391ceee6efe150": {
     "company": "DRW",
@@ -3541,17 +3475,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "7b24fa8328c3218b": {
-    "company": "Atlassian",
-    "first_seen": "2026-09-02",
-    "location": "Seattle, WA",
-    "posted_at": "2026-09-03T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://careers-americas.icims.com/jobs/20901/software-engineer%252c-2026-graduate-u.s./job?utm_source=vansh"
   },
   "7b2eb8d5de7aa531": {
     "company": "SRI International",
@@ -4797,21 +4720,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060"
   },
-  "af8a0a9a114f0776": {
-    "company": "Palantir",
-    "first_seen": "2026-09-02",
-    "fit_score": 1,
-    "location": "Miami, FL",
-    "posted_at": "2026-09-02T20:46:05.526000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Deployment Strategist - US Government",
-    "role_category": "swe",
-    "source": "Lever:palantir",
-    "url": "https://jobs.lever.co/palantir/e2a3c133-7964-4e64-ba17-84a8b0b19506",
-    "verified": true,
-    "verify_reason": "Immediate hire role; candidate is not available until January 2027.",
-    "years_required": 0
-  },
   "af8f5540c3ee4873": {
     "company": "Northrop Grumman",
     "first_seen": "2026-07-13",
@@ -4822,21 +4730,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275"
-  },
-  "afdba7cf6374838f": {
-    "company": "Perplexity",
-    "first_seen": "2026-09-02",
-    "fit_score": 2,
-    "location": "San Francisco",
-    "posted_at": "2026-09-02T16:40:35.506000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Product Manager, Growth",
-    "role_category": "product",
-    "source": "Ashby:perplexity",
-    "url": "https://jobs.ashbyhq.com/perplexity/fa088d92-b08b-43f7-9232-275b0ae08827",
-    "verified": true,
-    "verify_reason": "Requires 2 years of investment banking or consulting experience.",
-    "years_required": 2
   },
   "b0863db7fcc7a775": {
     "company": "TikTok",
@@ -5257,17 +5150,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d"
-  },
-  "c0d5141e6d03aff0": {
-    "company": "Cape",
-    "first_seen": "2026-09-02",
-    "location": "New York, NYWashington, DC",
-    "posted_at": "2026-09-03T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8?utm_source=vansh"
   },
   "c0f6d131fe24af74": {
     "company": "Microsoft",
@@ -5755,21 +5637,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/plus-2/06b808df-85a1-4ddd-863c-3e1cbe61eda9"
-  },
-  "d5456c42884384a6": {
-    "company": "Perplexity",
-    "first_seen": "2026-09-02",
-    "fit_score": 2,
-    "location": "San Francisco",
-    "posted_at": "2026-09-02T16:40:40.894000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Product Manager, SMB Growth",
-    "role_category": "product",
-    "source": "Ashby:perplexity",
-    "url": "https://jobs.ashbyhq.com/perplexity/182ab2ec-6fb1-409b-a2dc-63c7832b0a13",
-    "verified": true,
-    "verify_reason": "Requires 2 years of investment banking or consulting experience.",
-    "years_required": 2
   },
   "d59db2bf5c0e843d": {
     "company": "Syska Hennessy Group",
@@ -6367,21 +6234,6 @@
     "role_category": "swe",
     "source": "JSearch",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-summer-2027-at-nominal-4463950891"
-  },
-  "ef3b9fe94458dd6c": {
-    "company": "Gitlab",
-    "first_seen": "2026-09-02",
-    "fit_score": 1,
-    "location": "Remote, Canada; Remote, United States",
-    "posted_at": "2026-09-02T14:45:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "Intermediate Backend Engineer, AMER",
-    "role_category": "swe",
-    "source": "Greenhouse:gitlab",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8773006002",
-    "verified": true,
-    "verify_reason": "Immediate hire role; candidate is not available until January 2027.",
-    "years_required": 0
   },
   "f1aac432cae30d29": {
     "company": "RoviSys Building Technologies",

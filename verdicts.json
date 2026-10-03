@@ -2226,6 +2226,17 @@
     "verified": false,
     "years": 5
   },
+  "6e77255025dccdf8": {
+    "cached_at": "2026-10-03",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate not available until January 2027 for immediate hiring need.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "6e892d9ca10d57c5": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
