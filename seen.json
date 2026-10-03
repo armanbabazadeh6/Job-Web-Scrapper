@@ -2489,6 +2489,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=560273&utm_source=vansh&ref=vansh"
   },
+  "51f287a67f6321ee": {
+    "company": "SynergisticIT",
+    "first_seen": "2026-10-03",
+    "fit_score": 1,
+    "location": "Charlotte, North Carolina",
+    "posted_at": "2026-10-02T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Junior/Entry Level Software Engineer",
+    "role_category": "swe",
+    "salary": "$100k+",
+    "source": "JSearch",
+    "url": "https://bebee.com/us/jobs/junior-entry-level-software-engineer-synergisticit-charlotte--pureheal-29125_107187E22372DA4EDF03FE9941017B8F",
+    "verified": true,
+    "verify_reason": "Candidate available January 2027; wrong start timing for immediate role.",
+    "years_required": 0
+  },
   "52154c91deb65b18": {
     "company": "Purestorage",
     "first_seen": "2026-09-23",
