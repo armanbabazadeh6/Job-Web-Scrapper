@@ -1127,21 +1127,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7"
   },
-  "2700b7867afcc953": {
-    "company": "Instacart",
-    "first_seen": "2026-09-03",
-    "fit_score": 1,
-    "location": "United States - Remote",
-    "posted_at": "2026-09-03T19:15:32-04:00",
-    "posting_type": "verified_entry",
-    "role": "Associate Product Manager",
-    "role_category": "product",
-    "source": "Greenhouse:instacart",
-    "url": "https://instacart.careers/job/?gh_jid=8175807",
-    "verified": true,
-    "verify_reason": "Requires 12 months experience; timing mismatch with January 2027 availability.",
-    "years_required": 1
-  },
   "270b46f8cdae9714": {
     "company": "Blackstone",
     "first_seen": "2026-07-09",
@@ -2198,21 +2183,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002"
   },
-  "44b30b053578c06c": {
-    "company": "Elevenlabs",
-    "first_seen": "2026-09-03",
-    "fit_score": 1,
-    "location": "United States",
-    "posted_at": "2026-09-03T13:13:09.417000+00:00",
-    "posting_type": "verified_entry",
-    "role": "HPC Infrastructure Engineer - GPU Clusters",
-    "role_category": "platform",
-    "source": "Ashby:elevenlabs",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
-    "verified": true,
-    "verify_reason": "Candidate available Jan 2027; immediate hire role is timing mismatch.",
-    "years_required": 0
-  },
   "44f300451ab54d83": {
     "company": "Neuralink",
     "first_seen": "2026-07-08",
@@ -2742,22 +2712,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1"
   },
-  "5b6d1acd0c4901a2": {
-    "company": "Chime",
-    "first_seen": "2026-09-03",
-    "fit_score": 1,
-    "location": "San Francisco, CA, USA",
-    "posted_at": "2026-09-03T14:18:20-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Growth",
-    "role_category": "swe",
-    "salary": "$133k-$184k",
-    "source": "Greenhouse:chime",
-    "url": "https://boards.greenhouse.io/chime/jobs/8782503002?gh_jid=8782503002",
-    "verified": true,
-    "verify_reason": "Requires 2+ years experience; start date mismatch (available Jan 2027).",
-    "years_required": 2
-  },
   "5c380e6365bb3292": {
     "company": "Cursor",
     "first_seen": "2026-09-04",
@@ -2960,21 +2914,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://aoins.wd5.myworkdayjobs.com/en-US/autoowners/job/Lansing-MI/Software-Developer-Internship_R_2121"
-  },
-  "62a7ace6e6d41d43": {
-    "company": "Openai",
-    "first_seen": "2026-09-03",
-    "fit_score": 1,
-    "location": "San Francisco",
-    "posted_at": "2026-09-03T20:29:00.146000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Full Stack Software Engineer, Product Explorations",
-    "role_category": "swe",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/4d1ede8c-3d4c-4503-8408-81e4b68c5c91",
-    "verified": true,
-    "verify_reason": "Candidate available January 2027; role is for immediate hire.",
-    "years_required": 0
   },
   "63af808003d7c2fd": {
     "company": "Reply",
@@ -4330,21 +4269,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/eulerity/jobs/4671031006"
-  },
-  "9ade58e8b1220607": {
-    "company": "Coinbase",
-    "first_seen": "2026-09-03",
-    "fit_score": 1,
-    "location": "Remote - USA",
-    "posted_at": "2026-09-03T14:02:16-04:00",
-    "posting_type": "verified_entry",
-    "role": "Threat Intelligence Platform Engineer",
-    "role_category": "platform",
-    "source": "Greenhouse:coinbase",
-    "url": "https://www.coinbase.com/careers/positions/8177619?gh_jid=8177619",
-    "verified": true,
-    "verify_reason": "Requires 2+ years experience; start date mismatch (available Jan 2027).",
-    "years_required": 2
   },
   "9b2d231a8177a4b5": {
     "company": "northwoodspace",
@@ -6328,6 +6252,22 @@
     "url": "https://jobs.digitalhire.com/job-listing/opening/62n2CmcfPDOkiGgJfqvZSq",
     "verified": true,
     "verify_reason": "Requires graduation by August 2025; candidate graduates December 2026.",
+    "years_required": 0
+  },
+  "f3f2d8a1c932f7cd": {
+    "company": "Eaton",
+    "first_seen": "2026-10-04",
+    "fit_score": 1,
+    "location": "South Bend, Indiana",
+    "posted_at": "2026-10-03T14:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Development Program: Digital Integrated Solutions Engineer",
+    "role_category": "sales_eng",
+    "salary": "$82,000",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/development-program-digital-integrated-solutions-engineer-at-eaton-4473433910",
+    "verified": true,
+    "verify_reason": "Candidate's availability (January 2027) does not align with current hiring timeline.",
     "years_required": 0
   },
   "f450c28283777ffd": {
