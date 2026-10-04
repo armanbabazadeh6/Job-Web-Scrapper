@@ -3923,6 +3923,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "8eec7f676adf4147": {
+    "company": "SynergisticIT",
+    "first_seen": "2026-10-04",
+    "fit_score": 1,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-10-04T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Junior data scientist/Junior java Full stack software developer",
+    "role_category": "swe",
+    "salary": "$90,000-$154,000",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-junior-java-full-stack-software-developer-at-synergisticit-4473899056",
+    "verified": true,
+    "verify_reason": "Candidate graduates December 2026, too early for immediate hiring.",
+    "years_required": 0
+  },
   "8f41e5bbeb98734a": {
     "company": "Replit",
     "first_seen": "2026-09-10",

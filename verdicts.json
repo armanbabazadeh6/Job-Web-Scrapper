@@ -2750,6 +2750,17 @@
     "verified": true,
     "years": 2
   },
+  "8eec7f676adf4147": {
+    "cached_at": "2026-10-04",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate graduates December 2026, too early for immediate hiring.",
+    "salary": "$90,000-$154,000",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "8f406134e810ebc3": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
