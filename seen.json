@@ -780,22 +780,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "1a21a33eee435886": {
-    "clearance_required": true,
-    "company": "Cursor",
-    "first_seen": "2026-09-04",
-    "fit_score": 1,
-    "location": "Remote",
-    "posted_at": "2026-09-04T07:03:13.944000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Field Engineer, Public Sector",
-    "role_category": "swe",
-    "source": "Ashby:cursor",
-    "url": "https://jobs.ashbyhq.com/cursor/a750c967-7c4d-4704-a528-dcb63afc5f64",
-    "verified": true,
-    "verify_reason": "Timeline mismatch (available Jan 2027) and requires prior field engineering experience.",
-    "years_required": 0
-  },
   "1a486383ea2e3c70": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -2113,6 +2097,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
   },
+  "40bf93c4e8ea8839": {
+    "company": "Epic",
+    "first_seen": "2026-10-05",
+    "fit_score": 2,
+    "location": "Round Rock, Texas",
+    "posted_at": "2026-10-04T17:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry-Level Software Developer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-3986117144",
+    "verified": true,
+    "verify_reason": "Entry-level role, but start date is too far in the future.",
+    "years_required": 0
+  },
   "40ee0e69be92b4df": {
     "company": "Berkeley Industrial Engineering & Operations Research",
     "first_seen": "2026-10-01",
@@ -2712,21 +2711,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1"
   },
-  "5c380e6365bb3292": {
-    "company": "Cursor",
-    "first_seen": "2026-09-04",
-    "fit_score": 1,
-    "location": "Remote",
-    "posted_at": "2026-09-04T07:10:56.962000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Field Engineer, Healthcare & SLED",
-    "role_category": "swe",
-    "source": "Ashby:cursor",
-    "url": "https://jobs.ashbyhq.com/cursor/1cfacf1a-4ba7-4e68-9f65-4fb8e3525bde",
-    "verified": true,
-    "verify_reason": "Timeline mismatch (available Jan 2027) and requires prior field engineering experience.",
-    "years_required": 0
-  },
   "5c5002a80c3661c9": {
     "company": "Purestorage",
     "first_seen": "2026-10-01",
@@ -3321,6 +3305,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434"
   },
+  "78881ab4d05db517": {
+    "company": "DoorDash",
+    "first_seen": "2026-10-05",
+    "location": "5 locationsNew York, NYSan Francisco, CALos Angeles, CASeattle, WASunnyvale, CA",
+    "posted_at": "2026-10-06T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer I",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7263610/?utm_source=vansh"
+  },
   "78950adb74d46d43": {
     "company": "Hyannis Port Research",
     "first_seen": "2026-08-02",
@@ -3785,17 +3780,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046"
   },
-  "871ab28b816b582a": {
-    "company": "Blackstone",
-    "first_seen": "2026-07-06",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Real Estate - Core+ BREIT (Shareholder Relations), Analyst",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Real-Estate---Core--BREIT--Shareholder-Relations---Analyst_43874"
-  },
   "88515973183cdfed": {
     "company": "Axway",
     "first_seen": "2026-07-08",
@@ -3964,17 +3948,6 @@
     "verified": true,
     "verify_reason": "Requires 2 years experience; candidate graduates December 2026.",
     "years_required": 2
-  },
-  "90461bddb96ef513": {
-    "company": "Scaleai",
-    "first_seen": "2026-09-04",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-09-04T11:59:59-04:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer - New Grad",
-    "role_category": "swe",
-    "source": "Greenhouse:scaleai",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005"
   },
   "906e76bd483403fb": {
     "company": "Microsoft",
@@ -6395,21 +6368,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Massachusetts-US-Offsite/Software-Engineering--Co-Op_R66728"
-  },
-  "fa7bf1d1efed6478": {
-    "company": "Block",
-    "first_seen": "2026-09-04",
-    "fit_score": 1,
-    "location": "Bay Area, CA, United States of America",
-    "posted_at": "2026-09-04T16:24:12-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Justice Engineering",
-    "role_category": "swe",
-    "source": "Greenhouse:block",
-    "url": "http://block.xyz/careers/jobs/5406194008?gh_jid=5406194008",
-    "verified": true,
-    "verify_reason": "Immediate start date mismatch for a December 2026 graduate.",
-    "years_required": 0
   },
   "fa8785c14586eb51": {
     "company": "Blackstone",
