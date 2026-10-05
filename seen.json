@@ -612,6 +612,22 @@
     "source": "Greenhouse:stripe",
     "url": "https://stripe.com/jobs/search?gh_jid=8212508"
   },
+  "1467c1586e1ad5b5": {
+    "company": "Ubiquiti Inc.",
+    "first_seen": "2026-10-05",
+    "fit_score": 3,
+    "location": "Chicago, Illinois",
+    "posted_at": "2026-10-05T12:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Pre-Sales Engineer",
+    "role_category": "sales_eng",
+    "salary": "$100,000 - $150,000",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/pre-sales-engineer-at-ubiquiti-inc-4402063604",
+    "verified": true,
+    "verify_reason": "No strict experience years stated, but requires domain knowledge.",
+    "years_required": 0
+  },
   "14695ebde7e34352": {
     "company": "SAGE",
     "first_seen": "2026-08-25",

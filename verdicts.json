@@ -348,6 +348,17 @@
     "verified": true,
     "years": 0
   },
+  "1467c1586e1ad5b5": {
+    "cached_at": "2026-10-05",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No strict experience years stated, but requires domain knowledge.",
+    "salary": "$100,000 - $150,000",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "149c226b9d14a74c": {
     "cached_at": "2026-09-29",
     "clearance_required": false,
@@ -2467,6 +2478,17 @@
     "verified": true,
     "years": 3
   },
+  "7a998a64625be241": {
+    "cached_at": "2026-10-05",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "7b7cfb27f910d899": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -3834,6 +3856,17 @@
     "verified": false,
     "years": null
   },
+  "bd68d353b3098fbd": {
+    "cached_at": "2026-10-05",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3-5 years of experience, exceeding new graduate status.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "bd94d1d0ae494af1": {
     "cached_at": "2026-09-04",
     "clearance_required": false,
@@ -4501,6 +4534,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "e6bfb8a802827b07": {
+    "cached_at": "2026-10-05",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Product manager role requiring complex enterprise ownership and experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "e6ec8b20d35bbd5a": {
     "cached_at": "2026-09-30",
