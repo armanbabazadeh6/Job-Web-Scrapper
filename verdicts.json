@@ -1413,6 +1413,17 @@
     "verified": true,
     "years": 3
   },
+  "4225952721d02232": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Timeline mismatch; candidate available January 2027, role is for immediate hire.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "431deac00d5b7eaf": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -2923,6 +2934,17 @@
     "verified": false,
     "years": null
   },
+  "93a20338974857c0": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Timeline mismatch; candidate available January 2027, role is for immediate hire.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "93a21f45e15822d6": {
     "cached_at": "2026-09-13",
     "clearance_required": false,
@@ -3470,6 +3492,17 @@
     "verified": true,
     "years": 0
   },
+  "ab3f5b844e9bed98": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Timeline mismatch; candidate available January 2027, role is for immediate hire.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "ad33e85937826efc": {
     "cached_at": "2026-09-20",
     "clearance_required": true,
@@ -3562,6 +3595,17 @@
     "seniority": null,
     "verified": false,
     "years": 4
+  },
+  "b160ca4d5000f5ba": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Timeline mismatch; candidate available January 2027, role is for immediate hire.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
   },
   "b2184d00192a2f24": {
     "cached_at": "2026-09-11",
@@ -4287,6 +4331,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "d76ddbe435e05edc": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Timeline mismatch; candidate available January 2027, role is for immediate hire.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "d86e2d064c8d37ff": {
     "cached_at": "2026-08-31",
