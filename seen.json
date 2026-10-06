@@ -3727,6 +3727,22 @@
     "verify_reason": "Perfect match for December 2026 graduate starting in 2027.",
     "years_required": 0
   },
+  "831c5f9f360ac78e": {
+    "company": "Affirm",
+    "first_seen": "2026-10-06",
+    "fit_score": 3,
+    "location": "Remote US",
+    "posted_at": "2026-10-06T09:57:14-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer II, Backend (Decisions Orchestration)",
+    "role_category": "swe",
+    "salary": "$146k-$225k",
+    "source": "Greenhouse:affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003",
+    "verified": true,
+    "verify_reason": "Requires practical experience or Bachelor's degree; no minimum years stated.",
+    "years_required": 0
+  },
   "83454af5c47a2b15": {
     "company": "Astranis Space Technologies",
     "first_seen": "2026-07-24",
