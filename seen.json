@@ -358,6 +358,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Strategic-Incentives-Group---Global-Equity--Analyst_45164-2"
   },
+  "0d506fb9d95d38ec": {
+    "company": "Affirm",
+    "first_seen": "2026-10-06",
+    "location": "San Francisco, California, United States",
+    "posted_at": "2026-10-06T15:57:18-04:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer I (New Grad 2027) (SF)",
+    "role_category": "swe",
+    "source": "Greenhouse:affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003"
+  },
   "0d9fbd9b387ee759": {
     "clearance_required": true,
     "company": "Abeyon",
@@ -1403,6 +1414,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "2cd02e22dddd5a5d": {
+    "company": "Openai",
+    "first_seen": "2026-10-06",
+    "fit_score": 2,
+    "location": "San Francisco",
+    "posted_at": "2026-10-06T20:13:24.418000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager, Financial Services",
+    "role_category": "product",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/a8210588-a178-4afe-91e7-1fa2d269d2e8",
+    "verified": true,
+    "verify_reason": "Requires deep financial workflow knowledge and product management experience.",
+    "years_required": 0
+  },
   "2cf4ad47b312a6e1": {
     "company": "TikTok",
     "first_seen": "2026-08-20",
@@ -1954,6 +1980,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "3caf3f4f9f29fdd4": {
+    "company": "Nuro",
+    "first_seen": "2026-10-06",
+    "fit_score": 2,
+    "location": "Mountain View, California (HQ)",
+    "posted_at": "2026-10-06T18:35:12-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Software Updates",
+    "role_category": "swe",
+    "salary": "$145,830-$219,000",
+    "source": "Greenhouse:nuro",
+    "url": "https://nuro.ai/careersitem?gh_jid=8230855",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of industry experience with distributed systems.",
+    "years_required": 2
   },
   "3cfa51c88d778ef2": {
     "company": "Medtronic",
@@ -3030,6 +3072,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://careers-jobyaviation.icims.com/jobs/5085/software-engineering-intern/job"
+  },
+  "6782cdbe1b7b821c": {
+    "company": "Fastly",
+    "first_seen": "2026-10-06",
+    "fit_score": 2,
+    "location": "New York City, NY; San Francisco, CA",
+    "posted_at": "2026-10-06T16:36:13-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer - Platform Observability and Intelligence",
+    "role_category": "swe",
+    "source": "Greenhouse:fastly",
+    "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8256238",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of professional software engineering experience.",
+    "years_required": 2
   },
   "67edc7cfe8b6270b": {
     "company": "TikTok",
@@ -6396,6 +6453,32 @@
     "role_category": "swe",
     "source": "JSearch",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-summer-2027-at-nominal-4463950891"
+  },
+  "f07b9751566c2060": {
+    "company": "Openai",
+    "first_seen": "2026-10-06",
+    "fit_score": 2,
+    "location": "San Francisco",
+    "posted_at": "2026-10-06T21:56:56.688000+00:00",
+    "posting_type": "verified_entry",
+    "role": "ITAV Deployment Engineer",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/bc88df2f-6268-45bc-966d-032bd05c9ad6",
+    "verified": true,
+    "verify_reason": "Requires specific hands-on experience with enterprise AV systems.",
+    "years_required": 0
+  },
+  "f1417f814ab32f64": {
+    "company": "Affirm",
+    "first_seen": "2026-10-06",
+    "location": "New York, New York, United States",
+    "posted_at": "2026-10-06T15:02:34-04:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer I (New Grad 2027) (NYC)",
+    "role_category": "swe",
+    "source": "Greenhouse:affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003"
   },
   "f1aac432cae30d29": {
     "company": "RoviSys Building Technologies",

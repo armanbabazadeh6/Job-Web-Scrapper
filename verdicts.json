@@ -518,6 +518,17 @@
     "verified": true,
     "years": 4
   },
+  "1b46ab509d550b39": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "1b8830943e3c09ae": {
     "cached_at": "2026-09-25",
     "clearance_required": false,
@@ -881,6 +892,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "2cd02e22dddd5a5d": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires deep financial workflow knowledge and product management experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "2cec1d14ba6fbed1": {
     "cached_at": "2026-08-31",
@@ -1265,6 +1287,17 @@
     "verified": false,
     "years": 8
   },
+  "3caf3f4f9f29fdd4": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years of industry experience with distributed systems.",
+    "salary": "$145,830-$219,000",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "3d027a5a10bd3257": {
     "cached_at": "2026-10-02",
     "clearance_required": false,
@@ -1305,6 +1338,17 @@
     "seniority": null,
     "verified": false,
     "years": 4
+  },
+  "3f0c312fc08599db": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 6
   },
   "3f2495eeb995f7a7": {
     "cached_at": "2026-10-01",
@@ -2231,6 +2275,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "6782cdbe1b7b821c": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years of professional software engineering experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
   },
   "67e6b702d61449da": {
     "cached_at": "2026-09-11",
@@ -3497,6 +3552,17 @@
     "verified": true,
     "years": 3
   },
+  "a7bd64a8d0e947e2": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires senior staff-level scope and extensive ads experience.",
+    "salary": null,
+    "seniority": "staff",
+    "verified": true,
+    "years": 8
+  },
   "a7da6913e520e54b": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -3579,6 +3645,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "ab5809cf3911f6be": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "ad33e85937826efc": {
     "cached_at": "2026-09-20",
@@ -4297,6 +4374,17 @@
     "verified": true,
     "years": 0
   },
+  "d0b74623e8156054": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of experience shipping production software.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
   "d187954eae0db66a": {
     "cached_at": "2026-09-24",
     "clearance_required": false,
@@ -4810,6 +4898,17 @@
     "reason": "Requires a mid-to-senior engineer, not suitable for a new graduate.",
     "salary": null,
     "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "f07b9751566c2060": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires specific hands-on experience with enterprise AV systems.",
+    "salary": null,
+    "seniority": "junior",
     "verified": true,
     "years": 0
   },
