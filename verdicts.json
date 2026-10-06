@@ -162,6 +162,17 @@
     "verified": false,
     "years": 5
   },
+  "09bdb52803c0f4fd": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate start date mismatches candidate's January 2027 availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "09cda35341a05802": {
     "cached_at": "2026-09-09",
     "clearance_required": false,
@@ -1424,6 +1435,17 @@
     "verified": true,
     "years": 0
   },
+  "424a7e076da8fff8": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate start date mismatches candidate's January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "431deac00d5b7eaf": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -2656,6 +2678,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "842bc202332e9c28": {
+    "cached_at": "2026-10-06",
+    "clearance_required": true,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3 years experience, TS/SCI clearance, and immediate start.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "864ba5f13d5a8b4c": {
     "cached_at": "2026-08-31",
@@ -4238,6 +4271,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "d27ddb38ba3b90e3": {
+    "cached_at": "2026-10-06",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires active Secret clearance and immediate start before January 2027.",
+    "salary": "$75K to $90K",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "d2cc52450e65c7d4": {
     "cached_at": "2026-08-31",

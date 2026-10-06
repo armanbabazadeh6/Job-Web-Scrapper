@@ -251,6 +251,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964"
   },
+  "09bdb52803c0f4fd": {
+    "company": "Openrouter",
+    "first_seen": "2026-10-06",
+    "fit_score": 1,
+    "location": "Remote (US)",
+    "posted_at": "2026-10-06T01:32:07.975000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Security Solution Engineer",
+    "role_category": "sales_eng",
+    "source": "Ashby:openrouter",
+    "url": "https://jobs.ashbyhq.com/openrouter/a5745557-5a67-4f8f-9e54-10759ac0eaa8",
+    "verified": true,
+    "verify_reason": "Immediate start date mismatches candidate's January 2027 availability.",
+    "years_required": 0
+  },
   "09cda35341a05802": {
     "company": "Instacart",
     "first_seen": "2026-09-09",
@@ -2163,6 +2178,21 @@
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015547",
     "verified": true,
     "verify_reason": "Timeline mismatch; candidate available January 2027, role is for immediate hire.",
+    "years_required": 0
+  },
+  "424a7e076da8fff8": {
+    "company": "Sierra",
+    "first_seen": "2026-10-06",
+    "fit_score": 1,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-10-05T23:30:38.889000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Inference",
+    "role_category": "swe",
+    "source": "Ashby:sierra",
+    "url": "https://jobs.ashbyhq.com/sierra/b8666a78-fcb1-47bb-ad07-5edb6cd3ad71",
+    "verified": true,
+    "verify_reason": "Immediate start date mismatches candidate's January 2027 availability.",
     "years_required": 0
   },
   "4282204131f5bf6a": {
@@ -5587,6 +5617,23 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "d27ddb38ba3b90e3": {
+    "clearance_required": true,
+    "company": "Amentum",
+    "first_seen": "2026-10-06",
+    "fit_score": 1,
+    "location": "Dahlgren, Virginia",
+    "posted_at": "2026-10-05T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Engineer",
+    "role_category": "swe",
+    "salary": "$75K to $90K",
+    "source": "JSearch",
+    "url": "https://www.amentumcareers.com/jobs/entry-level-software-engineer-dahlgren-virginia-united-states-2373b27f-6544-459d-8799-419fc2c5ff60",
+    "verified": true,
+    "verify_reason": "Requires active Secret clearance and immediate start before January 2027.",
+    "years_required": 0
+  },
   "d333a217eb46fba4": {
     "company": "Redwood Materials",
     "first_seen": "2026-07-31",
@@ -6119,6 +6166,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140317669-adas-software-engineering-intern?oga=true"
+  },
+  "eacf84249de8b641": {
+    "company": "Salesforce",
+    "first_seen": "2026-10-06",
+    "location": "Indianapolis, Indiana",
+    "posted_at": "2026-10-05T12:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineering New Grad",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://simplify.jobs/p/90326487-43c7-4181-ac71-44e331484bf4/Software-Engineer-College-Grad"
   },
   "eb1372056a0e0a41": {
     "company": "Perplexity",
