@@ -1446,6 +1446,17 @@
     "verified": true,
     "years": 0
   },
+  "426e2fc7e8200a77": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "College grad 2027 start matching candidate timeline perfectly.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "431deac00d5b7eaf": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -1778,6 +1789,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 2
+  },
+  "536c33e3a6662834": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 8
   },
   "54109f921f0f0f19": {
     "cached_at": "2026-09-18",
@@ -2630,6 +2652,17 @@
     "entry_level": true,
     "fit_score": 5,
     "reason": "Specifically targets 2027 graduates, matching candidate's availability perfectly.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "810d0e328e541664": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Targeted specifically at 2027 college graduates.",
     "salary": null,
     "seniority": "new_grad",
     "verified": true,
@@ -4116,6 +4149,17 @@
     "verified": false,
     "years": null
   },
+  "c2e847854424f5db": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Software engineer role with no experience minimum stated.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "c4c976e91e91e852": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
@@ -4402,6 +4446,17 @@
     "cached_at": "2026-08-31",
     "entry_level": true,
     "reason": "No minimum years of experience specified and non-senior scope.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "d90a347759387c39": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "L2 entry-level engineering role suitable for recent grads.",
+    "salary": null,
     "seniority": "junior",
     "verified": true,
     "years": 0
@@ -4714,6 +4769,17 @@
     "verified": true,
     "years": 0
   },
+  "edf3c7ca9ac68963": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "ef3b9fe94458dd6c": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -4815,6 +4881,17 @@
     "seniority": null,
     "verified": false,
     "years": 4
+  },
+  "f37cf2a996a5d86f": {
+    "cached_at": "2026-10-06",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years building production services.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
   },
   "f3c9ca960987bd90": {
     "cached_at": "2026-09-25",
