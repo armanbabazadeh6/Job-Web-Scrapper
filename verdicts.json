@@ -694,6 +694,17 @@
     "verified": true,
     "years": 5
   },
+  "262c27e18676d656": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "264053c9a1da86ff": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -1045,6 +1056,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "316b50109f6225d5": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 6+ years of product management experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 6
   },
   "3249759db92788eb": {
     "cached_at": "2026-08-31",
@@ -2789,6 +2811,17 @@
     "verified": true,
     "years": 3
   },
+  "85397feb130fdc61": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires experienced full-stack product engineers.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "864ba5f13d5a8b4c": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2876,6 +2909,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "8a694863a35fd649": {
+    "cached_at": "2026-10-07",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires current Secret clearance and immediate start.",
+    "salary": "$77,843-$86,358",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "8b1be7e5c0110e46": {
     "cached_at": "2026-09-11",
