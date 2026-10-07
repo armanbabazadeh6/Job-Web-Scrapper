@@ -49,6 +49,17 @@
     "verified": false,
     "years": 5
   },
+  "039a169bb9647d52": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "03a9b5364298ac54": {
     "cached_at": "2026-09-22",
     "clearance_required": false,
@@ -1656,6 +1667,17 @@
     "verified": true,
     "years": 3
   },
+  "4928bd648650dbe0": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of experience and senior-level technical leadership.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
   "49dc87898056cf82": {
     "cached_at": "2026-09-19",
     "clearance_required": false,
@@ -1806,6 +1828,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 6
+  },
+  "513f7be593e2be9e": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of experience, which is not entry-level.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "515553cd6f2288de": {
     "cached_at": "2026-09-29",
@@ -4972,6 +5005,17 @@
     "verified": false,
     "years": 6
   },
+  "e811007232237eda": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires strong hands-on experience and deep expertise in IAM/MDM.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "eba4cda02707b391": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -4999,6 +5043,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "ed4a8b1d44107109": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 8
   },
   "edf3c7ca9ac68963": {
     "cached_at": "2026-10-06",
