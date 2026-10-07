@@ -1599,6 +1599,17 @@
     "verify_reason": "Requires 2+ years experience; candidate not available until January 2027.",
     "years_required": 2
   },
+  "36662e2ad788d2b7": {
+    "company": "ID.me",
+    "first_seen": "2026-10-07",
+    "location": "Mountain View, California",
+    "posted_at": "2026-10-06T20:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer II, Developer Portal (New Grad / Early Career)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://remote.com/jobs/id-me-c1958yb8/software-engineer-ii-developer-portal-new-grad-early-career-j1kpqfrk"
+  },
   "3690bc44e0c9f4cf": {
     "company": "Raytheon",
     "first_seen": "2026-08-07",
@@ -2682,6 +2693,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c"
+  },
+  "64f2d65e25fd4c14": {
+    "company": "IBM",
+    "first_seen": "2026-10-07",
+    "fit_score": 5,
+    "location": "New York, New York",
+    "posted_at": "2026-10-06T20:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "2027 Entry-Level \u2014 Software Developer, AI & Marketing Platforms",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/2027-entry-level-%E2%80%94-software-developer-ai-marketing-platforms-at-ibm-4474405440",
+    "verified": true,
+    "verify_reason": "Perfect match for 2027 start date and entry-level profile.",
+    "years_required": 0
   },
   "6550300b2504f256": {
     "company": "TikTok",
@@ -4590,6 +4616,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://careers-sargentlundy.icims.com/jobs/25889/software-engineer-intern-%28summer-2027%29/job"
   },
+  "b82507a0881cf96e": {
+    "company": "American Express",
+    "first_seen": "2026-10-07",
+    "fit_score": 1,
+    "location": "Atlanta, Georgia",
+    "posted_at": "2026-10-06T17:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer-Python/ GO/ Java/ JavaScript (Cyber Security)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-python-go-java-javascript-cyber-security-at-american-express-4474950476",
+    "verified": true,
+    "verify_reason": "Immediate hire role; candidate not available until January 2027.",
+    "years_required": 0
+  },
   "b89bc62782d058cb": {
     "company": "HyperLight",
     "first_seen": "2026-07-23",
@@ -4978,6 +5019,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://selinc.wd1.myworkdayjobs.com/en-US/sel/job/Idaho---Boise/Software-Engineer-Intern_2026-22321"
+  },
+  "c9e84b128cc79672": {
+    "company": "Robinhood",
+    "first_seen": "2026-10-07",
+    "fit_score": 1,
+    "location": "Menlo Park, CA; New York, NY",
+    "posted_at": "2026-10-07T04:07:43-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Web3 Backend",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8258305?t=gh_src=&gh_jid=8258305",
+    "verified": true,
+    "verify_reason": "Immediate hire role; candidate not available until January 2027.",
+    "years_required": 0
   },
   "c9ee7bf061157b2b": {
     "company": "Kimley-Horn",
@@ -5451,6 +5507,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140089589-powertrain-controls-software-engineering-intern-6-months-?oga=true"
+  },
+  "e2bdc8eb6d1420ce": {
+    "company": "The Applied Research Laboratory at Penn State University",
+    "first_seen": "2026-10-07",
+    "fit_score": 1,
+    "location": "State College, Pennsylvania",
+    "posted_at": "2026-10-06T16:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer-Java GUI's",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-java-gui-s-at-the-applied-research-laboratory-at-penn-state-university-4474071835",
+    "verified": true,
+    "verify_reason": "Immediate hire role; candidate not available until January 2027.",
+    "years_required": 0
   },
   "e2c6d84bbfc82293": {
     "company": "ByteDance",

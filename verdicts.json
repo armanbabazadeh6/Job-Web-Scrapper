@@ -2252,6 +2252,17 @@
     "verified": true,
     "years": 3
   },
+  "64f2d65e25fd4c14": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Perfect match for 2027 start date and entry-level profile.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "6548e5a9df5f4300": {
     "cached_at": "2026-09-14",
     "clearance_required": false,
@@ -3986,6 +3997,17 @@
     "verified": true,
     "years": 3
   },
+  "b82507a0881cf96e": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate hire role; candidate not available until January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "b98ae6892d71eb47": {
     "cached_at": "2026-10-01",
     "clearance_required": false,
@@ -4344,6 +4366,17 @@
     "reason": "Perfect match for 2027 graduation timeline and entry-level requirements.",
     "salary": null,
     "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "c9e84b128cc79672": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate hire role; candidate not available until January 2027.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },
@@ -4776,6 +4809,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "e2bdc8eb6d1420ce": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate hire role; candidate not available until January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "e2c6d84bbfc82293": {
     "cached_at": "2026-10-05",
