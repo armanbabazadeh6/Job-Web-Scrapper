@@ -1913,6 +1913,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
   },
+  "4023610c6ca03537": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-10-07",
+    "fit_score": 3,
+    "location": "Remote",
+    "posted_at": "2026-10-07T12:03:51.877000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe",
+    "verified": true,
+    "verify_reason": "No experience level specified, but requires full-stack backend skills.",
+    "years_required": 0
+  },
   "40bf93c4e8ea8839": {
     "company": "Epic",
     "first_seen": "2026-10-05",
@@ -2693,6 +2708,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c"
+  },
+  "64b9226f48d059c6": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-10-07",
+    "fit_score": 3,
+    "location": "Remote",
+    "posted_at": "2026-10-07T13:28:09.297000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Full-stack Engineer - Creative Agents",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945",
+    "verified": true,
+    "verify_reason": "No experience level specified for this full-stack role.",
+    "years_required": 0
   },
   "64f2d65e25fd4c14": {
     "company": "IBM",
@@ -5639,6 +5669,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/342415"
+  },
+  "e7d74c4b8eeeaeb5": {
+    "company": "Sierra",
+    "first_seen": "2026-10-07",
+    "fit_score": 3,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-10-07T13:15:34.883000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Agent (Spanish speaking)",
+    "role_category": "swe",
+    "source": "Ashby:sierra",
+    "url": "https://jobs.ashbyhq.com/sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b",
+    "verified": true,
+    "verify_reason": "No experience requirement stated for this AI agent engineer role.",
+    "years_required": 0
   },
   "e8a081178fbf3ae7": {
     "company": "Workiva",

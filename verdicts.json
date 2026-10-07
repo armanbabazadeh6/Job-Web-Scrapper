@@ -1438,6 +1438,17 @@
     "verified": false,
     "years": null
   },
+  "4023610c6ca03537": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience level specified, but requires full-stack backend skills.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "40b141b5a253cc84": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2251,6 +2262,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "64b9226f48d059c6": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience level specified for this full-stack role.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "64f2d65e25fd4c14": {
     "cached_at": "2026-10-07",
@@ -3109,6 +3131,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "923e233c7fbc7e5c": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Explicitly requires 8+ years building secure IT systems.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 8
   },
   "928777bfebd935aa": {
     "cached_at": "2026-09-10",
@@ -4670,6 +4703,17 @@
     "verified": true,
     "years": 0
   },
+  "dc56f3c9fd72dd53": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "dc6919bb3224493c": {
     "cached_at": "2026-10-02",
     "clearance_required": false,
@@ -4906,6 +4950,17 @@
     "verified": false,
     "years": 7
   },
+  "e7d74c4b8eeeaeb5": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience requirement stated for this AI agent engineer role.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "e7d86d48c60d2fb8": {
     "cached_at": "2026-09-22",
     "clearance_required": false,
@@ -5018,6 +5073,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "f19c8f268f9caa04": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 7
   },
   "f1a2eac1bbdd787e": {
     "cached_at": "2026-09-19",
@@ -5238,6 +5304,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "fd36d51420ddd74a": {
+    "cached_at": "2026-10-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "fd46421ba149126c": {
     "cached_at": "2026-09-30",
