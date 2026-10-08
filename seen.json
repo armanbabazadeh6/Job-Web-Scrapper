@@ -1536,6 +1536,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://apply.workable.com/fooji/j/6563DA99B5/"
   },
+  "3451a771a828ebde": {
+    "company": "IXL Learning",
+    "first_seen": "2026-10-08",
+    "location": "",
+    "posted_at": "2026-10-07T23:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, New Grad",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-ixl-learning-4475712594"
+  },
   "3471c0b668ff1e76": {
     "company": "Valeo",
     "first_seen": "2026-08-15",
@@ -2583,6 +2594,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007"
+  },
+  "5f4e43775b1b8915": {
+    "company": "Expand Energy",
+    "first_seen": "2026-10-08",
+    "fit_score": 1,
+    "location": "",
+    "posted_at": "2026-10-07T18:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-expand-energy-4474462869",
+    "verified": true,
+    "verify_reason": "Candidate not available until January 2027.",
+    "years_required": 0
   },
   "5f715f8c44919dde": {
     "company": "Twilio",
