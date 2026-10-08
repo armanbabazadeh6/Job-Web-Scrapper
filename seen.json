@@ -3717,6 +3717,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "9335b20939976db0": {
+    "company": "monday.com",
+    "first_seen": "2026-10-08",
+    "fit_score": 2,
+    "location": "Denver, Colorado",
+    "posted_at": "2026-10-08T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Solutions Engineering",
+    "role_category": "sales_eng",
+    "salary": "$148K - $165K",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/solutions-engineering-at-monday-com-4476954831",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of pre-sales experience, not ideal for new grads.",
+    "years_required": 2
+  },
   "938a98aaf05a2398": {
     "company": "NVIDIA",
     "first_seen": "2026-08-19",

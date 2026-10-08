@@ -2310,6 +2310,17 @@
     "verified": true,
     "years": 3
   },
+  "634fb5febaa8c34d": {
+    "cached_at": "2026-10-08",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of experience, not suitable for a new graduate.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "63cc6718f3b37ef8": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -3241,6 +3252,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "9335b20939976db0": {
+    "cached_at": "2026-10-08",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years of pre-sales experience, not ideal for new grads.",
+    "salary": "$148K - $165K",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "93a20338974857c0": {
     "cached_at": "2026-10-06",
