@@ -4176,6 +4176,21 @@
     "source": "Greenhouse:nuro",
     "url": "https://nuro.ai/careersitem?gh_jid=8248317"
   },
+  "a1cc7c8ab1bbc15a": {
+    "company": "Weave",
+    "first_seen": "2026-10-08",
+    "fit_score": 1,
+    "location": "Weave - Headquarters (Lehi, UT)",
+    "posted_at": "2026-10-08T18:52:23.665000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Site Reliability Engineer, Cloud Infrastructure",
+    "role_category": "platform",
+    "source": "Ashby:weave",
+    "url": "https://jobs.ashbyhq.com/weave/ce79425d-20fc-4c15-841f-3445b86b05b5",
+    "verified": true,
+    "verify_reason": "Available January 2027, but job is for immediate hire.",
+    "years_required": 0
+  },
   "a2529da9b5938da3": {
     "company": "Chicago Trading Company",
     "first_seen": "2026-08-05",
