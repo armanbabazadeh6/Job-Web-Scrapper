@@ -195,6 +195,17 @@
     "verified": true,
     "years": 0
   },
+  "0a1baffbf069902c": {
+    "cached_at": "2026-10-08",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "0a1c94eb0aa8fdff": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -1164,6 +1175,17 @@
     "verified": true,
     "years": 5
   },
+  "348d2be70483d626": {
+    "cached_at": "2026-10-08",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires residency in Canada and is a customer success role.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "34e07ce389a7e6f4": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
@@ -1721,6 +1743,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "4d20be475b3a8514": {
+    "cached_at": "2026-10-08",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires experienced engineer to lead projects and mentor teammates.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "4d81a5305ec3a6c6": {
     "cached_at": "2026-09-16",
@@ -2876,6 +2909,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "846236dbbff16e2b": {
+    "cached_at": "2026-10-08",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "85397feb130fdc61": {
     "cached_at": "2026-10-07",
@@ -4369,6 +4413,17 @@
     "verified": true,
     "years": 0
   },
+  "c3a735f11b459b3d": {
+    "cached_at": "2026-10-08",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Excellent match for 2027 entry-level role and graduation timeline.",
+    "salary": "$75,600-$151,200",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "c4c976e91e91e852": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
@@ -4412,6 +4467,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "c6d9c6246ae0a804": {
+    "cached_at": "2026-10-08",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Third-party training and placement program, not a direct hire.",
+    "salary": "$95k-$154k",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "c7cb0e7f0102a026": {
     "cached_at": "2026-09-18",
@@ -4691,6 +4757,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "d953b8aa9306f41b": {
+    "cached_at": "2026-10-08",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "da33dd4aa87c6dac": {
     "cached_at": "2026-09-23",

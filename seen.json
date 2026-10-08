@@ -848,17 +848,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625"
   },
-  "1dafd6ea17d23de7": {
-    "company": "Palantir",
-    "first_seen": "2026-07-09",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Year at Palantir - Forward Deployed Software Engineer - Internship - USG",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.lever.co/palantir/5c7bb70c-83ea-43e7-8055-0c8f319f4333"
-  },
   "1dc0980e916dccd8": {
     "company": "Freeform",
     "first_seen": "2026-08-15",
@@ -1016,17 +1005,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7"
-  },
-  "270b46f8cdae9714": {
-    "company": "Blackstone",
-    "first_seen": "2026-07-09",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Blackstone Multi-Asset Investing (BXMA) - Product Management, Associate (BSOF)",
-    "role_category": "product",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA----Product-Management--Associate--BSOF-_43913-1"
   },
   "2715a67300bcdf2b": {
     "clearance_required": true,
@@ -1579,6 +1557,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "348d2be70483d626": {
+    "company": "Samsara",
+    "first_seen": "2026-10-08",
+    "fit_score": 2,
+    "location": "Remote - CA",
+    "posted_at": "2026-10-07T20:23:27-04:00",
+    "posting_type": "verified_entry",
+    "role": "Implementation Consultant",
+    "role_category": "consulting",
+    "source": "Greenhouse:samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8236004?gh_jid=8236004",
+    "verified": true,
+    "verify_reason": "Requires residency in Canada and is a customer success role.",
+    "years_required": 0
   },
   "34e9bfb9675a267f": {
     "company": "Cursor",
@@ -2964,17 +2957,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936"
-  },
-  "6f545760c3098d52": {
-    "company": "SEL",
-    "first_seen": "2026-07-09",
-    "location": "Texas, USA +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://selinc.wd1.myworkdayjobs.com/en-US/sel/job/Texas---Round-Rock/Software-Engineer-Intern_2026-21720"
   },
   "70bb6339d3bfb287": {
     "company": "General Motors",
@@ -4646,6 +4628,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673"
   },
+  "b797a8eeb78eebff": {
+    "company": "Lockheed Martin",
+    "first_seen": "2026-10-08",
+    "location": "Uniondale, New York",
+    "posted_at": "2026-10-07T13:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer - Early Career",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-early-career-at-lockheed-martin-4474430860"
+  },
   "b7b6549362821dd1": {
     "company": "Sargent & Lundy",
     "first_seen": "2026-08-07",
@@ -4949,6 +4942,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"
   },
+  "c3a735f11b459b3d": {
+    "company": "IBM",
+    "first_seen": "2026-10-08",
+    "fit_score": 5,
+    "location": "New York, New York",
+    "posted_at": "2026-10-07T04:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "2027 Entry-Level - Software Developer, AI & Marketing Platforms",
+    "role_category": "swe",
+    "salary": "$75,600-$151,200",
+    "source": "JSearch",
+    "url": "https://www.ziprecruiter.com/c/ibm/Job/2027-Entry-Level-Software-Developer,-AI-&-Marketing-Platforms/-in-New-York,NY?jid=5ba130c000790a2c",
+    "verified": true,
+    "verify_reason": "Excellent match for 2027 entry-level role and graduation timeline.",
+    "years_required": 0
+  },
   "c3be8830da95c17d": {
     "company": "PDT Partners",
     "first_seen": "2026-07-25",
@@ -5022,6 +5031,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "c6d9c6246ae0a804": {
+    "company": "SynergisticIT",
+    "first_seen": "2026-10-08",
+    "fit_score": 2,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-10-07T07:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Data Scientist/ Java/DevOps Developer - Remote",
+    "role_category": "platform",
+    "salary": "$95k-$154k",
+    "source": "JSearch",
+    "url": "https://jobgether.com/offer/6ac5f56e8a27695aea36ce7a-entry-level-data-scientist-java-devops-developer---remote",
+    "verified": true,
+    "verify_reason": "Third-party training and placement program, not a direct hire.",
+    "years_required": 0
   },
   "c8d7a9455de8b9d2": {
     "clearance_required": true,
@@ -5312,6 +5337,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733"
+  },
+  "d5d10ac61dda5797": {
+    "company": "Uber",
+    "first_seen": "2026-10-08",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-10-09T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2025: Software Engineer I",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://university-uber.icims.com/jobs/149558/job?utm_source=vansh"
   },
   "d6d728bedcb17996": {
     "company": "TikTok",
