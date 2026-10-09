@@ -47,17 +47,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "00f784c4ecda31d3": {
-    "company": "Jump Trading",
-    "first_seen": "2026-07-10",
-    "location": "Chicago, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Campus UI Software Engineer - Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "01f2018dd45329e9": {
     "company": "GDIT",
     "first_seen": "2026-08-07",
@@ -2341,17 +2330,6 @@
     "verify_reason": "Training program, not a direct job; starts before candidate's availability.",
     "years_required": 0
   },
-  "535dc7ab1648d408": {
-    "company": "Pylon",
-    "first_seen": "2026-07-10",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer - Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d"
-  },
   "53ed566227077a87": {
     "company": "Otis Elevator Co.",
     "first_seen": "2026-10-02",
@@ -2410,6 +2388,17 @@
     "role_category": "platform",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7824814003"
+  },
+  "54c0c61c33b24b8d": {
+    "company": "ByteDance",
+    "first_seen": "2026-10-09",
+    "location": "San Jose, CA",
+    "posted_at": "2026-10-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Site Reliability Engineer (Edge Services)",
+    "role_category": "platform",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://joinbytedance.com/search/7540061337369954567?utm_source=vansh"
   },
   "54ec1e16c505264f": {
     "company": "Draper",
@@ -4003,6 +3992,21 @@
     "verify_reason": "Perfect match for December 2026 graduate with 2027 start date.",
     "years_required": 0
   },
+  "9a00c4751bfbca7a": {
+    "company": "Openai",
+    "first_seen": "2026-10-09",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-10-08T23:10:44.537000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Frontend Software Engineer, ChatGPT Space",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/1f99d5d3-4512-4247-aaba-3133a3dabf5a",
+    "verified": true,
+    "verify_reason": "Clear timing mismatch; candidate is not available until January 2027.",
+    "years_required": 0
+  },
   "9a9c9383b8158d9a": {
     "company": "Eulerity",
     "first_seen": "2026-07-22",
@@ -4383,17 +4387,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3"
-  },
-  "acf9da0558a2a4d8": {
-    "company": "Blackstone",
-    "first_seen": "2026-07-10",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Threat Intelligence Analyst, Associate - Security Operations",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Threat-Intelligence-Analyst--Associate---Security-Operations_43986-1"
   },
   "ad33e85937826efc": {
     "clearance_required": true,
@@ -4950,17 +4943,6 @@
     "role_category": "swe",
     "source": "JSearch",
     "url": "https://www.linkedin.com/jobs/view/associate-software-developer-%E2%80%94-recent-graduates-at-spatial-front-inc-4438972097"
-  },
-  "c27e20ca55c0f03c": {
-    "company": "Jump Trading",
-    "first_seen": "2026-07-10",
-    "location": "Chicago, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Campus Software Engineer - Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "c2b04a7260abc933": {
     "company": "talentpluto",
@@ -5598,6 +5580,17 @@
     "verify_reason": "No experience required, but timing mismatches January 2027 availability.",
     "years_required": 0
   },
+  "e094753ccd877d1a": {
+    "company": "Anyscale",
+    "first_seen": "2026-10-09",
+    "location": "San Francisco, CAPalo Alto, CA",
+    "posted_at": "2026-10-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200?utm_source=vansh"
+  },
   "e0ed85b5db341de9": {
     "company": "Abridge",
     "first_seen": "2026-08-15",
@@ -5800,6 +5793,23 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190"
   },
+  "e968ff8f3bac745a": {
+    "clearance_required": true,
+    "company": "VetJobs",
+    "first_seen": "2026-10-09",
+    "fit_score": 1,
+    "location": "Bloomington, Minnesota",
+    "posted_at": "2026-10-08T07:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Embedded Software Engineer Entry Level - Bloomington, MN",
+    "role_category": "swe",
+    "salary": "$77,843-$86,358",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-entry-level-bloomington-mn-at-vetjobs-4477128001",
+    "verified": true,
+    "verify_reason": "Clear timing mismatch; candidate is not available until January 2027.",
+    "years_required": 0
+  },
   "ea5ddba6f0ec1ce4": {
     "company": "Google",
     "first_seen": "2026-07-21",
@@ -5866,6 +5876,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"
   },
+  "ec1947f55ec14930": {
+    "company": "NVIDIA",
+    "first_seen": "2026-10-09",
+    "location": "Santa Clara, CARemote",
+    "posted_at": "2026-10-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2025: Software Engineer, CAD Automation",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
   "ee01c00947fd1192": {
     "company": "Visa",
     "first_seen": "2026-09-09",
@@ -5898,6 +5919,22 @@
     "role_category": "swe",
     "source": "JSearch",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-summer-2027-at-nominal-4463950891"
+  },
+  "ef7981777e17e386": {
+    "clearance_required": true,
+    "company": "SkillStorm",
+    "first_seen": "2026-10-09",
+    "fit_score": 1,
+    "location": "Tampa, Florida",
+    "posted_at": "2026-10-08T17:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Developer (Federal and Enterprise Clients)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-federal-and-enterprise-clients-at-skillstorm-4477414888",
+    "verified": true,
+    "verify_reason": "Clear timing mismatch; candidate is not available until January 2027.",
+    "years_required": 1
   },
   "f07b9751566c2060": {
     "company": "Openai",
