@@ -32,6 +32,17 @@
     "verified": false,
     "years": 6
   },
+  "00c5248779eba036": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 8
+  },
   "02d0ccf0f2e98285": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2018,6 +2029,17 @@
     "verified": false,
     "years": null
   },
+  "5610ae9fd51b3929": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "577383e6374b6e90": {
     "cached_at": "2026-09-17",
     "clearance_required": false,
@@ -3821,6 +3843,17 @@
     "reason": "Requires senior-level experience and proven mastery of distributed systems.",
     "salary": null,
     "seniority": "senior",
+    "verified": true,
+    "years": 0
+  },
+  "a9f05a7a6f1b4f9a": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Graduation date of December 2026 is outside the 12-month requirement.",
+    "salary": null,
+    "seniority": "new_grad",
     "verified": true,
     "years": 0
   },
