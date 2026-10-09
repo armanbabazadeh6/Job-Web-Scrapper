@@ -1799,6 +1799,17 @@
     "verified": false,
     "years": null
   },
+  "4dbb13830d8eaf69": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 4+ years experience; timeline mismatch for new graduate.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
+  },
   "4df807b2b8445f38": {
     "cached_at": "2026-09-24",
     "clearance_required": false,
@@ -3595,6 +3606,17 @@
     "verified": false,
     "years": null
   },
+  "9ce8ba848cf3f184": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2+ years experience; timeline mismatch for Jan 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "9dc03b4d14cc3dec": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -4123,6 +4145,28 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "b399e140544b81c5": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate analyst role; timeline mismatch for January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "b39d37b344c641e7": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate PM role; timeline mismatch for January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "b3be6b7848121944": {
     "cached_at": "2026-09-30",
@@ -4863,6 +4907,17 @@
     "verified": true,
     "years": 3
   },
+  "d4ee68b8f2c044df": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 7
+  },
   "d5456c42884384a6": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -4907,6 +4962,17 @@
     "entry_level": true,
     "fit_score": 4,
     "reason": "L2 entry-level engineering role suitable for recent grads.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "d918fd3d81988066": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate hire role; timeline mismatch for January 2027 availability.",
     "salary": null,
     "seniority": "junior",
     "verified": true,

@@ -4077,6 +4077,21 @@
     "verify_reason": "Requires 2+ years experience and immediate start; candidate graduates December 2026.",
     "years_required": 2
   },
+  "9ce8ba848cf3f184": {
+    "company": "Suno",
+    "first_seen": "2026-10-09",
+    "fit_score": 1,
+    "location": "Boston",
+    "posted_at": "2026-10-09T22:27:27.506000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Internal Tools",
+    "role_category": "swe",
+    "source": "Ashby:suno",
+    "url": "https://jobs.ashbyhq.com/suno/f19de1aa-0965-43db-acbe-b6917e268ff0",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience; timeline mismatch for Jan 2027.",
+    "years_required": 2
+  },
   "9cf2e61bdd4fdf35": {
     "company": "MORSE Corp Co-op Opportunities",
     "first_seen": "2026-08-25",
@@ -4538,6 +4553,36 @@
     "role_category": "platform",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668"
+  },
+  "b399e140544b81c5": {
+    "company": "Gitlab",
+    "first_seen": "2026-10-09",
+    "fit_score": 1,
+    "location": "Remote, United States",
+    "posted_at": "2026-10-09T16:43:50-04:00",
+    "posting_type": "verified_entry",
+    "role": "People Technology Analyst - Workday",
+    "role_category": "consulting",
+    "source": "Greenhouse:gitlab",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8861782002",
+    "verified": true,
+    "verify_reason": "Immediate analyst role; timeline mismatch for January 2027 availability.",
+    "years_required": 0
+  },
+  "b39d37b344c641e7": {
+    "company": "Airbnb",
+    "first_seen": "2026-10-09",
+    "fit_score": 1,
+    "location": "United States",
+    "posted_at": "2026-10-09T16:49:23-04:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager, API Platform",
+    "role_category": "product",
+    "source": "Greenhouse:airbnb",
+    "url": "https://careers.airbnb.com/positions/8262207?gh_jid=8262207",
+    "verified": true,
+    "verify_reason": "Immediate PM role; timeline mismatch for January 2027 availability.",
+    "years_required": 0
   },
   "b3aa08811efef6b3": {
     "company": "Salesforce",
@@ -5438,6 +5483,21 @@
     "url": "https://job-boards.greenhouse.io/twilio/jobs/8026211",
     "verified": true,
     "verify_reason": "L2 entry-level engineering role suitable for recent grads.",
+    "years_required": 0
+  },
+  "d918fd3d81988066": {
+    "company": "Robinhood",
+    "first_seen": "2026-10-09",
+    "fit_score": 1,
+    "location": "Bellevue, WA; Menlo Park, CA",
+    "posted_at": "2026-10-09T17:58:39-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, AI Security",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8220757?t=gh_src=&gh_jid=8220757",
+    "verified": true,
+    "verify_reason": "Immediate hire role; timeline mismatch for January 2027 availability.",
     "years_required": 0
   },
   "d94ead7ea6df942c": {
