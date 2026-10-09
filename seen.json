@@ -5547,6 +5547,21 @@
     "verify_reason": "Requires deep Workday expertise; availability mismatch for Jan 2027.",
     "years_required": 0
   },
+  "dcc1c090ab4ede40": {
+    "company": "Cursor",
+    "first_seen": "2026-10-09",
+    "fit_score": 5,
+    "location": "Palo Alto, CA",
+    "posted_at": "2026-10-09T16:20:54.964000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Grok Connectors",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d",
+    "verified": true,
+    "verify_reason": "No experience required; fits new grad timeline and profile.",
+    "years_required": 0
+  },
   "de0d3da40c302e67": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -6266,6 +6281,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "http://gulfmanagement.applytojob.com/apply/pnJkrOYga9/Software-Engineer-Business-Systems-Intern"
+  },
+  "fe65a4cd41321097": {
+    "company": "Stripe",
+    "first_seen": "2026-10-09",
+    "fit_score": 2,
+    "location": "Seattle, WA",
+    "posted_at": "2026-10-09T12:47:42-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer",
+    "role_category": "swe",
+    "salary": "$190,400.00 - $285,600.00/yr",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8267736",
+    "verified": true,
+    "verify_reason": "Requires 2 years of experience; candidate is a new grad.",
+    "years_required": 2
   },
   "fe7b14287d5b3efc": {
     "company": "Microsoft",

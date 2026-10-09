@@ -2998,6 +2998,17 @@
     "verified": true,
     "years": 3
   },
+  "862043b8d3a99066": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of experience; candidate is a new grad.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
   "864ba5f13d5a8b4c": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -3547,6 +3558,17 @@
     "cached_at": "2026-08-31",
     "entry_level": false,
     "reason": "Requires owning vendor management, leading tool consolidation, and technical autonomy.",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "9bdd3f7993433a31": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of PM experience; candidate is a new grad.",
+    "salary": null,
     "seniority": "mid",
     "verified": true,
     "years": 3
@@ -4967,6 +4989,17 @@
     "verified": true,
     "years": 0
   },
+  "dcc1c090ab4ede40": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "No experience required; fits new grad timeline and profile.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "dd2a3b8665f871ff": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -5558,6 +5591,17 @@
     "verified": true,
     "years": 0
   },
+  "faa37fe79de159d1": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "fabf8dd05287692f": {
     "cached_at": "2026-10-02",
     "clearance_required": false,
@@ -5664,6 +5708,17 @@
     "seniority": null,
     "verified": false,
     "years": 6
+  },
+  "fe65a4cd41321097": {
+    "cached_at": "2026-10-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2 years of experience; candidate is a new grad.",
+    "salary": "$190,400.00 - $285,600.00/yr",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "ff3ec34db280a175": {
     "cached_at": "2026-09-30",
