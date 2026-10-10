@@ -634,6 +634,17 @@
     "verified": true,
     "years": 5
   },
+  "1e3f874eab15a977": {
+    "cached_at": "2026-10-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2 years experience and candidate is unavailable until January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "1ff401d231919402": {
     "cached_at": "2026-08-31",
     "entry_level": false,

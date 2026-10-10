@@ -807,6 +807,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
   },
+  "1e3f874eab15a977": {
+    "company": "RG&T Solutions",
+    "first_seen": "2026-10-10",
+    "fit_score": 1,
+    "location": "Marysville, Ohio",
+    "posted_at": "2026-10-09T17:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Design Solutions Engineer",
+    "role_category": "sales_eng",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/design-solutions-engineer-at-rg-t-solutions-4476821863",
+    "verified": true,
+    "verify_reason": "Requires 2 years experience and candidate is unavailable until January 2027.",
+    "years_required": 2
+  },
   "1ed38e0877bbc432": {
     "company": "Palantir",
     "first_seen": "2026-07-14",
