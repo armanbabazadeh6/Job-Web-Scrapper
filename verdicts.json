@@ -1041,6 +1041,17 @@
     "verified": true,
     "years": 0
   },
+  "2ecbd44e4a5e2a78": {
+    "cached_at": "2026-10-10",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires immediate hire; candidate is not available until January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "2f0bcfb29ab78146": {
     "cached_at": "2026-09-15",
     "clearance_required": false,
@@ -3936,6 +3947,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "a718243ecc5532f6": {
+    "cached_at": "2026-10-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Targeted at fresh graduates with 0 to 2 years experience.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "a73cc8b45549deaa": {
     "cached_at": "2026-09-21",

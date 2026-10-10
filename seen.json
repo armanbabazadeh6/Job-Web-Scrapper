@@ -1306,6 +1306,22 @@
     "verify_reason": "No experience stated, but availability timing mismatch for Jan 2027.",
     "years_required": 0
   },
+  "2ecbd44e4a5e2a78": {
+    "clearance_required": true,
+    "company": "iCatalyst, Inc.",
+    "first_seen": "2026-10-10",
+    "fit_score": 1,
+    "location": "McLean, Virginia",
+    "posted_at": "2026-10-10T01:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Jr. Software Developer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/jr-software-developer-at-icatalyst-inc-4478018019",
+    "verified": true,
+    "verify_reason": "Requires immediate hire; candidate is not available until January 2027.",
+    "years_required": 0
+  },
   "2f0bcfb29ab78146": {
     "company": "Ramp",
     "first_seen": "2026-09-15",
@@ -4237,6 +4253,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9"
+  },
+  "a718243ecc5532f6": {
+    "company": "Bitdeer (NASDAQ: BTDR)",
+    "first_seen": "2026-10-10",
+    "fit_score": 5,
+    "location": "Massillon, Ohio",
+    "posted_at": "2026-10-10T14:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "AI & Cloud Infra Software Engineer (Fresh Grad)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/ai-cloud-infra-software-engineer-fresh-grad-at-bitdeer-nasdaq-btdr-4396468632",
+    "verified": true,
+    "verify_reason": "Targeted at fresh graduates with 0 to 2 years experience.",
+    "years_required": 0
   },
   "a772d96aef715b3b": {
     "company": "Verkada",
