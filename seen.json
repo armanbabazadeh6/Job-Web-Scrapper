@@ -14,17 +14,6 @@
     "verify_reason": "Candidate available January 2027; role is for immediate hire.",
     "years_required": 0
   },
-  "00231641ebdd485c": {
-    "company": "Agave (W22)",
-    "first_seen": "2026-09-09",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-09-10T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2025: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://www.workatastartup.com/jobs/81441?utm_source=vansh"
-  },
   "008463bffc0cd3f7": {
     "company": "Zipline",
     "first_seen": "2026-08-26",
@@ -207,17 +196,6 @@
     "verify_reason": "Entry-level role, but unavailable until January 2027 graduate timeline.",
     "years_required": 0
   },
-  "0896f8171769963a": {
-    "company": "Scale",
-    "first_seen": "2026-09-09",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-09-10T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
-  },
   "0991e64125a98061": {
     "company": "Copart",
     "first_seen": "2026-07-31",
@@ -242,21 +220,6 @@
     "url": "https://jobs.ashbyhq.com/openrouter/a5745557-5a67-4f8f-9e54-10759ac0eaa8",
     "verified": true,
     "verify_reason": "Immediate start date mismatches candidate's January 2027 availability.",
-    "years_required": 0
-  },
-  "09cda35341a05802": {
-    "company": "Instacart",
-    "first_seen": "2026-09-09",
-    "fit_score": 1,
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "posted_at": "2026-09-09T12:56:03-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer II, - Ads",
-    "role_category": "swe",
-    "source": "Greenhouse:instacart",
-    "url": "https://instacart.careers/job/?gh_jid=8188987",
-    "verified": true,
-    "verify_reason": "Immediate opening; candidate not available until January 2027.",
     "years_required": 0
   },
   "09e4b74d41079d50": {
@@ -363,21 +326,6 @@
     "verified": true,
     "verify_reason": "Requires 1 year experience; fits graduation timeline of January 2027.",
     "years_required": 1
-  },
-  "0dadb87a0b0b2e07": {
-    "company": "Elevenlabs",
-    "first_seen": "2026-09-09",
-    "fit_score": 1,
-    "location": "San Francisco",
-    "posted_at": "2026-09-08T21:58:04.004000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Forward Deployed Engineer - Software Engineer - North America",
-    "role_category": "swe",
-    "source": "Ashby:elevenlabs",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
-    "verified": true,
-    "verify_reason": "Candidate available Jan 2027; role is for immediate hire.",
-    "years_required": 0
   },
   "0db8841be3445069": {
     "company": "Sigma Computing",
@@ -2352,17 +2300,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/external/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
   },
-  "541702aa56287551": {
-    "company": "Replit",
-    "first_seen": "2026-09-09",
-    "location": "Foster City, CA",
-    "posted_at": "2026-09-09T18:23:24.396000+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer - New Grad (Summer 2027)",
-    "role_category": "swe",
-    "source": "Ashby:replit",
-    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
-  },
   "547cc93203224008": {
     "company": "Purestorage",
     "first_seen": "2026-09-29",
@@ -2562,17 +2499,6 @@
     "source": "Ashby:perplexity",
     "url": "https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523"
   },
-  "5db3329a975634a1": {
-    "company": "Visa",
-    "first_seen": "2026-09-09",
-    "location": "Highlands Ranch, CO",
-    "posted_at": "2026-09-10T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Software Engineer \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.smartrecruiters.com/visa/744000080906828-software-engineer-new-college-grad-2026?utm_source=vansh"
-  },
   "5dc9e52714d1a5d8": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
@@ -2597,21 +2523,6 @@
     "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-expand-energy-4474462869",
     "verified": true,
     "verify_reason": "Candidate not available until January 2027.",
-    "years_required": 0
-  },
-  "5f715f8c44919dde": {
-    "company": "Twilio",
-    "first_seen": "2026-09-09",
-    "fit_score": 2,
-    "location": "Remote - US",
-    "posted_at": "2026-09-09T15:12:46-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer (L2), Identity",
-    "role_category": "swe",
-    "source": "Greenhouse:twilio",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8052068",
-    "verified": true,
-    "verify_reason": "Immediate start role; mismatch with January 2027 availability.",
     "years_required": 0
   },
   "5f7680592dc11a85": {
@@ -2855,21 +2766,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "69e450eea082a453": {
-    "company": "Datadog",
-    "first_seen": "2026-09-09",
-    "fit_score": 2,
-    "location": "Denver, Colorado, USA",
-    "posted_at": "2026-09-09T14:16:12-04:00",
-    "posting_type": "verified_entry",
-    "role": "Sales Engineer 2 (Customer Success) - Denver",
-    "role_category": "sales_eng",
-    "source": "Greenhouse:datadog",
-    "url": "https://careers.datadoghq.com/detail/8185903/?gh_jid=8185903",
-    "verified": true,
-    "verify_reason": "Requires 1.5 years experience and immediate start.",
-    "years_required": 1
-  },
   "6a644cc30d1f3fb6": {
     "company": "Akuna Capital",
     "first_seen": "2026-07-14",
@@ -3112,6 +3008,22 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/GP-Stakes-Strategic-Value--Analyst_44673"
+  },
+  "76eb81dbb89e5dae": {
+    "company": "BAE Systems, Inc.",
+    "first_seen": "2026-10-10",
+    "fit_score": 5,
+    "location": "Hudson, New Hampshire",
+    "posted_at": "2026-10-09T17:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I",
+    "role_category": "swe",
+    "salary": "$64926 - $110374",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-bae-systems-inc-4468899313",
+    "verified": true,
+    "verify_reason": "Explicitly targets 2026/2027 graduates for full-time entry-level role.",
+    "years_required": 0
   },
   "773c19b4f5ba6f3c": {
     "company": "Ancestry",
@@ -3486,17 +3398,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
-  },
-  "8465144e4eec0366": {
-    "company": "Visa",
-    "first_seen": "2026-09-09",
-    "location": "Foster City, CA",
-    "posted_at": "2026-09-10T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Associate Product Manager (APM) \ud83d\udec2",
-    "role_category": "product",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.smartrecruiters.com/visa/744000080643295-associate-product-manager-apm-new-college-graduate-rotational-program-2026?utm_source=vansh"
   },
   "8536d196c14c43a0": {
     "company": "Google",
@@ -5783,21 +5684,6 @@
     "verify_reason": "Entry-level role with perfect timing for a December 2026 graduate.",
     "years_required": 0
   },
-  "e3879a1610a36e3f": {
-    "company": "Openai",
-    "first_seen": "2026-09-09",
-    "fit_score": 1,
-    "location": "San Francisco",
-    "posted_at": "2026-09-08T23:43:33.720000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, AI for Chip Design",
-    "role_category": "swe",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405",
-    "verified": true,
-    "verify_reason": "Candidate available Jan 2027; role is for immediate hire.",
-    "years_required": 0
-  },
   "e3ed3b39593ad240": {
     "company": "Crusoe",
     "first_seen": "2026-09-17",
@@ -5976,17 +5862,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": ""
-  },
-  "ee01c00947fd1192": {
-    "company": "Visa",
-    "first_seen": "2026-09-09",
-    "location": "Ashburn, VA",
-    "posted_at": "2026-09-10T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Site Reliability Engineer \ud83d\udec2",
-    "role_category": "platform",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.smartrecruiters.com/visa/744000080909305-site-reliability-engineer-new-college-grad-2026?utm_source=vansh"
   },
   "ee64ee53ba261e83": {
     "company": "CesiumAstro",
