@@ -752,17 +752,6 @@
     "source": "Greenhouse:figma",
     "url": "https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004"
   },
-  "1d1b88ad2b5b17e2": {
-    "company": "D3 Global Inc",
-    "first_seen": "2026-09-10",
-    "location": "Los Angeles, CA",
-    "posted_at": "2026-09-11T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Backend Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://d3.com/careers#jobs-listing?utm_source=vansh"
-  },
   "1d4e3a47b04aa6a7": {
     "company": "Brunswick",
     "first_seen": "2026-08-25",
@@ -1567,21 +1556,6 @@
     "verify_reason": "Requires experience in field engineering, solutions architecture, or consulting.",
     "years_required": 0
   },
-  "353260fcc61f47b2": {
-    "company": "Robinhood",
-    "first_seen": "2026-09-10",
-    "fit_score": 1,
-    "location": "Menlo Park, CA; New York, NY",
-    "posted_at": "2026-09-10T06:55:18-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Tokenization",
-    "role_category": "swe",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8189005?t=gh_src=&gh_jid=8189005",
-    "verified": true,
-    "verify_reason": "Requires 2+ years experience; candidate not available until January 2027.",
-    "years_required": 2
-  },
   "36662e2ad788d2b7": {
     "company": "ID.me",
     "first_seen": "2026-10-07",
@@ -2250,17 +2224,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "51cbb97c7fd914b4": {
-    "company": "SpiderRock",
-    "first_seen": "2026-09-10",
-    "location": "Chicago, IL",
-    "posted_at": "2026-09-11T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=560273&utm_source=vansh&ref=vansh"
   },
   "51f287a67f6321ee": {
     "company": "SynergisticIT",
@@ -3548,21 +3511,6 @@
     "verify_reason": "Entry-level full-stack role with no stated experience minimum.",
     "years_required": 0
   },
-  "8dff176143f6c64f": {
-    "company": "Okta",
-    "first_seen": "2026-09-10",
-    "fit_score": 1,
-    "location": "Boston, Massachusetts; New York, New York; Pennsylvania",
-    "posted_at": "2026-09-10T14:09:11-04:00",
-    "posting_type": "verified_entry",
-    "role": "Solutions Engineering Associate, Okta",
-    "role_category": "sales_eng",
-    "source": "Greenhouse:okta",
-    "url": "https://www.okta.com/company/careers/opportunity/8191371?gh_jid=8191371",
-    "verified": true,
-    "verify_reason": "Requires 2-3 years experience; candidate not available until January 2027.",
-    "years_required": 2
-  },
   "8e8e495a86e305ae": {
     "company": "Virtu Financial",
     "first_seen": "2026-08-02",
@@ -3600,17 +3548,6 @@
     "verified": true,
     "verify_reason": "Candidate graduates December 2026, too early for immediate hiring.",
     "years_required": 0
-  },
-  "8f41e5bbeb98734a": {
-    "company": "Replit",
-    "first_seen": "2026-09-10",
-    "location": "Foster City, CA",
-    "posted_at": "2026-09-09T18:23:24.396000+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer - New Grad (2027)",
-    "role_category": "swe",
-    "source": "Ashby:replit",
-    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc"
   },
   "8fc12339e7c3ca22": {
     "company": "Sierra",
@@ -3960,6 +3897,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/northwoodspace/ce3d4b73-461e-4128-a6f1-f933897e8119"
+  },
+  "9b2f64383b8139d5": {
+    "company": "Rivian",
+    "first_seen": "2026-10-11",
+    "location": "Plymouth, Michigan",
+    "posted_at": "2026-10-10T16:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Early Career - Software Engineer, Enterprise Software",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/early-career-software-engineer-enterprise-software-at-rivian-4477220538"
   },
   "9b5c7f9ddc0723df": {
     "company": "Virtu Financial",
