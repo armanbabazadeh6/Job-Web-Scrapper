@@ -89,21 +89,6 @@
     "verify_reason": "Immediate hire role creates a major timeline mismatch for January 2027.",
     "years_required": 0
   },
-  "0404d504b727169e": {
-    "company": "Stripe",
-    "first_seen": "2026-09-11",
-    "fit_score": 2,
-    "location": "NYC, Chicago, Seattle, San Francisco",
-    "posted_at": "2026-09-11T08:19:17-04:00",
-    "posting_type": "verified_entry",
-    "role": "Product Manager,  Startup Products",
-    "role_category": "product",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8176254",
-    "verified": true,
-    "verify_reason": "No experience stated, but high-level PM scope is not new-grad friendly.",
-    "years_required": 0
-  },
   "0418dcc3b8cd4dd2": {
     "company": "Centerfield",
     "first_seen": "2026-08-07",
@@ -386,21 +371,6 @@
     "verify_reason": "Directly targets Dec 2026 graduates for 2027 full-time program.",
     "years_required": 0
   },
-  "0fc1c2b5ea1d3302": {
-    "company": "Ramp",
-    "first_seen": "2026-09-11",
-    "fit_score": 4,
-    "location": "Remote (US)",
-    "posted_at": "2026-09-11T20:36:34.947000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Technical Consultant, Commercial",
-    "role_category": "consulting",
-    "source": "Ashby:ramp",
-    "url": "https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642",
-    "verified": true,
-    "verify_reason": "No experience required; suitable for a technical new graduate.",
-    "years_required": 0
-  },
   "117880c183d14f28": {
     "company": "Booz Allen",
     "first_seen": "2026-08-29",
@@ -475,17 +445,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.zipline.com/open-roles?gh_jid=7886501003"
-  },
-  "124904abda4bca96": {
-    "company": "Black Cape",
-    "first_seen": "2026-07-13",
-    "location": "Arlington, VA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "US Military Skillbridge Internship - Software Engineer_Arlington - VA",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "http://blackcape.applytojob.com/apply/7o6mmAYryt/US-Military-Skillbridge-Internship-Software-EngineerArlington-VA"
   },
   "1278626c0745bc11": {
     "company": "Advanced Space",
@@ -655,21 +614,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c"
-  },
-  "198509d45af3deef": {
-    "company": "Datadog",
-    "first_seen": "2026-09-11",
-    "fit_score": 2,
-    "location": "New York, New York, USA",
-    "posted_at": "2026-09-11T17:16:58-04:00",
-    "posting_type": "verified_entry",
-    "role": "Product Manager 2 \u2013 IaC Detection",
-    "role_category": "product",
-    "source": "Greenhouse:datadog",
-    "url": "https://careers.datadoghq.com/detail/8197852/?gh_jid=8197852",
-    "verified": true,
-    "verify_reason": "PM 2 role with no stated experience requirements.",
-    "years_required": 0
   },
   "19c6e6e14fce1a86": {
     "company": "ING",
@@ -1028,17 +972,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af"
-  },
-  "28af4d9232ac6a1a": {
-    "company": "Adobe",
-    "first_seen": "2026-09-11",
-    "location": "San Francisco, CASan Jose, CA",
-    "posted_at": "2026-09-12T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Junior Product Manager",
-    "role_category": "product",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
   },
   "290dd2305040ebfe": {
     "company": "SingleStore",
@@ -1403,17 +1336,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "3245097dead42b44": {
-    "company": "Susquehanna International Group (SIG)",
-    "first_seen": "2026-09-11",
-    "location": "Ardmore, PA",
-    "posted_at": "2026-09-12T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Developer, Sprc",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://careers-sig.icims.com/jobs/9716/job?mobile=true&needsRedirect=false&utm_source=vansh&ref=vansh"
   },
   "3288acbfdb52637a": {
     "company": "Palantir",
@@ -2556,17 +2478,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
   },
-  "60b2f9c92b7e3e8b": {
-    "company": "Blackstone",
-    "first_seen": "2026-07-13",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Blackstone Multi-Asset Investing (BXMA) - Total Portfolio Management, Real Estate Investment Associate",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA----Total-Portfolio-Management--Real-Estate-Investment-Associate_42672-1"
-  },
   "610ccb4ab5c7f40c": {
     "company": "Bild AI",
     "first_seen": "2026-07-22",
@@ -2636,17 +2547,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/reply/191d1794-e52a-4573-a2d0-2952b76f9cd5"
-  },
-  "63db1f0d31702b3a": {
-    "company": "Exowatt",
-    "first_seen": "2026-07-13",
-    "location": "Austin, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern \u2014 Inventory Automation & IoT/Robotics",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c"
   },
   "64b9226f48d059c6": {
     "company": "Elevenlabs",
@@ -3484,22 +3384,6 @@
     "verify_reason": "Requires current Secret clearance and immediate start.",
     "years_required": 0
   },
-  "8b1be7e5c0110e46": {
-    "company": "Discord",
-    "first_seen": "2026-09-11",
-    "fit_score": 2,
-    "location": "San Francisco Bay Area",
-    "posted_at": "2026-09-11T13:13:31-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Notifications",
-    "role_category": "swe",
-    "salary": "$160k-$180k",
-    "source": "Greenhouse:discord",
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8642213002",
-    "verified": true,
-    "verify_reason": "Requires 2+ years experience; timeline mismatch for Jan 2027 availability.",
-    "years_required": 2
-  },
   "8b45727a1cd31ccf": {
     "company": "Booz Allen",
     "first_seen": "2026-08-30",
@@ -3859,6 +3743,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1"
+  },
+  "993628612a86f2e6": {
+    "company": "Jobleads-US",
+    "first_seen": "2026-10-12",
+    "location": "Ashland, Kentucky",
+    "posted_at": "2026-10-11T23:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, Core Infrastructure - Moveworks (New Grad)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://bebee.com/us/jobs/software-engineer-core-infrastructure-moveworks-new-grad-jobleads-us-kentucky--jooble-1178468502741206888"
   },
   "99f5253bbc1044cb": {
     "company": "ByteDance",
@@ -4356,17 +4251,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060"
   },
-  "af8f5540c3ee4873": {
-    "company": "Northrop Grumman",
-    "first_seen": "2026-07-13",
-    "location": "Melbourne, FL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "2027 Intern Software Engineer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275"
-  },
   "b0863db7fcc7a775": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -4377,17 +4261,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "b108f3a71d053f3f": {
-    "company": "Adobe",
-    "first_seen": "2026-09-11",
-    "location": "San Jose, CALehi, UT",
-    "posted_at": "2026-09-12T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://careers.adobe.com/us/en/job/ADOBUSR159163EXTERNALENUS/2026-University-Graduate-Software-Engineer?utm_source=vansh"
   },
   "b10e7983a874c9b7": {
     "company": "Charles Schwab",
@@ -5003,21 +4876,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "c547d728e663d754": {
-    "company": "Stripe",
-    "first_seen": "2026-09-11",
-    "fit_score": 2,
-    "location": "Seattle, New-York, San Francisco",
-    "posted_at": "2026-09-11T09:10:53-04:00",
-    "posting_type": "verified_entry",
-    "role": "Product Manager, Connect",
-    "role_category": "product",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8195440",
-    "verified": true,
-    "verify_reason": "No experience stated, but high-level PM scope is not new-grad friendly.",
-    "years_required": 0
   },
   "c6b86860f4e68383": {
     "company": "Notion",
