@@ -5933,6 +5933,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "f6208d65bacca74f": {
+    "company": "Stripe",
+    "first_seen": "2026-10-12",
+    "fit_score": 1,
+    "location": "Toronto, CA",
+    "posted_at": "2026-10-12T15:16:00-04:00",
+    "posting_type": "verified_entry",
+    "role": "Android Engineer, Terminal - CA",
+    "role_category": "swe",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8274893",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience and candidate available Jan 2027.",
+    "years_required": 2
+  },
   "f7f2a4113bbc828d": {
     "company": "Quantbot Technologies",
     "first_seen": "2026-08-12",
