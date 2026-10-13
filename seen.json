@@ -356,6 +356,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c"
   },
+  "0ed3321f71e55921": {
+    "company": "Palantir",
+    "first_seen": "2026-10-13",
+    "fit_score": 4,
+    "location": "Norfolk, VA",
+    "posted_at": "2026-10-12T21:27:12.616000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Forward Deployed Software Engineer - US Government",
+    "role_category": "swe",
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
+    "verified": true,
+    "verify_reason": "No experience requirement stated, open to new graduates.",
+    "years_required": 0
+  },
   "0f9ff574bb27b4f1": {
     "company": "MasterCard",
     "first_seen": "2026-09-22",
@@ -755,17 +770,6 @@
     "verify_reason": "Requires 2 years experience and candidate is unavailable until January 2027.",
     "years_required": 2
   },
-  "1ed38e0877bbc432": {
-    "company": "Palantir",
-    "first_seen": "2026-07-14",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Year at Palantir - Software Engineer - Internship",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.lever.co/palantir/655f9937-a4ce-4e7d-80e2-a6659af07329"
-  },
   "1f6468016011f532": {
     "company": "Raytheon",
     "first_seen": "2026-08-29",
@@ -961,17 +965,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "2896c5b89e224ebd": {
-    "company": "Vital Lyfe",
-    "first_seen": "2026-07-14",
-    "location": "Los Angeles, CA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering Internship - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/vital-lyfe/43a79d8f-a8bb-4c57-a411-1bac946128af"
   },
   "290dd2305040ebfe": {
     "company": "SingleStore",
@@ -1562,6 +1555,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://lthc.wd1.myworkdayjobs.com/en-US/excellusbcbscareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2"
+  },
+  "391843435b381de7": {
+    "company": "RTX",
+    "first_seen": "2026-10-13",
+    "location": "Tucson, AZ",
+    "posted_at": "2026-10-14T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2025: Fulltime Raytheon Software Engineer I, Test Equipment",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
   },
   "3927fec0cd2fe58c": {
     "company": "PathAI",
@@ -2526,6 +2530,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Buffalo-NY/Intern--Software-Engineering_R-26-18885-1"
   },
+  "620bcaff77abbaf1": {
+    "company": "NVIDIA",
+    "first_seen": "2026-10-13",
+    "location": "Santa Clara, CA",
+    "posted_at": "2026-10-14T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2025: Deep Learning Software Engineer, Inference and Model Optimization",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
   "628d1690b3f32bc9": {
     "company": "Auto-Owners Insurance",
     "first_seen": "2026-08-29",
@@ -2675,17 +2690,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "6a644cc30d1f3fb6": {
-    "company": "Akuna Capital",
-    "first_seen": "2026-07-14",
-    "location": "Chicago, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - C# .NET Desktop - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "6aa7c2c10a7942c6": {
     "company": "HP",
     "first_seen": "2026-07-23",
@@ -2766,17 +2770,6 @@
     "verified": true,
     "verify_reason": "Candidate not available until January 2027 for immediate hiring need.",
     "years_required": 0
-  },
-  "6f391ceee6efe150": {
-    "company": "DRW",
-    "first_seen": "2026-07-14",
-    "location": "Chicago, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Developer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/drweng/jobs/7992936"
   },
   "70bb6339d3bfb287": {
     "company": "General Motors",
@@ -3169,17 +3162,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
   },
-  "7ea253116df1227a": {
-    "company": "Akuna Capital",
-    "first_seen": "2026-07-14",
-    "location": "Chicago, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - C++ - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "7fdab9bce9037f6b": {
     "company": "PathAI",
     "first_seen": "2026-08-12",
@@ -3190,17 +3172,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.pathai.com/careers/8623056002?gh_jid=8623056002"
-  },
-  "805d4889ede8a91b": {
-    "company": "Akuna Capital",
-    "first_seen": "2026-07-14",
-    "location": "Chicago, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Full Stack Web - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "8107e37abaf38d6c": {
     "company": "IBM",
@@ -3591,6 +3562,17 @@
     "role": "Software Engineer Intern - AI Agent & Global Revenue Platform - 2027 Summer",
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
+    "url": ""
+  },
+  "94b8fe9a53929f1e": {
+    "company": "Ciena",
+    "first_seen": "2026-10-13",
+    "location": "Atlanta, GA",
+    "posted_at": "2026-10-14T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Developer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
   "94fa4602b5065103": {
@@ -4580,16 +4562,20 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Cloud-Engineer-Intern_1213629"
   },
-  "b90764f51242bf8e": {
-    "company": "Reliable Robotics Corporation",
-    "first_seen": "2026-07-14",
-    "location": "Mountain View, CA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Flight Software Engineering Intern - Fall 2026 Internship",
+  "ba5fdb839603c4cd": {
+    "company": "Palantir",
+    "first_seen": "2026-10-13",
+    "fit_score": 4,
+    "location": "Norfolk, VA",
+    "posted_at": "2026-10-12T21:47:02.809000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Deployment Strategist - US Government",
     "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/reliable-robotics/c4968e8a-a901-4ec1-9a9d-bb5cd96efc4f"
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/44d3394e-003e-4609-b864-ff141e233635",
+    "verified": true,
+    "verify_reason": "No experience required, suitable for new graduates.",
+    "years_required": 0
   },
   "bab8751511cfac9f": {
     "clearance_required": true,
@@ -4621,6 +4607,21 @@
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400720008",
     "verified": true,
     "verify_reason": "Requires specialized safeguards experience; not structured as a new grad role.",
+    "years_required": 0
+  },
+  "bb233b1e2e98d351": {
+    "company": "Stripe",
+    "first_seen": "2026-10-13",
+    "fit_score": 3,
+    "location": "New York, San Francisco",
+    "posted_at": "2026-10-12T18:22:57-04:00",
+    "posting_type": "verified_entry",
+    "role": "Technical Solutions Consultant, Crypto",
+    "role_category": "sales_eng",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8275366",
+    "verified": true,
+    "verify_reason": "No experience requirement explicitly stated in partial text.",
     "years_required": 0
   },
   "bb502fae832e1e08": {
@@ -5312,6 +5313,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11"
   },
+  "db238822ea518358": {
+    "company": "Wolverine Trading",
+    "first_seen": "2026-10-13",
+    "location": "Chicago, Illinois",
+    "posted_at": "2026-10-12T13:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "C++ Software Engineer (Early Career)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-early-career-at-wolverine-trading-4477565982"
+  },
   "db45bf966dbffb91": {
     "company": "Eulerity",
     "first_seen": "2026-07-22",
@@ -5471,16 +5483,20 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "e1801633eef361c5": {
-    "company": "Serval",
-    "first_seen": "2026-07-14",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
+  "e1b65f21951e26c6": {
+    "company": "Cursor",
+    "first_seen": "2026-10-13",
+    "fit_score": 4,
+    "location": "San Francisco",
+    "posted_at": "2026-10-12T20:53:44.567000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, RL Data",
     "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b"
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
+    "verified": true,
+    "verify_reason": "No minimum years of experience stated in description.",
+    "years_required": 0
   },
   "e28a91bbde3a4a4c": {
     "company": "Bosch",
@@ -5523,17 +5539,6 @@
     "verified": true,
     "verify_reason": "Perfect match for December 2026 graduate with 2027 start date.",
     "years_required": 0
-  },
-  "e2da6a82b86868c0": {
-    "company": "Akuna Capital",
-    "first_seen": "2026-07-14",
-    "location": "Chicago, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Python - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "e372fedf8ab366bf": {
     "clearance_required": true,
