@@ -4015,6 +4015,22 @@
     "source": "Ashby:harvey",
     "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5"
   },
+  "a3a23ae28735ae41": {
+    "clearance_required": true,
+    "company": "Tactical Engineering & Analysis",
+    "first_seen": "2026-10-13",
+    "fit_score": 3,
+    "location": "Dahlgren, Virginia",
+    "posted_at": "2026-10-13T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level -Software Developer - Web Development",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://bebee.com/us/jobs/entry-level-software-developer-web-development-tactical-engineering-analysis-dahlgren-va--jooble--428570087303689521--b2df0225233bcbe8a5027e9085c9e2f4",
+    "verified": true,
+    "verify_reason": "Requires STEM bachelor's degree, demands security clearance.",
+    "years_required": 0
+  },
   "a3e893d1e9634e1f": {
     "clearance_required": true,
     "company": "General Dynamics Electric Boat",

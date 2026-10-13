@@ -782,6 +782,17 @@
     "verified": true,
     "years": 5
   },
+  "24c2c6dd3e5d8867": {
+    "cached_at": "2026-10-13",
+    "clearance_required": true,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 2-4 years experience and active TS/SCI clearance.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
+  },
   "262c27e18676d656": {
     "cached_at": "2026-10-07",
     "clearance_required": false,
@@ -3890,6 +3901,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "a3a23ae28735ae41": {
+    "cached_at": "2026-10-13",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires STEM bachelor's degree, demands security clearance.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "a3dcc78003a9157d": {
     "cached_at": "2026-09-10",
