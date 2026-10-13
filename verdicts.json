@@ -510,6 +510,17 @@
     "verified": false,
     "years": null
   },
+  "18a03864b6c95d65": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires previously shipped, well-designed production mobile app.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "18b7bbb4ab342d2a": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -637,6 +648,17 @@
     "verified": false,
     "years": 5
   },
+  "1b9301e8f97d27e1": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years experience with cloud infrastructure.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
   "1bdb67d57b37818e": {
     "cached_at": "2026-10-01",
     "clearance_required": false,
@@ -666,6 +688,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "1fb24b99ef6d2f0a": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience requirement stated; open to backend-leaning full-stack engineers.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "1ff401d231919402": {
     "cached_at": "2026-08-31",
@@ -718,6 +751,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "21ac62af0b86e842": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience requirement stated; startup role welcoming builders.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "21e3f65b14861491": {
     "cached_at": "2026-09-04",
@@ -859,6 +903,17 @@
     "entry_level": true,
     "fit_score": 1,
     "reason": "Wrong start timing for January 2027 availability; targets immediate hires.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "2747f1606c1bd284": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience requirement stated; open to capable full-stack builders.",
     "salary": null,
     "seniority": "new_grad",
     "verified": true,
@@ -2459,6 +2514,17 @@
     "verified": false,
     "years": null
   },
+  "62f4077a80a41772": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "6304e4fcac08c536": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -3020,6 +3086,17 @@
     "verified": false,
     "years": 5
   },
+  "807cee4dcfd800c4": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience requirement stated; fast-paced startup consumer app role.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "80bcce9c5205ea08": {
     "cached_at": "2026-09-12",
     "clearance_required": false,
@@ -3212,6 +3289,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "882db46dd161fd99": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "88495d9bc1a09738": {
     "cached_at": "2026-09-21",
@@ -4809,6 +4897,17 @@
     "verified": true,
     "years": 3
   },
+  "c1fc7b8379594882": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 8+ years of hands-on corporate IT engineering experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 8
+  },
   "c2ac0c26cabf6a05": {
     "cached_at": "2026-10-13",
     "clearance_required": false,
@@ -5544,6 +5643,17 @@
     "reason": "High school internship, not a full-time role.",
     "salary": null,
     "seniority": "intern",
+    "verified": true,
+    "years": 0
+  },
+  "e740b6279eddce25": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience requirement stated; suitable for new graduates.",
+    "salary": null,
+    "seniority": "new_grad",
     "verified": true,
     "years": 0
   },

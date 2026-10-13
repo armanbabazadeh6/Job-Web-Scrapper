@@ -781,6 +781,36 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801"
   },
+  "1fb24b99ef6d2f0a": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-10-13",
+    "fit_score": 4,
+    "location": "Remote",
+    "posted_at": "2026-10-13T11:43:26.151000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Full-Stack Engineer (Backend-Leaning) - CoreMusic",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e",
+    "verified": true,
+    "verify_reason": "No experience requirement stated; open to backend-leaning full-stack engineers.",
+    "years_required": 0
+  },
+  "21ac62af0b86e842": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-10-13",
+    "fit_score": 4,
+    "location": "Remote",
+    "posted_at": "2026-10-13T11:44:40.668000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89",
+    "verified": true,
+    "verify_reason": "No experience requirement stated; startup role welcoming builders.",
+    "years_required": 0
+  },
   "21ded8b002c50541": {
     "company": "Manulife",
     "first_seen": "2026-08-29",
@@ -921,6 +951,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007"
+  },
+  "2747f1606c1bd284": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-10-13",
+    "fit_score": 4,
+    "location": "Remote",
+    "posted_at": "2026-10-13T14:11:32.386000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Full-Stack Engineer - Productions",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/10e6475e-67ef-4621-8718-7b087c354651",
+    "verified": true,
+    "verify_reason": "No experience requirement stated; open to capable full-stack builders.",
+    "years_required": 0
   },
   "275ad3618b2f8d1d": {
     "company": "Zipline",
@@ -3172,6 +3217,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.pathai.com/careers/8623056002?gh_jid=8623056002"
+  },
+  "807cee4dcfd800c4": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-10-13",
+    "fit_score": 4,
+    "location": "Remote",
+    "posted_at": "2026-10-13T14:11:23.984000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Full-Stack Engineer - ElevenMusic",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096",
+    "verified": true,
+    "verify_reason": "No experience requirement stated; fast-paced startup consumer app role.",
+    "years_required": 0
   },
   "8107e37abaf38d6c": {
     "company": "IBM",
@@ -5630,6 +5690,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/342415"
+  },
+  "e740b6279eddce25": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-10-13",
+    "fit_score": 4,
+    "location": "United States",
+    "posted_at": "2026-10-13T11:50:44.243000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Full-Stack Engineer - ElevenAPI",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152",
+    "verified": true,
+    "verify_reason": "No experience requirement stated; suitable for new graduates.",
+    "years_required": 0
   },
   "e7d74c4b8eeeaeb5": {
     "company": "Sierra",
