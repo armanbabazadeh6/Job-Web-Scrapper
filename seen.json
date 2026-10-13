@@ -1312,6 +1312,21 @@
     "verify_reason": "Hiring for January 2027 cohort, perfect match for graduation timeline.",
     "years_required": 0
   },
+  "2fcd5c57a94e20ed": {
+    "company": "Purestorage",
+    "first_seen": "2026-10-13",
+    "fit_score": 3,
+    "location": "Santa Clara, California",
+    "posted_at": "2026-10-13T11:57:59-04:00",
+    "posting_type": "verified_entry",
+    "role": "Customer Success Solutions Engineer",
+    "role_category": "sales_eng",
+    "source": "Greenhouse:purestorage",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8265582",
+    "verified": true,
+    "verify_reason": "Founding member role with no stated experience minimum.",
+    "years_required": 0
+  },
   "309e6f59dfd6ac2f": {
     "company": "Openai",
     "first_seen": "2026-09-28",
@@ -2884,6 +2899,21 @@
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5440427008",
     "verified": true,
     "verify_reason": "Low-level systems role without explicit experience requirement.",
+    "years_required": 0
+  },
+  "73ee687c4cc61302": {
+    "company": "Twilio",
+    "first_seen": "2026-10-13",
+    "fit_score": 4,
+    "location": "Remote - US",
+    "posted_at": "2026-10-13T15:12:15-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer (L2) Messaging Channels Team ",
+    "role_category": "swe",
+    "source": "Greenhouse:twilio",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
+    "verified": true,
+    "verify_reason": "L2 engineering role matching new graduate timing for January 2027.",
     "years_required": 0
   },
   "7476172cd7ca8106": {

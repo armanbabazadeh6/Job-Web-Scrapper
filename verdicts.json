@@ -1170,6 +1170,17 @@
     "verified": true,
     "years": 2
   },
+  "2fcd5c57a94e20ed": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Founding member role with no stated experience minimum.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "303aadc97c09b332": {
     "cached_at": "2026-09-23",
     "clearance_required": false,
@@ -2866,6 +2877,17 @@
     "verified": true,
     "years": 0
   },
+  "73ee687c4cc61302": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "L2 engineering role matching new graduate timing for January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "74e2dec8244f531c": {
     "cached_at": "2026-09-17",
     "clearance_required": false,
@@ -3823,6 +3845,17 @@
     "reason": "Requires 3+ years of PM experience; candidate is a new grad.",
     "salary": null,
     "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "9c792f18d6919863": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires experience leading large-scale projects to production.",
+    "salary": null,
+    "seniority": "senior",
     "verified": true,
     "years": 3
   },
@@ -6162,6 +6195,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "fd5a616a9d59ebfe": {
+    "cached_at": "2026-10-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Explicitly requests a senior individual contributor product manager.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 4
   },
   "fd7967e1b185d2a3": {
     "cached_at": "2026-10-02",
