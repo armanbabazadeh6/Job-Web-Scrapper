@@ -345,17 +345,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "0e6ae6f622f0343c": {
-    "company": "Exowatt",
-    "first_seen": "2026-07-15",
-    "location": "Austin, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Inventory Automation & IoT/Robotics",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.lever.co/exowatt/46c8f4fd-f059-4ad6-a5f4-4fcd55d84f9c"
-  },
   "0ed3321f71e55921": {
     "company": "Palantir",
     "first_seen": "2026-10-13",
@@ -989,17 +978,6 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset--BXMA---SRT-Analyst_45024"
   },
-  "2844d0e3fdc87b8e": {
-    "company": "Chevron",
-    "first_seen": "2026-07-15",
-    "location": "Houston, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "2026-2027 Information Technology - Software Engineer - Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://chevron.wd5.myworkdayjobs.com/en-US/jobs/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398"
-  },
   "288c57d1cb2f4737": {
     "company": "TikTok",
     "first_seen": "2026-08-07",
@@ -1138,17 +1116,6 @@
     "verified": true,
     "verify_reason": "Requires 2+ years experience; candidate graduates December 2026.",
     "years_required": 2
-  },
-  "2cac7afa327ad161": {
-    "company": "Five Rings",
-    "first_seen": "2026-07-15",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Summer Intern 2027 - Software Developer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "2cd02e22dddd5a5d": {
     "company": "Openai",
@@ -3401,6 +3368,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046"
+  },
+  "87324ebc42ac51ff": {
+    "company": "Crusoe",
+    "first_seen": "2026-10-14",
+    "fit_score": 1,
+    "location": "San Francisco, CA - US",
+    "posted_at": "2026-10-13T22:31:09.865000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Executive Assistant, Product Management",
+    "role_category": "product",
+    "source": "Ashby:crusoe",
+    "url": "https://jobs.ashbyhq.com/crusoe/0801c21d-8c99-47b5-8830-fe81449fb69f",
+    "verified": true,
+    "verify_reason": "Candidate available January 2027; immediate hire timing mismatch.",
+    "years_required": 0
   },
   "88d4f57250f55a72": {
     "company": "Motorola Solutions",
@@ -6161,6 +6143,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142898574-powertrain-controls-software-engineering-intern-6-months-full-time-?oga=true"
+  },
+  "fc9c4e7d645be02d": {
+    "company": "Lockheed Martin",
+    "first_seen": "2026-10-14",
+    "location": "Fort Worth, Texas",
+    "posted_at": "2026-10-13T12:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer Asc - Early Career",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-asc-early-career-at-lockheed-martin-4476426922"
   },
   "fcb868d978e43bb7": {
     "company": "Booz Allen",

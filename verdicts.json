@@ -3279,6 +3279,17 @@
     "verified": true,
     "years": 3
   },
+  "87324ebc42ac51ff": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate available January 2027; immediate hire timing mismatch.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "87822b95558fe84c": {
     "cached_at": "2026-09-24",
     "clearance_required": false,
