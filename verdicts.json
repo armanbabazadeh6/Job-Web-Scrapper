@@ -1997,6 +1997,17 @@
     "verified": true,
     "years": 4
   },
+  "4dc8e25052ee342e": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires five years of progressive experience.",
+    "salary": "$221,187 to $290,000/year",
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
   "4df807b2b8445f38": {
     "cached_at": "2026-09-24",
     "clearance_required": false,
@@ -3237,6 +3248,17 @@
     "reason": "Perfect match for December 2026 graduate starting in 2027.",
     "salary": "$114,400",
     "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "82f3e278914e230a": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Product manager role with no explicit experience requirement.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },
@@ -5127,6 +5149,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "c37e8438959693a2": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires 2+ years of experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "c3a735f11b459b3d": {
     "cached_at": "2026-10-08",

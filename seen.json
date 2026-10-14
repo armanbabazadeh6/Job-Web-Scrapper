@@ -3355,6 +3355,21 @@
     "verify_reason": "Perfect match for December 2026 graduate starting in 2027.",
     "years_required": 0
   },
+  "82f3e278914e230a": {
+    "company": "Notion",
+    "first_seen": "2026-10-14",
+    "fit_score": 3,
+    "location": "San Francisco, California",
+    "posted_at": "2026-10-14T21:09:33.835000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager, Connections",
+    "role_category": "product",
+    "source": "Ashby:notion",
+    "url": "https://jobs.ashbyhq.com/notion/be6e1a35-d467-48e6-96bf-62afc4ad0126",
+    "verified": true,
+    "verify_reason": "Product manager role with no explicit experience requirement.",
+    "years_required": 0
+  },
   "831c5f9f360ac78e": {
     "company": "Affirm",
     "first_seen": "2026-10-06",
@@ -5037,6 +5052,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"
+  },
+  "c37e8438959693a2": {
+    "company": "Asana",
+    "first_seen": "2026-10-14",
+    "fit_score": 3,
+    "location": "San Francisco",
+    "posted_at": "2026-10-14T17:11:30-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer",
+    "role_category": "swe",
+    "source": "Greenhouse:asana",
+    "url": "https://www.asana.com/jobs/apply/8194522?gh_jid=8194522",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of experience.",
+    "years_required": 2
   },
   "c3a735f11b459b3d": {
     "company": "IBM",
