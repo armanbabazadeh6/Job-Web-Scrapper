@@ -4438,6 +4438,17 @@
     "verified": true,
     "years": 0
   },
+  "ad13740df9e5499f": {
+    "cached_at": "2026-10-14",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Requires Bachelor's degree by start date and full-time availability.",
+    "salary": "$57,200-$108,800",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "ad33e85937826efc": {
     "cached_at": "2026-09-20",
     "clearance_required": true,
@@ -5527,6 +5538,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "dabb442c3c390936": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "dad55e7cc07ee794": {
     "cached_at": "2026-09-23",

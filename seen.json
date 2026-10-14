@@ -4385,6 +4385,23 @@
     "verify_reason": "No experience specified; fits new grad timeline.",
     "years_required": 0
   },
+  "ad13740df9e5499f": {
+    "clearance_required": true,
+    "company": "Collins Aerospace",
+    "first_seen": "2026-10-14",
+    "fit_score": 4,
+    "location": "Marlborough, Massachusetts",
+    "posted_at": "2026-10-14T03:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I (Onsite)",
+    "role_category": "swe",
+    "salary": "$57,200-$108,800",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-onsite-at-collins-aerospace-4479261500",
+    "verified": true,
+    "verify_reason": "Requires Bachelor's degree by start date and full-time availability.",
+    "years_required": 0
+  },
   "ad33e85937826efc": {
     "clearance_required": true,
     "company": "BAE Systems",
