@@ -3947,6 +3947,17 @@
     "verified": true,
     "years": 3
   },
+  "9c3da10efa05aad2": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Targeted at recent graduates for an entry-level PM role.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "9c792f18d6919863": {
     "cached_at": "2026-10-13",
     "clearance_required": false,
@@ -6209,6 +6220,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "f8f8e9e62f3dc07a": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires 2+ years of technical experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "fa4e3897d7aff907": {
     "cached_at": "2026-08-31",

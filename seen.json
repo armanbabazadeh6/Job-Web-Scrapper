@@ -3957,6 +3957,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137"
   },
+  "9c3da10efa05aad2": {
+    "company": "IBM",
+    "first_seen": "2026-10-14",
+    "fit_score": 5,
+    "location": "Austin, Texas",
+    "posted_at": "2026-10-13T20:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager - ELH - Austin 2027",
+    "role_category": "product",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/product-manager-elh-austin-2027-at-ibm-4476476779",
+    "verified": true,
+    "verify_reason": "Targeted at recent graduates for an entry-level PM role.",
+    "years_required": 0
+  },
   "9cbbc74adc865c6c": {
     "company": "Jobright.ai",
     "first_seen": "2026-09-29",
@@ -6159,6 +6174,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009"
+  },
+  "f8f8e9e62f3dc07a": {
+    "company": "Databricks",
+    "first_seen": "2026-10-14",
+    "fit_score": 3,
+    "location": "New York City, New York",
+    "posted_at": "2026-10-14T11:26:03-04:00",
+    "posting_type": "verified_entry",
+    "role": "Solutions Engineer",
+    "role_category": "sales_eng",
+    "source": "Greenhouse:databricks",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8886384002",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of technical experience.",
+    "years_required": 2
   },
   "f919cfffe2f41eaf": {
     "company": "Zipline",
