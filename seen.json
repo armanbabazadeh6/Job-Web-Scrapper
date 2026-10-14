@@ -1660,6 +1660,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599"
   },
+  "3c65045d1899968e": {
+    "company": "Cisco",
+    "first_seen": "2026-10-14",
+    "fit_score": 4,
+    "location": "Fulton, Maryland",
+    "posted_at": "2026-10-14T04:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer Embedded Systems II (Full Time) - United States",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-embedded-systems-ii-full-time-united-states-at-cisco-4479261631",
+    "verified": true,
+    "verify_reason": "Accepts Master's with 0 years experience.",
+    "years_required": 0
+  },
   "3c8a643125ea1929": {
     "company": "Belvedere Trading",
     "first_seen": "2026-08-10",
@@ -2820,6 +2835,22 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.gusto.com/postings/game-plan-tech-llc-software-engineering-intern-bc91da14-6a89-4532-9ee0-367e0f51f3ea"
   },
+  "71a41da0ae8f87ae": {
+    "company": "SynergisticIT",
+    "first_seen": "2026-10-14",
+    "fit_score": 2,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-10-13T22:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "junior java fullstack developer/Data Scientist",
+    "role_category": "swe",
+    "salary": "$95k\u2013$154k",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/junior-java-fullstack-developer-data-scientist-at-synergisticit-4478170664",
+    "verified": true,
+    "verify_reason": "Third-party training/placement service rather than direct employment.",
+    "years_required": 0
+  },
   "71f168a6a1768ada": {
     "company": "Northrop Grumman",
     "first_seen": "2026-08-07",
@@ -3516,6 +3547,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "928666f62de79bca": {
+    "company": "SynergisticIT",
+    "first_seen": "2026-10-14",
+    "fit_score": 2,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-10-13T22:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "junior data engineer/Data Scientist/software developer",
+    "role_category": "swe",
+    "salary": "$95k to $154k",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/junior-data-engineer-data-scientist-software-developer-at-synergisticit-4478179175",
+    "verified": true,
+    "verify_reason": "Third-party boot camp and placement agency.",
+    "years_required": 0
   },
   "9335b20939976db0": {
     "company": "monday.com",
@@ -4293,6 +4340,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3"
   },
+  "ac9feb0df02aac2d": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-10-14",
+    "fit_score": 3,
+    "location": "San Francisco",
+    "posted_at": "2026-10-14T01:20:28.144000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Forward Deployed Engineer - Software Engineer - USA",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+    "verified": true,
+    "verify_reason": "No experience specified; fits new grad timeline.",
+    "years_required": 0
+  },
   "ad33e85937826efc": {
     "clearance_required": true,
     "company": "BAE Systems",
@@ -4771,6 +4833,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079"
+  },
+  "bcfa24924ad5c866": {
+    "company": "AVEVA",
+    "first_seen": "2026-10-14",
+    "fit_score": 5,
+    "location": "Scottsdale, Arizona",
+    "posted_at": "2026-10-13T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Developer Graduate (AI Proficient) USA",
+    "role_category": "swe",
+    "salary": "$73,800.00 - $123,200.00",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-developer-graduate-ai-proficient-usa-at-aveva-4478186251",
+    "verified": true,
+    "verify_reason": "Targeted specifically at graduates for full-time work.",
+    "years_required": 0
   },
   "bf909b22154f5073": {
     "company": "Copart",

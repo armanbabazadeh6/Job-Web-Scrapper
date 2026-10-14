@@ -670,6 +670,17 @@
     "verified": true,
     "years": 0
   },
+  "1c30024cca8310bb": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires 2-4 years of backend experience.",
+    "salary": "$185k - $300k",
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
+  },
   "1c97a918427f829d": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1495,6 +1506,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "3c65045d1899968e": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Accepts Master's with 0 years experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "3caf3f4f9f29fdd4": {
     "cached_at": "2026-10-06",
@@ -2828,6 +2850,17 @@
     "verified": true,
     "years": 2
   },
+  "71a41da0ae8f87ae": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Third-party training/placement service rather than direct employment.",
+    "salary": "$95k\u2013$154k",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "71d2ab836c16cfd9": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -3594,6 +3627,17 @@
     "verified": true,
     "years": 8
   },
+  "928666f62de79bca": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Third-party boot camp and placement agency.",
+    "salary": "$95k to $154k",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "928777bfebd935aa": {
     "cached_at": "2026-09-10",
     "clearance_required": false,
@@ -4317,6 +4361,17 @@
     "verified": false,
     "years": 5
   },
+  "ac9feb0df02aac2d": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience specified; fits new grad timeline.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "ad33e85937826efc": {
     "cached_at": "2026-09-20",
     "clearance_required": true,
@@ -4768,6 +4823,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "bcfa24924ad5c866": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Targeted specifically at graduates for full-time work.",
+    "salary": "$73,800.00 - $123,200.00",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "bd4fa3fdc09343a0": {
     "cached_at": "2026-09-02",
