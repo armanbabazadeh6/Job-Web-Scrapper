@@ -584,6 +584,17 @@
     "verified": false,
     "years": 5
   },
+  "19f937ddcea91236": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Position type explicitly listed as Experienced.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "1a21a33eee435886": {
     "cached_at": "2026-09-04",
     "clearance_required": true,
@@ -2260,6 +2271,17 @@
     "verified": false,
     "years": 5
   },
+  "580504bcd77c216c": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires a Bachelor's degree in chemistry or chemical engineering.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "5840aa2cc3535184": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -3583,6 +3605,17 @@
     "verified": false,
     "years": 5
   },
+  "901cd517f86cd460": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Seeks experienced engineers to bridge research and production.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "9072134e916bd2bb": {
     "cached_at": "2026-09-21",
     "clearance_required": false,
@@ -3681,6 +3714,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "93d84364278273ec": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires experienced software engineering background for payments migration.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "941898949cccabf6": {
     "cached_at": "2026-09-04",
@@ -3965,6 +4009,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "9e9b463b40daa608": {
+    "cached_at": "2026-10-14",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "No entry level or new grad focus mentioned for startup.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "9fbdff7825383713": {
     "cached_at": "2026-09-01",

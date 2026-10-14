@@ -2362,6 +2362,21 @@
     "verify_reason": "Candidate available January 2027; role requires immediate start.",
     "years_required": 2
   },
+  "580504bcd77c216c": {
+    "company": "Mettler-Toledo International, Inc",
+    "first_seen": "2026-10-14",
+    "fit_score": 3,
+    "location": "Columbia, Missouri",
+    "posted_at": "2026-10-13T20:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Inside Sales Engineer",
+    "role_category": "sales_eng",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/inside-sales-engineer-at-mettler-toledo-international-inc-4478151971",
+    "verified": true,
+    "verify_reason": "Requires a Bachelor's degree in chemistry or chemical engineering.",
+    "years_required": 0
+  },
   "584f737eaaa7c085": {
     "company": "MORSE Corp Co-op Opportunities",
     "first_seen": "2026-08-25",
