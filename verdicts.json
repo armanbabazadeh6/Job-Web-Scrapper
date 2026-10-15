@@ -165,6 +165,17 @@
     "verified": false,
     "years": 6
   },
+  "0740e5f70e0289ce": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "083d8837b6925cd4": {
     "cached_at": "2026-09-22",
     "clearance_required": false,
@@ -340,6 +351,17 @@
     "entry_level": true,
     "reason": "Associate software engineer role requiring no minimum years of experience.",
     "seniority": "entry_level",
+    "verified": true,
+    "years": 0
+  },
+  "1100063b713918f4": {
+    "cached_at": "2026-10-15",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Entry-level role, but requires active U.S. Secret Security Clearance.",
+    "salary": null,
+    "seniority": "new_grad",
     "verified": true,
     "years": 0
   },
@@ -1012,6 +1034,17 @@
     "verified": true,
     "years": 0
   },
+  "2a6e66743fc788dd": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "2acb8b68d5883f33": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -1203,6 +1236,17 @@
     "verified": true,
     "years": 0
   },
+  "300eb6c268ac75a8": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "303aadc97c09b332": {
     "cached_at": "2026-09-23",
     "clearance_required": false,
@@ -1340,6 +1384,17 @@
     "verified": true,
     "years": 0
   },
+  "33889b761bc91b69": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "34491582466e22e4": {
     "cached_at": "2026-09-21",
     "clearance_required": false,
@@ -1428,6 +1483,17 @@
     "verified": true,
     "years": 0
   },
+  "37372312a0771641": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "37525921d8e80456": {
     "cached_at": "2026-09-25",
     "clearance_required": false,
@@ -1460,6 +1526,17 @@
     "seniority": null,
     "verified": false,
     "years": 10
+  },
+  "38da0eb2da185bfc": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "39047e8fca86b8ce": {
     "cached_at": "2026-09-28",
@@ -2342,6 +2419,17 @@
     "verified": false,
     "years": null
   },
+  "5b317b2668767a18": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires production-grade Kubernetes and infrastructure experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "5b6d1acd0c4901a2": {
     "cached_at": "2026-09-03",
     "clearance_required": false,
@@ -2875,6 +2963,17 @@
     "verified": true,
     "years": 5
   },
+  "702f85a4a669edbf": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "70769a699ac34c04": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -3275,6 +3374,17 @@
   },
   "836fc9a1035c2c0d": {
     "cached_at": "2026-09-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "83aad823336e4f24": {
+    "cached_at": "2026-10-15",
     "clearance_required": false,
     "entry_level": false,
     "fit_score": null,
@@ -3772,6 +3882,17 @@
   },
   "945f488ccd63f5df": {
     "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "94c7be453cda220f": {
+    "cached_at": "2026-10-15",
     "clearance_required": false,
     "entry_level": false,
     "fit_score": null,
@@ -4501,6 +4622,17 @@
     "verified": false,
     "years": 7
   },
+  "ae3e59a2dc712f8a": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "ae4a2f6e920865eb": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -4541,6 +4673,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "afb3ef30d193d4ec": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires deep experience managing Linux fleets at scale.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "afdba7cf6374838f": {
     "cached_at": "2026-09-02",
@@ -6201,6 +6344,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 5
+  },
+  "f4a5a7ad54a558d3": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "f4f94e0fdb9612d1": {
     "cached_at": "2026-08-31",

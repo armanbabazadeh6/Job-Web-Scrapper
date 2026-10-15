@@ -262,17 +262,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
-  "0c1b42357d08e30b": {
-    "company": "Copart",
-    "first_seen": "2026-07-16",
-    "location": "Dallas, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689"
-  },
   "0cfe684907de3e54": {
     "company": "Blackstone",
     "first_seen": "2026-08-28",
@@ -323,28 +312,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
-  "0db99af241db33e3": {
-    "company": "The Trade Desk",
-    "first_seen": "2026-07-16",
-    "location": "Denver, CO +2",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "2027 North America Software Engineering Internship",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007"
-  },
-  "0e39903d64c214a1": {
-    "company": "Citadel",
-    "first_seen": "2026-07-16",
-    "location": "Houston, TX +2",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer - Intern - US",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "0ed3321f71e55921": {
     "company": "Palantir",
     "first_seen": "2026-10-13",
@@ -375,6 +342,22 @@
     "verify_reason": "Directly targets Dec 2026 graduates for 2027 full-time program.",
     "years_required": 0
   },
+  "1100063b713918f4": {
+    "clearance_required": true,
+    "company": "Boeing",
+    "first_seen": "2026-10-15",
+    "fit_score": 3,
+    "location": "Richardson, Texas",
+    "posted_at": "2026-10-14T05:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry-Level Software Engineer-Developer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.ziprecruiter.com/c/Boeing/Job/Entry-Level-Software-Engineer-Developer/-in-Richardson,TX?jid=1b22354a1194cc24",
+    "verified": true,
+    "verify_reason": "Entry-level role, but requires active U.S. Secret Security Clearance.",
+    "years_required": 0
+  },
   "117880c183d14f28": {
     "company": "Booz Allen",
     "first_seen": "2026-08-29",
@@ -385,17 +368,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038"
-  },
-  "118eef27c0e8a145": {
-    "company": "Robinhood",
-    "first_seen": "2026-09-14",
-    "location": "Menlo Park, CA; New York, NY",
-    "posted_at": "2026-09-14T08:00:08-04:00",
-    "posting_type": "new_grad",
-    "role": "Associate Product Manager (New Grad)",
-    "role_category": "product",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8199973?t=gh_src=&gh_jid=8199973"
   },
   "11b83d13a6131732": {
     "company": "Notion",
@@ -422,22 +394,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
-  },
-  "120b881922b05c4c": {
-    "company": "Stripe",
-    "first_seen": "2026-09-14",
-    "fit_score": 2,
-    "location": "Seattle, WA",
-    "posted_at": "2026-09-14T17:46:08-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Payins Card Networks",
-    "role_category": "swe",
-    "salary": "$156,800 - $235,200/yr",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8198207",
-    "verified": true,
-    "verify_reason": "Requires two years of experience in software development.",
-    "years_required": 2
   },
   "12361b229776b8d2": {
     "company": "Zipline",
@@ -869,17 +825,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8"
-  },
-  "25b13c1074301370": {
-    "company": "Netic",
-    "first_seen": "2026-07-16",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Full-Stack Software Engineer - Product - Intern - 2026-2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/netic/f291394a-f3c5-4f46-9b87-77aea3d487ef"
   },
   "25cf82bfbc460d69": {
     "company": "HP",
@@ -1483,21 +1428,6 @@
     "verify_reason": "Requires residency in Canada and is a customer success role.",
     "years_required": 0
   },
-  "34e9bfb9675a267f": {
-    "company": "Cursor",
-    "first_seen": "2026-09-14",
-    "fit_score": 2,
-    "location": "Remote",
-    "posted_at": "2026-09-14T21:51:30.118000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Field Engineer",
-    "role_category": "swe",
-    "source": "Ashby:cursor",
-    "url": "https://jobs.ashbyhq.com/cursor/64a6cb18-493b-4d18-9f22-c661ae533bfa",
-    "verified": true,
-    "verify_reason": "Requires experience in field engineering, solutions architecture, or consulting.",
-    "years_required": 0
-  },
   "36662e2ad788d2b7": {
     "company": "ID.me",
     "first_seen": "2026-10-07",
@@ -1766,21 +1696,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007"
   },
-  "3e2ef52522d5c71f": {
-    "company": "Openai",
-    "first_seen": "2026-09-14",
-    "fit_score": 5,
-    "location": "San Francisco",
-    "posted_at": "2026-09-14T22:37:58.189000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Applied Emerging Talent (2027)",
-    "role_category": "swe",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
-    "verified": true,
-    "verify_reason": "Perfect match for 2027 emerging talent with 0-1 years experience.",
-    "years_required": 0
-  },
   "3f3ca3ba8f22eb40": {
     "company": "Palantir",
     "first_seen": "2026-09-24",
@@ -2004,17 +1919,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "4712711380f52f59": {
-    "company": "Copart",
-    "first_seen": "2026-07-16",
-    "location": "Dallas, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109897"
   },
   "474b54b67daec05c": {
     "company": "Cisco",
@@ -2325,17 +2229,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1"
   },
-  "54f204ed18139ac5": {
-    "company": "Cloudflare",
-    "first_seen": "2026-07-16",
-    "location": "Austin, TX",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineer Intern - Fall 2026 - Austin - TX",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785"
-  },
   "55bdfce9747d9f6b": {
     "company": "Perplexity",
     "first_seen": "2026-09-19",
@@ -2398,17 +2291,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965"
-  },
-  "59289f7eba56e357": {
-    "company": "SEL",
-    "first_seen": "2026-07-16",
-    "location": "Washington, DC +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://selinc.wd1.myworkdayjobs.com/en-US/sel/job/Washington---Pullman/Software-Engineer-Intern_2026-21720"
   },
   "59830107c9196ffa": {
     "company": "Notion",
@@ -3853,17 +3735,6 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA----Total-Portfolio-Management--Real-Estate-Investment-Associate_42672-1"
   },
-  "98db97e4053b11a4": {
-    "company": "Old Mission Capital",
-    "first_seen": "2026-07-16",
-    "location": "Chicago, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer - 2027 Internship Program - June Start",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.oldmissioncapital.com/careers/?gh_jid=7796180003"
-  },
   "992f8385c1cdc969": {
     "company": "GDIT",
     "first_seen": "2026-08-05",
@@ -4094,17 +3965,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
   },
-  "a127d85605e6cf44": {
-    "company": "Citadel Securities",
-    "first_seen": "2026-07-16",
-    "location": "Miami, FL +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer - Intern - US",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "a16f10d22b6cd658": {
     "company": "DoorDash",
     "first_seen": "2026-09-26",
@@ -4237,21 +4097,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "a60f010debfe1626": {
-    "company": "Openai",
-    "first_seen": "2026-09-14",
-    "fit_score": 1,
-    "location": "San Francisco",
-    "posted_at": "2026-09-14T18:34:43.801000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Ads Integrity",
-    "role_category": "swe",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/596e543a-0ab9-471e-a1ff-40fd55c74fce",
-    "verified": true,
-    "verify_reason": "Mismatched start timing (Jan 2027) and requires experienced engineer.",
-    "years_required": 0
-  },
   "a64e4c21114f5365": {
     "company": "NVIDIA",
     "first_seen": "2026-07-22",
@@ -4299,17 +4144,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007"
-  },
-  "a818a2f03154d9a9": {
-    "company": "Duolingo",
-    "first_seen": "2026-09-14",
-    "location": "Pittsburgh, PA",
-    "posted_at": "2026-09-15T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://careers.duolingo.com/jobs/8155283002?utm_source=vansh"
   },
   "a9f05a7a6f1b4f9a": {
     "company": "Cisco",
@@ -4481,6 +4315,17 @@
     "verified": true,
     "verify_reason": "Timeline mismatch; candidate available January 2027, role is for immediate hire.",
     "years_required": 2
+  },
+  "b1983c9912285cea": {
+    "company": "StarSling (X25)",
+    "first_seen": "2026-10-15",
+    "location": "5 locationsSan Francisco, CASan Mateo, CAPalo Alto, CAMenlo Park, CARedwood City, CA",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Full-Stack Software Engineer \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://www.workatastartup.com/jobs/83356?utm_source=vansh"
   },
   "b1dd8f6b7367d2cd": {
     "company": "Teledyne",
@@ -4704,17 +4549,6 @@
     "verify_reason": "Application period is Fall 2024; candidate is not available until 2027.",
     "years_required": 0
   },
-  "b7857e974c8be9f0": {
-    "company": "Copart",
-    "first_seen": "2026-07-16",
-    "location": "Dallas, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673"
-  },
   "b797a8eeb78eebff": {
     "company": "Lockheed Martin",
     "first_seen": "2026-10-08",
@@ -4805,6 +4639,17 @@
     "verified": true,
     "verify_reason": "Perfect timeline match for entry-level role; requires security clearance.",
     "years_required": 0
+  },
+  "babdf58b0c7f69ae": {
+    "company": "Dagster Labs",
+    "first_seen": "2026-10-15",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2025: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
   },
   "bb0fcc14244365c4": {
     "company": "Anthropic",
@@ -4922,21 +4767,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011"
-  },
-  "c04b8cdbf466c661": {
-    "company": "Openai",
-    "first_seen": "2026-09-14",
-    "fit_score": 1,
-    "location": "San Francisco",
-    "posted_at": "2026-09-14T18:47:19.139000+00:00",
-    "posting_type": "verified_entry",
-    "role": "AI Infrastructure Engineer, pAGI",
-    "role_category": "platform",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba",
-    "verified": true,
-    "verify_reason": "Mismatched start timing (Jan 2027) and requires distributed systems experience.",
-    "years_required": 0
   },
   "c09bf50d8cae4063": {
     "company": "Composio",
@@ -5233,6 +5063,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120"
+  },
+  "cb4fe0a3edea1f3c": {
+    "company": "Google",
+    "first_seen": "2026-10-15",
+    "location": "Sunnyvale, CAKirkland, WASeattle, WA",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer II, Early Career, Google Cloud AI Catalyst Program",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/90452041138086598-software-engineer-ii-early-career-google-cloud-ai-catalyst-program?utm_source=vansh"
   },
   "cbc7465e0c442a7f": {
     "company": "Copart",
@@ -5825,17 +5666,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://lthc.wd1.myworkdayjobs.com/en-US/univerahealthcarecareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-1"
   },
-  "e442bd1b968f1744": {
-    "company": "Alphataraxia Management (ATX)",
-    "first_seen": "2026-09-14",
-    "location": "Washington, DC",
-    "posted_at": "2026-09-15T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineer \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
-  },
   "e5d60cef27f9d95a": {
     "company": "Zip",
     "first_seen": "2026-08-26",
@@ -5872,6 +5702,17 @@
     "verified": true,
     "verify_reason": "No experience requirement stated; suitable for new graduates.",
     "years_required": 0
+  },
+  "e7bd027fdeae16fd": {
+    "company": "NVIDIA",
+    "first_seen": "2026-10-15",
+    "location": "Santa Clara, CARedmond, WA",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: AI and ML Infra Software Engineer, GPU Clusters",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
   },
   "e7d74c4b8eeeaeb5": {
     "company": "Sierra",
