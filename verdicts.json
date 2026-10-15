@@ -1798,6 +1798,17 @@
     "verified": true,
     "years": 0
   },
+  "410de347e6acca17": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "4156bfb7e40af413": {
     "cached_at": "2026-10-09",
     "clearance_required": false,
@@ -2084,6 +2095,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 4
+  },
+  "4dc873fad6589e9e": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires two to three years of relevant experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 3
   },
   "4dc8e25052ee342e": {
     "cached_at": "2026-10-14",
@@ -5674,6 +5696,17 @@
     "verified": true,
     "years": 0
   },
+  "d7905bd4c6fa8fbc": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires at least 3+ years of Product Management experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "d86e2d064c8d37ff": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -6104,6 +6137,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "ea604aadb58cc585": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires two to three years of relevant experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 3
   },
   "eba4cda02707b391": {
     "cached_at": "2026-08-31",
