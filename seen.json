@@ -2881,6 +2881,21 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/GP-Stakes-Strategic-Value--Analyst_44673"
   },
+  "76b26b7294ed018a": {
+    "company": "Cursor",
+    "first_seen": "2026-10-15",
+    "fit_score": 3,
+    "location": "New York",
+    "posted_at": "2026-10-15T01:25:48.788000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Model Lifecycle and Signals",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4",
+    "verified": true,
+    "verify_reason": "No experience requirements stated, but role demands production ML systems experience.",
+    "years_required": 0
+  },
   "76eb81dbb89e5dae": {
     "company": "BAE Systems, Inc.",
     "first_seen": "2026-10-10",

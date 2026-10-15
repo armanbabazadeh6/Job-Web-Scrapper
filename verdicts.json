@@ -3091,6 +3091,17 @@
     "verified": false,
     "years": 4
   },
+  "76b26b7294ed018a": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience requirements stated, but role demands production ML systems experience.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "76eb81dbb89e5dae": {
     "cached_at": "2026-10-10",
     "clearance_required": false,
