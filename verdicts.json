@@ -324,6 +324,17 @@
     "verified": false,
     "years": 5
   },
+  "0f70435557ae5b94": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "0f9ff574bb27b4f1": {
     "cached_at": "2026-09-22",
     "clearance_required": false,
@@ -3858,6 +3869,17 @@
     "verified": false,
     "years": null
   },
+  "932acf9f866b9002": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "9335b20939976db0": {
     "cached_at": "2026-10-08",
     "clearance_required": false,
@@ -4613,6 +4635,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "abe97ec0c82cb151": {
+    "cached_at": "2026-10-15",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires clearance eligibility and start date mismatches candidate availability.",
+    "salary": "$70,828 - $120,408",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "ac9feb0df02aac2d": {
     "cached_at": "2026-10-14",
@@ -5577,6 +5610,17 @@
     "seniority": null,
     "verified": false,
     "years": 6
+  },
+  "d2d37d46362bca09": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Immediate role timeline mismatches candidate January 2027 availability date.",
+    "salary": "$115,000 - $180,000",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "d340349d44287535": {
     "cached_at": "2026-09-22",
@@ -6547,6 +6591,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "fb4937dc0d8a13dc": {
+    "cached_at": "2026-10-15",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "fb61428d6bce9eaf": {
     "cached_at": "2026-09-09",

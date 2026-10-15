@@ -4234,6 +4234,23 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3"
   },
+  "abe97ec0c82cb151": {
+    "clearance_required": true,
+    "company": "BAE Systems",
+    "first_seen": "2026-10-15",
+    "fit_score": 2,
+    "location": "Wayne, New Jersey",
+    "posted_at": "2026-10-15T02:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Engineer Jobs",
+    "role_category": "swe",
+    "salary": "$70,828 - $120,408",
+    "source": "JSearch",
+    "url": "https://www.clearancejobs.com/jobs/9242294/entry-level-software-engineer",
+    "verified": true,
+    "verify_reason": "Requires clearance eligibility and start date mismatches candidate availability.",
+    "years_required": 0
+  },
   "ac9feb0df02aac2d": {
     "company": "Elevenlabs",
     "first_seen": "2026-10-14",
@@ -5240,6 +5257,22 @@
     "url": "https://www.amentumcareers.com/jobs/entry-level-software-engineer-dahlgren-virginia-united-states-2373b27f-6544-459d-8799-419fc2c5ff60",
     "verified": true,
     "verify_reason": "Requires active Secret clearance and immediate start before January 2027.",
+    "years_required": 0
+  },
+  "d2d37d46362bca09": {
+    "company": "Affirm",
+    "first_seen": "2026-10-15",
+    "fit_score": 2,
+    "location": "Remote US",
+    "posted_at": "2026-10-15T17:31:09-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I, Fullstack (Search)",
+    "role_category": "swe",
+    "salary": "$115,000 - $180,000",
+    "source": "Greenhouse:affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8017340003",
+    "verified": true,
+    "verify_reason": "Immediate role timeline mismatches candidate January 2027 availability date.",
     "years_required": 0
   },
   "d333a217eb46fba4": {
