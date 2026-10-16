@@ -144,17 +144,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003"
   },
-  "070affcb4dea394d": {
-    "company": "Chevron",
-    "first_seen": "2026-07-17",
-    "location": "Houston, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "2026-2027 Information Technology - Software Engineer - Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://chevron.wd5.myworkdayjobs.com/en-US/university/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1"
-  },
   "07d945625a22af90": {
     "company": "Fifth Third Bank",
     "first_seen": "2026-08-21",
@@ -300,17 +289,6 @@
     "verified": true,
     "verify_reason": "Requires 1 year experience; fits graduation timeline of January 2027.",
     "years_required": 1
-  },
-  "0db8841be3445069": {
-    "company": "Sigma Computing",
-    "first_seen": "2026-09-15",
-    "location": "San Francisco, CANew York, NY",
-    "posted_at": "2026-09-16T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineer \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
   },
   "0ed3321f71e55921": {
     "company": "Palantir",
@@ -1192,21 +1170,6 @@
     "url": "https://www.linkedin.com/jobs/view/jr-software-developer-at-icatalyst-inc-4478018019",
     "verified": true,
     "verify_reason": "Requires immediate hire; candidate is not available until January 2027.",
-    "years_required": 0
-  },
-  "2f0bcfb29ab78146": {
-    "company": "Ramp",
-    "first_seen": "2026-09-15",
-    "fit_score": 1,
-    "location": "New York, NY (HQ)",
-    "posted_at": "2026-09-15T21:58:39.274000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Technical Consultant, Enterprise",
-    "role_category": "consulting",
-    "source": "Ashby:ramp",
-    "url": "https://jobs.ashbyhq.com/ramp/7fd0e6c9-202b-44ad-9742-4284b69b88a1",
-    "verified": true,
-    "verify_reason": "Candidate not available until January 2027; immediate start required.",
     "years_required": 0
   },
   "2f242670c0b63b31": {
@@ -2543,22 +2506,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "663a1ae81a327cae": {
-    "company": "Discord",
-    "first_seen": "2026-09-15",
-    "fit_score": 2,
-    "location": "San Francisco Bay Area",
-    "posted_at": "2026-09-15T15:10:07-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Distributed Systems",
-    "role_category": "swe",
-    "salary": "$180k-$220k",
-    "source": "Greenhouse:discord",
-    "url": "https://job-boards.greenhouse.io/discord/jobs/8806163002",
-    "verified": true,
-    "verify_reason": "Requires 2+ years experience and immediate start, mismatch for Jan 2027.",
-    "years_required": 2
-  },
   "6645115cbbf6d19f": {
     "company": "Microsoft",
     "first_seen": "2026-08-05",
@@ -3342,6 +3289,23 @@
     "verify_reason": "Candidate available January 2027; immediate hire timing mismatch.",
     "years_required": 0
   },
+  "88bea3012950d3ed": {
+    "clearance_required": true,
+    "company": "BAE Systems",
+    "first_seen": "2026-10-16",
+    "fit_score": 4,
+    "location": "Wayne, New Jersey",
+    "posted_at": "2026-10-16T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Engineer",
+    "role_category": "swe",
+    "salary": "$70828 - $120408",
+    "source": "JSearch",
+    "url": "https://jobs.baesystems.com/global/en/job/131372BR/Entry-Level-Software-Engineer",
+    "verified": true,
+    "verify_reason": "Entry-level software role requires a bachelor degree and clearance eligibility.",
+    "years_required": 0
+  },
   "88d4f57250f55a72": {
     "company": "Motorola Solutions",
     "first_seen": "2026-08-30",
@@ -4122,17 +4086,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "a6ea43b8c09ab375": {
-    "company": "Composio",
-    "first_seen": "2026-07-17",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Full-stack Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/composio/4d819015-0b9a-466f-9b41-8e1cc1e5b6d9"
   },
   "a718243ecc5532f6": {
     "company": "Bitdeer (NASDAQ: BTDR)",
@@ -5021,22 +4974,6 @@
     "verify_reason": "Third-party training and placement program, not a direct hire.",
     "years_required": 0
   },
-  "c8d7a9455de8b9d2": {
-    "clearance_required": true,
-    "company": "BAE Systems",
-    "first_seen": "2026-09-15",
-    "fit_score": 5,
-    "location": "San Diego, California",
-    "posted_at": "2026-09-15T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "2027 Entry Level Software Engineer",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://jobs.baesystems.com/global/en/job/128864BR/2027-Entry-Level-Software-Engineer",
-    "verified": true,
-    "verify_reason": "Perfect match for 2027 graduation timeline and entry-level requirements.",
-    "years_required": 0
-  },
   "c8edcd865205cd2e": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -5400,17 +5337,6 @@
     "verified": true,
     "verify_reason": "Immediate hire role; timeline mismatch for January 2027 availability.",
     "years_required": 0
-  },
-  "d94ead7ea6df942c": {
-    "company": "Netic",
-    "first_seen": "2026-07-17",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer - Agent Platform - Intern - 2026-2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/netic/b0ea7aab-8eea-4d31-96f9-278364180ae7"
   },
   "da646c41db0ef7f9": {
     "company": "Raytheon",

@@ -3617,6 +3617,17 @@
     "verified": true,
     "years": 8
   },
+  "88bea3012950d3ed": {
+    "cached_at": "2026-10-16",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Entry-level software role requires a bachelor degree and clearance eligibility.",
+    "salary": "$70828 - $120408",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "89c93a681adbb8d8": {
     "cached_at": "2026-10-01",
     "clearance_required": false,
@@ -4059,6 +4070,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "983cd138e48ae8c7": {
+    "cached_at": "2026-10-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 8
   },
   "98a50309d9a97adf": {
     "cached_at": "2026-09-21",
