@@ -6786,5 +6786,16 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "ff909522fd7cbb93": {
+    "cached_at": "2026-10-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 7
   }
 }
