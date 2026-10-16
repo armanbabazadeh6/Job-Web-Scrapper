@@ -3647,6 +3647,17 @@
     "verified": false,
     "years": 8
   },
+  "8a4509acd52114a3": {
+    "cached_at": "2026-10-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires Senior and Staff engineers; explicitly senior scope.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
+  },
   "8a694863a35fd649": {
     "cached_at": "2026-10-07",
     "clearance_required": true,
@@ -4284,6 +4295,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "9f956db7aafc4147": {
+    "cached_at": "2026-10-16",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires Senior and Staff engineers; explicitly senior scope.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
   },
   "9fbdff7825383713": {
     "cached_at": "2026-09-01",
