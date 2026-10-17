@@ -387,6 +387,17 @@
     "verified": false,
     "years": null
   },
+  "11ac8adfb9b7ba5f": {
+    "cached_at": "2026-10-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Requires 1 year of experience; entry-level software role.",
+    "salary": "$38.00-$43.00 per hour",
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
+  },
   "11b83d13a6131732": {
     "cached_at": "2026-10-01",
     "clearance_required": false,
@@ -3097,6 +3108,17 @@
     "verified": true,
     "years": 0
   },
+  "73a0e20adb22ba0f": {
+    "cached_at": "2026-10-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "73ee687c4cc61302": {
     "cached_at": "2026-10-13",
     "clearance_required": false,
@@ -4828,6 +4850,17 @@
     "verified": true,
     "years": 3
   },
+  "afcec709ea9d209f": {
+    "cached_at": "2026-10-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Requires 1 year of experience; fits entry-level full-time profile.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
+  },
   "afdba7cf6374838f": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -5414,6 +5447,17 @@
     "verified": false,
     "years": null
   },
+  "c2bf2fa7fa14c865": {
+    "cached_at": "2026-10-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "c2cf9fdce116b133": {
     "cached_at": "2026-09-25",
     "clearance_required": false,
@@ -5775,6 +5819,17 @@
     "seniority": null,
     "verified": false,
     "years": 7
+  },
+  "d4fd5c3772752432": {
+    "cached_at": "2026-10-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires Master's degree and 2 years of specialized Oracle experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "d5456c42884384a6": {
     "cached_at": "2026-09-02",

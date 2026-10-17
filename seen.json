@@ -273,23 +273,6 @@
     "source": "Greenhouse:affirm",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003"
   },
-  "0d9fbd9b387ee759": {
-    "clearance_required": true,
-    "company": "Abeyon",
-    "first_seen": "2026-09-16",
-    "fit_score": 4,
-    "location": "Arlington, Virginia",
-    "posted_at": "2026-09-15T16:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Developer I",
-    "role_category": "swe",
-    "salary": "$70,000 - $80,000",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-developer-i-at-abeyon-4465579052",
-    "verified": true,
-    "verify_reason": "Requires 1 year experience; fits graduation timeline of January 2027.",
-    "years_required": 1
-  },
   "0ed3321f71e55921": {
     "company": "Palantir",
     "first_seen": "2026-10-13",
@@ -346,6 +329,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038"
+  },
+  "11ac8adfb9b7ba5f": {
+    "company": "Rapiscan Systems",
+    "first_seen": "2026-10-17",
+    "fit_score": 4,
+    "location": "Billerica, Massachusetts",
+    "posted_at": "2026-10-16T14:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer 1",
+    "role_category": "swe",
+    "salary": "$38.00-$43.00 per hour",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-rapiscan-systems-4477704197",
+    "verified": true,
+    "verify_reason": "Requires 1 year of experience; entry-level software role.",
+    "years_required": 1
   },
   "11b83d13a6131732": {
     "company": "Notion",
@@ -745,21 +744,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
   },
-  "225daf3f0676e6a0": {
-    "company": "Cursor",
-    "first_seen": "2026-09-16",
-    "fit_score": 4,
-    "location": "San Francisco",
-    "posted_at": "2026-09-16T00:33:21.885000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, RL Environments",
-    "role_category": "swe",
-    "source": "Ashby:cursor",
-    "url": "https://jobs.ashbyhq.com/cursor/c68b3d8f-360d-41f0-84fd-1cb225b19e23",
-    "verified": true,
-    "verify_reason": "No experience required; fits graduation timeline of January 2027.",
-    "years_required": 0
-  },
   "231bf2fb9c4508d8": {
     "company": "Blackstone",
     "first_seen": "2026-07-28",
@@ -945,22 +929,6 @@
     "source": "Greenhouse:nuro",
     "url": "https://nuro.ai/careersitem?gh_jid=8227399"
   },
-  "29d04bd5df47c783": {
-    "company": "Keysight Technologies, Inc.",
-    "first_seen": "2026-09-16",
-    "fit_score": 1,
-    "location": "Pasadena, California",
-    "posted_at": "2026-09-15T23:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Solutions Engineer (Entry Level)",
-    "role_category": "sales_eng",
-    "salary": "$97,490-$162,480",
-    "source": "JSearch",
-    "url": "https://jobs.digitalhire.com/job-listing/opening/5vDThkqq2K5y48CldiBUOt",
-    "verified": true,
-    "verify_reason": "Immediate opening; candidate is not available until January 2027.",
-    "years_required": 0
-  },
   "2a123e67fca337c4": {
     "company": "BAE Systems",
     "first_seen": "2026-09-18",
@@ -998,32 +966,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/Software-Engineer-Co-op_R-100664"
-  },
-  "2b566f4d03e40f3b": {
-    "company": "Sierra",
-    "first_seen": "2026-09-16",
-    "fit_score": 1,
-    "location": "San Francisco, CA",
-    "posted_at": "2026-09-16T21:15:34.318000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Web Developer, Marketing Site",
-    "role_category": "swe",
-    "source": "Ashby:sierra",
-    "url": "https://jobs.ashbyhq.com/sierra/3f6911c0-b49b-4d8e-a434-4064df2cde44",
-    "verified": true,
-    "verify_reason": "Immediate hire role; candidate not available until January 2027.",
-    "years_required": 0
-  },
-  "2b688e6cbe66e5bd": {
-    "company": "Eventual",
-    "first_seen": "2026-09-16",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-09-17T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.ashbyhq.com/eventualcomputing/becb5675-3480-4d2b-b126-2acad40fd088/application?utm_source=vansh"
   },
   "2c5768b49d094a84": {
     "company": "Asana",
@@ -1215,21 +1157,6 @@
     "url": "https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
     "verified": true,
     "verify_reason": "Requires prior experience; timing mismatch for candidate available January 2027.",
-    "years_required": 0
-  },
-  "30ba6f09ddd630fe": {
-    "company": "IIIIIIUS",
-    "first_seen": "2026-09-16",
-    "fit_score": 3,
-    "location": "Reston, Virginia",
-    "posted_at": "2026-09-15T23:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Junior Software Engineer (Entry level - Remote US)",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://careers.icf.com/us/en/job/R2603054/Junior-Software-Engineer-Entry-level-Remote-US",
-    "verified": true,
-    "verify_reason": "Targets CS graduates, though start timing mismatches January 2027.",
     "years_required": 0
   },
   "30c4b3c841a8783c": {
@@ -2706,17 +2633,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573"
   },
-  "71f5e7ac0dc9fd23": {
-    "company": "Deepgram",
-    "first_seen": "2026-07-18",
-    "location": "Remote - USA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering- Internship - Fall 2026/Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1"
-  },
   "720f9bf59e79edd5": {
     "company": "Zipline",
     "first_seen": "2026-08-19",
@@ -2979,17 +2895,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://careers-sri.icims.com/jobs/6432/drexel-university-co-op%3a-software-engineering-full-stack-development/job"
-  },
-  "7b4437468cd586ad": {
-    "company": "NewsBreak",
-    "first_seen": "2026-09-16",
-    "location": "Mountain View, CA",
-    "posted_at": "2026-09-17T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
   },
   "7b89292a88a7addd": {
     "company": "Town Fair Tire",
@@ -4264,6 +4169,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060"
   },
+  "afcec709ea9d209f": {
+    "company": "Lyft",
+    "first_seen": "2026-10-17",
+    "fit_score": 4,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-10-16T22:47:42-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer",
+    "role_category": "swe",
+    "source": "Greenhouse:lyft",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002",
+    "verified": true,
+    "verify_reason": "Requires 1 year of experience; fits entry-level full-time profile.",
+    "years_required": 1
+  },
   "b0863db7fcc7a775": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -4428,21 +4348,6 @@
     "verify_reason": "Requires 2+ years experience and starts before candidate's 2027 availability.",
     "years_required": 2
   },
-  "b3f3b6702801d55e": {
-    "company": "Iowa State University",
-    "first_seen": "2026-09-16",
-    "fit_score": 2,
-    "location": "Ames, Iowa",
-    "posted_at": "2026-09-16T06:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Developer I",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-developer-i-at-iowa-state-university-4466582014",
-    "verified": true,
-    "verify_reason": "Early career role, but wrong start timing for January 2027.",
-    "years_required": 0
-  },
   "b44458ecf0655b90": {
     "company": "The Hartford",
     "first_seen": "2026-08-28",
@@ -4453,21 +4358,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609"
-  },
-  "b447dc4b17d3c46a": {
-    "company": "Cursor",
-    "first_seen": "2026-09-16",
-    "fit_score": 2,
-    "location": "San Francisco",
-    "posted_at": "2026-09-16T00:07:09.327000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Research Tools",
-    "role_category": "swe",
-    "source": "Ashby:cursor",
-    "url": "https://jobs.ashbyhq.com/cursor/c1ac67d4-645a-4632-a178-ea6b5f49bb26",
-    "verified": true,
-    "verify_reason": "Requires prior experience shipping products; start date mismatch (Jan 2027).",
-    "years_required": 0
   },
   "b44cbebd0cfd26fa": {
     "company": "Heliux",
@@ -4606,23 +4496,6 @@
     "url": "https://jobs.lever.co/palantir/44d3394e-003e-4609-b864-ff141e233635",
     "verified": true,
     "verify_reason": "No experience required, suitable for new graduates.",
-    "years_required": 0
-  },
-  "bab8751511cfac9f": {
-    "clearance_required": true,
-    "company": "Raytheon",
-    "first_seen": "2026-09-16",
-    "fit_score": 5,
-    "location": "Portsmouth, Rhode Island",
-    "posted_at": "2026-09-15T21:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer I (Onsite)",
-    "role_category": "swe",
-    "salary": "$57,200 - $108,800",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-onsite-at-raytheon-4467902038",
-    "verified": true,
-    "verify_reason": "Perfect timeline match for entry-level role; requires security clearance.",
     "years_required": 0
   },
   "babdf58b0c7f69ae": {
@@ -4790,21 +4663,6 @@
     "verify_reason": "General entry-level role; does not specify 2027 start date.",
     "years_required": 0
   },
-  "c0fedd5de312d2b5": {
-    "company": "Vercel",
-    "first_seen": "2026-09-16",
-    "fit_score": 2,
-    "location": "Hybrid - San Francisco, New York City",
-    "posted_at": "2026-09-16T13:48:47-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Platform ",
-    "role_category": "swe",
-    "source": "Greenhouse:vercel",
-    "url": "https://job-boards.greenhouse.io/vercel/jobs/6195280004",
-    "verified": true,
-    "verify_reason": "Requires production infrastructure experience and wrong start timing.",
-    "years_required": 0
-  },
   "c12d4eb6dec331c0": {
     "company": "IBM",
     "first_seen": "2026-09-20",
@@ -4819,17 +4677,6 @@
     "verified": true,
     "verify_reason": "Targets 2026 graduates, perfect timeline match for January 2027 availability.",
     "years_required": 0
-  },
-  "c1a31672bf19996d": {
-    "company": "Spatial Front, Inc",
-    "first_seen": "2026-09-16",
-    "location": "Arlington, Virginia",
-    "posted_at": "2026-09-15T15:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Associate Software Developer \u2014 Recent Graduates",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/associate-software-developer-%E2%80%94-recent-graduates-at-spatial-front-inc-4438972097"
   },
   "c2b04a7260abc933": {
     "company": "talentpluto",
@@ -4909,21 +4756,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685"
-  },
-  "c4c976e91e91e852": {
-    "company": "Cox Automotive",
-    "first_seen": "2026-09-16",
-    "fit_score": 1,
-    "location": "Pflugerville, Texas",
-    "posted_at": "2026-09-16T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Entry Level Software Engineer",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://bebee.com/us/jobs/entry-level-software-engineer-cox-automotive-pflugerville-tx-us--jobgoal-29194_f3ee4185-8782-492c-8b5e-83d76d1c59ed",
-    "verified": true,
-    "verify_reason": "Immediate hire role; candidate not available until January 2027.",
-    "years_required": 0
   },
   "c52fa56179d2bcb5": {
     "company": "Microsoft",
@@ -5253,6 +5085,21 @@
     "verify_reason": "Requires 1+ year technical sales experience; timing mismatch for 2027.",
     "years_required": 1
   },
+  "d4fd5c3772752432": {
+    "company": "Lyft",
+    "first_seen": "2026-10-17",
+    "fit_score": 3,
+    "location": "Seattle, WA",
+    "posted_at": "2026-10-16T22:05:19-04:00",
+    "posting_type": "verified_entry",
+    "role": "Business Systems Engineer",
+    "role_category": "platform",
+    "source": "Greenhouse:lyft",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8896654002?gh_jid=8896654002",
+    "verified": true,
+    "verify_reason": "Requires Master's degree and 2 years of specialized Oracle experience.",
+    "years_required": 2
+  },
   "d54825c3fda9725c": {
     "company": "Affirm",
     "first_seen": "2026-10-07",
@@ -5492,21 +5339,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "e02b7f5616a807f1": {
-    "company": "Stripe",
-    "first_seen": "2026-09-16",
-    "fit_score": 2,
-    "location": "Seattle, San Francisco, New York",
-    "posted_at": "2026-09-15T19:32:22-04:00",
-    "posting_type": "verified_entry",
-    "role": "Backend Engineer, Intelligent Commerce",
-    "role_category": "swe",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=7988264",
-    "verified": true,
-    "verify_reason": "No experience required, but timing mismatches January 2027 availability.",
-    "years_required": 0
   },
   "e094753ccd877d1a": {
     "company": "Anyscale",
@@ -5886,21 +5718,6 @@
     "url": "https://www.linkedin.com/jobs/view/2027-entry-level-systems-engineer-controls-specialist-at-rovisys-building-technologies-4462316098",
     "verified": true,
     "verify_reason": "Targets 2027 college graduates, matching candidate's graduation and availability timeline.",
-    "years_required": 0
-  },
-  "f1c6a0ed2eb3428c": {
-    "company": "Samsara",
-    "first_seen": "2026-09-16",
-    "fit_score": 2,
-    "location": "Remote - US",
-    "posted_at": "2026-09-16T14:31:53-04:00",
-    "posting_type": "verified_entry",
-    "role": "Enterprise Implementation Consultant",
-    "role_category": "consulting",
-    "source": "Greenhouse:samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8209046?gh_jid=8209046",
-    "verified": true,
-    "verify_reason": "Implementation consultant role; timing mismatches January 2027 availability.",
     "years_required": 0
   },
   "f2f172d957ab35ed": {
