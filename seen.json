@@ -1,19 +1,4 @@
 {
-  "00143477efc041f8": {
-    "company": "Airbnb",
-    "first_seen": "2026-09-18",
-    "fit_score": 1,
-    "location": "San Francisco, CA",
-    "posted_at": "2026-09-18T16:54:20-04:00",
-    "posting_type": "verified_entry",
-    "role": "Business Systems Engineer, Tech Foundations",
-    "role_category": "platform",
-    "source": "Greenhouse:airbnb",
-    "url": "https://careers.airbnb.com/positions/8214444?gh_jid=8214444",
-    "verified": true,
-    "verify_reason": "Candidate available January 2027; role is for immediate hire.",
-    "years_required": 0
-  },
   "008463bffc0cd3f7": {
     "company": "Zipline",
     "first_seen": "2026-08-26",
@@ -416,17 +401,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449"
   },
-  "1466f3464c7a7abb": {
-    "company": "Stripe",
-    "first_seen": "2026-09-18",
-    "location": "San Francisco, Seattle, New York",
-    "posted_at": "2026-09-17T19:22:32-04:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, Early Career \u2014 Immediate Start",
-    "role_category": "swe",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8212508"
-  },
   "1467c1586e1ad5b5": {
     "company": "Ubiquiti Inc.",
     "first_seen": "2026-10-05",
@@ -821,22 +795,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7"
   },
-  "2715a67300bcdf2b": {
-    "clearance_required": true,
-    "company": "SkillStorm",
-    "first_seen": "2026-09-18",
-    "fit_score": 1,
-    "location": "Dallas, Texas",
-    "posted_at": "2026-09-18T13:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Entry Level Software Developer",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-skillstorm-4469173320",
-    "verified": true,
-    "verify_reason": "Wrong start timing for January 2027 availability; targets immediate hires.",
-    "years_required": 0
-  },
   "2729e85071c1dc5f": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
@@ -928,22 +886,6 @@
     "role_category": "swe",
     "source": "Greenhouse:nuro",
     "url": "https://nuro.ai/careersitem?gh_jid=8227399"
-  },
-  "2a123e67fca337c4": {
-    "company": "BAE Systems",
-    "first_seen": "2026-09-18",
-    "fit_score": 2,
-    "location": "Hudson, New Hampshire",
-    "posted_at": "2026-09-17T23:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer II",
-    "role_category": "swe",
-    "salary": "$79,365 - $134,921",
-    "source": "JSearch",
-    "url": "https://jobs.baesystems.com/global/en/job/130079BR/Software-Engineer-II",
-    "verified": true,
-    "verify_reason": "Requires 2 years of experience and immediate availability; candidate graduates December 2026.",
-    "years_required": 2
   },
   "2a2cff0d7d1e717d": {
     "company": "Leidos",
@@ -1549,21 +1491,6 @@
     "verify_reason": "Entry level software engineering role requiring no prior experience.",
     "years_required": 0
   },
-  "3d225850e60ab944": {
-    "company": "Mastercard",
-    "first_seen": "2026-09-17",
-    "fit_score": 5,
-    "location": "",
-    "posted_at": "2026-09-17T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Launch Program 2027 \u2013 United States",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://careers.mastercard.com/us/en/job/R-288578/Software-Engineer-Launch-Program-2027-United-States",
-    "verified": true,
-    "verify_reason": "Perfect match targeting December 2026 graduates starting in 2027.",
-    "years_required": 0
-  },
   "3d96bba0b8c363fc": {
     "company": "Blackstone",
     "first_seen": "2026-07-24",
@@ -2130,21 +2057,6 @@
     "source": "Ashby:perplexity",
     "url": "https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409"
   },
-  "577383e6374b6e90": {
-    "company": "DoorDash",
-    "first_seen": "2026-09-17",
-    "fit_score": 1,
-    "location": "Los Angeles, California",
-    "posted_at": "2026-09-16T20:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Full Stack - Developer Insights",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-developer-insights-at-doordash-4466235207",
-    "verified": true,
-    "verify_reason": "Candidate available January 2027; role requires immediate start.",
-    "years_required": 2
-  },
   "580504bcd77c216c": {
     "company": "Mettler-Toledo International, Inc",
     "first_seen": "2026-10-14",
@@ -2503,6 +2415,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "69c4e631e8e7b282": {
+    "company": "Anthropic",
+    "first_seen": "2026-10-19",
+    "fit_score": 1,
+    "location": "New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA",
+    "posted_at": "2026-10-19T01:09:10-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Memory & Search",
+    "role_category": "swe",
+    "source": "Greenhouse:anthropic",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456453008",
+    "verified": true,
+    "verify_reason": "Immediate start role mismatches candidate availability in January 2027.",
+    "years_required": 0
+  },
   "6aa7c2c10a7942c6": {
     "company": "HP",
     "first_seen": "2026-07-23",
@@ -2583,17 +2510,6 @@
     "verified": true,
     "verify_reason": "Candidate not available until January 2027 for immediate hiring need.",
     "years_required": 0
-  },
-  "70bb6339d3bfb287": {
-    "company": "General Motors",
-    "first_seen": "2026-09-17",
-    "location": "Warren, Michigan",
-    "posted_at": "2026-09-16T07:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Data Engineer - Data Software Engineering and Cloud Platforms, Early Career",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://search-careers.gm.com/en/jobs/jr-202620428/data-engineer-data-software-engineering-and-cloud-platforms-early-career/"
   },
   "719b64a074d9e357": {
     "company": "Game Plan Tech",
@@ -4409,21 +4325,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321"
   },
-  "b64058f9a8dfec29": {
-    "company": "CGI Technologies and Solutions, Inc.",
-    "first_seen": "2026-09-18",
-    "fit_score": 1,
-    "location": "Belton, Texas",
-    "posted_at": "2026-09-18T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer -- Entry Level",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://jobs.digitalhire.com/job-listing/opening/27sfDjvRkne5i4fK8kjzHa",
-    "verified": true,
-    "verify_reason": "Application period is Fall 2024; candidate is not available until 2027.",
-    "years_required": 0
-  },
   "b797a8eeb78eebff": {
     "company": "Lockheed Martin",
     "first_seen": "2026-10-08",
@@ -5070,21 +4971,6 @@
     "verify_reason": "Requires minimum of 2 years of experience.",
     "years_required": 2
   },
-  "d499d309a77000bc": {
-    "company": "Datadog",
-    "first_seen": "2026-09-17",
-    "fit_score": 1,
-    "location": "Denver, Colorado, USA",
-    "posted_at": "2026-09-17T14:29:57-04:00",
-    "posting_type": "verified_entry",
-    "role": "Sales Engineer (Customer Success)",
-    "role_category": "sales_eng",
-    "source": "Greenhouse:datadog",
-    "url": "https://careers.datadoghq.com/detail/8204163/?gh_jid=8204163",
-    "verified": true,
-    "verify_reason": "Requires 1+ year technical sales experience; timing mismatch for 2027.",
-    "years_required": 1
-  },
   "d4fd5c3772752432": {
     "company": "Lyft",
     "first_seen": "2026-10-17",
@@ -5250,21 +5136,6 @@
     "role_category": "product",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Product-Manager--Associate---Investor-Technology_45126"
-  },
-  "db836b9f4d84504e": {
-    "company": "Reddit",
-    "first_seen": "2026-09-17",
-    "fit_score": 1,
-    "location": "Remote - United States",
-    "posted_at": "2026-09-17T13:07:34-04:00",
-    "posting_type": "verified_entry",
-    "role": "Front End Software Engineer, Consumer Engineering",
-    "role_category": "swe",
-    "source": "Greenhouse:reddit",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8147559",
-    "verified": true,
-    "verify_reason": "Candidate available January 2027; role requires immediate start.",
-    "years_required": 0
   },
   "dc2316cc6990f3b9": {
     "company": "TikTok",
@@ -5444,21 +5315,6 @@
     "url": "https://www.linkedin.com/jobs/view/software-engineer-developer-i-onsite-at-raytheon-4473971043",
     "verified": true,
     "verify_reason": "Entry-level role with perfect timing for a December 2026 graduate.",
-    "years_required": 0
-  },
-  "e3ed3b39593ad240": {
-    "company": "Crusoe",
-    "first_seen": "2026-09-17",
-    "fit_score": 1,
-    "location": "San Francisco, CA - US",
-    "posted_at": "2026-09-16T22:52:30.178000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer I, Network",
-    "role_category": "swe",
-    "source": "Ashby:crusoe",
-    "url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
-    "verified": true,
-    "verify_reason": "Great entry-level role, but start timing mismatches January 2027 availability.",
     "years_required": 0
   },
   "e409ccf278f1cb99": {
@@ -5650,17 +5506,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411"
-  },
-  "eec9d05c7d25e1f5": {
-    "company": "Nominal",
-    "first_seen": "2026-09-18",
-    "location": "Austin, Texas",
-    "posted_at": "2026-09-18T02:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer - New Grad (Summer 2027)",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-summer-2027-at-nominal-4463950891"
   },
   "ef7981777e17e386": {
     "clearance_required": true,
