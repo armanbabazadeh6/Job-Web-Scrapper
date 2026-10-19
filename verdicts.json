@@ -2351,6 +2351,17 @@
     "verified": false,
     "years": 8
   },
+  "53925d3163396abd": {
+    "cached_at": "2026-10-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "54109f921f0f0f19": {
     "cached_at": "2026-09-18",
     "clearance_required": false,
@@ -3271,6 +3282,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "795b9d7edaa17a05": {
+    "cached_at": "2026-10-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires owning ChromeOS end-to-end; timing mismatch for Jan 2027 availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "7992b45e7f58820a": {
     "cached_at": "2026-09-11",
@@ -5918,6 +5940,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "d4fe428df17ac0ac": {
+    "cached_at": "2026-10-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 8
   },
   "d5456c42884384a6": {
     "cached_at": "2026-09-02",
