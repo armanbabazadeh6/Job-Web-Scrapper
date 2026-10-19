@@ -5301,6 +5301,21 @@
     "verify_reason": "Perfect match for December 2026 graduate with 2027 start date.",
     "years_required": 0
   },
+  "e36a33103df6b236": {
+    "company": "Crusoe",
+    "first_seen": "2026-10-19",
+    "fit_score": 5,
+    "location": "San Francisco, CA - US",
+    "posted_at": "2026-10-19T16:47:29.046000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Production Engineer II",
+    "role_category": "platform",
+    "source": "Ashby:crusoe",
+    "url": "https://jobs.ashbyhq.com/crusoe/22877385-f9ac-4a5e-bce9-f3352476d8df",
+    "verified": true,
+    "verify_reason": "Explicitly an entry point into Production Engineering career.",
+    "years_required": 0
+  },
   "e372fedf8ab366bf": {
     "clearance_required": true,
     "company": "Raytheon",

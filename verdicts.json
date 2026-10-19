@@ -714,6 +714,17 @@
     "verified": true,
     "years": 5
   },
+  "1bb1034a21781803": {
+    "cached_at": "2026-10-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 7
+  },
   "1bdb67d57b37818e": {
     "cached_at": "2026-10-01",
     "clearance_required": false,
@@ -795,6 +806,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "209e620ff6ba7a0b": {
+    "cached_at": "2026-10-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Requires backend production experience, unspecified exact years.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
   },
   "214b8c99b26b4ee0": {
     "cached_at": "2026-09-01",
@@ -5705,6 +5727,17 @@
     "verified": true,
     "years": 0
   },
+  "d01714d643dac409": {
+    "cached_at": "2026-10-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires building large-scale CI/CD systems, implying mid-level experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "d09cbe3169e53e24": {
     "cached_at": "2026-10-01",
     "clearance_required": false,
@@ -6226,6 +6259,17 @@
     "reason": "Perfect match for December 2026 graduate with 2027 start date.",
     "salary": "$121,600-$243,200",
     "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "e36a33103df6b236": {
+    "cached_at": "2026-10-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Explicitly an entry point into Production Engineering career.",
+    "salary": null,
+    "seniority": "junior",
     "verified": true,
     "years": 0
   },
