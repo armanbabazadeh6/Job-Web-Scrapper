@@ -661,6 +661,17 @@
     "verified": true,
     "years": 4
   },
+  "1b42cb1e13f47d7f": {
+    "cached_at": "2026-10-20",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires leading product pods and feature launches for immediate hire.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "1b46ab509d550b39": {
     "cached_at": "2026-10-06",
     "clearance_required": false,
@@ -817,6 +828,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 2
+  },
+  "214231b035e74300": {
+    "cached_at": "2026-10-20",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires practical experience optimizing machine learning workloads on TPUs.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "214b8c99b26b4ee0": {
     "cached_at": "2026-09-01",
@@ -1916,6 +1938,17 @@
     "reason": "College grad 2027 start matching candidate timeline perfectly.",
     "salary": null,
     "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "42de521f9e88b592": {
+    "cached_at": "2026-10-20",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires managing product roadmaps and feature execution for immediate hire.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },
@@ -5059,6 +5092,17 @@
     "verified": true,
     "years": 2
   },
+  "b3d66f8723946d35": {
+    "cached_at": "2026-10-20",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years experience building distributed data systems.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
+  },
   "b3f3b6702801d55e": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
@@ -6787,6 +6831,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "f699e5ac0677b5e4": {
+    "cached_at": "2026-10-20",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires prior government systems and deep Salesforce Service Cloud experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "f6fd2f135d2a488b": {
     "cached_at": "2026-08-31",
