@@ -476,23 +476,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138"
   },
-  "167787a1bf0eb7d3": {
-    "clearance_required": true,
-    "company": "BAE Systems",
-    "first_seen": "2026-09-19",
-    "fit_score": 5,
-    "location": "San Diego, California",
-    "posted_at": "2026-09-19T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "2026 Entry Level Software Engineer - Full-time",
-    "role_category": "swe",
-    "salary": "$64,723 - $103,557",
-    "source": "JSearch",
-    "url": "https://jobs.digitalhire.com/job-listing/opening/69F0CGPAK6AS9iDz5ScJVg",
-    "verified": true,
-    "verify_reason": "Perfect match for 2026 graduate; requires security clearance eligibility.",
-    "years_required": 0
-  },
   "18bd4d913ab2b67e": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-08-29",
@@ -1528,21 +1511,6 @@
     "verify_reason": "No experience requirement stated; suitable for new graduates.",
     "years_required": 0
   },
-  "3f77596c7f369433": {
-    "company": "Reddit",
-    "first_seen": "2026-09-19",
-    "fit_score": 1,
-    "location": "Remote - United States",
-    "posted_at": "2026-09-18T19:35:09-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Ingestion Platform",
-    "role_category": "swe",
-    "source": "Greenhouse:reddit",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8214910",
-    "verified": true,
-    "verify_reason": "Immediate hire role mismatches candidate's January 2027 availability.",
-    "years_required": 0
-  },
   "3fb4f80d6d3845ee": {
     "company": "Cognizant",
     "first_seen": "2026-09-26",
@@ -1714,6 +1682,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002"
+  },
+  "44b30b053578c06c": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-10-20",
+    "fit_score": 1,
+    "location": "United States",
+    "posted_at": "2026-10-19T23:13:41.065000+00:00",
+    "posting_type": "verified_entry",
+    "role": "HPC Infrastructure Engineer - GPU Clusters",
+    "role_category": "platform",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/120da2b3-d88b-4e3c-9b89-d19ff73db9d9",
+    "verified": true,
+    "verify_reason": "Candidate available Jan 2027; immediate hire role is timing mismatch.",
+    "years_required": 0
   },
   "45d00f2f6c9edf81": {
     "company": "TikTok",
@@ -1907,17 +1890,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08"
   },
-  "4fa051c9098f2882": {
-    "company": "AIG",
-    "first_seen": "2026-09-19",
-    "location": "Jersey City, NJCharlotte, NC",
-    "posted_at": "2026-09-20T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Technology Analyst",
-    "role_category": "consulting",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
-  },
   "504dc3af439d1e8c": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -2046,16 +2018,16 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://draper.wd5.myworkdayjobs.com/en-US/draper_careers/job/Cambridge-MA/Full-Stack-Web-Development-Co-Op--Spring-2027-_JR002832-1"
   },
-  "55bdfce9747d9f6b": {
-    "company": "Perplexity",
-    "first_seen": "2026-09-19",
-    "location": "San Francisco",
-    "posted_at": "2026-09-18T23:01:00.672000+00:00",
+  "5540404b50319577": {
+    "company": "Palantir",
+    "first_seen": "2026-10-20",
+    "location": "New York, NY",
+    "posted_at": "2026-10-19T23:45:22.249000+00:00",
     "posting_type": "new_grad",
-    "role": "Member of Technical Staff, AI Products (Early Career - Industry)",
+    "role": "Software Engineer, New Grad - Query Engines",
     "role_category": "swe",
-    "source": "Ashby:perplexity",
-    "url": "https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409"
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac"
   },
   "580504bcd77c216c": {
     "company": "Mettler-Toledo International, Inc",
@@ -2392,17 +2364,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "6822ba4c5e9fd986": {
-    "company": "Chicago Trading Company",
-    "first_seen": "2026-07-21",
-    "location": "Chicago, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Internship - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005"
   },
   "6881e71452bb75e4": {
     "company": "TikTok",
@@ -2746,17 +2707,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/blackstar/2599ef82-3105-4a12-a1d6-63b9f6ed567a"
   },
-  "799ccc53d30a5978": {
-    "company": "Google",
-    "first_seen": "2026-07-21",
-    "location": "Mountain View, CA +29",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - BS - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "79e568535f1b3553": {
     "company": "Zettabyte",
     "first_seen": "2026-09-29",
@@ -2941,21 +2891,6 @@
     "verify_reason": "No experience requirement stated; fast-paced startup consumer app role.",
     "years_required": 0
   },
-  "8107e37abaf38d6c": {
-    "company": "IBM",
-    "first_seen": "2026-09-19",
-    "fit_score": 5,
-    "location": "Durham, North Carolina",
-    "posted_at": "2026-09-18T15:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Entry Level Storage Client Solutions Engineer 2027 - NC",
-    "role_category": "sales_eng",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-storage-client-solutions-engineer-2027-nc-at-ibm-4458087751",
-    "verified": true,
-    "verify_reason": "Specifically targets 2027 graduates, matching candidate's availability perfectly.",
-    "years_required": 0
-  },
   "8109baa7bf89cfb1": {
     "company": "Pinterest",
     "first_seen": "2026-10-01",
@@ -3003,22 +2938,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "8274174039fae5fa": {
-    "company": "Visa",
-    "first_seen": "2026-09-19",
-    "fit_score": 5,
-    "location": "Bellevue, Washington",
-    "posted_at": "2026-09-18T07:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, New College Grad, Bellevue - 2027 | Bellevue, WA, USA",
-    "role_category": "swe",
-    "salary": "$114,400",
-    "source": "JSearch",
-    "url": "https://www.efinancialcareers.com/jobs-USA-WA-Bellevue-Software_Engineer_New_College_Grad_Bellevue_-_2027.id24791779",
-    "verified": true,
-    "verify_reason": "Perfect match for December 2026 graduate starting in 2027.",
-    "years_required": 0
   },
   "82f3e278914e230a": {
     "company": "Notion",
@@ -3669,21 +3588,6 @@
     "source": "JSearch",
     "url": "https://jobs.digitalhire.com/job-listing/opening/6zai3Jzrx6OO5M87SZeKi0"
   },
-  "9cbfa06cceaa7caf": {
-    "company": "Lyft",
-    "first_seen": "2026-09-19",
-    "fit_score": 1,
-    "location": "San Francisco, CA",
-    "posted_at": "2026-09-18T18:40:33-04:00",
-    "posting_type": "verified_entry",
-    "role": "Backend Software Engineer, Airports",
-    "role_category": "swe",
-    "source": "Greenhouse:lyft",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002",
-    "verified": true,
-    "verify_reason": "Requires 2+ years experience and immediate start; candidate graduates December 2026.",
-    "years_required": 2
-  },
   "9ce8ba848cf3f184": {
     "company": "Suno",
     "first_seen": "2026-10-09",
@@ -4285,23 +4189,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef"
-  },
-  "b4d3a93e9afa849f": {
-    "clearance_required": true,
-    "company": "KBR Careers",
-    "first_seen": "2026-09-19",
-    "fit_score": 1,
-    "location": "Columbia, Maryland",
-    "posted_at": "2026-09-18T18:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "JR Software Engineer",
-    "role_category": "swe",
-    "salary": "$81,900-$115,200",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/jr-software-engineer-at-kbr-careers-4469217355",
-    "verified": true,
-    "verify_reason": "Requires active TS/SCI clearance and start date is January 2027.",
-    "years_required": 0
   },
   "b55971557f624e89": {
     "company": "Rockwell Automation",
@@ -4956,21 +4843,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004"
   },
-  "d3f84c2338f3a1fe": {
-    "company": "Pinterest",
-    "first_seen": "2026-09-19",
-    "fit_score": 2,
-    "location": "San Francisco, CA, US; Remote, US",
-    "posted_at": "2026-09-18T20:32:32-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer II, Data Analytics & Engineering",
-    "role_category": "swe",
-    "source": "Greenhouse:pinterest",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988",
-    "verified": true,
-    "verify_reason": "Requires minimum of 2 years of experience.",
-    "years_required": 2
-  },
   "d4fd5c3772752432": {
     "company": "Lyft",
     "first_seen": "2026-10-17",
@@ -5434,17 +5306,6 @@
     "verify_reason": "Clear timing mismatch; candidate is not available until January 2027.",
     "years_required": 0
   },
-  "ea5ddba6f0ec1ce4": {
-    "company": "Google",
-    "first_seen": "2026-07-21",
-    "location": "Mountain View, CA +29",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - MS - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "ea7ae322991ca03b": {
     "company": "Bosch",
     "first_seen": "2026-07-29",
@@ -5466,17 +5327,6 @@
     "role_category": "swe",
     "source": "JSearch",
     "url": "https://simplify.jobs/p/90326487-43c7-4181-ac71-44e331484bf4/Software-Engineer-College-Grad"
-  },
-  "eb1372056a0e0a41": {
-    "company": "Perplexity",
-    "first_seen": "2026-09-19",
-    "location": "San Francisco",
-    "posted_at": "2026-09-18T23:01:00.672000+00:00",
-    "posting_type": "new_grad",
-    "role": "Member of Technical Staff, AI Products (Early Career)",
-    "role_category": "swe",
-    "source": "Ashby:perplexity",
-    "url": "https://jobs.ashbyhq.com/perplexity/daa9120e-94ff-46e0-b4bd-4d2d290cb409"
   },
   "eb903af2289f04c4": {
     "company": "Metaphor",
