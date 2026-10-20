@@ -4816,6 +4816,21 @@
     "verify_reason": "Requires active Secret clearance and immediate start before January 2027.",
     "years_required": 0
   },
+  "d2d0cb299c779876": {
+    "company": "Cursor",
+    "first_seen": "2026-10-20",
+    "fit_score": 2,
+    "location": "Palo Alto, CA",
+    "posted_at": "2026-10-20T01:56:55.619000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Research Tooling",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/fa7a821b-ca2b-43fe-8942-07f215a060c7",
+    "verified": true,
+    "verify_reason": "Immediate start role mismatches candidate's January 2027 availability date.",
+    "years_required": 0
+  },
   "d2d37d46362bca09": {
     "company": "Affirm",
     "first_seen": "2026-10-15",

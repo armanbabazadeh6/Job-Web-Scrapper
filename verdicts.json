@@ -5831,6 +5831,17 @@
     "verified": false,
     "years": 6
   },
+  "d2d0cb299c779876": {
+    "cached_at": "2026-10-20",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Immediate start role mismatches candidate's January 2027 availability date.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "d2d37d46362bca09": {
     "cached_at": "2026-10-15",
     "clearance_required": false,
