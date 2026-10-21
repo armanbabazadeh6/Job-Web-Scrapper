@@ -269,6 +269,17 @@
     "verified": false,
     "years": 5
   },
+  "0bd9828584c10397": {
+    "cached_at": "2026-10-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of experience as a Product Manager.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "0d0f7a485a0c1d9f": {
     "cached_at": "2026-09-17",
     "clearance_required": false,
@@ -3175,6 +3186,17 @@
     "verified": true,
     "years": 0
   },
+  "6c71ab7f54444175": {
+    "cached_at": "2026-10-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of experience; candidate graduates December 2026.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "6c8bdadd143ded72": {
     "cached_at": "2026-09-21",
     "clearance_required": false,
@@ -3796,6 +3818,17 @@
     "verified": true,
     "years": 3
   },
+  "86e40032e7578cdc": {
+    "cached_at": "2026-10-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires deep paid growth expertise; start timing mismatches availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "87324ebc42ac51ff": {
     "cached_at": "2026-10-14",
     "clearance_required": false,
@@ -4132,6 +4165,17 @@
     "seniority": null,
     "verified": false,
     "years": 10
+  },
+  "91b9da931711aec7": {
+    "cached_at": "2026-10-21",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Accepts early-career experience, but start timing mismatches availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
   },
   "91c14e7168e5cff6": {
     "cached_at": "2026-09-12",

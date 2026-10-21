@@ -3169,6 +3169,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "91b9da931711aec7": {
+    "company": "Sierra",
+    "first_seen": "2026-10-21",
+    "fit_score": 2,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-10-21T18:24:28.540000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Associate Sales Engineer",
+    "role_category": "sales_eng",
+    "source": "Ashby:sierra",
+    "url": "https://jobs.ashbyhq.com/sierra/cfecdf07-ee22-45a0-b472-5de10f167984",
+    "verified": true,
+    "verify_reason": "Accepts early-career experience, but start timing mismatches availability.",
+    "years_required": 1
+  },
   "928666f62de79bca": {
     "company": "SynergisticIT",
     "first_seen": "2026-10-14",
