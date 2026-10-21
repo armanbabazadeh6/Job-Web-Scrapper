@@ -2559,6 +2559,21 @@
     "verify_reason": "L2 engineering role matching new graduate timing for January 2027.",
     "years_required": 0
   },
+  "7460a2d6b9c3e03e": {
+    "company": "Supabase",
+    "first_seen": "2026-10-21",
+    "fit_score": 2,
+    "location": "Remote, Global",
+    "posted_at": "2026-10-21T21:46:43.334000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer - Turso",
+    "role_category": "swe",
+    "source": "Ashby:supabase",
+    "url": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
+    "verified": true,
+    "verify_reason": "Requires prior experience writing databases, OS kernels, or low-level systems.",
+    "years_required": 0
+  },
   "7476172cd7ca8106": {
     "company": "SRI International",
     "first_seen": "2026-08-05",
@@ -3704,6 +3719,21 @@
     "source": "Ashby:harvey",
     "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5"
   },
+  "a38a6ee7874d3113": {
+    "company": "Purestorage",
+    "first_seen": "2026-10-21",
+    "fit_score": 5,
+    "location": "Santa Clara, California",
+    "posted_at": "2026-10-21T17:45:45-04:00",
+    "posting_type": "verified_entry",
+    "role": "Junior DevOps Engineer",
+    "role_category": "platform",
+    "source": "Greenhouse:purestorage",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8282746",
+    "verified": true,
+    "verify_reason": "Explicit entry-level junior role suitable for early career candidates.",
+    "years_required": 0
+  },
   "a3a23ae28735ae41": {
     "clearance_required": true,
     "company": "Tactical Engineering & Analysis",
@@ -3734,6 +3764,21 @@
     "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-general-dynamics-electric-boat-4470004127",
     "verified": true,
     "verify_reason": "Candidate available Jan 2027; job is for immediate hire.",
+    "years_required": 0
+  },
+  "a472d3edbacad9d4": {
+    "company": "Openai",
+    "first_seen": "2026-10-21",
+    "fit_score": 2,
+    "location": "San Francisco",
+    "posted_at": "2026-10-21T22:55:41.495000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Privacy Engineering (Lawful Access)",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835",
+    "verified": true,
+    "verify_reason": "Requires specialized experience in lawful data access request systems.",
     "years_required": 0
   },
   "a58c0989f9dca009": {
@@ -5135,6 +5180,17 @@
     "verified": true,
     "verify_reason": "Entry-level role with perfect timing for a December 2026 graduate.",
     "years_required": 0
+  },
+  "e3e040273b4cff31": {
+    "company": "Affirm",
+    "first_seen": "2026-10-21",
+    "location": "New York, New York, United States; San Francisco, California, United States",
+    "posted_at": "2026-10-21T17:16:19-04:00",
+    "posting_type": "new_grad",
+    "role": "Analyst, Early Career (Full Stack)",
+    "role_category": "swe",
+    "source": "Greenhouse:affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003"
   },
   "e409ccf278f1cb99": {
     "company": "Univera Healthcare",

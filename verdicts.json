@@ -187,6 +187,17 @@
     "verified": true,
     "years": 0
   },
+  "08727169aa2347cf": {
+    "cached_at": "2026-10-21",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 7
+  },
   "09128030a7824fad": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -3361,6 +3372,17 @@
     "verified": true,
     "years": 0
   },
+  "7460a2d6b9c3e03e": {
+    "cached_at": "2026-10-21",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires prior experience writing databases, OS kernels, or low-level systems.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "74e2dec8244f531c": {
     "cached_at": "2026-09-17",
     "clearance_required": false,
@@ -4749,6 +4771,17 @@
     "verified": false,
     "years": 5
   },
+  "a38a6ee7874d3113": {
+    "cached_at": "2026-10-21",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Explicit entry-level junior role suitable for early career candidates.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "a3a23ae28735ae41": {
     "cached_at": "2026-10-13",
     "clearance_required": true,
@@ -4800,6 +4833,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "a472d3edbacad9d4": {
+    "cached_at": "2026-10-21",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires specialized experience in lawful data access request systems.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "a4a8daf2bf88180f": {
     "cached_at": "2026-09-04",
