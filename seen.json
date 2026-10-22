@@ -635,6 +635,17 @@
     "source": "Greenhouse:figma",
     "url": "https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004"
   },
+  "1cf79e6c43362a4d": {
+    "company": "Palantir",
+    "first_seen": "2026-10-22",
+    "location": "New York, NY",
+    "posted_at": "2026-10-22T21:42:07.001000+00:00",
+    "posting_type": "new_grad",
+    "role": "Deployment Strategist, New Grad - Warp Speed",
+    "role_category": "swe",
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387"
+  },
   "1d4e3a47b04aa6a7": {
     "company": "Brunswick",
     "first_seen": "2026-08-25",
@@ -3487,6 +3498,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "96ec8a82ffa3d1a9": {
+    "company": "Palantir",
+    "first_seen": "2026-10-22",
+    "location": "New York, NY",
+    "posted_at": "2026-10-22T21:34:28.169000+00:00",
+    "posting_type": "new_grad",
+    "role": "Forward Deployed Software Engineer, New Grad - Warp Speed",
+    "role_category": "swe",
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"
   },
   "98b86ac96ca2527e": {
     "company": "Blackstone",
