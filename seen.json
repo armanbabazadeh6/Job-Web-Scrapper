@@ -192,6 +192,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
   },
+  "0a6897677e58043f": {
+    "company": "Openai",
+    "first_seen": "2026-10-22",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-10-22T16:41:00.891000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Identity Infrastructure",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/551b0d0d-46c2-42fb-bb05-46e2fba8d4db",
+    "verified": true,
+    "verify_reason": "Start timing mismatch for candidate graduating in December 2026.",
+    "years_required": 0
+  },
   "0af49df16c67eb2f": {
     "company": "Replit",
     "first_seen": "2026-08-17",
@@ -1250,6 +1265,21 @@
     "role_category": "swe",
     "source": "JSearch",
     "url": "https://remote.com/jobs/id-me-c1958yb8/software-engineer-ii-developer-portal-new-grad-early-career-j1kpqfrk"
+  },
+  "366728b190563963": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-10-22",
+    "fit_score": 1,
+    "location": "Remote",
+    "posted_at": "2026-10-22T17:11:28.107000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Android Engineer - Creative App",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/b380fb97-bb18-46a5-91db-5132e6693e93",
+    "verified": true,
+    "verify_reason": "Start timing mismatch for candidate graduating in December 2026.",
+    "years_required": 0
   },
   "3690bc44e0c9f4cf": {
     "company": "Raytheon",
@@ -2354,6 +2384,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "691f0a6749860bf7": {
+    "company": "Stripe",
+    "first_seen": "2026-10-22",
+    "fit_score": 1,
+    "location": "South San Francisco, CA",
+    "posted_at": "2026-10-22T13:01:03-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer",
+    "role_category": "swe",
+    "salary": "$156,800 - $235,200/yr.",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8314283",
+    "verified": true,
+    "verify_reason": "Requires 2 years experience and immediate availability before Jan 2027.",
+    "years_required": 2
   },
   "69c4e631e8e7b282": {
     "company": "Anthropic",
@@ -3979,6 +4025,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://www.workatastartup.com/jobs/83356?utm_source=vansh"
   },
+  "b1c051c632083e80": {
+    "company": "Stripe",
+    "first_seen": "2026-10-22",
+    "fit_score": 1,
+    "location": "South San Francisco, CA",
+    "posted_at": "2026-10-22T12:43:29-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Resource Automation",
+    "role_category": "swe",
+    "salary": "$156,800.00 - $235,200.00/yr.",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8314235",
+    "verified": true,
+    "verify_reason": "Requires 2 years experience and immediate availability before Jan 2027.",
+    "years_required": 2
+  },
   "b1dd8f6b7367d2cd": {
     "company": "Teledyne",
     "first_seen": "2026-08-14",
@@ -4579,6 +4641,21 @@
     "role_category": "platform",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631"
+  },
+  "cc43e884d234d426": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-10-22",
+    "fit_score": 1,
+    "location": "Remote",
+    "posted_at": "2026-10-22T17:12:49.379000+00:00",
+    "posting_type": "verified_entry",
+    "role": "iOS Engineer - Creative App",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/815547bf-0ade-482d-84b0-4163ab1161e5",
+    "verified": true,
+    "verify_reason": "Start timing mismatch for candidate graduating in December 2026.",
+    "years_required": 0
   },
   "ccd7912e2425a2c1": {
     "company": "Samsara",

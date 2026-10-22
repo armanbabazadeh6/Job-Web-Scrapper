@@ -250,6 +250,17 @@
     "verified": true,
     "years": 5
   },
+  "0a6897677e58043f": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Start timing mismatch for candidate graduating in December 2026.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "0a6b4f3ffe828bf2": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1681,6 +1692,17 @@
     "verified": true,
     "years": 2
   },
+  "366728b190563963": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Start timing mismatch for candidate graduating in December 2026.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "36983b33b8cf4c4f": {
     "cached_at": "2026-09-21",
     "clearance_required": false,
@@ -3066,6 +3088,17 @@
     "verified": true,
     "years": 3
   },
+  "64a52a7553f2fe90": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "64a8f11c583c0a59": {
     "cached_at": "2026-09-29",
     "clearance_required": false,
@@ -3177,6 +3210,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 6
+  },
+  "691f0a6749860bf7": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2 years experience and immediate availability before Jan 2027.",
+    "salary": "$156,800 - $235,200/yr.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "69c4e631e8e7b282": {
     "cached_at": "2026-10-19",
@@ -5378,6 +5422,17 @@
     "verified": true,
     "years": 2
   },
+  "b1c051c632083e80": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2 years experience and immediate availability before Jan 2027.",
+    "salary": "$156,800.00 - $235,200.00/yr.",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "b2184d00192a2f24": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -6191,6 +6246,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "cc43e884d234d426": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Start timing mismatch for candidate graduating in December 2026.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "cded6820f5f9bf2e": {
     "cached_at": "2026-09-01",
