@@ -280,6 +280,17 @@
     "verified": false,
     "years": 5
   },
+  "0b9e664af12e8cb6": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "0bd9828584c10397": {
     "cached_at": "2026-10-21",
     "clearance_required": false,
@@ -1496,6 +1507,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 6
+  },
+  "322283b35219798f": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "3249759db92788eb": {
     "cached_at": "2026-08-31",
@@ -3498,6 +3520,17 @@
     "verified": true,
     "years": 0
   },
+  "77094ed73540195e": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "78557935b5aa05b2": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -3660,6 +3693,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "7cb0f4e65d3c2cfd": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "7dbc8b8f641e9038": {
     "cached_at": "2026-09-04",
@@ -6823,6 +6867,17 @@
     "verified": false,
     "years": null
   },
+  "e5615371d8e53524": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate available January 2027; timing mismatch for immediate full-time role.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "e6bfb8a802827b07": {
     "cached_at": "2026-10-05",
     "clearance_required": false,
@@ -6968,6 +7023,17 @@
     "seniority": null,
     "verified": false,
     "years": 4
+  },
+  "ef270fd181d0a1a1": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "ef3b9fe94458dd6c": {
     "cached_at": "2026-09-02",
