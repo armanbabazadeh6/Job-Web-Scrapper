@@ -394,6 +394,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4333179009"
   },
+  "127d53ef2bac4d76": {
+    "company": "Cursor",
+    "first_seen": "2026-10-22",
+    "fit_score": 2,
+    "location": "San Francisco",
+    "posted_at": "2026-10-22T19:53:00.965000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Compute Infra",
+    "role_category": "swe",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56",
+    "verified": true,
+    "verify_reason": "Entry level role, but mismatched start timing for Jan 2027 availability.",
+    "years_required": 0
+  },
   "132af132d5b67c1c": {
     "company": "Microsoft",
     "first_seen": "2026-08-19",
@@ -929,6 +944,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Bethesda-MD/Software-Developer-Co-op_R-00190766"
+  },
+  "2a41992561675b54": {
+    "company": "Okta",
+    "first_seen": "2026-10-22",
+    "fit_score": 2,
+    "location": "Florida; New York, New York; Pennsylvania; Washington, DC",
+    "posted_at": "2026-10-22T15:01:09-04:00",
+    "posting_type": "verified_entry",
+    "role": "Solutions Engineering Associate, Auth0",
+    "role_category": "sales_eng",
+    "source": "Greenhouse:okta",
+    "url": "https://www.okta.com/company/careers/opportunity/8314196?gh_jid=8314196",
+    "verified": true,
+    "verify_reason": "Targeted at early career, but start timing mismatches Jan 2027 availability.",
+    "years_required": 0
   },
   "2b03d6ce728e6285": {
     "company": "Penn Mutual",

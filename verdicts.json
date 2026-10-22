@@ -519,6 +519,17 @@
     "verified": false,
     "years": 5
   },
+  "127d53ef2bac4d76": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Entry level role, but mismatched start timing for Jan 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "14409caca595a0f4": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1218,6 +1229,17 @@
     "entry_level": false,
     "reason": "Enterprise-level role requiring advanced solution architecture and advisory skills.",
     "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "2a41992561675b54": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Targeted at early career, but start timing mismatches Jan 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
     "verified": true,
     "years": 0
   },
@@ -1987,6 +2009,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "3fea1b26f16cdafa": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years experience and wrong start timing for candidate.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "4023610c6ca03537": {
     "cached_at": "2026-10-07",
@@ -6257,6 +6290,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "ccbcd9f189104f66": {
+    "cached_at": "2026-10-22",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years experience and wrong start timing for candidate.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "cded6820f5f9bf2e": {
     "cached_at": "2026-09-01",
