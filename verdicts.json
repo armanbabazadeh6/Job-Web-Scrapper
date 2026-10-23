@@ -154,6 +154,17 @@
     "verified": false,
     "years": 5
   },
+  "04a7f01f85ec0749": {
+    "cached_at": "2026-10-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "04d7d2cb92fb0650": {
     "cached_at": "2026-09-18",
     "clearance_required": false,
@@ -2392,6 +2403,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "4d11fa90ca305e9e": {
+    "cached_at": "2026-10-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "4d20be475b3a8514": {
     "cached_at": "2026-10-08",
@@ -6452,6 +6474,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "d08071835036154d": {
+    "cached_at": "2026-10-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "d08a6252801910bd": {
     "cached_at": "2026-10-21",

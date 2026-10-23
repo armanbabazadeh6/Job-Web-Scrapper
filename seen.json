@@ -140,21 +140,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
   },
-  "083d8837b6925cd4": {
-    "company": "Valeris",
-    "first_seen": "2026-09-22",
-    "fit_score": 3,
-    "location": "Morrisville, North Carolina",
-    "posted_at": "2026-09-21T21:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Junior Product Analyst",
-    "role_category": "product",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/junior-product-analyst-at-valeris-4468181037",
-    "verified": true,
-    "verify_reason": "Entry-level role, but unavailable until January 2027 graduate timeline.",
-    "years_required": 0
-  },
   "0991e64125a98061": {
     "company": "Copart",
     "first_seen": "2026-07-31",
@@ -262,6 +247,17 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Strategic-Incentives-Group---Global-Equity--Analyst_45164-2"
   },
+  "0d315ca1b948f9c3": {
+    "company": "Booz Allen",
+    "first_seen": "2026-10-23",
+    "location": "11 locationsHonolulu, HIAnnapolis Junction, MDColorado Springs, COMcLean, VARome, NYPanama City, FLCharleston, SCAtlanta, GAHuntsville, ALSan Diego, CAEl Segundo, CA",
+    "posted_at": "2026-10-23T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Systems Engineer \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "platform",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0252284?utm_source=vansh"
+  },
   "0d506fb9d95d38ec": {
     "company": "Affirm",
     "first_seen": "2026-10-06",
@@ -286,21 +282,6 @@
     "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
     "verified": true,
     "verify_reason": "No experience requirement stated, open to new graduates.",
-    "years_required": 0
-  },
-  "0f9ff574bb27b4f1": {
-    "company": "MasterCard",
-    "first_seen": "2026-09-22",
-    "fit_score": 5,
-    "location": "Holladay, Utah",
-    "posted_at": "2026-09-21T06:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Launch Program 2027 - United States",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.ziprecruiter.com/c/Mastercard/Job/Software-Engineer,-Launch-Program-2027-United-States/-in-Holladay,UT?jid=6b5449cf4b9c290c",
-    "verified": true,
-    "verify_reason": "Directly targets Dec 2026 graduates for 2027 full-time program.",
     "years_required": 0
   },
   "1100063b713918f4": {
@@ -598,21 +579,6 @@
     "verify_reason": "Requires leading product pods and feature launches for immediate hire.",
     "years_required": 0
   },
-  "1b8c6d9d069c0295": {
-    "company": "Keysight Technologies",
-    "first_seen": "2026-09-22",
-    "fit_score": 1,
-    "location": "Novi, Michigan",
-    "posted_at": "2026-09-22T02:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Manufacturing Test Solutions Engineer, Entry",
-    "role_category": "sales_eng",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/manufacturing-test-solutions-engineer-entry-at-keysight-technologies-4468195340",
-    "verified": true,
-    "verify_reason": "Candidate graduates December 2026; job is for immediate or near-term hire.",
-    "years_required": 0
-  },
   "1ba7ad267dbb563d": {
     "company": "TikTok",
     "first_seen": "2026-08-20",
@@ -782,6 +748,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
+  },
+  "22802731cfc826d1": {
+    "company": "Rendezvous Robotics",
+    "first_seen": "2026-10-23",
+    "location": "Golden, CO",
+    "posted_at": "2026-10-23T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Flight Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009?utm_source=vansh"
   },
   "231bf2fb9c4508d8": {
     "company": "Blackstone",
@@ -1527,17 +1504,6 @@
     "verify_reason": "Entry level software engineering role requiring no prior experience.",
     "years_required": 0
   },
-  "3d96bba0b8c363fc": {
-    "company": "Blackstone",
-    "first_seen": "2026-07-24",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Real Estate Finance - Strategic Analytics & Product Management, Associate",
-    "role_category": "product",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Real-Estate-Finance---Strategic-Analytics---Product-Management--Associate_44099-2"
-  },
   "3e0f85c604080f1b": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
@@ -1802,21 +1768,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "474b54b67daec05c": {
-    "company": "Cisco",
-    "first_seen": "2026-09-22",
-    "fit_score": 5,
-    "location": "Atlanta, Georgia",
-    "posted_at": "2026-09-22T13:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer Full Stack / Backend I (Full Time) - United States",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-backend-i-full-time-united-states-at-cisco-4461291578",
-    "verified": true,
-    "verify_reason": "Accepts bachelor's with 0 years experience, perfect match.",
-    "years_required": 0
   },
   "4762fd21ea308cb7": {
     "company": "First American",
@@ -2744,6 +2695,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434"
   },
+  "77fee65c59491703": {
+    "company": "Booz Allen",
+    "first_seen": "2026-10-23",
+    "location": "11 locationsHonolulu, HIAnnapolis Junction, MDColorado Springs, COMcLean, VARome, NYPanama City, FLCharleston, SCAtlanta, GAHuntsville, ALSan Diego, CAEl Segundo, CA",
+    "posted_at": "2026-10-23T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Developer \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280?utm_source=vansh"
+  },
   "78881ab4d05db517": {
     "company": "DoorDash",
     "first_seen": "2026-10-05",
@@ -2895,17 +2857,6 @@
     "source": "Greenhouse:scaleai",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
   },
-  "7c2785eb5543c1ac": {
-    "company": "Appian",
-    "first_seen": "2026-07-24",
-    "location": "McLean, VA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
-  },
   "7e1c729804fbdf0b": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -3032,17 +2983,6 @@
     "verified": true,
     "verify_reason": "Requires practical experience or Bachelor's degree; no minimum years stated.",
     "years_required": 0
-  },
-  "83454af5c47a2b15": {
-    "company": "Astranis Space Technologies",
-    "first_seen": "2026-07-24",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineer Intern - Enterprise Systems - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4699071006"
   },
   "8536d196c14c43a0": {
     "company": "Google",
@@ -3451,21 +3391,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "961321b7c5d18289": {
-    "company": "Nuro",
-    "first_seen": "2026-09-22",
-    "fit_score": 2,
-    "location": "Mountain View, California (HQ)",
-    "posted_at": "2026-09-22T16:51:43-04:00",
-    "posting_type": "verified_entry",
-    "role": "Embedded Software Engineer",
-    "role_category": "swe",
-    "source": "Greenhouse:nuro",
-    "url": "https://nuro.ai/careersitem?gh_jid=8180955",
-    "verified": true,
-    "verify_reason": "Requires two years embedded experience; availability timing mismatch.",
-    "years_required": 2
-  },
   "9682b7d00482a3d2": {
     "company": "Medtronic",
     "first_seen": "2026-08-05",
@@ -3692,17 +3617,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353"
   },
-  "9f67de11ee7b2cd4": {
-    "company": "Virtu Financial",
-    "first_seen": "2026-07-24",
-    "location": "Austin, TX +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "2027 Internship - Software Engineer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/virtu/jobs/8624410002"
-  },
   "a16f10d22b6cd658": {
     "company": "DoorDash",
     "first_seen": "2026-09-26",
@@ -3838,6 +3752,17 @@
     "verified": true,
     "verify_reason": "Requires specialized experience in lawful data access request systems.",
     "years_required": 0
+  },
+  "a56fe99556bc1bcf": {
+    "company": "Palantir",
+    "first_seen": "2026-10-23",
+    "location": "New York, NY",
+    "posted_at": "2026-10-23T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply?utm_source=vansh"
   },
   "a58c0989f9dca009": {
     "company": "Palantir",
@@ -4115,22 +4040,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "b29f249e39124ac7": {
-    "clearance_required": true,
-    "company": "VetJobs",
-    "first_seen": "2026-09-22",
-    "fit_score": 2,
-    "location": "Durham, North Carolina",
-    "posted_at": "2026-09-22T18:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Entry Level Software Engineer (Hybrid) - Durham, NC",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-hybrid-durham-nc-at-vetjobs-4469035981",
-    "verified": true,
-    "verify_reason": "Requires TS/SCI clearance eligibility; available start date mismatch.",
-    "years_required": 0
-  },
   "b2bc2ce9ef7a6289": {
     "company": "Netsmart",
     "first_seen": "2026-08-05",
@@ -4363,21 +4272,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": ""
-  },
-  "bb0fcc14244365c4": {
-    "company": "Anthropic",
-    "first_seen": "2026-09-22",
-    "fit_score": 2,
-    "location": "San Francisco, CA | New York City, NY",
-    "posted_at": "2026-09-21T19:59:29-04:00",
-    "posting_type": "verified_entry",
-    "role": "Product Manager, Safeguards (Generalist) ",
-    "role_category": "product",
-    "source": "Greenhouse:anthropic",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5400720008",
-    "verified": true,
-    "verify_reason": "Requires specialized safeguards experience; not structured as a new grad role.",
-    "years_required": 0
   },
   "bb233b1e2e98d351": {
     "company": "Stripe",
