@@ -1977,6 +1977,17 @@
     "verified": true,
     "years": 3
   },
+  "3f318b13c9460f89": {
+    "cached_at": "2026-10-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Explicitly targets Staff and Senior engineers with architectural leadership experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
+  },
   "3f3ca3ba8f22eb40": {
     "cached_at": "2026-09-24",
     "clearance_required": false,
@@ -6316,6 +6327,17 @@
     "verified": true,
     "years": 0
   },
+  "c7a8594c9ca49087": {
+    "cached_at": "2026-10-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Entry-level role for recent graduates, but start timing mismatches Jan 2027.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "c7cb0e7f0102a026": {
     "cached_at": "2026-09-18",
     "clearance_required": false,
@@ -6411,6 +6433,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "ccf05fedbf6519be": {
+    "cached_at": "2026-10-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years of experience in software or data engineering.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "cded6820f5f9bf2e": {
     "cached_at": "2026-09-01",
@@ -7602,6 +7635,17 @@
     "entry_level": false,
     "fit_score": 1,
     "reason": "Requires prior professional deal experience in private equity or buyouts.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "f86b8782699e1e8e": {
+    "cached_at": "2026-10-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Demands deep experience in enterprise platforms and infrastructure as code.",
     "salary": null,
     "seniority": "mid",
     "verified": true,
