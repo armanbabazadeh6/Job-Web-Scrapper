@@ -1802,6 +1802,17 @@
     "verified": false,
     "years": 10
   },
+  "38cdee8b8413a8f2": {
+    "cached_at": "2026-10-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Candidate available January 2027; posting is for immediate hire.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "38da0eb2da185bfc": {
     "cached_at": "2026-10-15",
     "clearance_required": false,
@@ -3230,6 +3241,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "651fe9d4f4b096f3": {
+    "cached_at": "2026-10-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 6+ years of experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 6
   },
   "6548e5a9df5f4300": {
     "cached_at": "2026-09-14",

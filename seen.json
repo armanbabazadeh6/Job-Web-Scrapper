@@ -1347,6 +1347,21 @@
     "verify_reason": "No experience requirement specified, but description cuts off early.",
     "years_required": 0
   },
+  "38cdee8b8413a8f2": {
+    "company": "Openai",
+    "first_seen": "2026-10-23",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-10-23T18:55:14.565000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
+    "verified": true,
+    "verify_reason": "Candidate available January 2027; posting is for immediate hire.",
+    "years_required": 0
+  },
   "390051135b50ea6f": {
     "company": "Excellus BCBS",
     "first_seen": "2026-08-21",
