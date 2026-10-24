@@ -1101,6 +1101,17 @@
     "verified": false,
     "years": 5
   },
+  "262cb643f9302d0a": {
+    "cached_at": "2026-10-24",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires a senior backend software engineer, not entry level.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
+  },
   "264053c9a1da86ff": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -3717,6 +3728,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "770a6653aed309e7": {
+    "cached_at": "2026-10-24",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "78557935b5aa05b2": {
     "cached_at": "2026-08-31",
