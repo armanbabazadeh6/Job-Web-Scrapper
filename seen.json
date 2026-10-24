@@ -911,17 +911,6 @@
     "verify_reason": "Requires 2+ years experience; timing mismatch for Jan 2027 grad.",
     "years_required": 2
   },
-  "29ca553aec360b09": {
-    "company": "Nuro",
-    "first_seen": "2026-09-23",
-    "location": "Mountain View, California (HQ)",
-    "posted_at": "2026-09-23T16:25:45-04:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, Performance Tooling and Infrastructure New Grad",
-    "role_category": "swe",
-    "source": "Greenhouse:nuro",
-    "url": "https://nuro.ai/careersitem?gh_jid=8227399"
-  },
   "2a2cff0d7d1e717d": {
     "company": "Leidos",
     "first_seen": "2026-08-29",
@@ -1048,21 +1037,6 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/GP-Stakes-Strategic-Value--Analyst_44673"
-  },
-  "2ea6cf6ccaef105b": {
-    "company": "Stripe",
-    "first_seen": "2026-09-23",
-    "fit_score": 1,
-    "location": "San Francisco Or New York",
-    "posted_at": "2026-09-22T20:07:07-04:00",
-    "posting_type": "verified_entry",
-    "role": "Product Manager - Issuance, Bridge",
-    "role_category": "product",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8223723",
-    "verified": true,
-    "verify_reason": "No experience stated, but availability timing mismatch for Jan 2027.",
-    "years_required": 0
   },
   "2ecbd44e4a5e2a78": {
     "clearance_required": true,
@@ -1331,21 +1305,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "377bf3d5fcd7dd4c": {
-    "company": "Sierra",
-    "first_seen": "2026-09-23",
-    "fit_score": 3,
-    "location": "San Francisco, CA",
-    "posted_at": "2026-09-23T17:08:47.244000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Agent - Tech, Media & Telecom",
-    "role_category": "swe",
-    "source": "Ashby:sierra",
-    "url": "https://jobs.ashbyhq.com/sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f",
-    "verified": true,
-    "verify_reason": "No experience requirement specified, but description cuts off early.",
-    "years_required": 0
   },
   "38cdee8b8413a8f2": {
     "company": "Openai",
@@ -1966,37 +1925,6 @@
     "verify_reason": "Candidate available January 2027; wrong start timing for immediate role.",
     "years_required": 0
   },
-  "52154c91deb65b18": {
-    "company": "Purestorage",
-    "first_seen": "2026-09-23",
-    "fit_score": 2,
-    "location": "Santa Clara, California",
-    "posted_at": "2026-09-23T16:42:57-04:00",
-    "posting_type": "verified_entry",
-    "role": "Systems Software Engineer",
-    "role_category": "swe",
-    "source": "Greenhouse:purestorage",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8220346",
-    "verified": true,
-    "verify_reason": "No experience required, but timing mismatch for January 2027 availability.",
-    "years_required": 0
-  },
-  "523be5f96bba1343": {
-    "company": "SynergisticIT",
-    "first_seen": "2026-09-23",
-    "fit_score": 1,
-    "location": "Remote \u2014 US",
-    "posted_at": "2026-09-22T22:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "junior software developer/data scientist",
-    "role_category": "swe",
-    "salary": "$90k-$154k",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/junior-software-developer-data-scientist-at-synergisticit-4469063935",
-    "verified": true,
-    "verify_reason": "Training program, not a direct job; starts before candidate's availability.",
-    "years_required": 0
-  },
   "53ed566227077a87": {
     "company": "Otis Elevator Co.",
     "first_seen": "2026-10-02",
@@ -2114,17 +2042,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965"
-  },
-  "59830107c9196ffa": {
-    "company": "Notion",
-    "first_seen": "2026-09-23",
-    "location": "San Francisco, CANew York, NY",
-    "posted_at": "2026-09-24T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, Fullstack, Early Career",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b?utm_source=vansh"
   },
   "59ba3013b3caf4f9": {
     "company": "Quora",
@@ -2872,17 +2789,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1"
   },
-  "7bcae4055a3ac038": {
-    "company": "Scaleai",
-    "first_seen": "2026-09-23",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-09-23T13:55:35-04:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, Public Sector - New Grad",
-    "role_category": "swe",
-    "source": "Greenhouse:scaleai",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005"
-  },
   "7e1c729804fbdf0b": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -3494,6 +3400,21 @@
     "source": "JSearch",
     "url": "https://bebee.com/us/jobs/software-engineer-core-infrastructure-moveworks-new-grad-jobleads-us-kentucky--jooble-1178468502741206888"
   },
+  "99413e09e24dd5cc": {
+    "company": "Gitlab",
+    "first_seen": "2026-10-24",
+    "fit_score": 2,
+    "location": "Remote, Canada; Remote, United States",
+    "posted_at": "2026-10-23T18:47:07-04:00",
+    "posting_type": "verified_entry",
+    "role": "Backend Engineer, Knowledge Graph (Rust)",
+    "role_category": "swe",
+    "source": "Greenhouse:gitlab",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
+    "verified": true,
+    "verify_reason": "Immediate role creates timing mismatch with January 2027 availability.",
+    "years_required": 0
+  },
   "99f5253bbc1044cb": {
     "company": "ByteDance",
     "first_seen": "2026-09-30",
@@ -3789,21 +3710,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply?utm_source=vansh"
-  },
-  "a58c0989f9dca009": {
-    "company": "Palantir",
-    "first_seen": "2026-09-23",
-    "fit_score": 2,
-    "location": "Seattle, WA",
-    "posted_at": "2026-09-23T20:22:09.272000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Security Systems Engineer",
-    "role_category": "platform",
-    "source": "Lever:palantir",
-    "url": "https://jobs.lever.co/palantir/98c244fc-444b-43ba-b152-30227191170b",
-    "verified": true,
-    "verify_reason": "No experience required, but timing mismatch for January 2027 availability.",
-    "years_required": 0
   },
   "a5c3a7b965ce04db": {
     "company": "NVIDIA",
@@ -4484,17 +4390,6 @@
     "verify_reason": "Excellent match for 2027 entry-level role and graduation timeline.",
     "years_required": 0
   },
-  "c3be8830da95c17d": {
-    "company": "PDT Partners",
-    "first_seen": "2026-07-25",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Summer 2027 Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/pdtpartners/jobs/8077685"
-  },
   "c52fa56179d2bcb5": {
     "company": "Microsoft",
     "first_seen": "2026-08-05",
@@ -4681,17 +4576,6 @@
     "verify_reason": "Requires 2+ years of experience in software or data engineering.",
     "years_required": 2
   },
-  "cd1379a13a8ff264": {
-    "company": "Notion",
-    "first_seen": "2026-09-23",
-    "location": "San Francisco, CANew York, NY",
-    "posted_at": "2026-09-24T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, Infrastructure, Early Career",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.ashbyhq.com/notion/add58865-8b9f-4cf7-9720-2908ba5f4d80?utm_source=vansh"
-  },
   "ce5bd3125ca5b85e": {
     "company": "Virtu Financial",
     "first_seen": "2026-07-31",
@@ -4713,21 +4597,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1"
-  },
-  "cef20504e47a8ccf": {
-    "company": "Airbnb",
-    "first_seen": "2026-09-23",
-    "fit_score": 2,
-    "location": "United States",
-    "posted_at": "2026-09-23T17:27:50-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Application Platform",
-    "role_category": "swe",
-    "source": "Greenhouse:airbnb",
-    "url": "https://careers.airbnb.com/positions/8227620?gh_jid=8227620",
-    "verified": true,
-    "verify_reason": "No experience required, but timing mismatch for January 2027 availability.",
-    "years_required": 0
   },
   "d0906c8a7e5edce0": {
     "company": "TikTok",
