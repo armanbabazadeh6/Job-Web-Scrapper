@@ -284,6 +284,17 @@
     "verify_reason": "No experience requirement stated, open to new graduates.",
     "years_required": 0
   },
+  "10a467a034a61b37": {
+    "company": "Citi",
+    "first_seen": "2026-10-24",
+    "location": "Jacksonville, FL",
+    "posted_at": "2026-10-24T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Developer, Application Development",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412?utm_source=vansh"
+  },
   "1100063b713918f4": {
     "clearance_required": true,
     "company": "Boeing",
@@ -2416,6 +2427,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
+  },
+  "6e105014754fa28c": {
+    "company": "Citi",
+    "first_seen": "2026-10-24",
+    "location": "Tampa, FL",
+    "posted_at": "2026-10-24T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Technology Analyst, Application Development",
+    "role_category": "consulting",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2027_261004424?utm_source=vansh"
   },
   "6e77255025dccdf8": {
     "company": "Perplexity",
@@ -4635,6 +4657,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "d24a50ad616979b6": {
+    "company": "Intel",
+    "first_seen": "2026-10-24",
+    "fit_score": 3,
+    "location": "Hillsboro, OR",
+    "posted_at": "2026-10-24T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, CAD/EDA Tools (Master's)",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1?utm_source=vansh",
+    "verified": true,
+    "verify_reason": "Requires Master's degree and 6+ months experience via coursework or internships.",
+    "years_required": 0
   },
   "d27ddb38ba3b90e3": {
     "clearance_required": true,

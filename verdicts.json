@@ -3674,6 +3674,17 @@
     "verified": false,
     "years": 4
   },
+  "7687d7e51faec7d5": {
+    "cached_at": "2026-10-24",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "76b26b7294ed018a": {
     "cached_at": "2026-10-15",
     "clearance_required": false,
@@ -6615,6 +6626,17 @@
     "verified": false,
     "years": null
   },
+  "d24a50ad616979b6": {
+    "cached_at": "2026-10-24",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires Master's degree and 6+ months experience via coursework or internships.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "d275bf736fc77316": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -7089,6 +7111,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "e103b885afde218d": {
+    "cached_at": "2026-10-24",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "e1b65f21951e26c6": {
     "cached_at": "2026-10-13",
