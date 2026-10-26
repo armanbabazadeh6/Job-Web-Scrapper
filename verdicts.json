@@ -43,6 +43,17 @@
     "verified": false,
     "years": 8
   },
+  "02127f84cf7f6277": {
+    "cached_at": "2026-10-26",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Founding role requiring substantial software architecture and product experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
+  },
   "025f1e3a8951376b": {
     "cached_at": "2026-10-26",
     "clearance_required": false,
@@ -1391,6 +1402,17 @@
     "verified": true,
     "years": 2
   },
+  "2c5f87e65d2bdba5": {
+    "cached_at": "2026-10-26",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience required, but timing mismatch for January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "2ca048a561c381c9": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2459,6 +2481,17 @@
     "verified": true,
     "years": 3
   },
+  "4c83e5ee2323b97b": {
+    "cached_at": "2026-10-26",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience specified, but timing mismatch for January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "4d11fa90ca305e9e": {
     "cached_at": "2026-10-23",
     "clearance_required": false,
@@ -2735,6 +2768,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "543883f501ce0396": {
+    "cached_at": "2026-10-26",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience required, but timing mismatch for January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "547cc93203224008": {
     "cached_at": "2026-09-29",

@@ -225,17 +225,6 @@
     "source": "Greenhouse:pinterest",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049"
   },
-  "0bbd55e16e320f55": {
-    "company": "NorthMark Strategies",
-    "first_seen": "2026-09-24",
-    "location": "Dallas, TX",
-    "posted_at": "2026-09-25T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineer \ud83d\udec2",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
-  },
   "0cfe684907de3e54": {
     "company": "Blackstone",
     "first_seen": "2026-08-28",
@@ -959,20 +948,20 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/Software-Engineer-Co-op_R-100664"
   },
-  "2c5768b49d094a84": {
-    "company": "Asana",
-    "first_seen": "2026-09-24",
-    "fit_score": 1,
-    "location": "San Francisco",
-    "posted_at": "2026-09-24T17:42:35-04:00",
+  "2c5f87e65d2bdba5": {
+    "company": "Stripe",
+    "first_seen": "2026-10-26",
+    "fit_score": 2,
+    "location": "San Francisco, CA; Seattle, WA; New York City, NY",
+    "posted_at": "2026-10-26T16:50:46-04:00",
     "posting_type": "verified_entry",
-    "role": "Software Engineer",
+    "role": "Android Engineer, Identity Product",
     "role_category": "swe",
-    "source": "Greenhouse:asana",
-    "url": "https://www.asana.com/jobs/apply/8078102?gh_jid=8078102",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8311069",
     "verified": true,
-    "verify_reason": "Requires 2+ years experience; candidate graduates December 2026.",
-    "years_required": 2
+    "verify_reason": "No experience required, but timing mismatch for January 2027 availability.",
+    "years_required": 0
   },
   "2cd02e22dddd5a5d": {
     "company": "Openai",
@@ -1065,21 +1054,6 @@
     "verify_reason": "Requires immediate hire; candidate is not available until January 2027.",
     "years_required": 0
   },
-  "2f242670c0b63b31": {
-    "company": "Southwest Airlines",
-    "first_seen": "2026-09-24",
-    "fit_score": 5,
-    "location": "Dallas, Texas",
-    "posted_at": "2026-09-23T23:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Associate Software Engineer - Direct College Hire",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://careers.southwestair.com/us/en/job/R-2026-72886/Associate-Software-Engineer-Direct-College-Hire",
-    "verified": true,
-    "verify_reason": "Hiring for January 2027 cohort, perfect match for graduation timeline.",
-    "years_required": 0
-  },
   "2fcd5c57a94e20ed": {
     "company": "Purestorage",
     "first_seen": "2026-10-13",
@@ -1143,21 +1117,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "3288acbfdb52637a": {
-    "company": "Palantir",
-    "first_seen": "2026-09-25",
-    "fit_score": 1,
-    "location": "New York, NY",
-    "posted_at": "2026-09-25T10:28:07.251000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer \u2013 Query Engines",
-    "role_category": "swe",
-    "source": "Lever:palantir",
-    "url": "https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3",
-    "verified": true,
-    "verify_reason": "Start date mismatch; candidate not available until January 2027.",
-    "years_required": 0
-  },
   "330be6c53eea392b": {
     "company": "ElevenLabs",
     "first_seen": "2026-10-02",
@@ -1171,21 +1130,6 @@
     "url": "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-north-america-at-elevenlabs-4474367565",
     "verified": true,
     "verify_reason": "Immediate opening does not align with January 2027 availability.",
-    "years_required": 0
-  },
-  "331038082f95d63a": {
-    "company": "Epic",
-    "first_seen": "2026-09-25",
-    "fit_score": 5,
-    "location": "State College, Pennsylvania",
-    "posted_at": "2026-09-24T21:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Entry-Level Software Developer",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-epic-4470030741",
-    "verified": true,
-    "verify_reason": "Entry-level role accepting recent graduates with no experience required.",
     "years_required": 0
   },
   "33c0d3383cbb7ce0": {
@@ -1526,21 +1470,6 @@
     "verify_reason": "Requires 2+ years experience; timing mismatch for Jan 2027 grad.",
     "years_required": 2
   },
-  "3f3ca3ba8f22eb40": {
-    "company": "Palantir",
-    "first_seen": "2026-09-24",
-    "fit_score": 4,
-    "location": "Kitsap, WA",
-    "posted_at": "2026-09-24T14:50:21.850000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Forward Deployed Software Engineer - US Government",
-    "role_category": "swe",
-    "source": "Lever:palantir",
-    "url": "https://jobs.lever.co/palantir/a2e9ab0f-4dd1-4744-92b9-edc7ae393c58",
-    "verified": true,
-    "verify_reason": "No experience requirement stated; suitable for new graduates.",
-    "years_required": 0
-  },
   "3fb4f80d6d3845ee": {
     "company": "Cognizant",
     "first_seen": "2026-09-26",
@@ -1850,6 +1779,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/"
   },
+  "4c83e5ee2323b97b": {
+    "company": "Samsara",
+    "first_seen": "2026-10-26",
+    "fit_score": 2,
+    "location": "Remote - GA",
+    "posted_at": "2026-10-26T16:11:51-04:00",
+    "posting_type": "verified_entry",
+    "role": "Enterprise Implementation Consultant - Public Sector",
+    "role_category": "consulting",
+    "source": "Greenhouse:samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8304710?gh_jid=8304710",
+    "verified": true,
+    "verify_reason": "No experience specified, but timing mismatch for January 2027 availability.",
+    "years_required": 0
+  },
   "4cba717c648eaebe": {
     "company": "MORSE Corp Co-op Opportunities",
     "first_seen": "2026-08-25",
@@ -1871,21 +1815,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "4df807b2b8445f38": {
-    "company": "Palantir",
-    "first_seen": "2026-09-24",
-    "fit_score": 4,
-    "location": "Kitsap, WA",
-    "posted_at": "2026-09-24T14:53:54.739000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Deployment Strategist - US Government",
-    "role_category": "swe",
-    "source": "Lever:palantir",
-    "url": "https://jobs.lever.co/palantir/802add74-04cf-479c-9479-ff3043940e29",
-    "verified": true,
-    "verify_reason": "No experience required, fits new college graduate timeline.",
-    "years_required": 0
   },
   "4e04700bfbadf24f": {
     "company": "Heliux",
@@ -1957,6 +1886,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/external/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
+  },
+  "543883f501ce0396": {
+    "company": "Stripe",
+    "first_seen": "2026-10-26",
+    "fit_score": 2,
+    "location": "San Francisco, CA; Seattle, WA; New York City, NY",
+    "posted_at": "2026-10-26T16:53:41-04:00",
+    "posting_type": "verified_entry",
+    "role": "iOS Engineer, Identity Product",
+    "role_category": "swe",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8311082",
+    "verified": true,
+    "verify_reason": "No experience required, but timing mismatch for January 2027 availability.",
+    "years_required": 0
   },
   "547cc93203224008": {
     "company": "Purestorage",
@@ -2123,17 +2067,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "5d3ef78bd7714c00": {
-    "company": "Perplexity",
-    "first_seen": "2026-09-24",
-    "location": "San Francisco",
-    "posted_at": "2026-09-24T15:03:30.731000+00:00",
-    "posting_type": "new_grad",
-    "role": "Member of Technical Staff (New Grad)",
-    "role_category": "swe",
-    "source": "Ashby:perplexity",
-    "url": "https://jobs.ashbyhq.com/perplexity/8a99d9be-6955-4f28-8150-80c8ce72c523"
   },
   "5dc9e52714d1a5d8": {
     "company": "Verkada",
@@ -2373,17 +2306,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "6b9cbea15798018b": {
-    "company": "Pinterest",
-    "first_seen": "2026-09-25",
-    "location": "Palo Alto, CASeattle, WASF",
-    "posted_at": "2026-09-26T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://www.pinterestcareers.com/job-form?gh_jid=7211012&utm_source=vansh&ref=vansh"
-  },
   "6bb22b1e8d9b3dd3": {
     "company": "Salesforce",
     "first_seen": "2026-10-21",
@@ -2580,21 +2502,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007"
-  },
-  "75b2596642e19884": {
-    "company": "Instacart",
-    "first_seen": "2026-09-25",
-    "fit_score": 1,
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "posted_at": "2026-09-25T13:57:51-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer II, Advertiser Optimization",
-    "role_category": "swe",
-    "source": "Greenhouse:instacart",
-    "url": "https://instacart.careers/job/?gh_jid=8233716",
-    "verified": true,
-    "verify_reason": "Candidate available January 2027; posting is for immediate start.",
-    "years_required": 0
   },
   "767946cd610b8b60": {
     "company": "Perplexity",
@@ -3109,21 +3016,6 @@
     "verified": true,
     "verify_reason": "Candidate graduates December 2026, too early for immediate hiring.",
     "years_required": 0
-  },
-  "8fc12339e7c3ca22": {
-    "company": "Sierra",
-    "first_seen": "2026-09-24",
-    "fit_score": 1,
-    "location": "San Francisco, CA",
-    "posted_at": "2026-09-24T22:10:13.906000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Horizon",
-    "role_category": "swe",
-    "source": "Ashby:sierra",
-    "url": "https://jobs.ashbyhq.com/sierra/87f2a303-c2a1-484e-9e4b-efdcaafa440e",
-    "verified": true,
-    "verify_reason": "Requires 2 years experience; candidate graduates December 2026.",
-    "years_required": 2
   },
   "906e76bd483403fb": {
     "company": "Microsoft",
@@ -3689,22 +3581,6 @@
     "url": "https://bebee.com/us/jobs/entry-level-software-developer-web-development-tactical-engineering-analysis-dahlgren-va--jooble--428570087303689521--b2df0225233bcbe8a5027e9085c9e2f4",
     "verified": true,
     "verify_reason": "Requires STEM bachelor's degree, demands security clearance.",
-    "years_required": 0
-  },
-  "a3e893d1e9634e1f": {
-    "clearance_required": true,
-    "company": "General Dynamics Electric Boat",
-    "first_seen": "2026-09-24",
-    "fit_score": 1,
-    "location": "New London, Connecticut",
-    "posted_at": "2026-09-24T15:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Entry Level Software Developer",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-software-developer-at-general-dynamics-electric-boat-4470004127",
-    "verified": true,
-    "verify_reason": "Candidate available Jan 2027; job is for immediate hire.",
     "years_required": 0
   },
   "a472d3edbacad9d4": {
@@ -5366,21 +5242,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "f3c9ca960987bd90": {
-    "company": "Visa",
-    "first_seen": "2026-09-25",
-    "fit_score": 1,
-    "location": "Ashburn, Virginia",
-    "posted_at": "2026-09-24T23:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, New College Grad",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://jobs.digitalhire.com/job-listing/opening/62n2CmcfPDOkiGgJfqvZSq",
-    "verified": true,
-    "verify_reason": "Requires graduation by August 2025; candidate graduates December 2026.",
-    "years_required": 0
   },
   "f3f2d8a1c932f7cd": {
     "company": "Eaton",
