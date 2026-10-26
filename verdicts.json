@@ -4291,6 +4291,17 @@
     "verified": true,
     "years": 3
   },
+  "887ba45eb412df06": {
+    "cached_at": "2026-10-26",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "8895a13cf810b7a4": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -5575,6 +5586,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "aef7e3c7f73d7544": {
+    "cached_at": "2026-10-26",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of engineering experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 5
   },
   "af12966bd4b3d0c6": {
     "cached_at": "2026-09-14",
@@ -7306,6 +7328,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "e67846c77b661292": {
+    "cached_at": "2026-10-26",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "e6bfb8a802827b07": {
     "cached_at": "2026-10-05",
