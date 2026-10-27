@@ -3664,6 +3664,17 @@
     "verified": true,
     "years": 2
   },
+  "7163f1b878d81e6a": {
+    "cached_at": "2026-10-27",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Founding engineer senior scope and wrong start timing for Jan 2027.",
+    "salary": null,
+    "seniority": "lead",
+    "verified": true,
+    "years": 0
+  },
   "71a41da0ae8f87ae": {
     "cached_at": "2026-10-14",
     "clearance_required": false,
@@ -5134,6 +5145,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 4
+  },
+  "9dcefdde9dd1c799": {
+    "cached_at": "2026-10-27",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "No minimum experience stated, but wrong start timing for Jan 2027.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "9dfabd997fd0e2f3": {
     "cached_at": "2026-08-31",

@@ -2016,6 +2016,17 @@
     "verify_reason": "Manufacturing test software role with no minimum years required.",
     "years_required": 0
   },
+  "5c57fd468b44f03f": {
+    "company": "CrossCountry Consulting",
+    "first_seen": "2026-10-27",
+    "location": "Chicago, IL",
+    "posted_at": "2026-10-27T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Forward Deployed Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/VK?s=A"
+  },
   "5c5ea6f16a706df1": {
     "company": "TikTok",
     "first_seen": "2026-08-10",
@@ -3403,6 +3414,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "9dcefdde9dd1c799": {
+    "company": "Affirm",
+    "first_seen": "2026-10-27",
+    "fit_score": 1,
+    "location": "Remote US",
+    "posted_at": "2026-10-27T09:29:57-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer II - CIAM",
+    "role_category": "swe",
+    "source": "Greenhouse:affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
+    "verified": true,
+    "verify_reason": "No minimum experience stated, but wrong start timing for Jan 2027.",
+    "years_required": 0
   },
   "9ded022dbc3e1a38": {
     "company": "Kastle",
