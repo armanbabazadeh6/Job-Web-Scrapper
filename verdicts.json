@@ -2470,6 +2470,17 @@
     "verified": true,
     "years": 3
   },
+  "4b32457be1c216a6": {
+    "cached_at": "2026-10-27",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Start timing does not match candidate's January 2027 availability.",
+    "salary": "$74,625-$114,425",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "4b6bd1594d4c2ceb": {
     "cached_at": "2026-10-23",
     "clearance_required": false,
@@ -3418,6 +3429,17 @@
     "salary": null,
     "seniority": "senior",
     "verified": true,
+    "years": 6
+  },
+  "69027262b0fcdb1b": {
+    "cached_at": "2026-10-27",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
     "years": 6
   },
   "691f0a6749860bf7": {
@@ -7458,6 +7480,17 @@
     "verified": true,
     "years": 3
   },
+  "e84ab776003bd18d": {
+    "cached_at": "2026-10-27",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Start timing does not match candidate's January 2027 availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "e968ff8f3bac745a": {
     "cached_at": "2026-10-09",
     "clearance_required": true,
@@ -7499,6 +7532,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "ec246608b1dfa475": {
+    "cached_at": "2026-10-27",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Start timing does not match candidate's January 2027 availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "ec849d37e2142aee": {
     "cached_at": "2026-08-31",

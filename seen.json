@@ -32,33 +32,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1"
   },
-  "03360bbbf82a4e7a": {
-    "company": "Apptronik",
-    "first_seen": "2026-07-28",
-    "location": "Austin, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - ML Systems",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://boards.greenhouse.io/apptronik/jobs/6128057004?gh_jid=6128057004"
-  },
-  "03c42719a5c3e9a2": {
-    "company": "Nuro",
-    "first_seen": "2026-09-26",
-    "fit_score": 1,
-    "location": "Mountain View, California (HQ)",
-    "posted_at": "2026-09-25T18:57:20-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Cloud Infrastructure and Observability",
-    "role_category": "swe",
-    "salary": "$145,830-$219,000",
-    "source": "Greenhouse:nuro",
-    "url": "https://nuro.ai/careersitem?gh_jid=8221208",
-    "verified": true,
-    "verify_reason": "Candidate not available until January 2027; role is for immediate hire.",
-    "years_required": 0
-  },
   "03e234fc5a728eea": {
     "company": "Block",
     "first_seen": "2026-09-30",
@@ -84,17 +57,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4"
-  },
-  "044fecd5506d5bf5": {
-    "company": "Quora",
-    "first_seen": "2026-09-26",
-    "location": "Remote - Multiple Locations",
-    "posted_at": "2026-09-25T22:08:04.740000+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer New Grad, Machine Learning Platform - Quora (Remote)",
-    "role_category": "swe",
-    "source": "Ashby:quora",
-    "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0"
   },
   "0574928b965ef19e": {
     "company": "Hypercubic",
@@ -760,17 +722,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009?utm_source=vansh"
   },
-  "231bf2fb9c4508d8": {
-    "company": "Blackstone",
-    "first_seen": "2026-07-28",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Real Estate - Asset Management, Associate",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Real-Estate---Asset-Management--Associate_43209-4"
-  },
   "23f188f7078dbcee": {
     "company": "Brunswick",
     "first_seen": "2026-08-28",
@@ -1298,17 +1249,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
-  "3927fec0cd2fe58c": {
-    "company": "PathAI",
-    "first_seen": "2026-07-28",
-    "location": "Boston, MA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering Co-op MLOps: September - December 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.pathai.com/careers/8651564002?gh_jid=8651564002"
-  },
   "3a973004379686d1": {
     "company": "Blackstone",
     "first_seen": "2026-08-04",
@@ -1341,17 +1281,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Orlando-FL-USA/Software-Engineering-Intern--Spring-2027_10158599-1"
-  },
-  "3b6346cf9a559944": {
-    "company": "Lockheed Martin",
-    "first_seen": "2026-09-26",
-    "location": "Mt Laurel Township, New Jersey",
-    "posted_at": "2026-09-25T13:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineering Associate - Early Career",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineering-associate-early-career-at-lockheed-martin-4470172162"
   },
   "3b7daf6aacc3eb01": {
     "company": "Applied Materials",
@@ -1469,22 +1398,6 @@
     "verified": true,
     "verify_reason": "Requires 2+ years experience; timing mismatch for Jan 2027 grad.",
     "years_required": 2
-  },
-  "3fb4f80d6d3845ee": {
-    "company": "Cognizant",
-    "first_seen": "2026-09-26",
-    "fit_score": 1,
-    "location": "Raleigh, North Carolina",
-    "posted_at": "2026-09-26T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Entry-level Software Engineer and Spring Boot Microservices and Core Java",
-    "role_category": "swe",
-    "salary": "$65,000",
-    "source": "JSearch",
-    "url": "https://jobs.digitalhire.com/job-listing/opening/120YSG3N70gLQZopOLkj8y",
-    "verified": true,
-    "verify_reason": "Start date of May/June 2026 conflicts with January 2027 availability.",
-    "years_required": 0
   },
   "400272453462dae0": {
     "company": "Notion",
@@ -1767,6 +1680,22 @@
     "role_category": "swe",
     "source": "JSearch",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-palantir-technologies-4434136634"
+  },
+  "4b32457be1c216a6": {
+    "company": "CNH",
+    "first_seen": "2026-10-27",
+    "fit_score": 2,
+    "location": "Oak Brook, Illinois",
+    "posted_at": "2026-10-26T16:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I",
+    "role_category": "swe",
+    "salary": "$74,625-$114,425",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-cnh-4483576816",
+    "verified": true,
+    "verify_reason": "Start timing does not match candidate's January 2027 availability.",
+    "years_required": 2
   },
   "4b876fd2c66355e9": {
     "company": "Security Risk Advisors",
@@ -2655,17 +2584,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "7b2eb8d5de7aa531": {
-    "company": "SRI International",
-    "first_seen": "2026-07-28",
-    "location": "Princeton, NJ",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Drexel University Co-op: Software Engineering/Full stack development",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://careers-sri.icims.com/jobs/6432/drexel-university-co-op%3a-software-engineering-full-stack-development/job"
-  },
   "7b43f44e093f453e": {
     "company": "Elastic",
     "first_seen": "2026-10-21",
@@ -3281,17 +3199,6 @@
     "source": "Lever:palantir",
     "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"
   },
-  "98b86ac96ca2527e": {
-    "company": "Blackstone",
-    "first_seen": "2026-07-28",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Blackstone Multi-Asset Investing (BXMA) - Real Estate Investment Associate",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset-Investing--BXMA----Total-Portfolio-Management--Real-Estate-Investment-Associate_42672-1"
-  },
   "992f8385c1cdc969": {
     "company": "GDIT",
     "first_seen": "2026-08-05",
@@ -3477,21 +3384,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353"
-  },
-  "a16f10d22b6cd658": {
-    "company": "DoorDash",
-    "first_seen": "2026-09-26",
-    "fit_score": 5,
-    "location": "Seattle, Washington",
-    "posted_at": "2026-09-26T09:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-graduation-date-fall-2026-summer-2027-us-at-doordash-4461177167",
-    "verified": true,
-    "verify_reason": "Perfect match for graduation date of Fall 2026-Summer 2027.",
-    "years_required": 0
   },
   "a1b73105af70e6dd": {
     "company": "Nuro",
@@ -4708,28 +4600,6 @@
     "verify_reason": "Immediate hire role; timeline mismatch for January 2027 availability.",
     "years_required": 0
   },
-  "da646c41db0ef7f9": {
-    "company": "Raytheon",
-    "first_seen": "2026-07-28",
-    "location": "State College, PA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - On-site",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineering-Intern--On-site-_01860801"
-  },
-  "da71606d014c0fcb": {
-    "company": "Northrop Grumman",
-    "first_seen": "2026-07-28",
-    "location": "Melbourne, FL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "2027 Returning Intern Software Engineer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378"
-  },
   "dadcb3153a6c661f": {
     "company": "TELUS Digital",
     "first_seen": "2026-08-29",
@@ -4884,17 +4754,6 @@
     "verified": true,
     "verify_reason": "No minimum years of experience stated in description.",
     "years_required": 0
-  },
-  "e28a91bbde3a4a4c": {
-    "company": "Bosch",
-    "first_seen": "2026-07-28",
-    "location": "Farmington Hills, MI",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Powertrain Controls Software Engineering Intern - 6-Months",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140089589-powertrain-controls-software-engineering-intern-6-months-?oga=true"
   },
   "e2bdc8eb6d1420ce": {
     "company": "The Applied Research Laboratory at Penn State University",
@@ -5058,6 +4917,21 @@
     "verify_reason": "No experience requirement stated for this AI agent engineer role.",
     "years_required": 0
   },
+  "e84ab776003bd18d": {
+    "company": "Stripe",
+    "first_seen": "2026-10-27",
+    "fit_score": 2,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-10-26T16:53:41-04:00",
+    "posting_type": "verified_entry",
+    "role": "iOS Engineer, Identity",
+    "role_category": "swe",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8311082",
+    "verified": true,
+    "verify_reason": "Start timing does not match candidate's January 2027 availability.",
+    "years_required": 0
+  },
   "e8a081178fbf3ae7": {
     "company": "Workiva",
     "first_seen": "2026-08-29",
@@ -5141,6 +5015,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
+  "ec246608b1dfa475": {
+    "company": "Stripe",
+    "first_seen": "2026-10-27",
+    "fit_score": 2,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-10-26T16:50:46-04:00",
+    "posting_type": "verified_entry",
+    "role": "Android Engineer, Identity ",
+    "role_category": "swe",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8311069",
+    "verified": true,
+    "verify_reason": "Start timing does not match candidate's January 2027 availability.",
+    "years_required": 0
+  },
   "ee64ee53ba261e83": {
     "company": "CesiumAstro",
     "first_seen": "2026-08-29",
@@ -5193,22 +5082,6 @@
     "role_category": "swe",
     "source": "Greenhouse:affirm",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003"
-  },
-  "f1aac432cae30d29": {
-    "company": "RoviSys Building Technologies",
-    "first_seen": "2026-09-26",
-    "fit_score": 5,
-    "location": "",
-    "posted_at": "2026-09-26T13:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "2027 - Entry Level Systems Engineer/Controls Specialist",
-    "role_category": "platform",
-    "salary": "$80,000-$82,000",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/2027-entry-level-systems-engineer-controls-specialist-at-rovisys-building-technologies-4462316098",
-    "verified": true,
-    "verify_reason": "Targets 2027 college graduates, matching candidate's graduation and availability timeline.",
-    "years_required": 0
   },
   "f2f172d957ab35ed": {
     "company": "GDIT",
