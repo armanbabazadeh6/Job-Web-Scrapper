@@ -1373,6 +1373,21 @@
     "verify_reason": "Entry level software engineering role requiring no prior experience.",
     "years_required": 0
   },
+  "3dd24364dace7b0b": {
+    "company": "Tata Consultancy Services",
+    "first_seen": "2026-10-27",
+    "fit_score": 1,
+    "location": "Edison, New Jersey",
+    "posted_at": "2026-10-26T17:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Junior Software Engineer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tata-consultancy-services-4483240116",
+    "verified": true,
+    "verify_reason": "Requires 1 year experience; start timing mismatch for January 2027.",
+    "years_required": 1
+  },
   "3e0f85c604080f1b": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
@@ -4672,6 +4687,21 @@
     "url": "https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d",
     "verified": true,
     "verify_reason": "No experience required; fits new grad timeline and profile.",
+    "years_required": 0
+  },
+  "dd58b91a466a98d5": {
+    "company": "Harvey",
+    "first_seen": "2026-10-27",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-10-27T05:15:15.927000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Agents",
+    "role_category": "swe",
+    "source": "Ashby:harvey",
+    "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
+    "verified": true,
+    "verify_reason": "Start timing mismatch; candidate available January 2027.",
     "years_required": 0
   },
   "de0d3da40c302e67": {
