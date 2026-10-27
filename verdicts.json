@@ -664,6 +664,17 @@
     "verified": false,
     "years": 4
   },
+  "16972ad27a9b8e36": {
+    "cached_at": "2026-10-27",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "2027 entry level role aligns with candidate start date in January 2027.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "1740d06c22d9d748": {
     "cached_at": "2026-09-11",
     "clearance_required": false,
@@ -7067,6 +7078,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "da9235daad8b4b86": {
+    "cached_at": "2026-10-27",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "dabb442c3c390936": {
     "cached_at": "2026-10-14",

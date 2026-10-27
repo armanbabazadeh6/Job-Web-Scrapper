@@ -449,6 +449,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138"
   },
+  "16972ad27a9b8e36": {
+    "company": "Kiewit",
+    "first_seen": "2026-10-27",
+    "fit_score": 5,
+    "location": "Wahiawa, Hawaii",
+    "posted_at": "2026-10-26T18:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Field Engineer - Kiewit Foundations Co. 2027",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/entry-level-field-engineer-kiewit-foundations-co-2027-at-kiewit-4483253087",
+    "verified": true,
+    "verify_reason": "2027 entry level role aligns with candidate start date in January 2027.",
+    "years_required": 0
+  },
   "18bd4d913ab2b67e": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-08-29",
@@ -2369,6 +2384,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.zipline.com/open-roles?gh_jid=7893926003"
   },
+  "731a84b50b1a5f66": {
+    "company": "Rilla",
+    "first_seen": "2026-10-27",
+    "location": "New York, NY",
+    "posted_at": "2026-10-27T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/Vn?s=A"
+  },
   "7395da38fdee454a": {
     "company": "Anthropic",
     "first_seen": "2026-10-01",
@@ -4244,6 +4270,17 @@
     "verify_reason": "Third-party training and placement program, not a direct hire.",
     "years_required": 0
   },
+  "c7960a2f56dbb8af": {
+    "company": "CoStar Group",
+    "first_seen": "2026-10-27",
+    "location": "Irvine, CA",
+    "posted_at": "2026-10-27T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Associate Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/Vr?s=A"
+  },
   "c7a8594c9ca49087": {
     "company": "FNBO",
     "first_seen": "2026-10-23",
@@ -4380,6 +4417,17 @@
     "verified": true,
     "verify_reason": "Requires 2+ years of experience in software or data engineering.",
     "years_required": 2
+  },
+  "ce5b8f627a7aef22": {
+    "company": "Northwood Space",
+    "first_seen": "2026-10-27",
+    "location": "Torrance, CA",
+    "posted_at": "2026-10-27T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer \u2013 General \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/Vq?s=A"
   },
   "ce5bd3125ca5b85e": {
     "company": "Virtu Financial",
@@ -4562,6 +4610,17 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://university-uber.icims.com/jobs/149558/job?utm_source=vansh"
+  },
+  "d62927423d03b80c": {
+    "company": "Northrop Grumman",
+    "first_seen": "2026-10-27",
+    "location": "Colorado Springs, CO",
+    "posted_at": "2026-10-27T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Associate Software Engineer / Software Engineer \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/Vw?s=A"
   },
   "d6d728bedcb17996": {
     "company": "TikTok",
