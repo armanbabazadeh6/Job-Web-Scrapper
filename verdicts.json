@@ -231,6 +231,17 @@
     "verified": false,
     "years": 7
   },
+  "0878ee6fae35100f": {
+    "cached_at": "2026-10-28",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "09128030a7824fad": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2459,6 +2470,17 @@
     "verified": true,
     "years": 5
   },
+  "495aae6832daec67": {
+    "cached_at": "2026-10-28",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires ten or more years in enterprise infrastructure.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 10
+  },
   "49dc87898056cf82": {
     "cached_at": "2026-09-19",
     "clearance_required": false,
@@ -4527,6 +4549,17 @@
     "verified": false,
     "years": null
   },
+  "8bd8daf4df9ba2e5": {
+    "cached_at": "2026-10-28",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "8c0676fefe5237b9": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -4803,6 +4836,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "935ea7d62179ddff": {
+    "cached_at": "2026-10-28",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "93a20338974857c0": {
     "cached_at": "2026-10-06",
@@ -8035,6 +8079,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "f99e09bc7136a433": {
+    "cached_at": "2026-10-28",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Timing mismatch for Jan 2027 availability and manages strategic accounts.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "fa4e3897d7aff907": {
     "cached_at": "2026-08-31",

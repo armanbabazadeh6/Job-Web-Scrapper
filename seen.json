@@ -4965,6 +4965,21 @@
     "source": "Greenhouse:affirm",
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003"
   },
+  "e3ed3b39593ad240": {
+    "company": "Crusoe",
+    "first_seen": "2026-10-28",
+    "fit_score": 1,
+    "location": "San Francisco, CA - US",
+    "posted_at": "2026-10-28T17:27:02.680000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I, Network",
+    "role_category": "swe",
+    "source": "Ashby:crusoe",
+    "url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
+    "verified": true,
+    "verify_reason": "Great entry-level role, but start timing mismatches January 2027 availability.",
+    "years_required": 0
+  },
   "e409ccf278f1cb99": {
     "company": "Univera Healthcare",
     "first_seen": "2026-08-21",
@@ -5096,17 +5111,6 @@
     "verified": true,
     "verify_reason": "Clear timing mismatch; candidate is not available until January 2027.",
     "years_required": 0
-  },
-  "ea7ae322991ca03b": {
-    "company": "Bosch",
-    "first_seen": "2026-07-29",
-    "location": "Plymouth, MI",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "ADAS Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000140317669-adas-software-engineering-intern?oga=true"
   },
   "eacf84249de8b641": {
     "company": "Salesforce",
@@ -5405,6 +5409,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "f99e09bc7136a433": {
+    "company": "Stripe",
+    "first_seen": "2026-10-28",
+    "fit_score": 2,
+    "location": "New York, San Francisco",
+    "posted_at": "2026-10-28T16:19:38-04:00",
+    "posting_type": "verified_entry",
+    "role": "Technical Solutions Consultant, Crypto",
+    "role_category": "sales_eng",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8329116",
+    "verified": true,
+    "verify_reason": "Timing mismatch for Jan 2027 availability and manages strategic accounts.",
+    "years_required": 0
   },
   "f9f24b2896007b9e": {
     "company": "Motorola Solutions",
