@@ -840,17 +840,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "290dd2305040ebfe": {
-    "company": "SingleStore",
-    "first_seen": "2026-09-28",
-    "location": "Remote \u2014 US",
-    "posted_at": "2026-09-28T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "MIT-Software Engineer (New Grad, Helios)",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.welcometothejungle.com/en/companies/singlestore/jobs/mit-software-engineer-new-grad-helios_us_7wdjgqyj"
-  },
   "295bed22d06c9e3d": {
     "company": "Composio",
     "first_seen": "2026-08-15",
@@ -1044,21 +1033,6 @@
     "url": "https://job-boards.greenhouse.io/purestorage/jobs/8265582",
     "verified": true,
     "verify_reason": "Founding member role with no stated experience minimum.",
-    "years_required": 0
-  },
-  "309e6f59dfd6ac2f": {
-    "company": "Openai",
-    "first_seen": "2026-09-28",
-    "fit_score": 1,
-    "location": "San Francisco",
-    "posted_at": "2026-09-28T18:26:42.221000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, DevOps",
-    "role_category": "swe",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
-    "verified": true,
-    "verify_reason": "Requires prior experience; timing mismatch for candidate available January 2027.",
     "years_required": 0
   },
   "30c4b3c841a8783c": {
@@ -1819,6 +1793,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "517171eb5c8a5fc3": {
+    "company": "Airbnb",
+    "first_seen": "2026-10-29",
+    "fit_score": 2,
+    "location": "Remote, USA ",
+    "posted_at": "2026-10-28T16:41:33-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Payments",
+    "role_category": "swe",
+    "source": "Greenhouse:airbnb",
+    "url": "https://careers.airbnb.com/positions/8332157?gh_jid=8332157",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience; timing mismatch for 2027 grad.",
+    "years_required": 2
+  },
   "51f287a67f6321ee": {
     "company": "SynergisticIT",
     "first_seen": "2026-10-03",
@@ -2495,17 +2484,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007"
   },
-  "767946cd610b8b60": {
-    "company": "Perplexity",
-    "first_seen": "2026-09-28",
-    "location": "San Francisco",
-    "posted_at": "2026-09-27T16:15:48.951000+00:00",
-    "posting_type": "new_grad",
-    "role": "Member of Technical Staff (New Grad)",
-    "role_category": "swe",
-    "source": "Ashby:perplexity",
-    "url": "https://jobs.ashbyhq.com/perplexity/b539e100-4b8c-4701-a5a8-52b9a72f435e"
-  },
   "767f1749ddffcf6a": {
     "company": "Blackstone",
     "first_seen": "2026-08-13",
@@ -2992,6 +2970,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "8e92f19e4aeddd39": {
+    "company": "Stripe",
+    "first_seen": "2026-10-29",
+    "fit_score": 2,
+    "location": "Seattle, WA",
+    "posted_at": "2026-10-28T19:38:42-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer - Full stack",
+    "role_category": "swe",
+    "salary": "$156,800.00 - $235,200.00/yr",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8332676",
+    "verified": true,
+    "verify_reason": "Requires 2 years experience; timing mismatch for 2027 grad.",
+    "years_required": 2
   },
   "8eec7f676adf4147": {
     "company": "SynergisticIT",

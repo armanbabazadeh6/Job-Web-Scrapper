@@ -198,6 +198,17 @@
     "verified": false,
     "years": 6
   },
+  "06942de1771ace8a": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years experience; not an entry-level role.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "0740e5f70e0289ce": {
     "cached_at": "2026-10-15",
     "clearance_required": false,
@@ -2420,6 +2431,17 @@
     "verified": true,
     "years": 2
   },
+  "45e77f54db3cc451": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "473527d808581039": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2741,6 +2763,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "517171eb5c8a5fc3": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years experience; timing mismatch for 2027 grad.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "51f287a67f6321ee": {
     "cached_at": "2026-10-03",
@@ -4627,6 +4660,17 @@
     "fit_score": 1,
     "reason": "Requires 2-3 years experience; candidate not available until January 2027.",
     "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
+  "8e92f19e4aeddd39": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2 years experience; timing mismatch for 2027 grad.",
+    "salary": "$156,800.00 - $235,200.00/yr",
     "seniority": "junior",
     "verified": true,
     "years": 2
@@ -6871,6 +6915,17 @@
     "verified": true,
     "years": 5
   },
+  "d15131c35eb94288": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "d187954eae0db66a": {
     "cached_at": "2026-09-24",
     "clearance_required": false,
@@ -7342,6 +7397,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "df0da3392df89515": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5 years of experience; not an entry-level role.",
+    "salary": "$221,187 - $285,600/yr",
+    "seniority": "mid",
+    "verified": true,
+    "years": 5
   },
   "df15137be8f9c1dc": {
     "cached_at": "2026-09-01",
