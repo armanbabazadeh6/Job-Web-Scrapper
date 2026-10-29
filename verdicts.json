@@ -986,6 +986,17 @@
     "verified": true,
     "years": 2
   },
+  "1f0f112f161697a1": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "1fb24b99ef6d2f0a": {
     "cached_at": "2026-10-13",
     "clearance_required": false,
@@ -2260,6 +2271,17 @@
     "verified": false,
     "years": 5
   },
+  "41c647b3baf878cf": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "41f978388de54d1a": {
     "cached_at": "2026-09-23",
     "clearance_required": false,
@@ -2441,6 +2463,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "4574ae9f3c779ac7": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
   },
   "45e77f54db3cc451": {
     "cached_at": "2026-10-29",
@@ -4540,6 +4573,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "8983724273cb4523": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
   },
   "89c93a681adbb8d8": {
     "cached_at": "2026-10-01",
@@ -6915,6 +6959,17 @@
     "verified": true,
     "years": 0
   },
+  "cf3cab0ade13b49a": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years industry experience, exceeding entry level.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "cfc5e11a7270dec0": {
     "cached_at": "2026-10-22",
     "clearance_required": false,
@@ -7736,6 +7791,17 @@
     "verified": true,
     "years": 0
   },
+  "e744a7a06524fd56": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of product management or marketplace experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 5
+  },
   "e7841aad210741fa": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -8029,6 +8095,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "f2db52b4ed4f941e": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "f2f398cfb2e3fd91": {
     "cached_at": "2026-08-31",

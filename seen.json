@@ -2357,6 +2357,17 @@
     "verify_reason": "Candidate not available until January 2027 for immediate hiring need.",
     "years_required": 0
   },
+  "6e9c2328f5bdf020": {
+    "company": "Northrop Grumman",
+    "first_seen": "2026-10-29",
+    "location": "Aurora, CO",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Associate Cyber Software Engineer \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/Zv?s=A"
+  },
   "719b64a074d9e357": {
     "company": "Game Plan Tech",
     "first_seen": "2026-08-30",
@@ -3493,6 +3504,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353"
+  },
+  "9e8bb2c638f4ac63": {
+    "company": "Booz Allen",
+    "first_seen": "2026-10-29",
+    "location": "11 locationsHonolulu, HIAnnapolis Junction, MDColorado Springs, COMcLean, VARome, NYPanama City, FLCharleston, SCAtlanta, GAHuntsville, ALSan Diego, CAEl Segundo, CA",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Developer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/ZP?s=A"
   },
   "9e90246d5af4a440": {
     "company": "Dropbox",
