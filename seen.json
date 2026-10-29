@@ -2837,6 +2837,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "858170850e67cf9f": {
+    "company": "Openai",
+    "first_seen": "2026-10-29",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-10-29T01:58:58.904000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, IP Infrastructure",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b",
+    "verified": true,
+    "verify_reason": "Candidate unavailable until January 2027; wrong start timing.",
+    "years_required": 0
+  },
   "8670cb3ca300b468": {
     "company": "Booz Allen",
     "first_seen": "2026-08-29",
@@ -4714,6 +4729,21 @@
     "url": "https://boards.greenhouse.io/robinhood/jobs/8220757?t=gh_src=&gh_jid=8220757",
     "verified": true,
     "verify_reason": "Immediate hire role; timeline mismatch for January 2027 availability.",
+    "years_required": 0
+  },
+  "dac6ed4204e059e2": {
+    "company": "Openai",
+    "first_seen": "2026-10-29",
+    "fit_score": 1,
+    "location": "San Francisco",
+    "posted_at": "2026-10-29T02:42:10.106000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Network Infrastructure Engineer, Global Network Infra (WAN)",
+    "role_category": "platform",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/9f7371c4-e306-4a45-a400-aa2843fabd85",
+    "verified": true,
+    "verify_reason": "Candidate unavailable until January 2027; wrong start timing.",
     "years_required": 0
   },
   "dadcb3153a6c661f": {
