@@ -74,6 +74,17 @@
     "verified": true,
     "years": 3
   },
+  "032d732ce91233eb": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "0382068f5b06d8b7": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -5307,6 +5318,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "9e90246d5af4a440": {
+    "cached_at": "2026-10-29",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires leading junior engineers and immediate availability; mismatch for Dec 2026 grad.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "9e9b463b40daa608": {
     "cached_at": "2026-10-14",

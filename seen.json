@@ -3483,6 +3483,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353"
   },
+  "9e90246d5af4a440": {
+    "company": "Dropbox",
+    "first_seen": "2026-10-29",
+    "fit_score": 1,
+    "location": "Remote - Mexico",
+    "posted_at": "2026-10-29T08:40:17-04:00",
+    "posting_type": "verified_entry",
+    "role": "Backend Product Software Engineer",
+    "role_category": "swe",
+    "source": "Greenhouse:dropbox",
+    "url": "https://jobs.dropbox.com/listing/7172701?gh_jid=7172701",
+    "verified": true,
+    "verify_reason": "Requires leading junior engineers and immediate availability; mismatch for Dec 2026 grad.",
+    "years_required": 0
+  },
   "a1b73105af70e6dd": {
     "company": "Nuro",
     "first_seen": "2026-10-06",
