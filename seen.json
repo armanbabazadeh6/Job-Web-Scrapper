@@ -187,6 +187,17 @@
     "source": "Greenhouse:pinterest",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138049"
   },
+  "0bfaa265cd98a906": {
+    "company": "Thoughtworks",
+    "first_seen": "2026-10-29",
+    "location": "Chicago, IL",
+    "posted_at": "2026-10-29T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Developer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/Z2?s=A"
+  },
   "0cfe684907de3e54": {
     "company": "Blackstone",
     "first_seen": "2026-08-28",
@@ -4033,6 +4044,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321"
+  },
+  "b74b0868d3849415": {
+    "company": "Notion",
+    "first_seen": "2026-10-29",
+    "fit_score": 1,
+    "location": "San Francisco, California",
+    "posted_at": "2026-10-29T17:57:50.050000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Business Systems Engineer",
+    "role_category": "platform",
+    "source": "Ashby:notion",
+    "url": "https://jobs.ashbyhq.com/notion/30a5c739-185f-4a55-8a63-85974d687444",
+    "verified": true,
+    "verify_reason": "Requires prior experience and immediate start; timing mismatch for 2027.",
+    "years_required": 0
   },
   "b797a8eeb78eebff": {
     "company": "Lockheed Martin",
