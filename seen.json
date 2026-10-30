@@ -102,17 +102,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://fifththird.wd5.myworkdayjobs.com/en-US/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
   },
-  "0991e64125a98061": {
-    "company": "Copart",
-    "first_seen": "2026-07-31",
-    "location": "Dallas, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964"
-  },
   "09bdb52803c0f4fd": {
     "company": "Openrouter",
     "first_seen": "2026-10-06",
@@ -1492,17 +1481,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"
   },
-  "421edb98d12f8301": {
-    "company": "Brunswick",
-    "first_seen": "2026-07-31",
-    "location": "Champaign, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991"
-  },
   "4225952721d02232": {
     "company": "Pinterest",
     "first_seen": "2026-10-06",
@@ -1872,21 +1850,6 @@
     "verify_reason": "No experience required, but timing mismatch for January 2027 availability.",
     "years_required": 0
   },
-  "547cc93203224008": {
-    "company": "Purestorage",
-    "first_seen": "2026-09-29",
-    "fit_score": 2,
-    "location": "Santa Clara, California",
-    "posted_at": "2026-09-29T11:24:30-04:00",
-    "posting_type": "verified_entry",
-    "role": " Forward Deployed Engineer, AI Systems",
-    "role_category": "swe",
-    "source": "Greenhouse:purestorage",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8165519",
-    "verified": true,
-    "verify_reason": "No experience required, but likely requires immediate start before Jan 2027.",
-    "years_required": 0
-  },
   "54ab8348ab5fb4d8": {
     "company": "Varda",
     "first_seen": "2026-08-10",
@@ -1956,17 +1919,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003"
-  },
-  "58efe92b09601441": {
-    "company": "Copart",
-    "first_seen": "2026-07-31",
-    "location": "Dallas, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109965"
   },
   "59ba3013b3caf4f9": {
     "company": "Quora",
@@ -2603,17 +2555,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218"
   },
-  "79e568535f1b3553": {
-    "company": "Zettabyte",
-    "first_seen": "2026-09-29",
-    "location": "Palo Alto, California",
-    "posted_at": "2026-09-28T11:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer (New Grad)",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-zettabyte-4399493417"
-  },
   "7a4ae355e949f514": {
     "company": "Datadog",
     "first_seen": "2026-08-18",
@@ -2676,17 +2617,6 @@
     "verified": true,
     "verify_reason": "Requires 2+ years of Applications Development experience.",
     "years_required": 2
-  },
-  "7b926d97d7bdd0aa": {
-    "company": "Spacial AI",
-    "first_seen": "2026-07-31",
-    "location": "Palo Alto, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Summer 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/spacial/67b76194-6cc0-4d37-a3e3-c21a14ff4a26"
   },
   "7bc48d32520312cb": {
     "company": "Medtronic",
@@ -2836,17 +2766,6 @@
     "verified": true,
     "verify_reason": "Requires practical experience or Bachelor's degree; no minimum years stated.",
     "years_required": 0
-  },
-  "8536d196c14c43a0": {
-    "company": "Google",
-    "first_seen": "2026-09-29",
-    "location": "Mountain View, CA",
-    "posted_at": "2026-09-30T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/79125737784648390?utm_source=vansh"
   },
   "853d57d80bf45902": {
     "company": "TikTok",
@@ -3238,17 +3157,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007"
   },
-  "95ced269c2b43641": {
-    "company": "Leidos",
-    "first_seen": "2026-07-31",
-    "location": "Annapolis Junction, MD",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Developer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311"
-  },
   "960cc30dda054164": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -3419,17 +3327,6 @@
     "verified": true,
     "verify_reason": "Targeted at recent graduates for an entry-level PM role.",
     "years_required": 0
-  },
-  "9cbbc74adc865c6c": {
-    "company": "Jobright.ai",
-    "first_seen": "2026-09-29",
-    "location": "Reston, Virginia",
-    "posted_at": "2026-09-28T23:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Developer, New Grad",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://jobs.digitalhire.com/job-listing/opening/6zai3Jzrx6OO5M87SZeKi0"
   },
   "9ce8ba848cf3f184": {
     "company": "Suno",
@@ -4549,17 +4446,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/Vq?s=A"
   },
-  "ce5bd3125ca5b85e": {
-    "company": "Virtu Financial",
-    "first_seen": "2026-07-31",
-    "location": "Austin, TX +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "2027 Internship - Frontend & User Experience",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/virtu/jobs/8657500002"
-  },
   "ce6d62ae29ab71c9": {
     "company": "Motorola Solutions",
     "first_seen": "2026-08-15",
@@ -4671,17 +4557,6 @@
     "verified": true,
     "verify_reason": "Immediate role timeline mismatches candidate January 2027 availability date.",
     "years_required": 0
-  },
-  "d333a217eb46fba4": {
-    "company": "Redwood Materials",
-    "first_seen": "2026-07-31",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Embedded Software Engineer Intern - Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004"
   },
   "d4fd5c3772752432": {
     "company": "Lyft",
@@ -5182,6 +5057,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190"
   },
+  "e9103bd72be75d03": {
+    "company": "Johns Hopkins APL",
+    "first_seen": "2026-10-30",
+    "location": "Laurel, MD",
+    "posted_at": "2026-10-30T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Systems Engineer",
+    "role_category": "platform",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/10j?s=A"
+  },
   "e968ff8f3bac745a": {
     "clearance_required": true,
     "company": "VetJobs",
@@ -5322,17 +5208,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225469-1"
   },
-  "f2f6c1345afd74d2": {
-    "company": "Dexmate",
-    "first_seen": "2026-07-31",
-    "location": "Fremont, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Frontend Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/dexmate/eac26b6f-1a53-441f-8e52-ee0a0b1bc119"
-  },
   "f312b6222bee9e57": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -5359,17 +5234,6 @@
     "verified": true,
     "verify_reason": "Candidate's availability (January 2027) does not align with current hiring timeline.",
     "years_required": 0
-  },
-  "f482c9100631fc28": {
-    "company": "Astera Institute",
-    "first_seen": "2026-07-31",
-    "location": "Emeryville, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Distributed Simulation Systems",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/astera/c2a48c1b-c4c4-4333-addf-313c47e26066"
   },
   "f4b9a79e18a61871": {
     "company": "Advanced Space",
@@ -5511,17 +5375,6 @@
     "verified": true,
     "verify_reason": "Timing mismatch for Jan 2027 availability and manages strategic accounts.",
     "years_required": 0
-  },
-  "f9f24b2896007b9e": {
-    "company": "Motorola Solutions",
-    "first_seen": "2026-07-31",
-    "location": "Remote - Massachusetts, USA +10",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering - Co-Op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Massachusetts-US-Offsite/Software-Engineering--Co-Op_R66728"
   },
   "fa8785c14586eb51": {
     "company": "Blackstone",
