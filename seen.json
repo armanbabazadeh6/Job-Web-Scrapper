@@ -76,6 +76,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003"
   },
+  "075e675c1f0c74db": {
+    "company": "Snowflake",
+    "first_seen": "2026-10-31",
+    "fit_score": 5,
+    "location": "Menlo Park, California",
+    "posted_at": "2026-10-31T19:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry-Level Software Engineer, Customer Experience",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://us.trabajo.org/job-28652-047a1b9608f780099e5c6ad29acdcede",
+    "verified": true,
+    "verify_reason": "Early-career entry-level software engineering role with no experience required.",
+    "years_required": 0
+  },
   "07d945625a22af90": {
     "company": "Fifth Third Bank",
     "first_seen": "2026-08-21",
@@ -2092,6 +2107,21 @@
     "verify_reason": "Perfect match for 2027 start date and entry-level profile.",
     "years_required": 0
   },
+  "654b3c6b0d9776d4": {
+    "company": "Raytheon Technologies",
+    "first_seen": "2026-10-31",
+    "fit_score": 5,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-10-31T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry-Level Software Developer - Application Support & Sustainment (Remote)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://jobgether.com/offer/6ae536c7d6c8b081a79a7e69-entry-level-software-developer---application-support-sustainment-remote",
+    "verified": true,
+    "verify_reason": "Requires university degree and under 2 years experience; no clearance required.",
+    "years_required": 0
+  },
   "6550300b2504f256": {
     "company": "TikTok",
     "first_seen": "2026-08-07",
@@ -3934,6 +3964,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321"
+  },
+  "b64058f9a8dfec29": {
+    "company": "CGI Technologies and Solutions, Inc.",
+    "first_seen": "2026-10-31",
+    "fit_score": 1,
+    "location": "Belton, Texas",
+    "posted_at": "2026-10-31T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer -- Entry Level",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/27sfDjvRkne5i4fK8kjzHa",
+    "verified": true,
+    "verify_reason": "Application period is Fall 2024; candidate is not available until 2027.",
+    "years_required": 0
   },
   "b74b0868d3849415": {
     "company": "Notion",

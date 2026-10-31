@@ -242,6 +242,17 @@
     "verified": false,
     "years": null
   },
+  "075e675c1f0c74db": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Early-career entry-level software engineering role with no experience required.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "083d8837b6925cd4": {
     "cached_at": "2026-09-22",
     "clearance_required": false,
@@ -3538,6 +3549,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "654b3c6b0d9776d4": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Requires university degree and under 2 years experience; no clearance required.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "655147e92d17e4c1": {
     "cached_at": "2026-08-31",
