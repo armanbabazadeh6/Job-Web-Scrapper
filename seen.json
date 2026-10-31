@@ -32,21 +32,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225450-1"
   },
-  "03e234fc5a728eea": {
-    "company": "Block",
-    "first_seen": "2026-09-30",
-    "fit_score": 1,
-    "location": "Bay Area, CA, United States of America",
-    "posted_at": "2026-09-30T17:05:34-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Program Engineering",
-    "role_category": "swe",
-    "source": "Greenhouse:block",
-    "url": "http://block.xyz/careers/jobs/5427880008?gh_jid=5427880008",
-    "verified": true,
-    "verify_reason": "Immediate hire role creates a major timeline mismatch for January 2027.",
-    "years_required": 0
-  },
   "0418dcc3b8cd4dd2": {
     "company": "Centerfield",
     "first_seen": "2026-08-07",
@@ -770,6 +755,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8"
   },
+  "263535d3de188f6a": {
+    "company": "NVIDIA",
+    "first_seen": "2026-10-31",
+    "location": "Santa Clara, CA",
+    "posted_at": "2026-11-01T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2025: Systems Software Engineer, GeForce NOW Low Latency Streaming Technology",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
   "26b6a5693f513b95": {
     "company": "CesiumAstro",
     "first_seen": "2026-08-29",
@@ -954,22 +950,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "2d83f224d0d57921": {
-    "company": "#twiceasnice Recruiting",
-    "first_seen": "2026-09-30",
-    "fit_score": 1,
-    "location": "Remote \u2014 US",
-    "posted_at": "2026-09-29T15:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Sales Engineer (Entry Level; Engineering degree. req. OTE: $110K+)",
-    "role_category": "sales_eng",
-    "salary": "$70k-$80k",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/sales-engineer-entry-level-engineering-degree-req-ote-%24110k%2B-at-%23twiceasnice-recruiting-4471922100",
-    "verified": true,
-    "verify_reason": "Requires ASAP start, mismatch for January 2027 availability.",
-    "years_required": 0
   },
   "2e3920c0b2ecfa21": {
     "company": "TikTok",
@@ -1648,21 +1628,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007"
   },
-  "4a72ae8dd9b15901": {
-    "company": "Block",
-    "first_seen": "2026-09-30",
-    "fit_score": 1,
-    "location": "Bay Area, CA, United States of America",
-    "posted_at": "2026-09-30T14:33:32-04:00",
-    "posting_type": "verified_entry",
-    "role": "AI Evaluation Infrastructure Engineer",
-    "role_category": "platform",
-    "source": "Greenhouse:block",
-    "url": "http://block.xyz/careers/jobs/5434157008?gh_jid=5434157008",
-    "verified": true,
-    "verify_reason": "Immediate opening is not compatible with candidate's January 2027 availability.",
-    "years_required": 0
-  },
   "4aaf8468cd4cbfbc": {
     "company": "Northrop Grumman",
     "first_seen": "2026-08-29",
@@ -1748,17 +1713,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "4e04700bfbadf24f": {
-    "company": "Heliux",
-    "first_seen": "2026-08-01",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer - Internship - Spring 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/heliux/c71c0650-b6f7-491f-b291-6b280f58ee9c"
   },
   "4e7d8248aefa5b8a": {
     "company": "Persona AI",
@@ -2048,21 +2002,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
-  },
-  "6119471dd5e05a1f": {
-    "company": "Coinbase",
-    "first_seen": "2026-09-30",
-    "fit_score": 1,
-    "location": "Remote - USA",
-    "posted_at": "2026-09-29T18:40:13-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, CDP - Foundations ",
-    "role_category": "swe",
-    "source": "Greenhouse:coinbase",
-    "url": "https://www.coinbase.com/careers/positions/8241522?gh_jid=8241522",
-    "verified": true,
-    "verify_reason": "Requires 2+ years experience; wrong start timing for January 2027.",
-    "years_required": 2
   },
   "6186a7e5eec21437": {
     "company": "Figma",
@@ -2858,6 +2797,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
   },
+  "890a0025869cbfad": {
+    "company": "NVIDIA",
+    "first_seen": "2026-10-31",
+    "location": "Santa Clara, CA",
+    "posted_at": "2026-11-01T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Engineer, AI Infrastructure",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
   "89c93a681adbb8d8": {
     "company": "Openai",
     "first_seen": "2026-10-01",
@@ -3157,6 +3107,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "9520e85608dbacf8": {
+    "company": "Salesforce",
+    "first_seen": "2026-10-31",
+    "location": "4 locationsRemoteBellevue, WABoston, MAChicago, IL",
+    "posted_at": "2026-11-01T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "AI Forward Deployed Engineer (Early Career)",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
   "9542dfafba80df1e": {
     "company": "Trillium",
     "first_seen": "2026-08-10",
@@ -3223,6 +3184,17 @@
     "source": "Lever:palantir",
     "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"
   },
+  "97e839e94cdee1d9": {
+    "company": "NVIDIA",
+    "first_seen": "2026-10-31",
+    "location": "Santa Clara, CARedmond, WA",
+    "posted_at": "2026-11-01T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2025: AI and ML Infra Software Engineer, GPU Clusters",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
   "992f8385c1cdc969": {
     "company": "GDIT",
     "first_seen": "2026-08-05",
@@ -3258,22 +3230,6 @@
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
     "verified": true,
     "verify_reason": "Immediate role creates timing mismatch with January 2027 availability.",
-    "years_required": 0
-  },
-  "99f5253bbc1044cb": {
-    "company": "ByteDance",
-    "first_seen": "2026-09-30",
-    "fit_score": 5,
-    "location": "",
-    "posted_at": "2026-09-29T18:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer Graduate (AI Infra Compute) - 2027 Start",
-    "role_category": "swe",
-    "salary": "$121600 - $243200",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-graduate-ai-infra-compute-2027-start-at-bytedance-4473502521",
-    "verified": true,
-    "verify_reason": "Perfect match for December 2026 graduate with 2027 start date.",
     "years_required": 0
   },
   "9a00c4751bfbca7a": {
@@ -3879,21 +3835,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "b3be6b7848121944": {
-    "company": "Asana",
-    "first_seen": "2026-09-30",
-    "fit_score": 1,
-    "location": "San Francisco",
-    "posted_at": "2026-09-30T14:10:01-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Data Loading Infrastructure ",
-    "role_category": "swe",
-    "source": "Greenhouse:asana",
-    "url": "https://www.asana.com/jobs/apply/7962412?gh_jid=7962412",
-    "verified": true,
-    "verify_reason": "Requires 2+ years experience and starts before candidate's 2027 availability.",
-    "years_required": 2
-  },
   "b3d66f8723946d35": {
     "company": "Coinbase",
     "first_seen": "2026-10-20",
@@ -3930,17 +3871,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609"
-  },
-  "b44cbebd0cfd26fa": {
-    "company": "Heliux",
-    "first_seen": "2026-08-01",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer - Internship - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef"
   },
   "b55971557f624e89": {
     "company": "Rockwell Automation",
@@ -4112,22 +4042,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137-1"
   },
-  "bc4e647eed69b275": {
-    "clearance_required": true,
-    "company": "Jacobs",
-    "first_seen": "2026-09-30",
-    "fit_score": 1,
-    "location": "Nashua, New Hampshire",
-    "posted_at": "2026-09-29T21:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Associate Level Software Engineer",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.indeed.com/viewjob?jk=296812f856e55845",
-    "verified": true,
-    "verify_reason": "Requires security clearance; wrong start timing for January 2027.",
-    "years_required": 0
-  },
   "bcfa24924ad5c866": {
     "company": "AVEVA",
     "first_seen": "2026-10-14",
@@ -4165,21 +4079,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "c0fcb48339e1650b": {
-    "company": "Emonics LLC",
-    "first_seen": "2026-09-30",
-    "fit_score": 3,
-    "location": "",
-    "posted_at": "2026-09-29T20:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer \u2013 Entry Level",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-entry-level-at-emonics-llc-4471957197",
-    "verified": true,
-    "verify_reason": "General entry-level role; does not specify 2027 start date.",
-    "years_required": 0
   },
   "c2b04a7260abc933": {
     "company": "talentpluto",
@@ -4248,6 +4147,17 @@
     "verified": true,
     "verify_reason": "Excellent match for 2027 entry-level role and graduation timeline.",
     "years_required": 0
+  },
+  "c3e76f8075d73846": {
+    "company": "Zip",
+    "first_seen": "2026-10-31",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-11-01T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
   },
   "c52fa56179d2bcb5": {
     "company": "Microsoft",
@@ -5057,6 +4967,21 @@
     "verify_reason": "Start timing does not match candidate's January 2027 availability.",
     "years_required": 0
   },
+  "e871f921998a5821": {
+    "company": "Chime",
+    "first_seen": "2026-10-31",
+    "fit_score": 2,
+    "location": "San Francisco, CA, USA",
+    "posted_at": "2026-10-30T20:06:33-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Jade - AI Financial Partner",
+    "role_category": "swe",
+    "source": "Greenhouse:chime",
+    "url": "https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of production software development experience.",
+    "years_required": 2
+  },
   "e8a081178fbf3ae7": {
     "company": "Workiva",
     "first_seen": "2026-08-29",
@@ -5457,21 +5382,6 @@
     "verify_reason": "No experience required stated in posting, suitable for entry level.",
     "years_required": 0
   },
-  "fd46421ba149126c": {
-    "company": "Epic",
-    "first_seen": "2026-09-30",
-    "fit_score": 4,
-    "location": "Sitka, Alaska",
-    "posted_at": "2026-09-29T15:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Infrastructure Engineer",
-    "role_category": "platform",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/infrastructure-engineer-at-epic-4454298040",
-    "verified": true,
-    "verify_reason": "Welcomes entry-level applicants; great fit for upcoming graduates.",
-    "years_required": 0
-  },
   "fd6b9a90fc48db96": {
     "company": "Specialisterne",
     "first_seen": "2026-08-20",
@@ -5520,21 +5430,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "ff3ec34db280a175": {
-    "company": "Cisco",
-    "first_seen": "2026-09-30",
-    "fit_score": 2,
-    "location": "Remote \u2014 US",
-    "posted_at": "2026-09-29T22:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer Compiler II (Full Time) \u2013 United States",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://talentbridge.cisco.com/en/job/software-engineer-compiler-ii-full-time-united-states-56644",
-    "verified": true,
-    "verify_reason": "Requires graduation within 12 months; candidate graduates December 2026.",
-    "years_required": 0
   },
   "ff689588cbc089c4": {
     "company": "Garda Capital Partners",

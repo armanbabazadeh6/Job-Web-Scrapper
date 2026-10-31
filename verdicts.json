@@ -10,6 +10,17 @@
     "verified": true,
     "years": 0
   },
+  "00156b6248112992": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "002a21e3b5474308": {
     "cached_at": "2026-09-22",
     "clearance_required": false,
@@ -3312,6 +3323,17 @@
     "verified": false,
     "years": 5
   },
+  "61fee014e55bf9cf": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "62039db58ed7a3d4": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -3551,6 +3573,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 2
+  },
+  "67baeffd2e2be951": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "67e6b702d61449da": {
     "cached_at": "2026-09-11",
@@ -5677,6 +5710,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "a64bdd7a476efcef": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "a6d5b70178beaa54": {
     "cached_at": "2026-09-30",
@@ -7875,6 +7919,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "e871f921998a5821": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years of production software development experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "e968ff8f3bac745a": {
     "cached_at": "2026-10-09",
