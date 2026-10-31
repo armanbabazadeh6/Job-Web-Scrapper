@@ -5989,6 +5989,17 @@
     "verified": false,
     "years": null
   },
+  "adeca10813bf4a22": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Entry-level role requires 0 years, but start timing mismatches January 2027.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "adef3f178ea625e8": {
     "cached_at": "2026-08-31",
     "entry_level": false,

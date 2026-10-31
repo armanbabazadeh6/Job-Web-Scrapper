@@ -3675,6 +3675,21 @@
     "verify_reason": "Requires Bachelor's degree by start date and full-time availability.",
     "years_required": 0
   },
+  "adeca10813bf4a22": {
+    "company": "Bitdeer Technologies Group",
+    "first_seen": "2026-10-31",
+    "fit_score": 2,
+    "location": "Austin, Texas",
+    "posted_at": "2026-10-30T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "SRE Monitoring Platform Software Engineer (Entry Level) at Bitdeer Technologies Group Austin, TX",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://navarrostudio.com/work/job/sre-monitoring-platform-software-engineer-entry-level-at-bitdeer-technologies-group-austin-tx-RVlTdXhIdXZtanFzcUd4L3kwZzdZSmlC",
+    "verified": true,
+    "verify_reason": "Entry-level role requires 0 years, but start timing mismatches January 2027.",
+    "years_required": 0
+  },
   "ae81868881b7caf5": {
     "company": "Plexus",
     "first_seen": "2026-08-28",
