@@ -3405,6 +3405,17 @@
     "verified": false,
     "years": null
   },
+  "62e514ec4bfc46fe": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 7+ years of product management experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 7
+  },
   "62f4077a80a41772": {
     "cached_at": "2026-10-13",
     "clearance_required": false,
@@ -4037,6 +4048,17 @@
     "verified": false,
     "years": 5
   },
+  "777ceb2657af9639": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years of product management experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
+  },
   "78557935b5aa05b2": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -4254,6 +4276,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "7eec3b7d0133843b": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "7f578366b190ce3d": {
     "cached_at": "2026-08-31",
