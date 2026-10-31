@@ -1736,6 +1736,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "50908875768dffcc": {
+    "company": "Chime",
+    "first_seen": "2026-10-31",
+    "fit_score": 3,
+    "location": "San Francisco, CA, USA",
+    "posted_at": "2026-10-30T20:07:32-04:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Membership Experience",
+    "role_category": "swe",
+    "source": "Greenhouse:chime",
+    "url": "https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002",
+    "verified": true,
+    "verify_reason": "Requires 2+ years production experience; candidate graduates Dec 2026.",
+    "years_required": 2
+  },
   "517171eb5c8a5fc3": {
     "company": "Airbnb",
     "first_seen": "2026-10-29",

@@ -2775,6 +2775,17 @@
     "verified": false,
     "years": 6
   },
+  "50908875768dffcc": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires 2+ years production experience; candidate graduates Dec 2026.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "50d38ed316d6ead3": {
     "cached_at": "2026-09-09",
     "clearance_required": false,
@@ -8516,6 +8527,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "fcfe098869d2d26e": {
+    "cached_at": "2026-10-31",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "fd36d51420ddd74a": {
     "cached_at": "2026-10-07",
