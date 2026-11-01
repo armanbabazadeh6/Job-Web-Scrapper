@@ -2635,6 +2635,17 @@
     "verified": true,
     "years": 3
   },
+  "4bc9053b68255e45": {
+    "cached_at": "2026-11-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "4c83e5ee2323b97b": {
     "cached_at": "2026-10-26",
     "clearance_required": false,
@@ -3599,6 +3610,17 @@
     "verified": true,
     "years": 0
   },
+  "671ad970d3f43f17": {
+    "cached_at": "2026-11-01",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Entry-level role for 2027 grads requiring security clearance eligibility.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "671e4f148115cb27": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -3820,6 +3842,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "6dc30eb1fed258cc": {
+    "cached_at": "2026-11-01",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "6e77255025dccdf8": {
     "cached_at": "2026-10-03",
@@ -4245,6 +4278,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "7c69f1dd5f25d444": {
+    "cached_at": "2026-11-01",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Entry-level full-time role with no experience required.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "7c6c928877352c28": {
     "cached_at": "2026-08-31",
