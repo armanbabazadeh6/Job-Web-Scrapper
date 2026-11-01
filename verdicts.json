@@ -7448,6 +7448,17 @@
     "verified": true,
     "years": 2
   },
+  "d615a47e556b7ab2": {
+    "cached_at": "2026-11-01",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Entry-level role requiring security clearance eligibility and BS in EE/CS.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "d6cfe07a92336b52": {
     "cached_at": "2026-10-29",
     "clearance_required": false,
