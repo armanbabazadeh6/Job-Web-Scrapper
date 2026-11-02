@@ -87,6 +87,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002"
   },
+  "06bed5dc7d72dbeb": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-11-02",
+    "fit_score": 2,
+    "location": "Remote",
+    "posted_at": "2026-11-02T12:27:06.128000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Full-Stack Engineer (Backend Leaning) - Studio",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/a1c86d02-e9df-4580-87e4-1333f2b83e94",
+    "verified": true,
+    "verify_reason": "Immediate hiring timeline does not match January 2027 availability.",
+    "years_required": 0
+  },
   "06f867cc27841a00": {
     "company": "MORSE Corp Co-op Opportunities",
     "first_seen": "2026-08-25",
@@ -473,21 +488,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395"
-  },
-  "159165011e4cae22": {
-    "company": "Coinbase",
-    "first_seen": "2026-10-02",
-    "fit_score": 2,
-    "location": "Remote - USA",
-    "posted_at": "2026-10-01T16:38:28-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, CDP - Stablecoin",
-    "role_category": "swe",
-    "source": "Greenhouse:coinbase",
-    "url": "https://www.coinbase.com/careers/positions/8234278?gh_jid=8234278",
-    "verified": true,
-    "verify_reason": "Requires 2+ years of experience building production backend services.",
-    "years_required": 2
   },
   "15f84e92bf6f4319": {
     "company": "Leidos",
@@ -1016,6 +1016,22 @@
     "verify_reason": "Requires 2+ years experience; timing mismatch for Jan 2027 grad.",
     "years_required": 2
   },
+  "29d04bd5df47c783": {
+    "company": "Keysight Technologies, Inc.",
+    "first_seen": "2026-11-02",
+    "fit_score": 1,
+    "location": "Pasadena, California",
+    "posted_at": "2026-11-02T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Solutions Engineer (Entry Level)",
+    "role_category": "sales_eng",
+    "salary": "$97,490-$162,480",
+    "source": "JSearch",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/5vDThkqq2K5y48CldiBUOt",
+    "verified": true,
+    "verify_reason": "Immediate opening; candidate is not available until January 2027.",
+    "years_required": 0
+  },
   "2a2cff0d7d1e717d": {
     "company": "Leidos",
     "first_seen": "2026-08-29",
@@ -1245,21 +1261,6 @@
     "role_category": "platform",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/168?s=A"
-  },
-  "330be6c53eea392b": {
-    "company": "ElevenLabs",
-    "first_seen": "2026-10-02",
-    "fit_score": 1,
-    "location": "Remote \u2014 US",
-    "posted_at": "2026-10-01T18:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Enterprise Solutions Engineer - North America",
-    "role_category": "sales_eng",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-north-america-at-elevenlabs-4474367565",
-    "verified": true,
-    "verify_reason": "Immediate opening does not align with January 2027 availability.",
-    "years_required": 0
   },
   "33c0d3383cbb7ce0": {
     "company": "MORSE Corp Co-op Opportunities",
@@ -1601,22 +1602,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021"
   },
-  "3d027a5a10bd3257": {
-    "company": "National Security Agency",
-    "first_seen": "2026-10-02",
-    "fit_score": 5,
-    "location": "Fort Meade, Maryland",
-    "posted_at": "2026-10-02T09:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer - Entry Level (MD, TX, CO)",
-    "role_category": "swe",
-    "salary": "$87,362 - $123,388",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-entry-level-md-tx-co-at-national-security-agency-4474715608",
-    "verified": true,
-    "verify_reason": "Entry level software engineering role requiring no prior experience.",
-    "years_required": 0
-  },
   "3dd24364dace7b0b": {
     "company": "Tata Consultancy Services",
     "first_seen": "2026-10-27",
@@ -1932,17 +1917,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486"
   },
-  "4aebfacf08d28f28": {
-    "company": "Palantir Technologies",
-    "first_seen": "2026-10-02",
-    "location": "Denver, Colorado",
-    "posted_at": "2026-10-01T15:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, New Grad",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-palantir-technologies-4434136634"
-  },
   "4b32457be1c216a6": {
     "company": "CNH",
     "first_seen": "2026-10-27",
@@ -2096,17 +2070,6 @@
     "verified": true,
     "verify_reason": "Candidate available January 2027; wrong start timing for immediate role.",
     "years_required": 0
-  },
-  "53ed566227077a87": {
-    "company": "Otis Elevator Co.",
-    "first_seen": "2026-10-02",
-    "location": "Farmington, Connecticut",
-    "posted_at": "2026-10-01T01:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer \u2013 Early Career Digital Technology Rising Leaders Program",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-early-career-digital-technology-rising-leaders-program-at-otis-elevator-co-4472373678"
   },
   "53f31dd3a3f0d804": {
     "company": "Freddie Mac",
@@ -2982,21 +2945,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15O?s=A"
-  },
-  "7b89292a88a7addd": {
-    "company": "Town Fair Tire",
-    "first_seen": "2026-10-02",
-    "fit_score": 2,
-    "location": "East Haven, Connecticut",
-    "posted_at": "2026-10-01T12:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Developer (No Sponsorship/ No Remote)Software Developer (No Sponsorship/ No Remote)Software Developer (No Sponsorship/ No Remote)",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-developer-no-sponsorship-no-remote-software-developer-no-sponsorship-no-remote-software-developer-no-sponsorship-no-remote-at-town-fair-tire-4472539833",
-    "verified": true,
-    "verify_reason": "Requires 2+ years of Applications Development experience.",
-    "years_required": 2
   },
   "7b8b0c05b67a99f9": {
     "company": "TikTok",
@@ -3920,6 +3868,17 @@
     "verify_reason": "Requires leading junior engineers and immediate availability; mismatch for Dec 2026 grad.",
     "years_required": 0
   },
+  "9f2f52e7289e2335": {
+    "company": "Decagon",
+    "first_seen": "2026-11-02",
+    "location": "San Francisco, CA",
+    "posted_at": "2026-11-02T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Member of Technical Staff",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/19g?s=A"
+  },
   "a1b73105af70e6dd": {
     "company": "Nuro",
     "first_seen": "2026-10-06",
@@ -3967,17 +3926,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://availity.wd1.myworkdayjobs.com/en-US/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436"
-  },
-  "a2cc2a73858001cd": {
-    "company": "Harvey",
-    "first_seen": "2026-10-02",
-    "location": "San Francisco",
-    "posted_at": "2026-10-02T19:13:45.839000+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, New Grad (2027)",
-    "role_category": "swe",
-    "source": "Ashby:harvey",
-    "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5"
   },
   "a38a6ee7874d3113": {
     "company": "Purestorage",
@@ -4641,6 +4589,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://selinc.wd1.myworkdayjobs.com/en-US/sel/job/Washington---Pullman/Software-Engineering-Intern--AI-Focus-_2026-22601"
   },
+  "bbdeaf98cd8f8cf6": {
+    "company": "Fireworks AI",
+    "first_seen": "2026-11-02",
+    "location": "San Mateo, CA",
+    "posted_at": "2026-11-02T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Member of Technical Staff",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/19h?s=A"
+  },
   "bc23cb5bf7dcacaf": {
     "company": "Walt Disney",
     "first_seen": "2026-08-25",
@@ -5269,21 +5228,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "dc6919bb3224493c": {
-    "company": "Openai",
-    "first_seen": "2026-10-02",
-    "fit_score": 1,
-    "location": "US - Remote",
-    "posted_at": "2026-10-02T17:13:03.539000+00:00",
-    "posting_type": "verified_entry",
-    "role": "People Technology Analyst, Workday PATT & Benefits",
-    "role_category": "consulting",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/bb28a39e-eb1f-41ef-96de-98adf58a8c3c",
-    "verified": true,
-    "verify_reason": "Requires deep Workday expertise; availability mismatch for Jan 2027.",
-    "years_required": 0
   },
   "dcc1c090ab4ede40": {
     "company": "Cursor",
@@ -6070,21 +6014,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
-  },
-  "fced6222395da5c9": {
-    "company": "Samsara",
-    "first_seen": "2026-10-02",
-    "fit_score": 4,
-    "location": "Remote - US",
-    "posted_at": "2026-10-02T13:38:10-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer II",
-    "role_category": "swe",
-    "source": "Greenhouse:samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645",
-    "verified": true,
-    "verify_reason": "No experience required stated in posting, suitable for entry level.",
-    "years_required": 0
   },
   "fd6b9a90fc48db96": {
     "company": "Specialisterne",

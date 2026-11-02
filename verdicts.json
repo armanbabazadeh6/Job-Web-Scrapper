@@ -231,6 +231,17 @@
     "verified": true,
     "years": 3
   },
+  "06bed5dc7d72dbeb": {
+    "cached_at": "2026-11-02",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Immediate hiring timeline does not match January 2027 availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "0740e5f70e0289ce": {
     "cached_at": "2026-10-15",
     "clearance_required": false,
@@ -2819,6 +2830,17 @@
     "verified": false,
     "years": 5
   },
+  "50d622d46734cecb": {
+    "cached_at": "2026-11-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 4+ years experience, exceeding entry-level background.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
+  },
   "511bb2eb8c2d1bf0": {
     "cached_at": "2026-10-01",
     "clearance_required": false,
@@ -3979,6 +4001,17 @@
   },
   "73a0e20adb22ba0f": {
     "cached_at": "2026-10-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "73cbf4de2aa338cd": {
+    "cached_at": "2026-11-02",
     "clearance_required": false,
     "entry_level": false,
     "fit_score": null,
