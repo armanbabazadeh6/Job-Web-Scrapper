@@ -1262,6 +1262,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/168?s=A"
   },
+  "32dbde12c7683206": {
+    "company": "Palantir",
+    "first_seen": "2026-11-02",
+    "fit_score": 4,
+    "location": "New York, NY",
+    "posted_at": "2026-11-02T22:20:40.973000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer - Applied AI, Defense Applications",
+    "role_category": "swe",
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/6b4b087c-4fc6-476d-9e72-e1bc6ac6c62a",
+    "verified": true,
+    "verify_reason": "No experience requirements stated in the description.",
+    "years_required": 0
+  },
   "33c0d3383cbb7ce0": {
     "company": "MORSE Corp Co-op Opportunities",
     "first_seen": "2026-08-25",
@@ -2683,6 +2698,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.zipline.com/open-roles?gh_jid=7893926003"
   },
+  "728eae6da9dd717f": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-11-02",
+    "fit_score": 4,
+    "location": "United States",
+    "posted_at": "2026-11-02T18:19:57.531000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Deployment Strategist - North America",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/8c068ebf-c79f-4f12-97ef-b4c9a4f7ae5f",
+    "verified": true,
+    "verify_reason": "No experience requirements stated in the description.",
+    "years_required": 0
+  },
   "731a84b50b1a5f66": {
     "company": "Rilla",
     "first_seen": "2026-10-27",
@@ -3153,6 +3183,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "8563905fe786e46c": {
+    "company": "Reddit",
+    "first_seen": "2026-11-02",
+    "fit_score": 4,
+    "location": "Remote - United States",
+    "posted_at": "2026-11-02T18:28:32-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Infrastructure Engineering",
+    "role_category": "swe",
+    "source": "Greenhouse:reddit",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444",
+    "verified": true,
+    "verify_reason": "No experience requirements stated in the description.",
+    "years_required": 0
   },
   "858170850e67cf9f": {
     "company": "Openai",
@@ -6085,6 +6130,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004"
+  },
+  "ff9c157fb935dcdb": {
+    "company": "Verkada",
+    "first_seen": "2026-11-02",
+    "location": "San Mateo, CA",
+    "posted_at": "2026-11-02T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Backend Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/19H?s=A"
   },
   "ffa3178196179af0": {
     "company": "ByteDance",
