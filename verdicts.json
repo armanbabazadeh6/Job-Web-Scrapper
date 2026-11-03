@@ -2508,6 +2508,17 @@
     "verified": true,
     "years": 2
   },
+  "455e02474d7ea44b": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience specified; general role not aligned with Jan 2027 availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "4574ae9f3c779ac7": {
     "cached_at": "2026-10-29",
     "clearance_required": false,
@@ -7639,6 +7650,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "d9426dcb28e88df0": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "d953b8aa9306f41b": {
     "cached_at": "2026-10-08",

@@ -629,6 +629,17 @@
     "verify_reason": "Requires leading product pods and feature launches for immediate hire.",
     "years_required": 0
   },
+  "1b949cf9bf39c025": {
+    "company": "Northwood Space",
+    "first_seen": "2026-11-03",
+    "location": "Carson, California",
+    "posted_at": "2026-11-02T23:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer \u2013 New grad / early career",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.genroam.io/job/newgrad-6805a542-b373-4362-a01b-1340de5ba6db"
+  },
   "1ba7ad267dbb563d": {
     "company": "TikTok",
     "first_seen": "2026-08-20",
@@ -1417,6 +1428,17 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15m?s=A"
   },
+  "372109905577f54d": {
+    "company": "Shield",
+    "first_seen": "2026-11-03",
+    "location": "Seattle, WA",
+    "posted_at": "2026-11-03T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer I",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1bP?s=A"
+  },
   "37563f94a57a016c": {
     "company": "Google",
     "first_seen": "2026-08-25",
@@ -1486,17 +1508,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/177?s=A"
-  },
-  "3a973004379686d1": {
-    "company": "Blackstone",
-    "first_seen": "2026-08-04",
-    "location": "New Jersey",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Private Equity Valuations & Analytics, Associate",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-Jersey/Private-Equity-Valuations---Analytics--Associate_44494"
   },
   "3a9b5eaa60e403b0": {
     "company": "Phoebe",
@@ -1851,6 +1862,21 @@
     "verify_reason": "Candidate available Jan 2027; immediate hire role is timing mismatch.",
     "years_required": 0
   },
+  "455e02474d7ea44b": {
+    "company": "Openai",
+    "first_seen": "2026-11-03",
+    "fit_score": 3,
+    "location": "San Francisco",
+    "posted_at": "2026-11-03T02:37:14.184000+00:00",
+    "posting_type": "verified_entry",
+    "role": "EDA Cloud & Developer Infrastructure Engineer",
+    "role_category": "platform",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/4f2d9849-ad00-48d5-a22f-0cb943723999",
+    "verified": true,
+    "verify_reason": "No experience specified; general role not aligned with Jan 2027 availability.",
+    "years_required": 0
+  },
   "45d00f2f6c9edf81": {
     "company": "TikTok",
     "first_seen": "2026-08-05",
@@ -2069,22 +2095,6 @@
     "verified": true,
     "verify_reason": "Requires 2+ years experience; timing mismatch for 2027 grad.",
     "years_required": 2
-  },
-  "51f287a67f6321ee": {
-    "company": "SynergisticIT",
-    "first_seen": "2026-10-03",
-    "fit_score": 1,
-    "location": "Charlotte, North Carolina",
-    "posted_at": "2026-10-02T23:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Junior/Entry Level Software Engineer",
-    "role_category": "swe",
-    "salary": "$100k+",
-    "source": "JSearch",
-    "url": "https://bebee.com/us/jobs/junior-entry-level-software-engineer-synergisticit-charlotte--pureheal-29125_107187E22372DA4EDF03FE9941017B8F",
-    "verified": true,
-    "verify_reason": "Candidate available January 2027; wrong start timing for immediate role.",
-    "years_required": 0
   },
   "53f31dd3a3f0d804": {
     "company": "Freddie Mac",
@@ -2611,21 +2621,6 @@
     "role_category": "consulting",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2027_261004424?utm_source=vansh"
-  },
-  "6e77255025dccdf8": {
-    "company": "Perplexity",
-    "first_seen": "2026-10-03",
-    "fit_score": 1,
-    "location": "New York City",
-    "posted_at": "2026-10-02T22:04:40.814000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Product Manager, Platform",
-    "role_category": "product",
-    "source": "Ashby:perplexity",
-    "url": "https://jobs.ashbyhq.com/perplexity/a8c79425-eb48-40e0-8557-93460fa67097",
-    "verified": true,
-    "verify_reason": "Candidate not available until January 2027 for immediate hiring need.",
-    "years_required": 0
   },
   "6e9c2328f5bdf020": {
     "company": "Northrop Grumman",
