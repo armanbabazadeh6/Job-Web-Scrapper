@@ -1181,6 +1181,17 @@
     "verified": false,
     "years": null
   },
+  "2431a08a953a8e39": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires minimum 3 to 5 years of related experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "2443a597a57fe842": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -4879,6 +4890,17 @@
     "verified": true,
     "years": 0
   },
+  "8a68d3b280cb5370": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 4-7 years of experience and immediate start date.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
+  },
   "8a694863a35fd649": {
     "cached_at": "2026-10-07",
     "clearance_required": true,
@@ -8256,6 +8278,17 @@
     "verified": true,
     "years": 0
   },
+  "ed12c3a24ee047ac": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Senior mid-career position not suitable for new graduates.",
+    "salary": "$70,000-$90,000",
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
+  },
   "ed4a8b1d44107109": {
     "cached_at": "2026-10-07",
     "clearance_required": false,
@@ -8277,6 +8310,17 @@
     "seniority": null,
     "verified": false,
     "years": 4
+  },
+  "ee858818775d6b33": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Entry-level role accepting internship and coursework experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "ef270fd181d0a1a1": {
     "cached_at": "2026-10-22",

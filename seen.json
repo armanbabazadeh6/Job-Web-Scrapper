@@ -5735,6 +5735,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411"
   },
+  "ee858818775d6b33": {
+    "company": "Qualtrics",
+    "first_seen": "2026-11-03",
+    "fit_score": 3,
+    "location": "Seattle, Washington",
+    "posted_at": "2026-11-02T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I - XMD",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.qualtrics.com/careers/us/en/job/8325652/Software-Engineer-I-XMD",
+    "verified": true,
+    "verify_reason": "Entry-level role accepting internship and coursework experience.",
+    "years_required": 0
+  },
   "eea804ec258baed5": {
     "company": "ByteDance",
     "first_seen": "2026-11-01",
@@ -5831,6 +5846,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "f3c9ca960987bd90": {
+    "company": "Visa",
+    "first_seen": "2026-11-03",
+    "fit_score": 1,
+    "location": "Ashburn, Virginia",
+    "posted_at": "2026-11-02T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, New College Grad",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/62n2CmcfPDOkiGgJfqvZSq",
+    "verified": true,
+    "verify_reason": "Requires graduation by August 2025; candidate graduates December 2026.",
+    "years_required": 0
   },
   "f3f2d8a1c932f7cd": {
     "company": "Eaton",
