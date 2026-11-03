@@ -451,6 +451,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051449"
   },
+  "13df9635d95223e2": {
+    "company": "Gitlab",
+    "first_seen": "2026-11-03",
+    "fit_score": 2,
+    "location": "Remote, Canada; Remote, United States",
+    "posted_at": "2026-11-03T11:38:14-05:00",
+    "posting_type": "verified_entry",
+    "role": "Intermediate Fullstack Engineer, Subscription Lifecycle ",
+    "role_category": "swe",
+    "source": "Greenhouse:gitlab",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8922249002",
+    "verified": true,
+    "verify_reason": "Intermediate role with wrong start timing for 2027 graduate.",
+    "years_required": 0
+  },
   "1467c1586e1ad5b5": {
     "company": "Ubiquiti Inc.",
     "first_seen": "2026-10-05",
@@ -1131,6 +1146,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
+  },
+  "2d82c2d514d6df81": {
+    "company": "Purestorage",
+    "first_seen": "2026-11-03",
+    "fit_score": 2,
+    "location": "Santa Clara, California",
+    "posted_at": "2026-11-03T14:58:22-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer",
+    "role_category": "swe",
+    "source": "Greenhouse:purestorage",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8350702",
+    "verified": true,
+    "verify_reason": "General engineering role with mismatched availability timing for 2027.",
+    "years_required": 0
   },
   "2e3920c0b2ecfa21": {
     "company": "TikTok",
@@ -2106,6 +2136,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/external/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
+  },
+  "53f88b2160c9aade": {
+    "company": "Ramp",
+    "first_seen": "2026-11-03",
+    "fit_score": 2,
+    "location": "Remote (US)",
+    "posted_at": "2026-11-03T17:04:10.236000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Solutions Consultant, Commercial",
+    "role_category": "sales_eng",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/220e674a-fc70-439f-bacf-687553ca59c9",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience in solutions consulting.",
+    "years_required": 2
   },
   "543883f501ce0396": {
     "company": "Stripe",
@@ -5197,6 +5242,22 @@
     "url": "https://boards.greenhouse.io/robinhood/jobs/8220757?t=gh_src=&gh_jid=8220757",
     "verified": true,
     "verify_reason": "Immediate hire role; timeline mismatch for January 2027 availability.",
+    "years_required": 0
+  },
+  "d9e54e7ef66c4ad1": {
+    "company": "Winn-Marion Companies",
+    "first_seen": "2026-11-03",
+    "fit_score": 2,
+    "location": "Williamsport, Pennsylvania",
+    "posted_at": "2026-11-02T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Sales Engineer",
+    "role_category": "sales_eng",
+    "salary": "$100,000 - $250,000 per year",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-winn-marion-companies-4484221506",
+    "verified": true,
+    "verify_reason": "Sales engineering position with mismatched start timing for 2027.",
     "years_required": 0
   },
   "d9f40b9e7e697b09": {

@@ -640,6 +640,17 @@
     "verified": true,
     "years": 0
   },
+  "13df9635d95223e2": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Intermediate role with wrong start timing for 2027 graduate.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "14409caca595a0f4": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1569,6 +1580,17 @@
     "verified": false,
     "years": 5
   },
+  "2d82c2d514d6df81": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "General engineering role with mismatched availability timing for 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "2d83f224d0d57921": {
     "cached_at": "2026-09-30",
     "clearance_required": false,
@@ -2122,6 +2144,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "3e9ce4d6347b22a7": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of backend engineering experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "3ee09f87393fdc1f": {
     "cached_at": "2026-10-22",
@@ -2989,6 +3022,17 @@
     "verified": false,
     "years": 5
   },
+  "53f88b2160c9aade": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years experience in solutions consulting.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "54109f921f0f0f19": {
     "cached_at": "2026-09-18",
     "clearance_required": false,
@@ -3306,6 +3350,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "5d796503d0990604": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 6+ years experience for a senior engineer role.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 6
   },
   "5dc9bcf8a044f2d2": {
     "cached_at": "2026-08-31",
@@ -6582,6 +6637,17 @@
     "verified": true,
     "years": 3
   },
+  "b78762335d639d80": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years building external developer products.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 5
+  },
   "b7dd096684dad4ea": {
     "cached_at": "2026-10-23",
     "clearance_required": false,
@@ -7695,6 +7761,17 @@
     "verified": false,
     "years": null
   },
+  "d9e54e7ef66c4ad1": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Sales engineering position with mismatched start timing for 2027.",
+    "salary": "$100,000 - $250,000 per year",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "da33dd4aa87c6dac": {
     "cached_at": "2026-09-23",
     "clearance_required": false,
@@ -8161,6 +8238,17 @@
     "seniority": null,
     "verified": false,
     "years": 7
+  },
+  "e7cd60f46cbd28d4": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "e7d74c4b8eeeaeb5": {
     "cached_at": "2026-10-07",
@@ -8898,6 +8986,17 @@
     "seniority": null,
     "verified": false,
     "years": 6
+  },
+  "fe3bc5186d191c63": {
+    "cached_at": "2026-11-03",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
   },
   "fe65a4cd41321097": {
     "cached_at": "2026-10-09",
