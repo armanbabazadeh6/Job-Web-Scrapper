@@ -349,6 +349,17 @@
     "verified": true,
     "years": 5
   },
+  "0a5c43f295ca0bac": {
+    "cached_at": "2026-11-04",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5-8 years of experience, not an entry-level position.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 5
+  },
   "0a6897677e58043f": {
     "cached_at": "2026-10-22",
     "clearance_required": false,
@@ -6429,6 +6440,17 @@
     "entry_level": true,
     "fit_score": 2,
     "reason": "Requires TS/SCI clearance eligibility; available start date mismatch.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "b32be1ca89d95cc2": {
+    "cached_at": "2026-11-04",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Requires degree and under two years experience; fits graduation timeline.",
     "salary": null,
     "seniority": "new_grad",
     "verified": true,

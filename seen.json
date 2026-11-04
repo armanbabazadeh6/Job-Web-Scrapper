@@ -475,6 +475,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395"
   },
+  "14b29e585360622b": {
+    "company": "endeavorai.com",
+    "first_seen": "2026-11-04",
+    "location": "Chicago, IL",
+    "posted_at": "2026-11-04T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Forward Deployed Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1fT?s=A"
+  },
   "15f84e92bf6f4319": {
     "company": "Leidos",
     "first_seen": "2026-08-29",
@@ -1912,6 +1923,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968338003"
+  },
+  "4e473e32d0d3f941": {
+    "company": "Nuance Labs",
+    "first_seen": "2026-11-04",
+    "location": "Seattle, WA",
+    "posted_at": "2026-11-04T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Member of Technical Staff \u2014 Model Optimization and Inference",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1g7?s=A"
   },
   "4f0223edf59ad11b": {
     "company": "TikTok",
@@ -3991,6 +4013,21 @@
     "role_category": "platform",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/14P?s=A"
+  },
+  "b32be1ca89d95cc2": {
+    "company": "RTX",
+    "first_seen": "2026-11-04",
+    "fit_score": 5,
+    "location": "Cedar Rapids, Iowa",
+    "posted_at": "2026-11-04T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry-Level Software Developer - Application Support & Sustainment (Remote)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://careers.rtx.com/global/en/job/01885356/Entry-Level-Software-Developer-Application-Support-Sustainment-Remote",
+    "verified": true,
+    "verify_reason": "Requires degree and under two years experience; fits graduation timeline.",
+    "years_required": 0
   },
   "b399e140544b81c5": {
     "company": "Gitlab",
