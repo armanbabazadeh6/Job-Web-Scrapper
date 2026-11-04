@@ -10,17 +10,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.zipline.com/open-roles?gh_jid=7974897003"
   },
-  "0099215cb2329702": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Ads Measurement Signal and Privacy - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "01f2018dd45329e9": {
     "company": "GDIT",
     "first_seen": "2026-08-07",
@@ -75,17 +64,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/hypercubic/ab7a23f9-7280-4443-b442-2813dc39d490"
-  },
-  "06a59cde2a3b1c3d": {
-    "company": "SpaceX",
-    "first_seen": "2026-08-05",
-    "location": "Bastrop, TX +6",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Spring 2027 Software Engineering Internship/Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621756002?gh_jid=8621756002"
   },
   "06bed5dc7d72dbeb": {
     "company": "Elevenlabs",
@@ -187,17 +165,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15K?s=A"
   },
-  "09e4b74d41079d50": {
-    "company": "Diversified Automation",
-    "first_seen": "2026-08-05",
-    "location": "Louisville, KY",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"
-  },
   "0a6897677e58043f": {
     "company": "Openai",
     "first_seen": "2026-10-22",
@@ -245,17 +212,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
-  },
-  "0afbf8cc2734df46": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Frontend Software Engineer Intern - Ads Measurement Signal and Privacy - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "0bfaa265cd98a906": {
     "company": "Thoughtworks",
@@ -326,6 +282,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/17a?s=A"
+  },
+  "0fc1c2b5ea1d3302": {
+    "company": "Ramp",
+    "first_seen": "2026-11-04",
+    "fit_score": 4,
+    "location": "Remote (US)",
+    "posted_at": "2026-11-03T22:33:38.811000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Technical Consultant, Commercial",
+    "role_category": "consulting",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/100c09be-f179-406f-893e-8a212f32c642",
+    "verified": true,
+    "verify_reason": "No experience required; suitable for a technical new graduate.",
+    "years_required": 0
   },
   "10a467a034a61b37": {
     "company": "Citi",
@@ -563,17 +534,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741"
   },
-  "18dec78f20961da2": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern - TikTok-Privacy and Security - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "1901157ebc3a3ef2": {
     "company": "northwoodspace",
     "first_seen": "2026-08-30",
@@ -603,17 +563,6 @@
     "posted_at": null,
     "posting_type": "internship",
     "role": "NVIDIA 2027 Internships: Systems Software Engineering",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "1a486383ea2e3c70": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern - TikTok-Global Live-Foundation - 2027 Summer",
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
@@ -1162,28 +1111,6 @@
     "verify_reason": "General engineering role with mismatched availability timing for 2027.",
     "years_required": 0
   },
-  "2e3920c0b2ecfa21": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Transaction Platform - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "2e3d7821b1e50a24": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "Seattle, WA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "General Hire Software Engineer Intern - Trust and Safety-Engineering - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "2e8052ef493aff8c": {
     "company": "Blackstone",
     "first_seen": "2026-08-13",
@@ -1266,17 +1193,6 @@
     "posted_at": null,
     "posting_type": "internship",
     "role": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Fall",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "31dc3242f5a0362c": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Business Integrity - 2027 Summer",
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
@@ -1844,28 +1760,6 @@
     "verify_reason": "Requires managing product roadmaps and feature execution for immediate hire.",
     "years_required": 0
   },
-  "430983643ce923db": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern - TikTok - Product Infrastructure - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "43473b31514cd449": {
-    "company": "SpaceX",
-    "first_seen": "2026-08-05",
-    "location": "Bastrop, TX +6",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Summer 2027 Software Engineering Internship/Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://boards.greenhouse.io/spacex/jobs/8621757002?gh_jid=8621757002"
-  },
   "4370dfccf2f96f48": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -1907,17 +1801,6 @@
     "verify_reason": "No experience specified; general role not aligned with Jan 2027 availability.",
     "years_required": 0
   },
-  "45d00f2f6c9edf81": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - ML Infra - 2027 Start - PhD",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "466a1d79c5b6a5b0": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -1928,17 +1811,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16n?s=A"
-  },
-  "46ccc05e1d204984": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-05",
-    "location": "Washington, DC",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer: Fullstack Product - Web + Services Intern Opportunities for University Students",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "4762fd21ea308cb7": {
     "company": "First American",
@@ -2041,28 +1913,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968338003"
   },
-  "4d7a544acca764ca": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - TikTok-Social-Friending - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "4e7d8248aefa5b8a": {
-    "company": "Persona AI",
-    "first_seen": "2026-08-05",
-    "location": "Houston, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Autonomy Software Engineering Internship - World Modeling",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08"
-  },
   "4f0223edf59ad11b": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -2084,17 +1934,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15S?s=A"
-  },
-  "504dc3af439d1e8c": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Ads Interface - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "50908875768dffcc": {
     "company": "Chime",
@@ -2269,17 +2108,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1"
-  },
-  "5a93cda662d4ddb6": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Frontend Engineer Intern - Global CRM - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "5c57fd468b44f03f": {
     "company": "CrossCountry Consulting",
@@ -2484,17 +2312,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "6645115cbbf6d19f": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-05",
-    "location": "Washington, DC",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "671ad970d3f43f17": {
     "clearance_required": true,
     "company": "BAE Systems",
@@ -2548,17 +2365,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "6881e71452bb75e4": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - TikTok - Effects Performance - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "691f0a6749860bf7": {
     "company": "Stripe",
     "first_seen": "2026-10-22",
@@ -2589,17 +2395,6 @@
     "verified": true,
     "verify_reason": "Immediate start role mismatches candidate availability in January 2027.",
     "years_required": 0
-  },
-  "6b33077f5ae6eed2": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - TikTok-Intelligent Creation-Camera - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "6bb22b1e8d9b3dd3": {
     "company": "Salesforce",
@@ -2805,17 +2600,6 @@
     "verify_reason": "Requires prior experience writing databases, OS kernels, or low-level systems.",
     "years_required": 0
   },
-  "7476172cd7ca8106": {
-    "company": "SRI International",
-    "first_seen": "2026-08-05",
-    "location": "Princeton, NJ",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Drexel University Co-op: Embedded Software Engineering",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://careers-sri.icims.com/jobs/6431/drexel-university-co-op%3a-embedded-software-engineering/job"
-  },
   "749b6abd9361ac0b": {
     "company": "Brunswick",
     "first_seen": "2026-08-30",
@@ -2968,17 +2752,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008"
   },
-  "7afc216e82aa3b82": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Creative Intelligence and Brand Innovation - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "7b0038619ead0317": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -3063,17 +2836,6 @@
     "verified": true,
     "verify_reason": "Entry-level full-time role with no experience required.",
     "years_required": 0
-  },
-  "7e1c729804fbdf0b": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern - TikTok-Search - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "7e395dc1e1f72110": {
     "company": "TikTok",
@@ -3429,33 +3191,6 @@
     "verify_reason": "Requires 2 years experience; timing mismatch for 2027 grad.",
     "years_required": 2
   },
-  "8eec7f676adf4147": {
-    "company": "SynergisticIT",
-    "first_seen": "2026-10-04",
-    "fit_score": 1,
-    "location": "Remote \u2014 US",
-    "posted_at": "2026-10-04T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Junior data scientist/Junior java Full stack software developer",
-    "role_category": "swe",
-    "salary": "$90,000-$154,000",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/junior-data-scientist-junior-java-full-stack-software-developer-at-synergisticit-4473899056",
-    "verified": true,
-    "verify_reason": "Candidate graduates December 2026, too early for immediate hiring.",
-    "years_required": 0
-  },
-  "906e76bd483403fb": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-05",
-    "location": "Washington, DC",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer: Intern Opportunities for University Students - CoreAI",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "915453e97f8d8292": {
     "company": "Sierra",
     "first_seen": "2026-10-22",
@@ -3544,17 +3279,6 @@
     "verify_reason": "Timeline mismatch; candidate available January 2027, role is for immediate hire.",
     "years_required": 0
   },
-  "93f73a278330d697": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - TikTok - Shoot Experience Optimization - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "93fe046a1ed12191": {
     "company": "Kognitos",
     "first_seen": "2026-08-29",
@@ -3610,17 +3334,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/Software-Engineer-Co-op_R-100662"
   },
-  "94a85b0cc21bef44": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - AI Agent & Global Revenue Platform - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "94b8fe9a53929f1e": {
     "company": "Ciena",
     "first_seen": "2026-10-13",
@@ -3665,28 +3378,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.trlm.com/apply/5207089007?gh_jid=5207089007"
   },
-  "960cc30dda054164": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - TikTok-Agentic Creation-AIGC - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "9682b7d00482a3d2": {
-    "company": "Medtronic",
-    "first_seen": "2026-08-05",
-    "location": "Fridley, MN +20",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630"
-  },
   "9683b87c2ab87b25": {
     "company": "Northrop Grumman",
     "first_seen": "2026-08-13",
@@ -3697,17 +3388,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255"
-  },
-  "96d89f23cf5c8560": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - TikTok-Generalized Arch-Code Intelligence & Quality Validation - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "96ec8a82ffa3d1a9": {
     "company": "Palantir",
@@ -3730,17 +3410,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": ""
-  },
-  "992f8385c1cdc969": {
-    "company": "GDIT",
-    "first_seen": "2026-08-05",
-    "location": "USA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Summer 2027 Software Developer Internship",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/external_career_site/job/USA-MD-Annapolis-Junction/Summer-2027-Software-Developer-Internship_RQ225717-1"
   },
   "993628612a86f2e6": {
     "company": "Jobleads-US",
@@ -3879,17 +3548,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/14K?s=A"
   },
-  "9d332fab496cea0d": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Ads Infrastructure - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "9dcefdde9dd1c799": {
     "company": "Affirm",
     "first_seen": "2026-10-27",
@@ -3915,17 +3573,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee"
-  },
-  "9e0118aecf8b1fe9": {
-    "company": "Copart",
-    "first_seen": "2026-08-05",
-    "location": "Dallas, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353"
   },
   "9e8bb2c638f4ac63": {
     "company": "Booz Allen",
@@ -3989,17 +3636,6 @@
     "verified": true,
     "verify_reason": "Available January 2027, but job is for immediate hire.",
     "years_required": 0
-  },
-  "a2529da9b5938da3": {
-    "company": "Chicago Trading Company",
-    "first_seen": "2026-08-05",
-    "location": "Chicago, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Internship - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005"
   },
   "a2c0d3c41285c715": {
     "company": "Availity",
@@ -4143,17 +3779,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "aa5f2f21147aea3d": {
-    "company": "Intel",
-    "first_seen": "2026-08-05",
-    "location": "Remote - USA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "AI Software Engineer Graduate Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989"
-  },
   "ab3f5b844e9bed98": {
     "company": "Stripe",
     "first_seen": "2026-10-06",
@@ -4281,17 +3906,6 @@
     "verify_reason": "Requires 1 year of experience; fits entry-level full-time profile.",
     "years_required": 1
   },
-  "b0863db7fcc7a775": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern - TikTok-Social-Foundation - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "b10e7983a874c9b7": {
     "company": "Charles Schwab",
     "first_seen": "2026-08-30",
@@ -4356,28 +3970,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
   },
-  "b203d639a16a0787": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern - TikTok-Growth-Innovative Growth - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "b2bc2ce9ef7a6289": {
-    "company": "Netsmart",
-    "first_seen": "2026-08-05",
-    "location": "Overland Park, KS",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Cloud Engineer Future - Summer 2027 Internship",
-    "role_category": "platform",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668"
-  },
   "b2d1b9fef3458a97": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -4437,17 +4029,6 @@
     "posted_at": null,
     "posting_type": "internship",
     "role": "Software Engineering Intern - Future Pathways",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "b3b9f55ecd8038d1": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "Seattle, WA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Data Arch - E-commerce - 2027 Summer",
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
@@ -4723,17 +4304,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d"
   },
-  "c0f6d131fe24af74": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-05",
-    "location": "Washington, DC",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students - Redmond",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "c2b04a7260abc933": {
     "company": "talentpluto",
     "first_seen": "2026-08-26",
@@ -4813,17 +4383,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
-  "c52fa56179d2bcb5": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-05",
-    "location": "Washington, DC",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer: Security & Identity Intern Opportunities for University Students - Redmond",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "c6b86860f4e68383": {
     "company": "Notion",
     "first_seen": "2026-08-15",
@@ -4887,17 +4446,6 @@
     "verified": true,
     "verify_reason": "Entry-level role for recent graduates, but start timing mismatches Jan 2027.",
     "years_required": 0
-  },
-  "c8edcd865205cd2e": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern - TikTok- PGC-Digital Content Center - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "c9e84b128cc79672": {
     "company": "Robinhood",
@@ -4973,17 +4521,6 @@
     "verify_reason": "Start timing mismatch for candidate graduating in December 2026.",
     "years_required": 0
   },
-  "ccd7912e2425a2c1": {
-    "company": "Samsara",
-    "first_seen": "2026-08-05",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Internship - San Francisco",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.samsara.com/company/careers/roles/8082091?gh_jid=8082091"
-  },
   "cce6bf1e7e4f45b0": {
     "company": "Ambrook",
     "first_seen": "2026-08-22",
@@ -5031,28 +4568,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1"
-  },
-  "d0906c8a7e5edce0": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Global CRM - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "d148e4e007130275": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern - TikTok-Social-Friending - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "d24a50ad616979b6": {
     "company": "Intel",
@@ -5360,28 +4875,6 @@
     "verify_reason": "Start timing mismatch; candidate available January 2027.",
     "years_required": 0
   },
-  "de0d3da40c302e67": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern - Global E-Commerce - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
-  "ded625b8560b015d": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Frontend Engineer Intern - TikTok-Open Platform - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "df75e797cc7fec88": {
     "company": "TikTok",
     "first_seen": "2026-08-20",
@@ -5425,17 +4918,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883"
-  },
-  "e0ee85b2746ad526": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - TikTok-Agentic Creation-Effect Platform - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "e1b65f21951e26c6": {
     "company": "Cursor",
@@ -5737,17 +5219,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"
   },
-  "eb9f13a70225702c": {
-    "company": "Netsmart",
-    "first_seen": "2026-08-05",
-    "location": "Overland Park, KS",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Summer 2027 Internship",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"
-  },
   "ec1947f55ec14930": {
     "company": "NVIDIA",
     "first_seen": "2026-10-09",
@@ -5897,17 +5368,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/17g?s=A"
   },
-  "f312b6222bee9e57": {
-    "company": "TikTok",
-    "first_seen": "2026-08-05",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend Software Engineer Intern - TikTok-PGC-Creator Strategy - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "f3c9ca960987bd90": {
     "company": "Visa",
     "first_seen": "2026-11-03",
@@ -5921,22 +5381,6 @@
     "url": "https://jobs.digitalhire.com/job-listing/opening/62n2CmcfPDOkiGgJfqvZSq",
     "verified": true,
     "verify_reason": "Requires graduation by August 2025; candidate graduates December 2026.",
-    "years_required": 0
-  },
-  "f3f2d8a1c932f7cd": {
-    "company": "Eaton",
-    "first_seen": "2026-10-04",
-    "fit_score": 1,
-    "location": "South Bend, Indiana",
-    "posted_at": "2026-10-03T14:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Development Program: Digital Integrated Solutions Engineer",
-    "role_category": "sales_eng",
-    "salary": "$82,000",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/development-program-digital-integrated-solutions-engineer-at-eaton-4473433910",
-    "verified": true,
-    "verify_reason": "Candidate's availability (January 2027) does not align with current hiring timeline.",
     "years_required": 0
   },
   "f4b9a79e18a61871": {
@@ -6183,17 +5627,6 @@
     "verified": true,
     "verify_reason": "Requires 2 years of experience; candidate is a new grad.",
     "years_required": 2
-  },
-  "fe7b14287d5b3efc": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-05",
-    "location": "Washington, DC",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students - Redmond",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "ff24dc74b834b295": {
     "company": "TikTok",
