@@ -3310,6 +3310,17 @@
     "verified": true,
     "years": 2
   },
+  "5bba914bee306be3": {
+    "cached_at": "2026-11-05",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Ideal for recent graduates; requires no prior full-time experience.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "5be98d0c08a0b5b6": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -4639,6 +4650,17 @@
   },
   "819247ab07c85441": {
     "cached_at": "2026-09-02",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "8223100a1fb56527": {
+    "cached_at": "2026-11-05",
     "clearance_required": false,
     "entry_level": false,
     "fit_score": null,
@@ -6318,6 +6340,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "abe325fe5a435065": {
+    "cached_at": "2026-11-05",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "abe97ec0c82cb151": {
     "cached_at": "2026-10-15",

@@ -2100,6 +2100,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1"
   },
+  "5bba914bee306be3": {
+    "company": "Tech Consulting",
+    "first_seen": "2026-11-05",
+    "fit_score": 4,
+    "location": "Knoxville, Tennessee",
+    "posted_at": "2026-11-04T16:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Junior Software Engineer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tech-consulting-4485503636",
+    "verified": true,
+    "verify_reason": "Ideal for recent graduates; requires no prior full-time experience.",
+    "years_required": 0
+  },
   "5c57fd468b44f03f": {
     "company": "CrossCountry Consulting",
     "first_seen": "2026-10-27",
@@ -3379,6 +3394,17 @@
     "role_category": "swe",
     "source": "Lever:palantir",
     "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7"
+  },
+  "970bde83bf9dd16d": {
+    "company": "HNTB Corporation",
+    "first_seen": "2026-11-05",
+    "location": "Hollywood, Florida",
+    "posted_at": "2026-11-05T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad Software Engineer - Launch",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.learn4good.com/jobs/hollywood/florida/software_development/5584332758/e/"
   },
   "97e839e94cdee1d9": {
     "company": "NVIDIA",
