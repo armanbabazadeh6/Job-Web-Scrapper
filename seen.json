@@ -3439,6 +3439,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
+  "986f0bb840232c5b": {
+    "company": "Valeris",
+    "first_seen": "2026-11-05",
+    "fit_score": 3,
+    "location": "Morrisville, North Carolina",
+    "posted_at": "2026-11-05T16:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Junior Product Analyst",
+    "role_category": "product",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/junior-product-analyst-at-valeris-4485843505",
+    "verified": true,
+    "verify_reason": "Explicitly entry-level, but immediate hiring timeline precedes candidate's availability date.",
+    "years_required": 0
+  },
   "993628612a86f2e6": {
     "company": "Jobleads-US",
     "first_seen": "2026-10-12",
@@ -4129,6 +4144,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609"
   },
+  "b4cead70cd23f759": {
+    "company": "Booz Allen Hamilton",
+    "first_seen": "2026-11-05",
+    "location": "McLean, VA",
+    "posted_at": "2026-11-05T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Developer \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1iX?s=A"
+  },
   "b55971557f624e89": {
     "company": "Rockwell Automation",
     "first_seen": "2026-08-11",
@@ -4350,6 +4376,21 @@
     "url": "https://www.linkedin.com/jobs/view/software-developer-graduate-ai-proficient-usa-at-aveva-4478186251",
     "verified": true,
     "verify_reason": "Targeted specifically at graduates for full-time work.",
+    "years_required": 0
+  },
+  "bdb0d946c3f48fb1": {
+    "company": "Openai",
+    "first_seen": "2026-11-05",
+    "fit_score": 3,
+    "location": "San Francisco",
+    "posted_at": "2026-11-05T19:33:17.025000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Agent Platform",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004",
+    "verified": true,
+    "verify_reason": "No minimum experience stated; hiring timeline precedes candidate's January 2027 availability.",
     "years_required": 0
   },
   "c09bf50d8cae4063": {
@@ -4627,6 +4668,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1"
+  },
+  "d082a3a0c19b23fb": {
+    "company": "Keysight Technologies",
+    "first_seen": "2026-11-05",
+    "location": "Santa Rosa, CA",
+    "posted_at": "2026-11-05T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Engineer, Semiconductor Technology \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
   },
   "d24a50ad616979b6": {
     "company": "Intel",
@@ -5201,6 +5253,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190"
   },
+  "e8b7044ad1887168": {
+    "company": "Openai",
+    "first_seen": "2026-11-05",
+    "fit_score": 3,
+    "location": "San Francisco",
+    "posted_at": "2026-11-05T22:23:39.541000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Founding Full Stack Software Engineer, Consulting",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/80c40695-5cd7-4206-96b6-873158a8e696",
+    "verified": true,
+    "verify_reason": "No minimum experience stated; hiring timeline precedes candidate's January 2027 availability.",
+    "years_required": 0
+  },
   "e9103bd72be75d03": {
     "company": "Johns Hopkins APL",
     "first_seen": "2026-10-30",
@@ -5362,6 +5429,17 @@
     "verified": true,
     "verify_reason": "Clear timing mismatch; candidate is not available until January 2027.",
     "years_required": 1
+  },
+  "efc2882d9b6e2678": {
+    "company": "StubHub",
+    "first_seen": "2026-11-05",
+    "location": "New York, NY",
+    "posted_at": "2026-11-05T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer I, Consumer Experience",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1iQ?s=A"
   },
   "f07b9751566c2060": {
     "company": "Openai",
