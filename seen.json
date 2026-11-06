@@ -647,6 +647,21 @@
     "verify_reason": "No experience requirement stated; open to backend-leaning full-stack engineers.",
     "years_required": 0
   },
+  "201de5db3786e33b": {
+    "company": "Samsara",
+    "first_seen": "2026-11-06",
+    "fit_score": 4,
+    "location": "Remote - GA",
+    "posted_at": "2026-11-06T14:46:35-05:00",
+    "posting_type": "verified_entry",
+    "role": "Enterprise Implementation Consultant - Public Sector",
+    "role_category": "consulting",
+    "source": "Greenhouse:samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8360093?gh_jid=8360093",
+    "verified": true,
+    "verify_reason": "No experience requirement stated; aligns with new grad timeline.",
+    "years_required": 0
+  },
   "20207b4441bd07d1": {
     "company": "Battelle",
     "first_seen": "2026-10-21",
@@ -1708,6 +1723,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486"
+  },
+  "4b13dbcb12a84119": {
+    "company": "Dropbox",
+    "first_seen": "2026-11-06",
+    "fit_score": 4,
+    "location": "Remote - Mexico",
+    "posted_at": "2026-11-06T13:35:23-05:00",
+    "posting_type": "verified_entry",
+    "role": "Infrastructure Software Engineer",
+    "role_category": "swe",
+    "source": "Greenhouse:dropbox",
+    "url": "https://jobs.dropbox.com/listing/7172713?gh_jid=7172713",
+    "verified": true,
+    "verify_reason": "No experience requirement stated; aligns with new grad timeline.",
+    "years_required": 0
   },
   "4b32457be1c216a6": {
     "company": "CNH",
@@ -4599,6 +4629,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://jobs.ashbyhq.com/anyscale/31d09081-f5e7-45e4-b561-1c53d0ca9200?utm_source=vansh"
+  },
+  "e0b41377a44767c7": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-11-06",
+    "fit_score": 4,
+    "location": "United States",
+    "posted_at": "2026-11-06T22:37:16.834000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Deployment Strategist, Public Sector (Federal & SLED) - North America",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/ElevenLabs/7758cdc5-b5c9-4a5c-8c80-11678f7cba9d",
+    "verified": true,
+    "verify_reason": "No experience requirement stated; aligns with new grad timeline.",
+    "years_required": 0
   },
   "e0db627fc9334410": {
     "company": "TikTok",
