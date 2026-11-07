@@ -3431,6 +3431,17 @@
     "verified": true,
     "years": 0
   },
+  "5c279605c828665c": {
+    "cached_at": "2026-11-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "5c2a3c789422cb09": {
     "cached_at": "2026-09-25",
     "clearance_required": false,
@@ -7635,6 +7646,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "c724736eafe14909": {
+    "cached_at": "2026-11-07",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "c7a8594c9ca49087": {
     "cached_at": "2026-10-23",
