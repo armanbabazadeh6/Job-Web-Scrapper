@@ -2695,6 +2695,17 @@
     "verified": false,
     "years": null
   },
+  "46034e45e4e9f43c": {
+    "cached_at": "2026-11-07",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No minimum experience required; mandates hands-on Python and GenAI experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "473527d808581039": {
     "cached_at": "2026-08-31",
     "entry_level": false,

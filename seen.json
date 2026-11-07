@@ -540,17 +540,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
-  "1cadc307b7e0cb25": {
-    "company": "Figma",
-    "first_seen": "2026-10-07",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-10-07T14:36:45-04:00",
-    "posting_type": "new_grad",
-    "role": "Early Career, Associate Product Manager (2027)",
-    "role_category": "product",
-    "source": "Greenhouse:figma",
-    "url": "https://boards.greenhouse.io/figma/jobs/6180116004?gh_jid=6180116004"
-  },
   "1cf79e6c43362a4d": {
     "company": "Palantir",
     "first_seen": "2026-10-22",
@@ -1229,17 +1218,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/152?s=A"
   },
-  "36662e2ad788d2b7": {
-    "company": "ID.me",
-    "first_seen": "2026-10-07",
-    "location": "Mountain View, California",
-    "posted_at": "2026-10-06T20:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer II, Developer Portal (New Grad / Early Career)",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://remote.com/jobs/id-me-c1958yb8/software-engineer-ii-developer-portal-new-grad-early-career-j1kpqfrk"
-  },
   "366728b190563963": {
     "company": "Elevenlabs",
     "first_seen": "2026-10-22",
@@ -1524,21 +1502,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8"
   },
-  "4023610c6ca03537": {
-    "company": "Elevenlabs",
-    "first_seen": "2026-10-07",
-    "fit_score": 3,
-    "location": "Remote",
-    "posted_at": "2026-10-07T12:03:51.877000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Full-Stack Engineer (Backend Leaning) - Creative Agents",
-    "role_category": "swe",
-    "source": "Ashby:elevenlabs",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe",
-    "verified": true,
-    "verify_reason": "No experience level specified, but requires full-stack backend skills.",
-    "years_required": 0
-  },
   "409289c185131ffc": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -1652,6 +1615,21 @@
     "url": "https://jobs.ashbyhq.com/openai/4f2d9849-ad00-48d5-a22f-0cb943723999",
     "verified": true,
     "verify_reason": "No experience specified; general role not aligned with Jan 2027 availability.",
+    "years_required": 0
+  },
+  "46034e45e4e9f43c": {
+    "company": "PNC",
+    "first_seen": "2026-11-07",
+    "fit_score": 3,
+    "location": "",
+    "posted_at": "2026-11-07T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer - AI Agents / Generative AI",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://careers.pnc.com/global/en/job/R240298/Software-Engineer-AI-Agents-Generative-AI",
+    "verified": true,
+    "verify_reason": "No minimum experience required; mandates hands-on Python and GenAI experience.",
     "years_required": 0
   },
   "466a1d79c5b6a5b0": {
@@ -2150,21 +2128,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/10u?s=A"
   },
-  "64b9226f48d059c6": {
-    "company": "Elevenlabs",
-    "first_seen": "2026-10-07",
-    "fit_score": 3,
-    "location": "Remote",
-    "posted_at": "2026-10-07T13:28:09.297000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Full-stack Engineer - Creative Agents",
-    "role_category": "swe",
-    "source": "Ashby:elevenlabs",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945",
-    "verified": true,
-    "verify_reason": "No experience level specified for this full-stack role.",
-    "years_required": 0
-  },
   "64d1ab7ea49d6416": {
     "company": "ByteDance",
     "first_seen": "2026-11-01",
@@ -2175,21 +2138,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15l?s=A"
-  },
-  "64f2d65e25fd4c14": {
-    "company": "IBM",
-    "first_seen": "2026-10-07",
-    "fit_score": 5,
-    "location": "New York, New York",
-    "posted_at": "2026-10-06T20:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "2027 Entry-Level \u2014 Software Developer, AI & Marketing Platforms",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/2027-entry-level-%E2%80%94-software-developer-ai-marketing-platforms-at-ibm-4474405440",
-    "verified": true,
-    "verify_reason": "Perfect match for 2027 start date and entry-level profile.",
-    "years_required": 0
   },
   "654b3c6b0d9776d4": {
     "company": "Raytheon Technologies",
@@ -2221,17 +2169,6 @@
     "verified": true,
     "verify_reason": "Entry-level role for 2027 grads requiring security clearance eligibility.",
     "years_required": 0
-  },
-  "67756e74093e874c": {
-    "company": "Affirm",
-    "first_seen": "2026-10-07",
-    "location": "San Francisco, California, United States",
-    "posted_at": "2026-10-06T15:57:18-04:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, Early Career (SF)",
-    "role_category": "swe",
-    "source": "Greenhouse:affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003"
   },
   "67edc7cfe8b6270b": {
     "company": "TikTok",
@@ -2939,23 +2876,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/14Y?s=A"
-  },
-  "8a694863a35fd649": {
-    "clearance_required": true,
-    "company": "General Dynamics Mission Systems",
-    "first_seen": "2026-10-07",
-    "fit_score": 2,
-    "location": "Bloomington, Minnesota",
-    "posted_at": "2026-10-06T21:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Embedded Software Engineer Entry Level",
-    "role_category": "swe",
-    "salary": "$77,843-$86,358",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/embedded-software-engineer-entry-level-at-general-dynamics-mission-systems-4475125363",
-    "verified": true,
-    "verify_reason": "Requires current Secret clearance and immediate start.",
-    "years_required": 0
   },
   "8b45727a1cd31ccf": {
     "company": "Booz Allen",
@@ -3942,21 +3862,6 @@
     "source": "JSearch",
     "url": "https://www.linkedin.com/jobs/view/software-engineer-early-career-at-lockheed-martin-4474430860"
   },
-  "b82507a0881cf96e": {
-    "company": "American Express",
-    "first_seen": "2026-10-07",
-    "fit_score": 1,
-    "location": "Atlanta, Georgia",
-    "posted_at": "2026-10-06T17:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer-Python/ GO/ Java/ JavaScript (Cyber Security)",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-python-go-java-javascript-cyber-security-at-american-express-4474950476",
-    "verified": true,
-    "verify_reason": "Immediate hire role; candidate not available until January 2027.",
-    "years_required": 0
-  },
   "b8c6259a20c8c247": {
     "company": "Hewlett Packard Enterprise",
     "first_seen": "2026-08-30",
@@ -4234,21 +4139,6 @@
     "verify_reason": "Entry-level role for recent graduates, but start timing mismatches Jan 2027.",
     "years_required": 0
   },
-  "c9e84b128cc79672": {
-    "company": "Robinhood",
-    "first_seen": "2026-10-07",
-    "fit_score": 1,
-    "location": "Menlo Park, CA; New York, NY",
-    "posted_at": "2026-10-07T04:07:43-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Web3 Backend",
-    "role_category": "swe",
-    "source": "Greenhouse:robinhood",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8258305?t=gh_src=&gh_jid=8258305",
-    "verified": true,
-    "verify_reason": "Immediate hire role; candidate not available until January 2027.",
-    "years_required": 0
-  },
   "c9ee7bf061157b2b": {
     "company": "Kimley-Horn",
     "first_seen": "2026-08-12",
@@ -4427,17 +4317,6 @@
     "verified": true,
     "verify_reason": "Requires Master's degree and 2 years of specialized Oracle experience.",
     "years_required": 2
-  },
-  "d54825c3fda9725c": {
-    "company": "Affirm",
-    "first_seen": "2026-10-07",
-    "location": "New York, New York, United States",
-    "posted_at": "2026-10-06T15:02:34-04:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, Early Career (NYC)",
-    "role_category": "swe",
-    "source": "Greenhouse:affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003"
   },
   "d59db2bf5c0e843d": {
     "company": "Syska Hennessy Group",
@@ -4693,21 +4572,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16z?s=A"
   },
-  "e2bdc8eb6d1420ce": {
-    "company": "The Applied Research Laboratory at Penn State University",
-    "first_seen": "2026-10-07",
-    "fit_score": 1,
-    "location": "State College, Pennsylvania",
-    "posted_at": "2026-10-06T16:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer-Java GUI's",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-java-gui-s-at-the-applied-research-laboratory-at-penn-state-university-4474071835",
-    "verified": true,
-    "verify_reason": "Immediate hire role; candidate not available until January 2027.",
-    "years_required": 0
-  },
   "e36a33103df6b236": {
     "company": "Crusoe",
     "first_seen": "2026-10-19",
@@ -4833,21 +4697,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": ""
-  },
-  "e7d74c4b8eeeaeb5": {
-    "company": "Sierra",
-    "first_seen": "2026-10-07",
-    "fit_score": 3,
-    "location": "San Francisco, CA",
-    "posted_at": "2026-10-07T13:15:34.883000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Agent (Spanish speaking)",
-    "role_category": "swe",
-    "source": "Ashby:sierra",
-    "url": "https://jobs.ashbyhq.com/sierra/9d59c96e-e7f7-43cc-8069-bcdf3798fe2b",
-    "verified": true,
-    "verify_reason": "No experience requirement stated for this AI agent engineer role.",
-    "years_required": 0
   },
   "e84ab776003bd18d": {
     "company": "Stripe",
