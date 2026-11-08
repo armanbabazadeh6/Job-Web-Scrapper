@@ -261,6 +261,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412?utm_source=vansh"
   },
+  "10d34003d1309dc2": {
+    "clearance_required": true,
+    "company": "Global Enterprise Services, LLC",
+    "first_seen": "2026-11-08",
+    "fit_score": 4,
+    "location": "Fort Meade, Maryland",
+    "posted_at": "2026-11-07T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer (RPA) - Entry Level",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/17jS0s2HpaOeMJ9noxpVmQ",
+    "verified": true,
+    "verify_reason": "Requires DoD Secret clearance; targets recent graduates within 12 months.",
+    "years_required": 0
+  },
   "1100063b713918f4": {
     "clearance_required": true,
     "company": "Boeing",
@@ -1159,17 +1175,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://apply.workable.com/fooji/j/6563DA99B5/"
   },
-  "3451a771a828ebde": {
-    "company": "IXL Learning",
-    "first_seen": "2026-10-08",
-    "location": "",
-    "posted_at": "2026-10-07T23:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer, New Grad",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-ixl-learning-4475712594"
-  },
   "3471c0b668ff1e76": {
     "company": "Valeo",
     "first_seen": "2026-08-15",
@@ -1191,21 +1196,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "348d2be70483d626": {
-    "company": "Samsara",
-    "first_seen": "2026-10-08",
-    "fit_score": 2,
-    "location": "Remote - CA",
-    "posted_at": "2026-10-07T20:23:27-04:00",
-    "posting_type": "verified_entry",
-    "role": "Implementation Consultant",
-    "role_category": "consulting",
-    "source": "Greenhouse:samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8236004?gh_jid=8236004",
-    "verified": true,
-    "verify_reason": "Requires residency in Canada and is a customer success role.",
-    "years_required": 0
   },
   "34fa03031408332f": {
     "company": "ByteDance",
@@ -2035,21 +2025,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15C?s=A"
-  },
-  "5f4e43775b1b8915": {
-    "company": "Expand Energy",
-    "first_seen": "2026-10-08",
-    "fit_score": 1,
-    "location": "",
-    "posted_at": "2026-10-07T18:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer I",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-expand-energy-4474462869",
-    "verified": true,
-    "verify_reason": "Candidate not available until January 2027.",
-    "years_required": 0
   },
   "5f7680592dc11a85": {
     "company": "Booz Allen",
@@ -2950,22 +2925,6 @@
     "verify_reason": "Third-party boot camp and placement agency.",
     "years_required": 0
   },
-  "9335b20939976db0": {
-    "company": "monday.com",
-    "first_seen": "2026-10-08",
-    "fit_score": 2,
-    "location": "Denver, Colorado",
-    "posted_at": "2026-10-08T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Solutions Engineering",
-    "role_category": "sales_eng",
-    "salary": "$148K - $165K",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/solutions-engineering-at-monday-com-4476954831",
-    "verified": true,
-    "verify_reason": "Requires 2+ years of pre-sales experience, not ideal for new grads.",
-    "years_required": 2
-  },
   "938a98aaf05a2398": {
     "company": "NVIDIA",
     "first_seen": "2026-08-19",
@@ -3339,21 +3298,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/19g?s=A"
-  },
-  "a1cc7c8ab1bbc15a": {
-    "company": "Weave",
-    "first_seen": "2026-10-08",
-    "fit_score": 1,
-    "location": "Weave - Headquarters (Lehi, UT)",
-    "posted_at": "2026-10-08T18:52:23.665000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Site Reliability Engineer, Cloud Infrastructure",
-    "role_category": "platform",
-    "source": "Ashby:weave",
-    "url": "https://jobs.ashbyhq.com/weave/ce79425d-20fc-4c15-841f-3445b86b05b5",
-    "verified": true,
-    "verify_reason": "Available January 2027, but job is for immediate hire.",
-    "years_required": 0
   },
   "a2c0d3c41285c715": {
     "company": "Availity",
@@ -3851,17 +3795,6 @@
     "verify_reason": "Requires prior experience and immediate start; timing mismatch for 2027.",
     "years_required": 0
   },
-  "b797a8eeb78eebff": {
-    "company": "Lockheed Martin",
-    "first_seen": "2026-10-08",
-    "location": "Uniondale, New York",
-    "posted_at": "2026-10-07T13:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Software Engineer - Early Career",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-early-career-at-lockheed-martin-4474430860"
-  },
   "b8c6259a20c8c247": {
     "company": "Hewlett Packard Enterprise",
     "first_seen": "2026-08-30",
@@ -4048,22 +3981,6 @@
     "verify_reason": "Requires 2+ years of experience.",
     "years_required": 2
   },
-  "c3a735f11b459b3d": {
-    "company": "IBM",
-    "first_seen": "2026-10-08",
-    "fit_score": 5,
-    "location": "New York, New York",
-    "posted_at": "2026-10-07T04:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "2027 Entry-Level - Software Developer, AI & Marketing Platforms",
-    "role_category": "swe",
-    "salary": "$75,600-$151,200",
-    "source": "JSearch",
-    "url": "https://www.ziprecruiter.com/c/ibm/Job/2027-Entry-Level-Software-Developer,-AI-&-Marketing-Platforms/-in-New-York,NY?jid=5ba130c000790a2c",
-    "verified": true,
-    "verify_reason": "Excellent match for 2027 entry-level role and graduation timeline.",
-    "years_required": 0
-  },
   "c3e76f8075d73846": {
     "company": "Zip",
     "first_seen": "2026-10-31",
@@ -4096,22 +4013,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "c6d9c6246ae0a804": {
-    "company": "SynergisticIT",
-    "first_seen": "2026-10-08",
-    "fit_score": 2,
-    "location": "Remote \u2014 US",
-    "posted_at": "2026-10-07T07:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Entry Level Data Scientist/ Java/DevOps Developer - Remote",
-    "role_category": "platform",
-    "salary": "$95k-$154k",
-    "source": "JSearch",
-    "url": "https://jobgether.com/offer/6ac5f56e8a27695aea36ce7a-entry-level-data-scientist-java-devops-developer---remote",
-    "verified": true,
-    "verify_reason": "Third-party training and placement program, not a direct hire.",
-    "years_required": 0
   },
   "c7960a2f56dbb8af": {
     "company": "CoStar Group",
@@ -4328,17 +4229,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733"
-  },
-  "d5d10ac61dda5797": {
-    "company": "Uber",
-    "first_seen": "2026-10-08",
-    "location": "San Francisco, CA",
-    "posted_at": "2026-10-09T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2025: Software Engineer I",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://university-uber.icims.com/jobs/149558/job?utm_source=vansh"
   },
   "d615a47e556b7ab2": {
     "clearance_required": true,

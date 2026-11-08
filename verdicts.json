@@ -585,6 +585,17 @@
     "verified": false,
     "years": null
   },
+  "10d34003d1309dc2": {
+    "cached_at": "2026-11-08",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Requires DoD Secret clearance; targets recent graduates within 12 months.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "1100063b713918f4": {
     "cached_at": "2026-10-15",
     "clearance_required": true,
