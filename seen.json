@@ -1440,6 +1440,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021"
   },
+  "3d29680f7f3585f8": {
+    "company": "D3",
+    "first_seen": "2026-11-08",
+    "location": "Los Angeles, CA",
+    "posted_at": "2026-11-08T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Frontend Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1mS?s=A"
+  },
   "3dd24364dace7b0b": {
     "company": "Tata Consultancy Services",
     "first_seen": "2026-10-27",
@@ -1632,6 +1643,17 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16n?s=A"
+  },
+  "46b064efc84a74c1": {
+    "company": "D3",
+    "first_seen": "2026-11-08",
+    "location": "Los Angeles, CA",
+    "posted_at": "2026-11-08T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Backend Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1mR?s=A"
   },
   "4762fd21ea308cb7": {
     "company": "First American",
@@ -3794,6 +3816,17 @@
     "verified": true,
     "verify_reason": "Requires prior experience and immediate start; timing mismatch for 2027.",
     "years_required": 0
+  },
+  "b7c8b26265925554": {
+    "company": "Citadel",
+    "first_seen": "2026-11-08",
+    "location": "New York, New York",
+    "posted_at": "2026-11-08T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer - University Graduate (US)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/"
   },
   "b8c6259a20c8c247": {
     "company": "Hewlett Packard Enterprise",
