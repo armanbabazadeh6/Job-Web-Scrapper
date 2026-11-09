@@ -1269,6 +1269,17 @@
     "verified": true,
     "years": 5
   },
+  "235d8de9fb4f7486": {
+    "cached_at": "2026-11-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires at least 2+ years of experience in software engineering.",
+    "salary": "$152,405-$179,300 USD",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "23abec9dd0a66ff1": {
     "cached_at": "2026-09-14",
     "clearance_required": false,
@@ -1535,6 +1546,17 @@
     "entry_level": true,
     "fit_score": 2,
     "reason": "Targeted at early career, but start timing mismatches Jan 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "2a61d4c8a076135e": {
+    "cached_at": "2026-11-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Junior role open to strong fundamentals, but start timing may mismatch.",
     "salary": null,
     "seniority": "junior",
     "verified": true,
@@ -2799,6 +2821,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 5
+  },
+  "4959576a23265460": {
+    "cached_at": "2026-11-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "495aae6832daec67": {
     "cached_at": "2026-10-28",
@@ -5552,6 +5585,17 @@
     "verified": false,
     "years": null
   },
+  "91ceb8d7f7452e69": {
+    "cached_at": "2026-11-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires track record of owning backend systems and driving technical direction.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "923e233c7fbc7e5c": {
     "cached_at": "2026-10-07",
     "clearance_required": false,
@@ -6341,6 +6385,17 @@
     "verified": false,
     "years": null
   },
+  "a4ba3eeca7401e01": {
+    "cached_at": "2026-11-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "a55db3a0e0421f5a": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -6551,6 +6606,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "aae31f48a7961714": {
+    "cached_at": "2026-11-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience requirements stated; immediate hiring mismatches Jan 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "aaecdcde2034a94a": {
     "cached_at": "2026-08-31",
@@ -7071,6 +7137,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "b669748b2b41afee": {
+    "cached_at": "2026-11-09",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years backend experience; start date mismatches Jan 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "b6fdeeb205047d3a": {
     "cached_at": "2026-08-31",
@@ -8940,6 +9017,17 @@
     "reason": "No minimum experience stated; hiring timeline precedes candidate's January 2027 availability.",
     "salary": null,
     "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "e8e183c1f6ba72ba": {
+    "cached_at": "2026-11-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Staff Product Manager position requiring extensive leadership and strategy experience.",
+    "salary": null,
+    "seniority": "staff",
     "verified": true,
     "years": 0
   },

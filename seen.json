@@ -774,6 +774,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009?utm_source=vansh"
   },
+  "235d8de9fb4f7486": {
+    "company": "Coinbase",
+    "first_seen": "2026-11-09",
+    "fit_score": 2,
+    "location": "Remote - USA",
+    "posted_at": "2026-11-09T11:23:20-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Wallets, Liquidity and Bridging Team",
+    "role_category": "swe",
+    "salary": "$152,405-$179,300 USD",
+    "source": "Greenhouse:coinbase",
+    "url": "https://www.coinbase.com/careers/positions/8139750?gh_jid=8139750",
+    "verified": true,
+    "verify_reason": "Requires at least 2+ years of experience in software engineering.",
+    "years_required": 2
+  },
   "23f188f7078dbcee": {
     "company": "Brunswick",
     "first_seen": "2026-08-28",
@@ -987,6 +1003,21 @@
     "url": "https://www.okta.com/company/careers/opportunity/8314196?gh_jid=8314196",
     "verified": true,
     "verify_reason": "Targeted at early career, but start timing mismatches Jan 2027 availability.",
+    "years_required": 0
+  },
+  "2a61d4c8a076135e": {
+    "company": "Notion",
+    "first_seen": "2026-11-09",
+    "fit_score": 3,
+    "location": "San Francisco, California",
+    "posted_at": "2026-11-09T16:42:45.703000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Web Infrastructure",
+    "role_category": "swe",
+    "source": "Ashby:notion",
+    "url": "https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042",
+    "verified": true,
+    "verify_reason": "Junior role open to strong fundamentals, but start timing may mismatch.",
     "years_required": 0
   },
   "2b03d6ce728e6285": {
@@ -3374,6 +3405,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "aae31f48a7961714": {
+    "company": "Elevenlabs",
+    "first_seen": "2026-11-09",
+    "fit_score": 3,
+    "location": "Remote",
+    "posted_at": "2026-11-09T16:22:22.414000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Full-Stack Engineer - ElevenAPI",
+    "role_category": "swe",
+    "source": "Ashby:elevenlabs",
+    "url": "https://jobs.ashbyhq.com/ElevenLabs/108c99e6-ba2b-44a0-b830-7d535e14a152",
+    "verified": true,
+    "verify_reason": "No experience requirements stated; immediate hiring mismatches Jan 2027 availability.",
+    "years_required": 0
+  },
   "abadfef7a92a654b": {
     "company": "E-Space",
     "first_seen": "2026-08-21",
@@ -3693,6 +3739,21 @@
     "verified": true,
     "verify_reason": "Application period is Fall 2024; candidate is not available until 2027.",
     "years_required": 0
+  },
+  "b669748b2b41afee": {
+    "company": "Coinbase",
+    "first_seen": "2026-11-09",
+    "fit_score": 2,
+    "location": "Remote - USA",
+    "posted_at": "2026-11-09T14:43:45-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer-1",
+    "role_category": "swe",
+    "source": "Greenhouse:coinbase",
+    "url": "https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991",
+    "verified": true,
+    "verify_reason": "Requires 2+ years backend experience; start date mismatches Jan 2027 availability.",
+    "years_required": 2
   },
   "b74b0868d3849415": {
     "company": "Notion",
@@ -4143,6 +4204,17 @@
     "verified": true,
     "verify_reason": "Requires Master's degree and 2 years of specialized Oracle experience.",
     "years_required": 2
+  },
+  "d5414455811c5a06": {
+    "company": "Wolverine Trading",
+    "first_seen": "2026-11-09",
+    "location": "Chicago, IL",
+    "posted_at": "2026-11-09T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: C++ Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1oT?s=A"
   },
   "d59db2bf5c0e843d": {
     "company": "Syska Hennessy Group",
@@ -4597,6 +4669,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411"
+  },
+  "ee78dfbe4fe7da05": {
+    "company": "SeatGeek",
+    "first_seen": "2026-11-09",
+    "location": "New York, NY",
+    "posted_at": "2026-11-09T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1p1?s=A"
   },
   "ee858818775d6b33": {
     "company": "Qualtrics",
