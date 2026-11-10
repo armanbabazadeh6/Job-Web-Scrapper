@@ -717,6 +717,17 @@
     "verified": false,
     "years": 5
   },
+  "12211b3384a0253b": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "127d53ef2bac4d76": {
     "cached_at": "2026-10-22",
     "clearance_required": false,
@@ -2842,6 +2853,17 @@
     "cached_at": "2026-08-31",
     "entry_level": false,
     "reason": "Product Manager II title typically indicates a mid-level role.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "474232416531d064": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Immediate start date does not align with January 2027 availability.",
     "salary": null,
     "seniority": "mid",
     "verified": true,
@@ -5598,6 +5620,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "8e27c4772c0d3d7b": {
+    "cached_at": "2026-11-10",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires active TS/SCI clearance with polygraph.",
+    "salary": "$125,000 - $200,000",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "8e92f19e4aeddd39": {
     "cached_at": "2026-10-29",

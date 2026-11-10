@@ -818,6 +818,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
   },
+  "24d0d501b602d739": {
+    "company": "SambaNova",
+    "first_seen": "2026-11-10",
+    "location": "Austin, TXSan Jose, CA",
+    "posted_at": "2026-11-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Cloud Platform Engineer",
+    "role_category": "platform",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1qj?s=A"
+  },
   "24d149b2dadfb4c7": {
     "company": "Cursor",
     "first_seen": "2026-11-10",
@@ -975,6 +986,17 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16s?s=A"
   },
+  "28e13a42eb684471": {
+    "company": "SambaNova",
+    "first_seen": "2026-11-10",
+    "location": "Austin, TXSan Jose, CA",
+    "posted_at": "2026-11-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: ML Infrastructure Engineer",
+    "role_category": "platform",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1qn?s=A"
+  },
   "295bed22d06c9e3d": {
     "company": "Composio",
     "first_seen": "2026-08-15",
@@ -1079,6 +1101,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/Software-Engineer-Co-op_R-100664"
+  },
+  "2bad303bba09b4bf": {
+    "company": "Xperteez Technology",
+    "first_seen": "2026-11-10",
+    "location": "Remote",
+    "posted_at": "2026-11-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1rD?s=A"
   },
   "2c5f87e65d2bdba5": {
     "company": "Stripe",
@@ -1744,6 +1777,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1mR?s=A"
+  },
+  "474232416531d064": {
+    "company": "Samsara",
+    "first_seen": "2026-11-10",
+    "fit_score": 2,
+    "location": "Phoenix, Arizona, United States",
+    "posted_at": "2026-11-10T11:56:36-05:00",
+    "posting_type": "verified_entry",
+    "role": "Enterprise Implementation Consultant - Public Sector",
+    "role_category": "consulting",
+    "source": "Greenhouse:samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8372624?gh_jid=8372624",
+    "verified": true,
+    "verify_reason": "Immediate start date does not align with January 2027 availability.",
+    "years_required": 0
   },
   "4762fd21ea308cb7": {
     "company": "First American",
@@ -2841,6 +2889,17 @@
     "verify_reason": "No experience requirements stated in the description.",
     "years_required": 0
   },
+  "856a4a04f19286fc": {
+    "company": "Natoma",
+    "first_seen": "2026-11-10",
+    "location": "Boston, MA",
+    "posted_at": "2026-11-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1rp?s=A"
+  },
   "858170850e67cf9f": {
     "company": "Openai",
     "first_seen": "2026-10-29",
@@ -3002,6 +3061,23 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130"
+  },
+  "8e27c4772c0d3d7b": {
+    "clearance_required": true,
+    "company": "WOOD Consulting Services",
+    "first_seen": "2026-11-10",
+    "fit_score": 1,
+    "location": "San Antonio, Texas",
+    "posted_at": "2026-11-10T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Entry to Junior Level",
+    "role_category": "swe",
+    "salary": "$125,000 - $200,000",
+    "source": "JSearch",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/MpgBIAzqSPSlqz2IvcpNy",
+    "verified": true,
+    "verify_reason": "Requires active TS/SCI clearance with polygraph.",
+    "years_required": 0
   },
   "8e92f19e4aeddd39": {
     "company": "Stripe",
@@ -5129,6 +5205,17 @@
     "verified": true,
     "verify_reason": "Timing mismatch for Jan 2027 availability and manages strategic accounts.",
     "years_required": 0
+  },
+  "fa724e2d5eb88bba": {
+    "company": "Zingage",
+    "first_seen": "2026-11-10",
+    "location": "New York, NY",
+    "posted_at": "2026-11-10T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1rE?s=A"
   },
   "fa8785c14586eb51": {
     "company": "Blackstone",
