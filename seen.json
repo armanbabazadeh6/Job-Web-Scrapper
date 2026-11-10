@@ -540,6 +540,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
   },
+  "1ab5c59927774d19": {
+    "company": "Ramp",
+    "first_seen": "2026-11-10",
+    "fit_score": 2,
+    "location": "Remote (US)",
+    "posted_at": "2026-11-10T22:25:34.609000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Solutions Consultant, Post Sales, Mid-Market",
+    "role_category": "sales_eng",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/492823d8-9651-46cf-9d33-a632ef706879",
+    "verified": true,
+    "verify_reason": "Requires complex ERP integration expertise; no experience years stated.",
+    "years_required": 0
+  },
   "1b42cb1e13f47d7f": {
     "company": "Airbnb",
     "first_seen": "2026-10-20",
@@ -4375,6 +4390,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": ""
+  },
+  "d1143df8c1383306": {
+    "company": "Ramp",
+    "first_seen": "2026-11-10",
+    "fit_score": 2,
+    "location": "Remote (US)",
+    "posted_at": "2026-11-10T22:22:36.217000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Solutions Consultant, Post Sales, Commercial",
+    "role_category": "sales_eng",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/8ca5c32b-e6c7-47e3-af23-291f122fa0f8",
+    "verified": true,
+    "verify_reason": "Requires complex ERP integration expertise; no experience years stated.",
+    "years_required": 0
   },
   "d24a50ad616979b6": {
     "company": "Intel",

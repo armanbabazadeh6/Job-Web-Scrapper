@@ -788,6 +788,17 @@
     "verified": true,
     "years": 5
   },
+  "14b795dc6cfee3eb": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "14ea1f6da6d67a57": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -1023,6 +1034,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 4
+  },
+  "1ab5c59927774d19": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires complex ERP integration expertise; no experience years stated.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "1b42cb1e13f47d7f": {
     "cached_at": "2026-10-20",
@@ -1523,6 +1545,17 @@
     "seniority": null,
     "verified": false,
     "years": 4
+  },
+  "28ebcec4885b4e33": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "294e994cc0c21ee7": {
     "cached_at": "2026-08-31",
@@ -2264,6 +2297,17 @@
     "verified": true,
     "years": 0
   },
+  "391b398709514b8f": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of customer-facing technical experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "39c38c65847b67c7": {
     "cached_at": "2026-09-19",
     "clearance_required": false,
@@ -2527,6 +2571,17 @@
     "verified": true,
     "years": 0
   },
+  "4071ed1288892d4e": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 8+ years in product management experience.",
+    "salary": "$305,000-$385,000",
+    "seniority": "senior",
+    "verified": true,
+    "years": 8
+  },
   "40b141b5a253cc84": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -2600,6 +2655,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "415a3b95edc56526": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "41c647b3baf878cf": {
     "cached_at": "2026-10-29",
@@ -8333,6 +8399,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 5
+  },
+  "d1143df8c1383306": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires complex ERP integration expertise; no experience years stated.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "d15131c35eb94288": {
     "cached_at": "2026-10-29",
