@@ -220,6 +220,17 @@
     "verified": false,
     "years": null
   },
+  "04af9bea9787f08c": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires developer platform experience; no minimum years stated.",
+    "salary": "$140,000 - $225,000 USD",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "04d7d2cb92fb0650": {
     "cached_at": "2026-09-18",
     "clearance_required": false,
@@ -606,6 +617,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "108eeab08d3175d0": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Accepts CS degree; start date Jan 2027 creates timing mismatch.",
+    "salary": "$140,000 - $225,000",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "10d34003d1309dc2": {
     "cached_at": "2026-11-08",
@@ -1403,6 +1425,17 @@
     "verified": true,
     "years": 0
   },
+  "26dcb7e13e2591d1": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Accepts CS degree; start date Jan 2027 creates timing mismatch.",
+    "salary": "$140,000 - $225,000",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "2700b7867afcc953": {
     "cached_at": "2026-09-03",
     "clearance_required": false,
@@ -2175,6 +2208,17 @@
     "seniority": null,
     "verified": false,
     "years": 10
+  },
+  "3869402f4a2fcf92": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires platform system experience; no minimum years required.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "38cdee8b8413a8f2": {
     "cached_at": "2026-10-23",
@@ -3853,6 +3897,17 @@
     "verified": true,
     "years": 2
   },
+  "6312fc369b3190a6": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Accepts CS degree; start date Jan 2027 creates timing mismatch.",
+    "salary": "$140,000 - $225,000",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "632d00d407845253": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -4417,6 +4472,17 @@
     "verified": false,
     "years": 4
   },
+  "7224e0638308af2d": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires prior product engineering experience; timing gap for Jan 2027 grad.",
+    "salary": "$140,000 - $225,000",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "728eae6da9dd717f": {
     "cached_at": "2026-11-02",
     "clearance_required": false,
@@ -4668,6 +4734,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "79a0b36566fca5ca": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Accepts CS degree; start date Jan 2027 creates timing mismatch.",
+    "salary": "$140,000 - $225,000",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "79ca2f67b362519c": {
     "cached_at": "2026-09-09",
@@ -4945,6 +5022,17 @@
     "verified": false,
     "years": null
   },
+  "81fc60a9f881ba91": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires cloud platform experience; no minimum years required.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "8223100a1fb56527": {
     "cached_at": "2026-11-05",
     "clearance_required": false,
@@ -5096,6 +5184,17 @@
     "reason": "Candidate unavailable until January 2027; wrong start timing.",
     "salary": null,
     "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "85bf515134f8abad": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires backend production experience; start date Jan 2027 creates timing gap.",
+    "salary": "$140,000 - $225,000",
+    "seniority": "junior",
     "verified": true,
     "years": 0
   },
@@ -5860,6 +5959,17 @@
     "verified": true,
     "years": 2
   },
+  "96349ca6b9dd5e0b": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires production billing experience; start date Jan 2027 creates timing gap.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "96355cb9edb40ab1": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -6609,6 +6719,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "a7867a297546fb8c": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires developer productivity experience; timing gap for Jan 2027 grad.",
+    "salary": "$140,000 - $225,000",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "a7bd64a8d0e947e2": {
     "cached_at": "2026-10-06",
@@ -7974,6 +8095,17 @@
     "verified": true,
     "years": 0
   },
+  "cbb34327434213c2": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires AI agent experience; no minimum years required.",
+    "salary": "$140,000 - $225,000 USD",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "cc4096fcce31ea51": {
     "cached_at": "2026-10-21",
     "clearance_required": false,
@@ -8039,6 +8171,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "cec985a5ef715e9f": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Matches graduation window; program starts June 2027.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
   },
   "cee0b3c027882cdd": {
     "cached_at": "2026-08-31",
@@ -8762,6 +8905,17 @@
     "verified": true,
     "years": 2
   },
+  "df4dc6a18084c581": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Accepts Bachelor's degree in CS with no prior experience required.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "df8062f4743774c5": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
@@ -9075,6 +9229,17 @@
     "verified": false,
     "years": 6
   },
+  "e7e1495804cdb8db": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires database experience; no minimum years of experience stated.",
+    "salary": "$140,000 - $225,000 USD",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "e811007232237eda": {
     "cached_at": "2026-10-07",
     "clearance_required": false,
@@ -9323,6 +9488,17 @@
     "verified": true,
     "years": 0
   },
+  "f0a150d69b074bb4": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No minimum experience stated; full-time software engineering role.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "f1074fe0a5a29064": {
     "cached_at": "2026-09-10",
     "clearance_required": false,
@@ -9415,6 +9591,17 @@
     "seniority": null,
     "verified": false,
     "years": 8
+  },
+  "f2bab7415412e456": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires secure systems experience; no minimum years stated.",
+    "salary": "$140,000 - $225,000 USD",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "f2db52b4ed4f941e": {
     "cached_at": "2026-10-29",
