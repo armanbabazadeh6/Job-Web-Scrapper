@@ -1343,6 +1343,17 @@
     "verified": true,
     "years": 2
   },
+  "24d149b2dadfb4c7": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires prior field engineering or enterprise software experience.",
+    "salary": "$164,500 - $224,000",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "262c27e18676d656": {
     "cached_at": "2026-10-07",
     "clearance_required": false,
@@ -1457,6 +1468,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "2881898a95527e03": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
   },
   "294e994cc0c21ee7": {
     "cached_at": "2026-08-31",
@@ -2910,6 +2932,17 @@
     "verified": true,
     "years": 2
   },
+  "4b512ddd1b0a2cc1": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires prior production backend systems experience and track record.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "4b6bd1594d4c2ceb": {
     "cached_at": "2026-10-23",
     "clearance_required": false,
@@ -3560,6 +3593,17 @@
     "verified": true,
     "years": 2
   },
+  "5cbcf4cdac6c51ee": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires prior field engineering or enterprise software experience.",
+    "salary": "$164,500 - $224,000",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "5cebe20f573806d7": {
     "cached_at": "2026-10-13",
     "clearance_required": false,
@@ -4113,6 +4157,17 @@
     "verified": false,
     "years": 6
   },
+  "6a9c23aa246267ce": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 10
+  },
   "6ac836f3ec48f333": {
     "cached_at": "2026-09-22",
     "clearance_required": false,
@@ -4301,6 +4356,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "70ac8a10c946402b": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "7163f1b878d81e6a": {
     "cached_at": "2026-10-27",
@@ -4823,6 +4889,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "80d27f35deccd338": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "8107e37abaf38d6c": {
     "cached_at": "2026-09-19",
@@ -6458,6 +6535,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "a600d89a8fcf311d": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 4+ years of professional software engineering experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
   },
   "a60f010debfe1626": {
     "cached_at": "2026-09-14",
@@ -8421,6 +8509,17 @@
     "verified": false,
     "years": null
   },
+  "d9b80e43b86ca568": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 7
+  },
   "d9e54e7ef66c4ad1": {
     "cached_at": "2026-11-03",
     "clearance_required": false,
@@ -9100,6 +9199,17 @@
     "reason": "Senior mid-career position not suitable for new graduates.",
     "salary": "$70,000-$90,000",
     "seniority": "senior",
+    "verified": true,
+    "years": 0
+  },
+  "ed33a9a2e34210b3": {
+    "cached_at": "2026-11-10",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires prior field engineering or enterprise software experience.",
+    "salary": "$164,500 - $224,000",
+    "seniority": "junior",
     "verified": true,
     "years": 0
   },

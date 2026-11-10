@@ -497,17 +497,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c"
   },
-  "19c6e6e14fce1a86": {
-    "company": "ING",
-    "first_seen": "2026-08-11",
-    "location": "Waco, TX +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "INTERNSHIP SOFTWARE ENGINEER",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/ACT-Amsterdam---Acanthus/INTERNSHIP-SOFTWARE-ENGINEER_REQ-10119555"
-  },
   "1a06111a3fae81c5": {
     "company": "NVIDIA",
     "first_seen": "2026-08-19",
@@ -610,21 +599,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
-  },
-  "1e3f874eab15a977": {
-    "company": "RG&T Solutions",
-    "first_seen": "2026-10-10",
-    "fit_score": 1,
-    "location": "Marysville, Ohio",
-    "posted_at": "2026-10-09T17:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Design Solutions Engineer",
-    "role_category": "sales_eng",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/design-solutions-engineer-at-rg-t-solutions-4476821863",
-    "verified": true,
-    "verify_reason": "Requires 2 years experience and candidate is unavailable until January 2027.",
-    "years_required": 2
   },
   "1f6468016011f532": {
     "company": "Raytheon",
@@ -800,6 +774,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
+  },
+  "24d149b2dadfb4c7": {
+    "company": "Cursor",
+    "first_seen": "2026-11-10",
+    "fit_score": 2,
+    "location": "New York, NY",
+    "posted_at": "2026-11-09T21:22:15.695000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Field Engineer",
+    "role_category": "swe",
+    "salary": "$164,500 - $224,000",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/014605a9-3a17-4f7d-9037-6c8bb3278e08",
+    "verified": true,
+    "verify_reason": "Requires prior field engineering or enterprise software experience.",
+    "years_required": 0
   },
   "25577229884ae793": {
     "company": "Booz Allen",
@@ -1082,22 +1072,6 @@
     "role_category": "pe",
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/GP-Stakes-Strategic-Value--Analyst_44673"
-  },
-  "2ecbd44e4a5e2a78": {
-    "clearance_required": true,
-    "company": "iCatalyst, Inc.",
-    "first_seen": "2026-10-10",
-    "fit_score": 1,
-    "location": "McLean, Virginia",
-    "posted_at": "2026-10-10T01:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Jr. Software Developer",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/jr-software-developer-at-icatalyst-inc-4478018019",
-    "verified": true,
-    "verify_reason": "Requires immediate hire; candidate is not available until January 2027.",
-    "years_required": 0
   },
   "2f15ac44dce89b9d": {
     "company": "PointOne",
@@ -1787,6 +1761,21 @@
     "verify_reason": "Start timing does not match candidate's January 2027 availability.",
     "years_required": 2
   },
+  "4b512ddd1b0a2cc1": {
+    "company": "Ramp",
+    "first_seen": "2026-11-10",
+    "fit_score": 2,
+    "location": "Remote (US)",
+    "posted_at": "2026-11-09T18:22:09.221000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Backend, Comms Platform",
+    "role_category": "swe",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228",
+    "verified": true,
+    "verify_reason": "Requires prior production backend systems experience and track record.",
+    "years_required": 0
+  },
   "4b876fd2c66355e9": {
     "company": "Security Risk Advisors",
     "first_seen": "2026-08-13",
@@ -2035,6 +2024,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/VK?s=A"
   },
+  "5cbcf4cdac6c51ee": {
+    "company": "Cursor",
+    "first_seen": "2026-11-10",
+    "fit_score": 2,
+    "location": "Remote",
+    "posted_at": "2026-11-09T21:24:58.973000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Field Engineer, Healthcare",
+    "role_category": "swe",
+    "salary": "$164,500 - $224,000",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/60a3541f-f6b6-4da2-a168-40e867a51740",
+    "verified": true,
+    "verify_reason": "Requires prior field engineering or enterprise software experience.",
+    "years_required": 0
+  },
   "5dc9e52714d1a5d8": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
@@ -2078,17 +2083,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
-  },
-  "6186a7e5eec21437": {
-    "company": "Figma",
-    "first_seen": "2026-08-11",
-    "location": "San Francisco, CA +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Winter 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "6199799656c0a51e": {
     "company": "TikTok",
@@ -2176,17 +2170,6 @@
     "verify_reason": "Entry-level role for 2027 grads requiring security clearance eligibility.",
     "years_required": 0
   },
-  "67edc7cfe8b6270b": {
-    "company": "TikTok",
-    "first_seen": "2026-08-11",
-    "location": "Seattle, WA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Global E-commerce-Search - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "691f0a6749860bf7": {
     "company": "Stripe",
     "first_seen": "2026-10-22",
@@ -2239,17 +2222,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "6c93b155c5eebf10": {
-    "company": "DV Trading",
-    "first_seen": "2026-08-11",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Summer 2027 - DV Commodities",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"
   },
   "6d19838886742c3a": {
     "company": "TikTok",
@@ -2470,22 +2442,6 @@
     "verify_reason": "No experience requirements stated, but role demands production ML systems experience.",
     "years_required": 0
   },
-  "76eb81dbb89e5dae": {
-    "company": "BAE Systems, Inc.",
-    "first_seen": "2026-10-10",
-    "fit_score": 5,
-    "location": "Hudson, New Hampshire",
-    "posted_at": "2026-10-09T17:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer I",
-    "role_category": "swe",
-    "salary": "$64926 - $110374",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-bae-systems-inc-4468899313",
-    "verified": true,
-    "verify_reason": "Explicitly targets 2026/2027 graduates for full-time entry-level role.",
-    "years_required": 0
-  },
   "773c19b4f5ba6f3c": {
     "company": "Ancestry",
     "first_seen": "2026-08-28",
@@ -2684,17 +2640,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115"
-  },
-  "822ca83d3a5a2512": {
-    "company": "TikTok",
-    "first_seen": "2026-08-11",
-    "location": "Seattle, WA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Global E-commerce-Search - 2027 Fall",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "824824e5429b35ef": {
     "company": "Northrop Grumman",
@@ -3368,21 +3313,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15y?s=A"
   },
-  "a718243ecc5532f6": {
-    "company": "Bitdeer (NASDAQ: BTDR)",
-    "first_seen": "2026-10-10",
-    "fit_score": 5,
-    "location": "Massillon, Ohio",
-    "posted_at": "2026-10-10T14:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "AI & Cloud Infra Software Engineer (Fresh Grad)",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/ai-cloud-infra-software-engineer-fresh-grad-at-bitdeer-nasdaq-btdr-4396468632",
-    "verified": true,
-    "verify_reason": "Targeted at fresh graduates with 0 to 2 years experience.",
-    "years_required": 0
-  },
   "a772d96aef715b3b": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
@@ -3691,17 +3621,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1iX?s=A"
-  },
-  "b55971557f624e89": {
-    "company": "Rockwell Automation",
-    "first_seen": "2026-08-11",
-    "location": "Mayfield Heights, OH",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Spring 2027 Co-op - Embedded Software Engineer - January 2027 - August 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Spring-2027-Co-op--Embedded-Software-Engineer--January-2027---August-2027-_R26-3473-1"
   },
   "b576c469770e3004": {
     "company": "RTX",
@@ -4646,6 +4565,22 @@
     "url": "https://stripe.com/jobs/search?gh_jid=8311069",
     "verified": true,
     "verify_reason": "Start timing does not match candidate's January 2027 availability.",
+    "years_required": 0
+  },
+  "ed33a9a2e34210b3": {
+    "company": "Cursor",
+    "first_seen": "2026-11-10",
+    "fit_score": 2,
+    "location": "Remote",
+    "posted_at": "2026-11-09T21:26:28.671000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Field Engineer, Life Sciences",
+    "role_category": "swe",
+    "salary": "$164,500 - $224,000",
+    "source": "Ashby:cursor",
+    "url": "https://jobs.ashbyhq.com/cursor/d02cb5cc-496f-4998-80a7-87c20312c82c",
+    "verified": true,
+    "verify_reason": "Requires prior field engineering or enterprise software experience.",
     "years_required": 0
   },
   "ee4abb3a4a0005e0": {
