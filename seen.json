@@ -3711,6 +3711,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://career-schwab.icims.com/jobs/126228/technology-2027-intern---software-engineering/job"
   },
+  "b112f2cdb095969f": {
+    "company": "Symbotic",
+    "first_seen": "2026-11-11",
+    "location": "Wilmington, MA",
+    "posted_at": "2026-11-11T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Robotics Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1uP?s=A"
+  },
   "b1393dd3c357ff03": {
     "company": "Samsara",
     "first_seen": "2026-11-06",
@@ -4371,6 +4382,17 @@
     "verify_reason": "Immediate role timeline mismatches candidate January 2027 availability date.",
     "years_required": 0
   },
+  "d4291dc993efe389": {
+    "company": "BAE Systems",
+    "first_seen": "2026-11-11",
+    "location": "Hudson, NH",
+    "posted_at": "2026-11-11T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1uE?s=A"
+  },
   "d4fd5c3772752432": {
     "company": "Lyft",
     "first_seen": "2026-10-17",
@@ -4681,6 +4703,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://lthc.wd1.myworkdayjobs.com/en-US/univerahealthcarecareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-1"
   },
+  "e4a530964aa379f0": {
+    "company": "Manhattan Associates",
+    "first_seen": "2026-11-11",
+    "location": "Atlanta, GA",
+    "posted_at": "2026-11-11T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Technology Consultant",
+    "role_category": "consulting",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1uB?s=A"
+  },
   "e5615371d8e53524": {
     "company": "Elevenlabs",
     "first_seen": "2026-10-22",
@@ -4859,6 +4892,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"
+  },
+  "eb987f298771f990": {
+    "company": "Salesforce",
+    "first_seen": "2026-11-11",
+    "location": "7 locationsPalo Alto, CASeattle, WAIndianapolis, INSan Francisco, CADallas, TXNew York, NYBellevue, WA",
+    "posted_at": "2026-11-11T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Engineering AMTS",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1uI?s=A"
   },
   "ec246608b1dfa475": {
     "company": "Stripe",
