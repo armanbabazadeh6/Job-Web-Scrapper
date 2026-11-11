@@ -8938,6 +8938,17 @@
     "verified": true,
     "years": 0
   },
+  "dd931092daf16823": {
+    "cached_at": "2026-11-11",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Timing mismatch for January 2027 availability; no experience requirement stated.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "ddb6778095bf91b2": {
     "cached_at": "2026-10-01",
     "clearance_required": false,

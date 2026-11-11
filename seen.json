@@ -1357,17 +1357,6 @@
     "verify_reason": "Start timing mismatch for candidate graduating in December 2026.",
     "years_required": 0
   },
-  "369957079d75b0cd": {
-    "company": "Foxconn Industrial Internet USA",
-    "first_seen": "2026-08-12",
-    "location": "Houston, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "http://foxconnggroup.applytojob.com/apply/xf0soVofyI/Software-Engineering-Intern"
-  },
   "36f185987c477633": {
     "company": "ByteDance",
     "first_seen": "2026-11-01",
@@ -1830,21 +1819,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1iB?s=A"
   },
-  "4892a4ead3bf0588": {
-    "company": "American Corporation for Public Well Being",
-    "first_seen": "2026-10-11",
-    "fit_score": 1,
-    "location": "Only, Tennessee",
-    "posted_at": "2026-10-11T03:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Full Stack Developer, Client Portals",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/full-stack-developer-client-portals-at-american-corporation-for-public-well-being-4477238693",
-    "verified": true,
-    "verify_reason": "Requires immediate start; candidate not available until January 2027.",
-    "years_required": 0
-  },
   "49778b1425c88e9b": {
     "company": "Verkada",
     "first_seen": "2026-08-26",
@@ -2123,17 +2097,6 @@
     "role_category": "swe",
     "source": "Ashby:quora",
     "url": "https://jobs.ashbyhq.com/quora/5494e6a1-a973-46af-b9f3-57208eb91b52"
-  },
-  "59c5241039084483": {
-    "company": "Sentry",
-    "first_seen": "2026-08-12",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer - Intern - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/sentry/672e2a76-d8e1-49c1-b227-4a189c4e49a1"
   },
   "5bba914bee306be3": {
     "company": "Tech Consulting",
@@ -2800,17 +2763,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
   },
-  "7fdab9bce9037f6b": {
-    "company": "PathAI",
-    "first_seen": "2026-08-12",
-    "location": "Boston, MA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering Co-op: September - December 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.pathai.com/careers/8623056002?gh_jid=8623056002"
-  },
   "807cee4dcfd800c4": {
     "company": "Elevenlabs",
     "first_seen": "2026-10-13",
@@ -3393,17 +3345,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/northwoodspace/ce3d4b73-461e-4128-a6f1-f933897e8119"
   },
-  "9b2f64383b8139d5": {
-    "company": "Rivian",
-    "first_seen": "2026-10-11",
-    "location": "Plymouth, Michigan",
-    "posted_at": "2026-10-10T16:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Early Career - Software Engineer, Enterprise Software",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/early-career-software-engineer-enterprise-software-at-rivian-4477220538"
-  },
   "9b94a9c24c4acda8": {
     "company": "Walt Disney",
     "first_seen": "2026-08-25",
@@ -3860,17 +3801,6 @@
     "verify_reason": "Requires degree and under two years experience; fits graduation timeline.",
     "years_required": 0
   },
-  "b3aa08811efef6b3": {
-    "company": "Salesforce",
-    "first_seen": "2026-08-12",
-    "location": "California, USA +3",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Future Pathways",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "b3d66f8723946d35": {
     "company": "Coinbase",
     "first_seen": "2026-10-20",
@@ -4242,17 +4172,6 @@
     "verify_reason": "Entry-level role for recent graduates, but start timing mismatches Jan 2027.",
     "years_required": 0
   },
-  "c9ee7bf061157b2b": {
-    "company": "Kimley-Horn",
-    "first_seen": "2026-08-12",
-    "location": "Cary, NC",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Developer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://careers-kimley-horn.icims.com/jobs/25761/software-developer-intern/job"
-  },
   "ca3d6dffed236980": {
     "company": "CACI",
     "first_seen": "2026-08-28",
@@ -4604,6 +4523,21 @@
     "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
     "verified": true,
     "verify_reason": "Start timing mismatch; candidate available January 2027.",
+    "years_required": 0
+  },
+  "dd931092daf16823": {
+    "company": "Ramp",
+    "first_seen": "2026-11-11",
+    "fit_score": 1,
+    "location": "Remote (US)",
+    "posted_at": "2026-11-10T23:28:38.243000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Solutions Consultant, Post Sales, Enterprise",
+    "role_category": "sales_eng",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/971abc99-f20b-43f0-91d6-90bcbfa2c8d9",
+    "verified": true,
+    "verify_reason": "Timing mismatch for January 2027 availability; no experience requirement stated.",
     "years_required": 0
   },
   "df4dc6a18084c581": {
@@ -5147,17 +5081,6 @@
     "verify_reason": "Requires prior government systems and deep Salesforce Service Cloud experience.",
     "years_required": 0
   },
-  "f7f2a4113bbc828d": {
-    "company": "Quantbot Technologies",
-    "first_seen": "2026-08-12",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Summer Internship - 2027 - New York",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.quantbot.com/careers/4299458009?gh_jid=4299458009"
-  },
   "f86b8782699e1e8e": {
     "company": "Openai",
     "first_seen": "2026-10-23",
@@ -5279,17 +5202,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": ""
-  },
-  "fc75b85455432950": {
-    "company": "Bosch",
-    "first_seen": "2026-08-12",
-    "location": "Farmington Hills, MI",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Powertrain Controls Software Engineering Intern - 6-Months - Full-Time",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142898574-powertrain-controls-software-engineering-intern-6-months-full-time-?oga=true"
   },
   "fc9c4e7d645be02d": {
     "company": "Lockheed Martin",
