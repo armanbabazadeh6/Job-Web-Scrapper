@@ -10027,6 +10027,17 @@
     "verified": true,
     "years": 0
   },
+  "f9e763a9ad4df45b": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires at least 3 years of professional software development experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "fa4e3897d7aff907": {
     "cached_at": "2026-08-31",
     "entry_level": false,
