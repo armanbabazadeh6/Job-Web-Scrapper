@@ -3086,6 +3086,17 @@
     "verified": true,
     "years": 3
   },
+  "4b7656c75670bf32": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "4bc9053b68255e45": {
     "cached_at": "2026-11-01",
     "clearance_required": false,
@@ -7001,6 +7012,17 @@
     "verified": false,
     "years": 5
   },
+  "ab92b1962b65eb84": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires at least 3 years of professional experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "abc660e7c613ed2e": {
     "cached_at": "2026-11-04",
     "clearance_required": false,
@@ -7066,6 +7088,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "ada534a8e4eea927": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Allows early-career applicants, but candidate is unavailable until January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "add14591199750f5": {
     "cached_at": "2026-09-29",
