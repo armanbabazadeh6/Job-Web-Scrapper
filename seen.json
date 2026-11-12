@@ -3035,6 +3035,17 @@
     "verify_reason": "Requires active TS/SCI clearance with polygraph.",
     "years_required": 0
   },
+  "8e41a7c8744744ae": {
+    "company": "Nuro",
+    "first_seen": "2026-11-12",
+    "location": "Mountain View, California (HQ)",
+    "posted_at": "2026-11-12T14:34:27-05:00",
+    "posting_type": "new_grad",
+    "role": "Systems Engineering, New Grad 2027",
+    "role_category": "platform",
+    "source": "Greenhouse:nuro",
+    "url": "https://nuro.ai/careersitem?gh_jid=8360415"
+  },
   "8e92f19e4aeddd39": {
     "company": "Stripe",
     "first_seen": "2026-10-29",
@@ -3283,6 +3294,21 @@
     "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
     "verified": true,
     "verify_reason": "Immediate role creates timing mismatch with January 2027 availability.",
+    "years_required": 0
+  },
+  "9ad3d27a1a60b988": {
+    "company": "Openai",
+    "first_seen": "2026-11-12",
+    "fit_score": 2,
+    "location": "San Francisco",
+    "posted_at": "2026-11-12T19:38:28.517000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Business Platform Engineer",
+    "role_category": "platform",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/e70a2b94-17d7-4083-a028-943bae53d126",
+    "verified": true,
+    "verify_reason": "Entry level, but start timing mismatch for January 2027 availability.",
     "years_required": 0
   },
   "9ae58a89d886e69a": {
@@ -3841,6 +3867,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1iX?s=A"
+  },
+  "b528b14bf5c4f4a7": {
+    "company": "Reddit",
+    "first_seen": "2026-11-12",
+    "fit_score": 2,
+    "location": "Remote - United States",
+    "posted_at": "2026-11-12T17:03:15-05:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager, Ecosystem Relevance",
+    "role_category": "product",
+    "source": "Greenhouse:reddit",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8148055",
+    "verified": true,
+    "verify_reason": "No experience requirement stated, but start timing mismatch for Jan 2027.",
+    "years_required": 0
   },
   "b576c469770e3004": {
     "company": "RTX",

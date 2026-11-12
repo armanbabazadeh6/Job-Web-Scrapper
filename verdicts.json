@@ -1650,6 +1650,17 @@
     "verified": true,
     "years": 0
   },
+  "2a50416cd4168a30": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5+ years building products.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 5
+  },
   "2a61d4c8a076135e": {
     "cached_at": "2026-11-09",
     "clearance_required": false,
@@ -5165,6 +5176,17 @@
     "verified": true,
     "years": 3
   },
+  "8267905b8bc4d8ea": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 4 years of work experience in software engineering.",
+    "salary": "$174,595.00 - $235,200.00/yr",
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
+  },
   "8274174039fae5fa": {
     "cached_at": "2026-09-19",
     "clearance_required": false,
@@ -6036,6 +6058,17 @@
     "verified": false,
     "years": 4
   },
+  "94462e45103347fd": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "945f488ccd63f5df": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -6281,6 +6314,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "9ad3d27a1a60b988": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Entry level, but start timing mismatch for January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "9ade58e8b1220607": {
     "cached_at": "2026-09-03",
@@ -7435,6 +7479,17 @@
     "verified": true,
     "years": 0
   },
+  "b528b14bf5c4f4a7": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience requirement stated, but start timing mismatch for Jan 2027.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "b55c17fb3caa51d9": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -7511,6 +7566,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "b6ef97d5dd182fc6": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 5 years of post-baccalaureate software engineering experience.",
+    "salary": "$193,461 - $285,600/yr",
+    "seniority": "senior",
+    "verified": true,
+    "years": 5
   },
   "b6fdeeb205047d3a": {
     "cached_at": "2026-08-31",
@@ -9158,6 +9224,17 @@
     "verified": false,
     "years": null
   },
+  "e1af6d200e895bc2": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "e1b65f21951e26c6": {
     "cached_at": "2026-10-13",
     "clearance_required": false,
@@ -9426,6 +9503,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "e840c1d4d1dd64c0": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Senior IC role requires extensive product strategy leadership.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
   },
   "e84ab776003bd18d": {
     "cached_at": "2026-10-27",
@@ -9809,6 +9897,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "f37574cc8e4a3d30": {
+    "cached_at": "2026-11-12",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
   },
   "f37cf2a996a5d86f": {
     "cached_at": "2026-10-06",
