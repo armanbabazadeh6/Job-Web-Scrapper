@@ -2054,6 +2054,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007"
   },
+  "5eaa90369d78f3d5": {
+    "company": "Lockheed Martin",
+    "first_seen": "2026-11-13",
+    "location": "New York, New York",
+    "posted_at": "2026-11-12T18:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer -Early Career",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-early-career-at-lockheed-martin-4488559449"
+  },
   "5eaa96f9eff834b1": {
     "company": "ByteDance",
     "first_seen": "2026-11-01",
@@ -3500,6 +3511,23 @@
     "url": "https://www.linkedin.com/jobs/view/software-engineer-i-onsite-at-collins-aerospace-4479261500",
     "verified": true,
     "verify_reason": "Requires Bachelor's degree by start date and full-time availability.",
+    "years_required": 0
+  },
+  "ad33e85937826efc": {
+    "clearance_required": true,
+    "company": "BAE Systems",
+    "first_seen": "2026-11-13",
+    "fit_score": 5,
+    "location": "Merrimack, New Hampshire",
+    "posted_at": "2026-11-12T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Engineer",
+    "role_category": "swe",
+    "salary": "$64,926-$110,374",
+    "source": "JSearch",
+    "url": "https://jobs.baesystems.com/global/en/job/129314BR/Entry-Level-Software-Engineer",
+    "verified": true,
+    "verify_reason": "Targets 2027 entry-level candidates, matching candidate's graduation timeline perfectly.",
     "years_required": 0
   },
   "ada534a8e4eea927": {
