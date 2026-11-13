@@ -262,6 +262,17 @@
     "verify_reason": "No experience required; suitable for a technical new graduate.",
     "years_required": 0
   },
+  "0fd467e6c9f41e6c": {
+    "company": "Northrop Grumman",
+    "first_seen": "2026-11-13",
+    "location": "Mcclellan, CA",
+    "posted_at": "2026-11-13T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Associate Software Engineer \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1yD?s=A"
+  },
   "108eeab08d3175d0": {
     "company": "Cursor",
     "first_seen": "2026-11-10",

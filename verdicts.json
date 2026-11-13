@@ -840,6 +840,17 @@
     "verified": true,
     "years": 2
   },
+  "15fdc13aee10f2e6": {
+    "cached_at": "2026-11-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "167787a1bf0eb7d3": {
     "cached_at": "2026-09-19",
     "clearance_required": true,
@@ -2571,6 +2582,17 @@
     "verified": true,
     "years": 3
   },
+  "40077bff0e5ec70a": {
+    "cached_at": "2026-11-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of experience developing Web applications.",
+    "salary": "$162,000-$186,000 USD",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "4023610c6ca03537": {
     "cached_at": "2026-10-07",
     "clearance_required": false,
@@ -3129,6 +3151,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "4c9d9fb2481bb524": {
+    "cached_at": "2026-11-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of experience developing Android applications.",
+    "salary": "$162,000-$186,000 USD",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "4d11fa90ca305e9e": {
     "cached_at": "2026-10-23",
@@ -8476,6 +8509,17 @@
     "seniority": null,
     "verified": false,
     "years": 4
+  },
+  "d0080f3df0bc50f4": {
+    "cached_at": "2026-11-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "d01714d643dac409": {
     "cached_at": "2026-10-19",
