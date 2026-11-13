@@ -4730,6 +4730,17 @@
     "verified": false,
     "years": 4
   },
+  "7666310fa4c602a4": {
+    "cached_at": "2026-11-13",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Entry-level role accepting backend internship experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "7687d7e51faec7d5": {
     "cached_at": "2026-10-24",
     "clearance_required": false,
@@ -10361,6 +10372,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "fe988cf933437be0": {
+    "cached_at": "2026-11-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires at least four years of experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
   },
   "ff3ec34db280a175": {
     "cached_at": "2026-09-30",

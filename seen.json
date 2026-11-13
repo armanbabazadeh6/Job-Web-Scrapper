@@ -236,21 +236,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1wC?s=A"
   },
-  "0ed3321f71e55921": {
-    "company": "Palantir",
-    "first_seen": "2026-10-13",
-    "fit_score": 4,
-    "location": "Norfolk, VA",
-    "posted_at": "2026-10-12T21:27:12.616000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Forward Deployed Software Engineer - US Government",
-    "role_category": "swe",
-    "source": "Lever:palantir",
-    "url": "https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf",
-    "verified": true,
-    "verify_reason": "No experience requirement stated, open to new graduates.",
-    "years_required": 0
-  },
   "0f474e3b0373005b": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -691,21 +676,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801"
   },
-  "1fb24b99ef6d2f0a": {
-    "company": "Elevenlabs",
-    "first_seen": "2026-10-13",
-    "fit_score": 4,
-    "location": "Remote",
-    "posted_at": "2026-10-13T11:43:26.151000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Full-Stack Engineer (Backend-Leaning) - CoreMusic",
-    "role_category": "swe",
-    "source": "Ashby:elevenlabs",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e",
-    "verified": true,
-    "verify_reason": "No experience requirement stated; open to backend-leaning full-stack engineers.",
-    "years_required": 0
-  },
   "201de5db3786e33b": {
     "company": "Samsara",
     "first_seen": "2026-11-06",
@@ -768,21 +738,6 @@
     "role_category": "platform",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/150?s=A"
-  },
-  "21ac62af0b86e842": {
-    "company": "Elevenlabs",
-    "first_seen": "2026-10-13",
-    "fit_score": 4,
-    "location": "Remote",
-    "posted_at": "2026-10-13T11:44:40.668000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Full-Stack Engineer (Frontend-Leaning) - CreativeMusic",
-    "role_category": "swe",
-    "source": "Ashby:elevenlabs",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89",
-    "verified": true,
-    "verify_reason": "No experience requirement stated; startup role welcoming builders.",
-    "years_required": 0
   },
   "21ded8b002c50541": {
     "company": "Manulife",
@@ -963,21 +918,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007"
-  },
-  "2747f1606c1bd284": {
-    "company": "Elevenlabs",
-    "first_seen": "2026-10-13",
-    "fit_score": 4,
-    "location": "Remote",
-    "posted_at": "2026-10-13T14:11:32.386000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Full-Stack Engineer - Productions",
-    "role_category": "swe",
-    "source": "Ashby:elevenlabs",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/10e6475e-67ef-4621-8718-7b087c354651",
-    "verified": true,
-    "verify_reason": "No experience requirement stated; open to capable full-stack builders.",
-    "years_required": 0
   },
   "274dfd255179622c": {
     "company": "TikTok",
@@ -1213,21 +1153,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15d?s=A"
   },
-  "2fcd5c57a94e20ed": {
-    "company": "Purestorage",
-    "first_seen": "2026-10-13",
-    "fit_score": 3,
-    "location": "Santa Clara, California",
-    "posted_at": "2026-10-13T11:57:59-04:00",
-    "posting_type": "verified_entry",
-    "role": "Customer Success Solutions Engineer",
-    "role_category": "sales_eng",
-    "source": "Greenhouse:purestorage",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8265582",
-    "verified": true,
-    "verify_reason": "Founding member role with no stated experience minimum.",
-    "years_required": 0
-  },
   "2fe8265bbf11d769": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -1452,17 +1377,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://lthc.wd1.myworkdayjobs.com/en-US/excellusbcbscareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-2"
-  },
-  "391843435b381de7": {
-    "company": "RTX",
-    "first_seen": "2026-10-13",
-    "location": "Tucson, AZ",
-    "posted_at": "2026-10-14T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2025: Fulltime Raytheon Software Engineer I, Test Equipment",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
   },
   "39ce5bc2747b934c": {
     "company": "TikTok",
@@ -2184,17 +2098,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16g?s=A"
   },
-  "620bcaff77abbaf1": {
-    "company": "NVIDIA",
-    "first_seen": "2026-10-13",
-    "location": "Santa Clara, CA",
-    "posted_at": "2026-10-14T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2025: Deep Learning Software Engineer, Inference and Model Optimization",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
-  },
   "628d1690b3f32bc9": {
     "company": "Auto-Owners Insurance",
     "first_seen": "2026-08-29",
@@ -2474,21 +2377,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15T?s=A"
   },
-  "73ee687c4cc61302": {
-    "company": "Twilio",
-    "first_seen": "2026-10-13",
-    "fit_score": 4,
-    "location": "Remote - US",
-    "posted_at": "2026-10-13T15:12:15-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer (L2) Messaging Channels Team ",
-    "role_category": "swe",
-    "source": "Greenhouse:twilio",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8247182",
-    "verified": true,
-    "verify_reason": "L2 engineering role matching new graduate timing for January 2027.",
-    "years_required": 0
-  },
   "7460a2d6b9c3e03e": {
     "company": "Supabase",
     "first_seen": "2026-10-21",
@@ -2547,6 +2435,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16K?s=A"
+  },
+  "7666310fa4c602a4": {
+    "company": "Affirm",
+    "first_seen": "2026-11-13",
+    "fit_score": 4,
+    "location": "Remote US",
+    "posted_at": "2026-11-12T18:15:54-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I, Backend (Continuous Delivery)",
+    "role_category": "swe",
+    "source": "Greenhouse:affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+    "verified": true,
+    "verify_reason": "Entry-level role accepting backend internship experience.",
+    "years_required": 0
   },
   "76b26b7294ed018a": {
     "company": "Cursor",
@@ -2740,21 +2643,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
-  },
-  "807cee4dcfd800c4": {
-    "company": "Elevenlabs",
-    "first_seen": "2026-10-13",
-    "fit_score": 4,
-    "location": "Remote",
-    "posted_at": "2026-10-13T14:11:23.984000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Full-Stack Engineer - ElevenMusic",
-    "role_category": "swe",
-    "source": "Ashby:elevenlabs",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096",
-    "verified": true,
-    "verify_reason": "No experience requirement stated; fast-paced startup consumer app role.",
-    "years_required": 0
   },
   "8199ab7e297ca006": {
     "company": "Booz Allen",
@@ -3174,17 +3062,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://pennmutual.wd1.myworkdayjobs.com/en-US/_penn-careers/job/Remote---United-States/Software-Engineer-Co-op_R-100662"
   },
-  "94b8fe9a53929f1e": {
-    "company": "Ciena",
-    "first_seen": "2026-10-13",
-    "location": "Atlanta, GA",
-    "posted_at": "2026-10-14T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Software Developer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
-  },
   "94fa4602b5065103": {
     "company": "TikTok",
     "first_seen": "2026-08-20",
@@ -3475,22 +3352,6 @@
     "verify_reason": "Explicit entry-level junior role suitable for early career candidates.",
     "years_required": 0
   },
-  "a3a23ae28735ae41": {
-    "clearance_required": true,
-    "company": "Tactical Engineering & Analysis",
-    "first_seen": "2026-10-13",
-    "fit_score": 3,
-    "location": "Dahlgren, Virginia",
-    "posted_at": "2026-10-13T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Entry Level -Software Developer - Web Development",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://bebee.com/us/jobs/entry-level-software-developer-web-development-tactical-engineering-analysis-dahlgren-va--jooble--428570087303689521--b2df0225233bcbe8a5027e9085c9e2f4",
-    "verified": true,
-    "verify_reason": "Requires STEM bachelor's degree, demands security clearance.",
-    "years_required": 0
-  },
   "a472d3edbacad9d4": {
     "company": "Openai",
     "first_seen": "2026-10-21",
@@ -3772,17 +3633,6 @@
     "verify_reason": "Requires 2 years experience and immediate availability before Jan 2027.",
     "years_required": 2
   },
-  "b1dd8f6b7367d2cd": {
-    "company": "Teledyne",
-    "first_seen": "2026-08-14",
-    "location": "Huntsville, AL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "NHRC Software Engineering Internship - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
-  },
   "b2d1b9fef3458a97": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -3983,21 +3833,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/159?s=A"
   },
-  "ba5fdb839603c4cd": {
-    "company": "Palantir",
-    "first_seen": "2026-10-13",
-    "fit_score": 4,
-    "location": "Norfolk, VA",
-    "posted_at": "2026-10-12T21:47:02.809000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Deployment Strategist - US Government",
-    "role_category": "swe",
-    "source": "Lever:palantir",
-    "url": "https://jobs.lever.co/palantir/44d3394e-003e-4609-b864-ff141e233635",
-    "verified": true,
-    "verify_reason": "No experience required, suitable for new graduates.",
-    "years_required": 0
-  },
   "babdf58b0c7f69ae": {
     "company": "Dagster Labs",
     "first_seen": "2026-10-15",
@@ -4008,21 +3843,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": ""
-  },
-  "bb233b1e2e98d351": {
-    "company": "Stripe",
-    "first_seen": "2026-10-13",
-    "fit_score": 3,
-    "location": "New York, San Francisco",
-    "posted_at": "2026-10-12T18:22:57-04:00",
-    "posting_type": "verified_entry",
-    "role": "Technical Solutions Consultant, Crypto",
-    "role_category": "sales_eng",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8275366",
-    "verified": true,
-    "verify_reason": "No experience requirement explicitly stated in partial text.",
-    "years_required": 0
   },
   "bb502fae832e1e08": {
     "company": "Zipline",
@@ -4088,17 +3908,6 @@
     "verify_reason": "No minimum experience stated; hiring timeline precedes candidate's January 2027 availability.",
     "years_required": 0
   },
-  "c09bf50d8cae4063": {
-    "company": "Composio",
-    "first_seen": "2026-08-14",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Fullstack and Product Engineering Internship - Fall 2026 & Winter 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/composio/eea3c0be-8589-4e3d-a684-de29a9eada0d"
-  },
   "c2b04a7260abc933": {
     "company": "talentpluto",
     "first_seen": "2026-08-26",
@@ -4109,17 +3918,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://apply.workable.com/talentpluto/j/290A067DC5/"
-  },
-  "c3398bc72e528129": {
-    "company": "Teledyne",
-    "first_seen": "2026-08-14",
-    "location": "Huntsville, AL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "NHRC Software Engineering Internship - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"
   },
   "c37e8438959693a2": {
     "company": "Asana",
@@ -4522,17 +4320,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11"
   },
-  "db238822ea518358": {
-    "company": "Wolverine Trading",
-    "first_seen": "2026-10-13",
-    "location": "Chicago, Illinois",
-    "posted_at": "2026-10-12T13:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "C++ Software Engineer (Early Career)",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/c%2B%2B-software-engineer-early-career-at-wolverine-trading-4477565982"
-  },
   "db5462f9ce8519ad": {
     "company": "Blackstone",
     "first_seen": "2026-08-25",
@@ -4636,21 +4423,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/abridge/3f07a457-dc14-4238-bf4e-5c33b5c1f883"
-  },
-  "e1b65f21951e26c6": {
-    "company": "Cursor",
-    "first_seen": "2026-10-13",
-    "fit_score": 4,
-    "location": "San Francisco",
-    "posted_at": "2026-10-12T20:53:44.567000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, RL Data",
-    "role_category": "swe",
-    "source": "Ashby:cursor",
-    "url": "https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae",
-    "verified": true,
-    "verify_reason": "No minimum years of experience stated in description.",
-    "years_required": 0
   },
   "e2b1a7b683f778b7": {
     "company": "TikTok",
@@ -4763,21 +4535,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/17c?s=A"
   },
-  "e740b6279eddce25": {
-    "company": "Elevenlabs",
-    "first_seen": "2026-10-13",
-    "fit_score": 4,
-    "location": "United States",
-    "posted_at": "2026-10-13T11:50:44.243000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Full-Stack Engineer - ElevenAPI",
-    "role_category": "swe",
-    "source": "Ashby:elevenlabs",
-    "url": "https://jobs.ashbyhq.com/elevenlabs/108c99e6-ba2b-44a0-b830-7d535e14a152",
-    "verified": true,
-    "verify_reason": "No experience requirement stated; suitable for new graduates.",
-    "years_required": 0
-  },
   "e7bd027fdeae16fd": {
     "company": "NVIDIA",
     "first_seen": "2026-10-15",
@@ -4882,17 +4639,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15j?s=A"
-  },
-  "eb903af2289f04c4": {
-    "company": "Metaphor",
-    "first_seen": "2026-08-14",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer - Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"
   },
   "eb987f298771f990": {
     "company": "Salesforce",
