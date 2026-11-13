@@ -3724,6 +3724,21 @@
     "verify_reason": "Requires 2+ years experience building distributed data systems.",
     "years_required": 2
   },
+  "b3eb1e2eb738044e": {
+    "company": "Ramp",
+    "first_seen": "2026-11-13",
+    "fit_score": 3,
+    "location": "New York, NY (HQ)",
+    "posted_at": "2026-11-13T19:29:12.394000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Technical Consultant, Strategic",
+    "role_category": "consulting",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/e45a8b6a-5029-4ca5-ac6f-5af940843c72",
+    "verified": true,
+    "verify_reason": "No experience required; strategic technical consultant role.",
+    "years_required": 0
+  },
   "b411221a3942a9ac": {
     "company": "Wanderlog (W19)",
     "first_seen": "2026-10-21",
@@ -3850,6 +3865,21 @@
     "source": "JSearch",
     "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-us/"
   },
+  "b88749f9d21133cc": {
+    "company": "Ramp",
+    "first_seen": "2026-11-13",
+    "fit_score": 4,
+    "location": "New York, NY (HQ)",
+    "posted_at": "2026-11-13T21:52:14.463000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Fullstack, Spend Controls",
+    "role_category": "swe",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37",
+    "verified": true,
+    "verify_reason": "No experience required; fullstack software engineer role.",
+    "years_required": 0
+  },
   "b8c6259a20c8c247": {
     "company": "Hewlett Packard Enterprise",
     "first_seen": "2026-08-30",
@@ -3945,6 +3975,21 @@
     "url": "https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004",
     "verified": true,
     "verify_reason": "No minimum experience stated; hiring timeline precedes candidate's January 2027 availability.",
+    "years_required": 0
+  },
+  "bf3928cb571c655d": {
+    "company": "Openai",
+    "first_seen": "2026-11-13",
+    "fit_score": 4,
+    "location": "San Francisco",
+    "posted_at": "2026-11-13T20:57:10.105000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Full Stack Software Engineer, ChatGPT Finances",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9",
+    "verified": true,
+    "verify_reason": "No experience required; full-stack software engineer role.",
     "years_required": 0
   },
   "c2b04a7260abc933": {

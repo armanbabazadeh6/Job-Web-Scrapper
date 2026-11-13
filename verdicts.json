@@ -3413,6 +3413,17 @@
     "verified": true,
     "years": 0
   },
+  "52f40f6f34376b1f": {
+    "cached_at": "2026-11-13",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "53081f76e018b1eb": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -7479,6 +7490,17 @@
     "verified": true,
     "years": 2
   },
+  "b3eb1e2eb738044e": {
+    "cached_at": "2026-11-13",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience required; strategic technical consultant role.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "b3f3b6702801d55e": {
     "cached_at": "2026-09-16",
     "clearance_required": false,
@@ -7715,6 +7737,17 @@
     "verified": true,
     "years": 0
   },
+  "b88749f9d21133cc": {
+    "cached_at": "2026-11-13",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience required; fullstack software engineer role.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "b98ae6892d71eb47": {
     "cached_at": "2026-10-01",
     "clearance_required": false,
@@ -7939,6 +7972,17 @@
     "entry_level": false,
     "reason": "Explicitly targets a Senior Solutions Engineer for complex enterprise customers.",
     "seniority": "senior",
+    "verified": true,
+    "years": 0
+  },
+  "bf3928cb571c655d": {
+    "cached_at": "2026-11-13",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience required; full-stack software engineer role.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },
