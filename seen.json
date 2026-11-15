@@ -3745,6 +3745,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
+  "c5b4bae1929060af": {
+    "clearance_required": true,
+    "company": "Futurepillar",
+    "first_seen": "2026-11-15",
+    "fit_score": 3,
+    "location": "Hazelwood, Missouri",
+    "posted_at": "2026-11-14T20:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineering - Entry Level",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineering-entry-level-at-futurepillar-4489896741",
+    "verified": true,
+    "verify_reason": "Entry level software role requiring 0+ years experience and Secret clearance.",
+    "years_required": 0
+  },
   "c6c0d946309b1524": {
     "company": "Microsoft",
     "first_seen": "2026-08-22",

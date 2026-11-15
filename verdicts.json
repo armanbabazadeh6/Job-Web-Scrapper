@@ -8274,6 +8274,17 @@
     "verified": false,
     "years": 4
   },
+  "c5b4bae1929060af": {
+    "cached_at": "2026-11-15",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Entry level software role requiring 0+ years experience and Secret clearance.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "c5ee41d6b79f5e73": {
     "cached_at": "2026-11-02",
     "clearance_required": false,
