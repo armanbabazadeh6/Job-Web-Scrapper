@@ -1357,6 +1357,17 @@
     "verified": true,
     "years": 2
   },
+  "23789f37df616b92": {
+    "cached_at": "2026-11-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years experience; candidate available January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
+  },
   "23abec9dd0a66ff1": {
     "cached_at": "2026-09-14",
     "clearance_required": false,
@@ -5627,6 +5638,17 @@
     "reason": "Frontend engineering role with no stated experience requirement.",
     "salary": null,
     "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "89d5112f902183e3": {
+    "cached_at": "2026-11-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires track record and mentoring experience; available January 2027.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },

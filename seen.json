@@ -761,6 +761,21 @@
     "verify_reason": "Requires at least 2+ years of experience in software engineering.",
     "years_required": 2
   },
+  "23789f37df616b92": {
+    "company": "Robinhood",
+    "first_seen": "2026-11-16",
+    "fit_score": 2,
+    "location": "Menlo Park, CA; New York, NY",
+    "posted_at": "2026-11-16T13:35:06-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Backend - Government Products",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8385931?t=gh_src=&gh_jid=8385931",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience; candidate available January 2027.",
+    "years_required": 2
+  },
   "23f188f7078dbcee": {
     "company": "Brunswick",
     "first_seen": "2026-08-28",
@@ -2726,6 +2741,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/14Y?s=A"
+  },
+  "89d5112f902183e3": {
+    "company": "Replit",
+    "first_seen": "2026-11-16",
+    "fit_score": 2,
+    "location": "Foster City, CA",
+    "posted_at": "2026-11-16T16:42:28.149000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Enterprise",
+    "role_category": "swe",
+    "source": "Ashby:replit",
+    "url": "https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7",
+    "verified": true,
+    "verify_reason": "Requires track record and mentoring experience; available January 2027.",
+    "years_required": 0
   },
   "89fa122626e5384e": {
     "company": "Bask",
