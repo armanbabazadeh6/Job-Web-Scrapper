@@ -170,17 +170,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15Z?s=A"
   },
-  "0af49df16c67eb2f": {
-    "company": "Replit",
-    "first_seen": "2026-08-17",
-    "location": "Foster City, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"
-  },
   "0bfaa265cd98a906": {
     "company": "Thoughtworks",
     "first_seen": "2026-10-29",
@@ -2683,23 +2672,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16x?s=A"
   },
-  "88bea3012950d3ed": {
-    "clearance_required": true,
-    "company": "BAE Systems",
-    "first_seen": "2026-10-16",
-    "fit_score": 4,
-    "location": "Wayne, New Jersey",
-    "posted_at": "2026-10-16T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Entry Level Software Engineer",
-    "role_category": "swe",
-    "salary": "$70828 - $120408",
-    "source": "JSearch",
-    "url": "https://jobs.baesystems.com/global/en/job/131372BR/Entry-Level-Software-Engineer",
-    "verified": true,
-    "verify_reason": "Entry-level software role requires a bachelor degree and clearance eligibility.",
-    "years_required": 0
-  },
   "88d4f57250f55a72": {
     "company": "Motorola Solutions",
     "first_seen": "2026-08-30",
@@ -3069,6 +3041,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": ""
+  },
+  "9b8dd2a4567eb701": {
+    "company": "Epic",
+    "first_seen": "2026-11-16",
+    "fit_score": 5,
+    "location": "Smyrna, Delaware",
+    "posted_at": "2026-11-15T18:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-at-epic-3986111810",
+    "verified": true,
+    "verify_reason": "Entry-level software role requiring no experience, matches post-graduation availability.",
+    "years_required": 0
   },
   "9b94a9c24c4acda8": {
     "company": "Walt Disney",

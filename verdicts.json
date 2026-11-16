@@ -6480,6 +6480,17 @@
     "verified": false,
     "years": 4
   },
+  "9b8dd2a4567eb701": {
+    "cached_at": "2026-11-16",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Entry-level software role requiring no experience, matches post-graduation availability.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "9bcf07caf505b4b1": {
     "cached_at": "2026-08-31",
     "entry_level": false,
