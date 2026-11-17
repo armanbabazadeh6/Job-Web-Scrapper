@@ -3516,6 +3516,17 @@
     "verify_reason": "Requires degree and under two years experience; fits graduation timeline.",
     "years_required": 0
   },
+  "b396fa4badab05b6": {
+    "company": "Jobgether",
+    "first_seen": "2026-11-17",
+    "location": "Remote",
+    "posted_at": "2026-11-17T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Engineer, Open Source and Linux",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1B9?s=A"
+  },
   "b3d66f8723946d35": {
     "company": "Coinbase",
     "first_seen": "2026-10-20",
