@@ -857,6 +857,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8"
   },
+  "25929b74ac563640": {
+    "company": "Epic Systems Corporation (Wisconsin)",
+    "first_seen": "2026-11-17",
+    "fit_score": 4,
+    "location": "Parkersburg, West Virginia",
+    "posted_at": "2026-11-17T05:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Junior Technical Solutions Engineer Relocation to Madison",
+    "role_category": "sales_eng",
+    "source": "JSearch",
+    "url": "https://us.trabajo.org/job-28643-79389554ef7600fc89d29ceb8cefd319",
+    "verified": true,
+    "verify_reason": "Targeting new graduates with a bachelor's degree willing to relocate.",
+    "years_required": 0
+  },
   "263535d3de188f6a": {
     "company": "NVIDIA",
     "first_seen": "2026-10-31",
@@ -3879,6 +3894,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120"
+  },
+  "ca50e39d0549856c": {
+    "company": "Peraton",
+    "first_seen": "2026-11-17",
+    "location": "Blacksburg, VA",
+    "posted_at": "2026-11-17T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Entry-Level Software Engineer - Ignite Innovator Program",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1Bi?s=A"
   },
   "cbb34327434213c2": {
     "company": "Cursor",

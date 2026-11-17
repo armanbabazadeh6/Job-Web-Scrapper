@@ -533,6 +533,17 @@
     "verified": false,
     "years": null
   },
+  "0ea50f1c2cd15f08": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Explicitly requires 6+ years of product management experience.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 6
+  },
   "0ed3321f71e55921": {
     "cached_at": "2026-10-13",
     "clearance_required": false,
@@ -1460,6 +1471,17 @@
     "fit_score": 2,
     "reason": "Requires prior field engineering or enterprise software experience.",
     "salary": "$164,500 - $224,000",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "25929b74ac563640": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Targeting new graduates with a bachelor's degree willing to relocate.",
+    "salary": null,
     "seniority": "junior",
     "verified": true,
     "years": 0
@@ -2414,6 +2436,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "3a73407d00e4a8dc": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 9
   },
   "3a9becafa95c8a00": {
     "cached_at": "2026-09-18",
@@ -4498,6 +4531,17 @@
     "verified": false,
     "years": 4
   },
+  "6b2dc7234e62d394": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Requires a track record of building and shipping products.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "6b93e79927ab4f82": {
     "cached_at": "2026-10-29",
     "clearance_required": false,
@@ -5863,6 +5907,17 @@
     "verified": true,
     "years": 3
   },
+  "8d526b2427f461a4": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Requires experience migrating enterprise pricing and stream-processing services.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "8d63ec911410c11b": {
     "cached_at": "2026-11-06",
     "clearance_required": false,
@@ -6683,6 +6738,17 @@
     "verified": false,
     "years": null
   },
+  "9e3a7af1ceb9f27a": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 8
+  },
   "9e90246d5af4a440": {
     "cached_at": "2026-10-29",
     "clearance_required": false,
@@ -6734,6 +6800,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "a0618185956ca267": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "a16f10d22b6cd658": {
     "cached_at": "2026-09-26",
@@ -7143,6 +7220,17 @@
     "reason": "Requires production AI systems experience, unsuitable for new graduates.",
     "salary": "$255k+",
     "seniority": "senior",
+    "verified": true,
+    "years": 3
+  },
+  "a9299b616e8ffd86": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires deep AI practitioner experience and building for real teams.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 3
   },
@@ -7797,6 +7885,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "b6d00d11a31f5766": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Requires experience on enterprise platforms and backend systems.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "b6ef97d5dd182fc6": {
     "cached_at": "2026-11-12",
@@ -8559,6 +8658,17 @@
     "seniority": null,
     "verified": false,
     "years": 4
+  },
+  "c8abcc070b1d50af": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 3,
+    "reason": "Requires builder with strong product taste and backend ownership.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "c8d7a9455de8b9d2": {
     "cached_at": "2026-09-15",
