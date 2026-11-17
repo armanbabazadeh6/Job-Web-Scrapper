@@ -10,6 +10,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.zipline.com/open-roles?gh_jid=7974897003"
   },
+  "014bc08ed6af5c64": {
+    "company": "Apple",
+    "first_seen": "2026-11-17",
+    "location": "Sunnyvale, CA",
+    "posted_at": "2026-11-18T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, IS&T Early Career",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
   "02f9e997e55116f2": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -73,6 +84,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003"
+  },
+  "071c05a3b021315e": {
+    "company": "Circle",
+    "first_seen": "2026-11-17",
+    "location": "United States of America",
+    "posted_at": "2026-11-18T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: Software Engineer, Backend",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
   },
   "075e675c1f0c74db": {
     "company": "Snowflake",
@@ -305,22 +327,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038"
   },
-  "11ac8adfb9b7ba5f": {
-    "company": "Rapiscan Systems",
-    "first_seen": "2026-10-17",
-    "fit_score": 4,
-    "location": "Billerica, Massachusetts",
-    "posted_at": "2026-10-16T14:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer 1",
-    "role_category": "swe",
-    "salary": "$38.00-$43.00 per hour",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-1-at-rapiscan-systems-4477704197",
-    "verified": true,
-    "verify_reason": "Requires 1 year of experience; entry-level software role.",
-    "years_required": 1
-  },
   "11cc040bcf99fd9e": {
     "company": "The Hartford",
     "first_seen": "2026-08-25",
@@ -508,6 +514,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c"
+  },
+  "198e4762de8b44b1": {
+    "company": "Twilio",
+    "first_seen": "2026-11-17",
+    "fit_score": 4,
+    "location": "Remote - US",
+    "posted_at": "2026-11-16T16:10:41-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer (L2)",
+    "role_category": "swe",
+    "source": "Greenhouse:twilio",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8131089",
+    "verified": true,
+    "verify_reason": "No experience requirement stated in the job description.",
+    "years_required": 0
   },
   "1a06111a3fae81c5": {
     "company": "NVIDIA",
@@ -2061,6 +2082,17 @@
     "verify_reason": "Accepts CS degree; start date Jan 2027 creates timing mismatch.",
     "years_required": 0
   },
+  "6465081c30c280a6": {
+    "company": "NVIDIA",
+    "first_seen": "2026-11-17",
+    "location": "Santa Clara, CA",
+    "posted_at": "2026-11-18T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2026: System Software Engineer, Robotics Simulation",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
   "6476e35e1fff940b": {
     "company": "Wise",
     "first_seen": "2026-10-30",
@@ -2420,17 +2452,6 @@
     "verify_reason": "Accepts CS degree; start date Jan 2027 creates timing mismatch.",
     "years_required": 0
   },
-  "7a4ae355e949f514": {
-    "company": "Datadog",
-    "first_seen": "2026-08-18",
-    "location": "Boston, MA +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Winter",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "7ab631f38478a997": {
     "company": "General Matter",
     "first_seen": "2026-08-20",
@@ -2716,6 +2737,17 @@
     "posted_at": "2026-11-01T00:00:00+00:00",
     "posting_type": "new_grad",
     "role": "New Grad 2026: Software Engineer, AI Infrastructure",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": ""
+  },
+  "890ded2b6815d1ec": {
+    "company": "Wanderlog (W19)",
+    "first_seen": "2026-11-17",
+    "location": "Remote",
+    "posted_at": "2026-11-18T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Full-Stack Software Engineer",
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": ""
@@ -3284,6 +3316,21 @@
     "verify_reason": "Requires developer productivity experience; timing gap for Jan 2027 grad.",
     "years_required": 0
   },
+  "a93827da03598647": {
+    "company": "Stripe",
+    "first_seen": "2026-11-17",
+    "fit_score": 3,
+    "location": "US-Remote",
+    "posted_at": "2026-11-16T14:44:04-05:00",
+    "posting_type": "verified_entry",
+    "role": "Product Manager, Finance Operations",
+    "role_category": "product",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8393939",
+    "verified": true,
+    "verify_reason": "No experience requirement stated; product management strategy scope.",
+    "years_required": 0
+  },
   "aae31f48a7961714": {
     "company": "Elevenlabs",
     "first_seen": "2026-11-09",
@@ -3378,21 +3425,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16w?s=A"
-  },
-  "afcec709ea9d209f": {
-    "company": "Lyft",
-    "first_seen": "2026-10-17",
-    "fit_score": 4,
-    "location": "San Francisco, CA",
-    "posted_at": "2026-10-16T22:47:42-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer",
-    "role_category": "swe",
-    "source": "Greenhouse:lyft",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002",
-    "verified": true,
-    "verify_reason": "Requires 1 year of experience; fits entry-level full-time profile.",
-    "years_required": 1
   },
   "b10e7983a874c9b7": {
     "company": "Charles Schwab",
@@ -3998,21 +4030,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1uE?s=A"
   },
-  "d4fd5c3772752432": {
-    "company": "Lyft",
-    "first_seen": "2026-10-17",
-    "fit_score": 3,
-    "location": "Seattle, WA",
-    "posted_at": "2026-10-16T22:05:19-04:00",
-    "posting_type": "verified_entry",
-    "role": "Business Systems Engineer",
-    "role_category": "platform",
-    "source": "Greenhouse:lyft",
-    "url": "https://app.careerpuck.com/job-board/lyft/job/8896654002?gh_jid=8896654002",
-    "verified": true,
-    "verify_reason": "Requires Master's degree and 2 years of specialized Oracle experience.",
-    "years_required": 2
-  },
   "d5414455811c5a06": {
     "company": "Wolverine Trading",
     "first_seen": "2026-11-09",
@@ -4524,6 +4541,21 @@
     "role_category": "platform",
     "source": "JSearch",
     "url": "https://search-careers.gm.com/en/jobs/jr-202619939/software-systems-engineer-data-labeling-engineering-early-career/"
+  },
+  "ef0cdfd1ad5348ff": {
+    "company": "Digitize",
+    "first_seen": "2026-11-17",
+    "fit_score": 5,
+    "location": "New Jersey",
+    "posted_at": "2026-11-16T15:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Embedded Software Engineer (C) - Entry Level",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.simplyhired.com/job/QXU4W6a1o0GqyF_6G7rvvg8e7Vu4yVCuU7kKdFH7RWZmrWm3i-2Xfw",
+    "verified": true,
+    "verify_reason": "Explicitly welcomes recent grads for entry-level embedded role.",
+    "years_required": 0
   },
   "efc2882d9b6e2678": {
     "company": "StubHub",

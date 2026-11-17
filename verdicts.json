@@ -958,6 +958,17 @@
     "verified": false,
     "years": null
   },
+  "194d5ff7ea8d2b63": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "197a8bbb451855f3": {
     "cached_at": "2026-09-25",
     "clearance_required": false,
@@ -990,6 +1001,17 @@
     "seniority": null,
     "verified": false,
     "years": 4
+  },
+  "198e4762de8b44b1": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "No experience requirement stated in the job description.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "19c20330fb18b316": {
     "cached_at": "2026-09-03",
@@ -2297,6 +2319,17 @@
     "verified": true,
     "years": 0
   },
+  "3786e14670de2c79": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "38034139dbf6a66c": {
     "cached_at": "2026-09-21",
     "clearance_required": false,
@@ -2776,6 +2809,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "422c09ecb347dab8": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
   },
   "424a7e076da8fff8": {
     "cached_at": "2026-10-06",
@@ -4528,6 +4572,17 @@
     "verified": false,
     "years": 5
   },
+  "6d0812d97b538d9f": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "6d4c388d8f379b6e": {
     "cached_at": "2026-08-31",
     "clearance_required": false,
@@ -5029,6 +5084,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "7b5b223ae6b14764": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 7
   },
   "7b7cfb27f910d899": {
     "cached_at": "2026-08-31",
@@ -6757,6 +6823,17 @@
     "verified": false,
     "years": null
   },
+  "a2bff6c4785b2331": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 8
+  },
   "a34afa6372af25ab": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -7068,6 +7145,17 @@
     "seniority": "senior",
     "verified": true,
     "years": 3
+  },
+  "a93827da03598647": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience requirement stated; product management strategy scope.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "a9a11e9b6ad1d2c2": {
     "cached_at": "2026-09-16",
@@ -7959,6 +8047,17 @@
     "verified": false,
     "years": null
   },
+  "bc8073b21adedd67": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "bcfa24924ad5c866": {
     "cached_at": "2026-10-14",
     "clearance_required": false,
@@ -8152,6 +8251,17 @@
     "cached_at": "2026-08-31",
     "entry_level": false,
     "reason": "no description available",
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "c184697981c43010": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
     "seniority": null,
     "verified": false,
     "years": null
@@ -9884,6 +9994,17 @@
     "verified": true,
     "years": 0
   },
+  "ef0cdfd1ad5348ff": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "Explicitly welcomes recent grads for entry-level embedded role.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "ef270fd181d0a1a1": {
     "cached_at": "2026-10-22",
     "clearance_required": false,
@@ -10345,6 +10466,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "fa1a2841cb05a37c": {
+    "cached_at": "2026-11-17",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "fa4e3897d7aff907": {
     "cached_at": "2026-08-31",
