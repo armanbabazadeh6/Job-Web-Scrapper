@@ -1013,6 +1013,17 @@
     "verified": false,
     "years": 4
   },
+  "198a91027bc9898d": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2+ years experience and immediate availability before Jan 2027.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
+  },
   "198e4762de8b44b1": {
     "cached_at": "2026-11-17",
     "clearance_required": false,
@@ -2744,6 +2755,17 @@
     "verified": true,
     "years": 0
   },
+  "40d12a505ee1f388": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Mandatory requirement requires Master's degree in CS or related field.",
+    "salary": "$18.00 - $25.00 per hour",
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "40ddc9fc0239badb": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -3985,6 +4007,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 1
+  },
+  "5ea93e2a2bc99eb8": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "5edd83e2f6c4043a": {
     "cached_at": "2026-10-02",

@@ -504,6 +504,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c"
   },
+  "198a91027bc9898d": {
+    "company": "JPMC Candidate Experience page",
+    "first_seen": "2026-11-18",
+    "fit_score": 2,
+    "location": "Jersey City, New Jersey",
+    "posted_at": "2026-11-17T13:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "AWS Software Engineer II - Full Stack/Java/React",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210790526",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience and immediate availability before Jan 2027.",
+    "years_required": 2
+  },
   "198e4762de8b44b1": {
     "company": "Twilio",
     "first_seen": "2026-11-17",
@@ -1497,6 +1512,22 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16E?s=A"
+  },
+  "40d12a505ee1f388": {
+    "company": "Cogniteh Technologies",
+    "first_seen": "2026-11-18",
+    "fit_score": 2,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-11-17T20:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Junior Software Developer \u2013 Entry Level (OPT/STEM OPT)",
+    "role_category": "swe",
+    "salary": "$18.00 - $25.00 per hour",
+    "source": "JSearch",
+    "url": "https://www.indeed.com/viewjob?jk=73621c0f2d19bbc2",
+    "verified": true,
+    "verify_reason": "Mandatory requirement requires Master's degree in CS or related field.",
+    "years_required": 0
   },
   "4110d76ac749442d": {
     "company": "SynergisticIT",
