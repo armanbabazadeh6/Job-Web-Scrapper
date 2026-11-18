@@ -3912,6 +3912,17 @@
     "verified": true,
     "years": 2
   },
+  "5c8c5a849c309c6d": {
+    "cached_at": "2026-11-18",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires active Secret clearance and immediate start before January 2027.",
+    "salary": "$75K to $90K",
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "5cbcf4cdac6c51ee": {
     "cached_at": "2026-11-10",
     "clearance_required": false,
@@ -4018,6 +4029,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "609f5681d62040be": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires 2+ years experience and candidate is available January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "6119471dd5e05a1f": {
     "cached_at": "2026-09-30",
@@ -9609,6 +9631,17 @@
     "verified": true,
     "years": 0
   },
+  "e0cd071b18d58580": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Targeted explicitly at Senior and Staff software engineers.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
+  },
   "e101a9aa294180c8": {
     "cached_at": "2026-09-01",
     "clearance_required": false,
@@ -9782,6 +9815,17 @@
     "verified": false,
     "years": null
   },
+  "e51b787456e84fbd": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Requires residing in Mexico and start date before January 2027.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "e5615371d8e53524": {
     "cached_at": "2026-10-22",
     "clearance_required": false,
@@ -9792,6 +9836,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "e5ec30e6eb606644": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 7+ years experience, exceeding entry level requirements.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 7
   },
   "e67846c77b661292": {
     "cached_at": "2026-10-26",

@@ -375,17 +375,6 @@
     "verify_reason": "Entry level role, but mismatched start timing for Jan 2027 availability.",
     "years_required": 0
   },
-  "132af132d5b67c1c": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-19",
-    "location": "Washington, DC +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "AI Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "13978b4f83c924cd": {
     "company": "Brunswick",
     "first_seen": "2026-08-30",
@@ -529,17 +518,6 @@
     "verified": true,
     "verify_reason": "No experience requirement stated in the job description.",
     "years_required": 0
-  },
-  "1a06111a3fae81c5": {
-    "company": "NVIDIA",
-    "first_seen": "2026-08-19",
-    "location": "Santa Clara, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "NVIDIA 2027 Internships: Systems Software Engineering",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "1ab5c59927774d19": {
     "company": "Ramp",
@@ -953,17 +931,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.zipline.com/open-roles?gh_jid=7929236003"
-  },
-  "2774e952d803798b": {
-    "company": "Blackstone",
-    "first_seen": "2026-08-19",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Blackstone Multi-Asset Investing (BXMA)- SRT Analyst",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Blackstone-Multi-Asset--BXMA---SRT-Analyst_45024"
   },
   "283c12e1395a7770": {
     "company": "TikTok",
@@ -1988,6 +1955,23 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/VK?s=A"
   },
+  "5c8c5a849c309c6d": {
+    "clearance_required": true,
+    "company": "Amentum",
+    "first_seen": "2026-11-18",
+    "fit_score": 1,
+    "location": "Dahlgren, Virginia",
+    "posted_at": "2026-11-17T03:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Engineer - SECRET Jobs",
+    "role_category": "swe",
+    "salary": "$75K to $90K",
+    "source": "JSearch",
+    "url": "https://www.clearancejobs.com/jobs/9319183/entry-level-software-engineer-secret",
+    "verified": true,
+    "verify_reason": "Requires active Secret clearance and immediate start before January 2027.",
+    "years_required": 0
+  },
   "5cbcf4cdac6c51ee": {
     "company": "Cursor",
     "first_seen": "2026-11-10",
@@ -2058,6 +2042,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"
+  },
+  "609f5681d62040be": {
+    "company": "Airbnb",
+    "first_seen": "2026-11-18",
+    "fit_score": 1,
+    "location": "United States",
+    "posted_at": "2026-11-17T18:01:50-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, DevAI ",
+    "role_category": "swe",
+    "source": "Greenhouse:airbnb",
+    "url": "https://careers.airbnb.com/positions/8397762?gh_jid=8397762",
+    "verified": true,
+    "verify_reason": "Requires 2+ years experience and candidate is available January 2027.",
+    "years_required": 2
   },
   "6199799656c0a51e": {
     "company": "TikTok",
@@ -2279,17 +2278,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15D?s=A"
-  },
-  "720f9bf59e79edd5": {
-    "company": "Zipline",
-    "first_seen": "2026-08-19",
-    "location": "South San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Enterprise Systems Software Engineer Intern - Spring 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7893926003"
   },
   "7224e0638308af2d": {
     "company": "Cursor",
@@ -2899,17 +2887,6 @@
     "verified": true,
     "verify_reason": "Accepts early-career experience, but start timing mismatches availability.",
     "years_required": 1
-  },
-  "938a98aaf05a2398": {
-    "company": "NVIDIA",
-    "first_seen": "2026-08-19",
-    "location": "Santa Clara, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "NVIDIA 2027 Internships: Software Engineering",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "93fe046a1ed12191": {
     "company": "Kognitos",
@@ -4336,6 +4313,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1uB?s=A"
   },
+  "e51b787456e84fbd": {
+    "company": "Samsara",
+    "first_seen": "2026-11-18",
+    "fit_score": 1,
+    "location": "Remote - Mexico",
+    "posted_at": "2026-11-17T14:59:05-05:00",
+    "posting_type": "verified_entry",
+    "role": "Associate Sales Engineer, SE Desk- Mexico",
+    "role_category": "sales_eng",
+    "source": "Greenhouse:samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8353148?gh_jid=8353148",
+    "verified": true,
+    "verify_reason": "Requires residing in Mexico and start date before January 2027.",
+    "years_required": 0
+  },
   "e5615371d8e53524": {
     "company": "Elevenlabs",
     "first_seen": "2026-10-22",
@@ -4714,17 +4706,6 @@
     "verify_reason": "Demands deep experience in enterprise platforms and infrastructure as code.",
     "years_required": 0
   },
-  "f919cfffe2f41eaf": {
-    "company": "Zipline",
-    "first_seen": "2026-08-19",
-    "location": "South San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Enterprise Systems Software Engineer Intern - Spring 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7886501003"
-  },
   "f96de7d37096a70e": {
     "company": "Raytheon",
     "first_seen": "2026-08-29",
@@ -4838,17 +4819,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15M?s=A"
-  },
-  "ff689588cbc089c4": {
-    "company": "Garda Capital Partners",
-    "first_seen": "2026-08-19",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004"
   },
   "ff9c157fb935dcdb": {
     "company": "Verkada",
