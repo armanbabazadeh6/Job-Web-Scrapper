@@ -3085,6 +3085,21 @@
     "verify_reason": "Immediate role creates timing mismatch with January 2027 availability.",
     "years_required": 0
   },
+  "9a033858bbd4261f": {
+    "company": "Twilio",
+    "first_seen": "2026-11-18",
+    "fit_score": 4,
+    "location": "Remote - US",
+    "posted_at": "2026-11-18T09:42:48-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer - Platform Engineering",
+    "role_category": "swe",
+    "source": "Greenhouse:twilio",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8385593",
+    "verified": true,
+    "verify_reason": "Explicitly an entry-level platform engineer role with structured mentorship.",
+    "years_required": 0
+  },
   "9ad3d27a1a60b988": {
     "company": "Openai",
     "first_seen": "2026-11-12",
@@ -3338,6 +3353,17 @@
     "verified": true,
     "verify_reason": "Requires developer productivity experience; timing gap for Jan 2027 grad.",
     "years_required": 0
+  },
+  "a7ea298cf4f49744": {
+    "company": "Cummins",
+    "first_seen": "2026-11-18",
+    "location": "Galesburg, MI",
+    "posted_at": "2026-11-18T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Electronic Systems Engineer - Software",
+    "role_category": "platform",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1Ce?s=A"
   },
   "a93827da03598647": {
     "company": "Stripe",
@@ -3786,6 +3812,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": ""
+  },
+  "bd534df26c11123d": {
+    "company": "Stripe",
+    "first_seen": "2026-11-18",
+    "fit_score": 3,
+    "location": "Remote - US",
+    "posted_at": "2026-11-18T09:31:48-05:00",
+    "posting_type": "verified_entry",
+    "role": "Technical Solutions Engineer",
+    "role_category": "sales_eng",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=7917880",
+    "verified": true,
+    "verify_reason": "Early-career supportive technical role providing onboarding and mentorship.",
+    "years_required": 0
   },
   "bdb0d946c3f48fb1": {
     "company": "Openai",

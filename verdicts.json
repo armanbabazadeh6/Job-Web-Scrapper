@@ -4246,6 +4246,17 @@
     "verified": true,
     "years": 3
   },
+  "633775fa2f07b891": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "63390e244147c4ab": {
     "cached_at": "2026-11-04",
     "clearance_required": false,
@@ -5326,6 +5337,17 @@
     "cached_at": "2026-08-31",
     "entry_level": false,
     "reason": "high experience requirement",
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
+  "805cdf97009231d9": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
     "seniority": null,
     "verified": false,
     "years": 5
@@ -6612,6 +6634,17 @@
     "verified": true,
     "years": 3
   },
+  "9a033858bbd4261f": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Explicitly an entry-level platform engineer role with structured mentorship.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "9ad3d27a1a60b988": {
     "cached_at": "2026-11-12",
     "clearance_required": false,
@@ -6633,6 +6666,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "9ae5083b348ca799": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Seeks product management experience scaling operational systems.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "9ae58a89d886e69a": {
     "cached_at": "2026-11-05",
@@ -8067,6 +8111,17 @@
     "verified": true,
     "years": 0
   },
+  "b959b0ec63fabc30": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Role explicitly asks for experienced software engineers.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 4
+  },
   "b98ae6892d71eb47": {
     "cached_at": "2026-10-01",
     "clearance_required": false,
@@ -8244,6 +8299,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "bd534df26c11123d": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Early-career supportive technical role providing onboarding and mentorship.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "bd68d353b3098fbd": {
     "cached_at": "2026-10-05",
@@ -9859,6 +9925,17 @@
     "verified": true,
     "years": 0
   },
+  "e56079ad998669f5": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "e5615371d8e53524": {
     "cached_at": "2026-10-22",
     "clearance_required": false,
@@ -10364,6 +10441,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "f1d0d38d92792db6": {
+    "cached_at": "2026-11-18",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires seasoned engineer experience and does not specify entry-level.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "f1f8c0812b73efc6": {
     "cached_at": "2026-08-31",
