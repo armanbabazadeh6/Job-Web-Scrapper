@@ -497,6 +497,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/176?s=A"
   },
+  "17d9a71477a5be2c": {
+    "company": "Ramp",
+    "first_seen": "2026-11-19",
+    "fit_score": 2,
+    "location": "Remote (US)",
+    "posted_at": "2026-11-19T19:09:55.904000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Solutions Consultant, Post Sales, Strategic",
+    "role_category": "sales_eng",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/be7b0a9e-44b0-4c0f-b947-563c83f5ca10",
+    "verified": true,
+    "verify_reason": "Requires immediate availability; candidate available starting January 2027.",
+    "years_required": 0
+  },
   "18bd4d913ab2b67e": {
     "company": "Johnson & Johnson",
     "first_seen": "2026-08-29",
@@ -2968,6 +2983,21 @@
     "source": "JSearch",
     "url": "https://www.learn4good.com/jobs/hollywood/florida/software_development/5584332758/e/"
   },
+  "9788bf475e121a0f": {
+    "company": "Ramp",
+    "first_seen": "2026-11-19",
+    "fit_score": 2,
+    "location": "New York, NY (HQ)",
+    "posted_at": "2026-11-19T18:02:36.287000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Production Engineering, FinOps",
+    "role_category": "swe",
+    "source": "Ashby:ramp",
+    "url": "https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49",
+    "verified": true,
+    "verify_reason": "Requires immediate availability; candidate available starting January 2027.",
+    "years_required": 0
+  },
   "97e839e94cdee1d9": {
     "company": "NVIDIA",
     "first_seen": "2026-10-31",
@@ -4758,6 +4788,21 @@
     "verify_reason": "Timing mismatch for Jan 2027 availability and manages strategic accounts.",
     "years_required": 0
   },
+  "fa549eaa7a7cc6f7": {
+    "company": "Supabase",
+    "first_seen": "2026-11-19",
+    "fit_score": 2,
+    "location": "Remote, Global",
+    "posted_at": "2026-11-19T21:07:22.705000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Multigres Deployment Engineer",
+    "role_category": "swe",
+    "source": "Ashby:supabase",
+    "url": "https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b",
+    "verified": true,
+    "verify_reason": "Requires immediate availability; candidate available starting January 2027.",
+    "years_required": 0
+  },
   "fa724e2d5eb88bba": {
     "company": "Zingage",
     "first_seen": "2026-11-10",
@@ -4801,6 +4846,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
+  },
+  "fe818cdad3d5f624": {
+    "company": "Vercel",
+    "first_seen": "2026-11-19",
+    "fit_score": 2,
+    "location": "Hybrid - San Francisco",
+    "posted_at": "2026-11-19T15:59:20-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Runtimes ",
+    "role_category": "swe",
+    "source": "Greenhouse:vercel",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6150691004",
+    "verified": true,
+    "verify_reason": "Requires immediate availability; candidate available starting January 2027.",
+    "years_required": 0
   },
   "ff24dc74b834b295": {
     "company": "TikTok",
