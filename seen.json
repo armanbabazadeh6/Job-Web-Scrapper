@@ -1,4 +1,15 @@
 {
+  "005cdc89b5b6ff61": {
+    "company": "Hunter Bond",
+    "first_seen": "2026-11-19",
+    "location": "Tampa, Florida",
+    "posted_at": "2026-11-18T17:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Graduate Software Engineer (Java) - Up to $110,000",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/graduate-software-engineer-java-up-to-%24110-000-at-hunter-bond-4491312841"
+  },
   "008463bffc0cd3f7": {
     "company": "Zipline",
     "first_seen": "2026-08-26",
@@ -4226,6 +4237,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://lthc.wd1.myworkdayjobs.com/en-US/univerahealthcarecareers/job/Rochester/College-Intern---Software-Engineering---Fall-2026--Multiple-Openings-_JR103878-1"
+  },
+  "e41ae58c86e5af73": {
+    "company": "Samsara",
+    "first_seen": "2026-11-19",
+    "fit_score": 3,
+    "location": "Remote - CA; Remote - Chicago; Remote - Seattle; Remote - TX",
+    "posted_at": "2026-11-18T20:46:57-05:00",
+    "posting_type": "verified_entry",
+    "role": "Implementation Consultant",
+    "role_category": "consulting",
+    "source": "Greenhouse:samsara",
+    "url": "https://www.samsara.com/company/careers/roles/8367418?gh_jid=8367418",
+    "verified": true,
+    "verify_reason": "No experience requirement stated; remote implementation consultant role.",
+    "years_required": 0
   },
   "e4a530964aa379f0": {
     "company": "Manhattan Associates",

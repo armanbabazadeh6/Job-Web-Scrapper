@@ -566,6 +566,17 @@
     "verified": false,
     "years": 5
   },
+  "0f2983edb56a48bf": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "0f70435557ae5b94": {
     "cached_at": "2026-10-15",
     "clearance_required": false,
@@ -9909,6 +9920,17 @@
     "entry_level": true,
     "fit_score": 1,
     "reason": "Great entry-level role, but start timing mismatches January 2027 availability.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "e41ae58c86e5af73": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience requirement stated; remote implementation consultant role.",
     "salary": null,
     "seniority": "junior",
     "verified": true,
