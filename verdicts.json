@@ -761,6 +761,17 @@
     "verified": true,
     "years": 0
   },
+  "1286b0759bcd6015": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No explicit years of experience required in brief description.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "13674b8319d67070": {
     "cached_at": "2026-11-19",
     "clearance_required": false,
@@ -4137,6 +4148,17 @@
     "verified": false,
     "years": null
   },
+  "618fbd8d4e695f3c": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No explicit years of experience required in description.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "61c31174e81361c5": {
     "cached_at": "2026-09-14",
     "clearance_required": false,
@@ -5344,6 +5366,17 @@
     "verified": true,
     "years": 3
   },
+  "7ecdb7e26dc7b867": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "7eec3b7d0133843b": {
     "cached_at": "2026-10-31",
     "clearance_required": false,
@@ -5615,6 +5648,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "854af251694a92ab": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "8563905fe786e46c": {
     "cached_at": "2026-11-02",
@@ -5957,6 +6001,17 @@
     "verified": false,
     "years": null
   },
+  "8bb27a549dbc6f2c": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "8bd8daf4df9ba2e5": {
     "cached_at": "2026-10-28",
     "clearance_required": false,
@@ -6008,6 +6063,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "8ce3adef6fd845c8": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No explicit years of experience required in description.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
   },
   "8d04d8599189b57e": {
     "cached_at": "2026-08-31",
@@ -6093,6 +6159,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 2
+  },
+  "8eb786f5c20e9da5": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Requires 1 to 2 years of experience; entry level role.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
   },
   "8eec7f676adf4147": {
     "cached_at": "2026-10-04",
@@ -7831,6 +7908,17 @@
     "verified": false,
     "years": null
   },
+  "b34d26530b56bb3e": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 7
+  },
   "b399e140544b81c5": {
     "cached_at": "2026-10-09",
     "clearance_required": false,
@@ -7969,6 +8057,17 @@
     "entry_level": true,
     "fit_score": 1,
     "reason": "Candidate is not available until January 2027.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "b5db5632e3202eb9": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No explicit years of experience required in description.",
     "salary": null,
     "seniority": "mid",
     "verified": true,

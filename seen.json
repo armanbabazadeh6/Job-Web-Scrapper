@@ -375,6 +375,21 @@
     "verify_reason": "Entry level role, but mismatched start timing for Jan 2027 availability.",
     "years_required": 0
   },
+  "1286b0759bcd6015": {
+    "company": "Palantir",
+    "first_seen": "2026-11-19",
+    "fit_score": 3,
+    "location": "New York, NY",
+    "posted_at": "2026-11-19T14:22:27.294000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Site Reliability Operations Analyst - Legal",
+    "role_category": "platform",
+    "source": "Lever:palantir",
+    "url": "https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3",
+    "verified": true,
+    "verify_reason": "No explicit years of experience required in brief description.",
+    "years_required": 0
+  },
   "13978b4f83c924cd": {
     "company": "Brunswick",
     "first_seen": "2026-08-30",
@@ -2012,6 +2027,21 @@
     "verify_reason": "Requires 2+ years experience and candidate is available January 2027.",
     "years_required": 2
   },
+  "618fbd8d4e695f3c": {
+    "company": "Sierra",
+    "first_seen": "2026-11-19",
+    "fit_score": 3,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-11-19T17:24:07.866000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Telephony Field Engineer",
+    "role_category": "swe",
+    "source": "Ashby:sierra",
+    "url": "https://jobs.ashbyhq.com/Sierra/f7d90e1b-0097-4ec2-b577-3b4610bdcc05",
+    "verified": true,
+    "verify_reason": "No explicit years of experience required in description.",
+    "years_required": 0
+  },
   "6199799656c0a51e": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -2742,6 +2772,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130"
   },
+  "8ce3adef6fd845c8": {
+    "company": "Notion",
+    "first_seen": "2026-11-19",
+    "fit_score": 3,
+    "location": "San Francisco, California",
+    "posted_at": "2026-11-19T15:52:34.202000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Collections Infra",
+    "role_category": "swe",
+    "source": "Ashby:notion",
+    "url": "https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f",
+    "verified": true,
+    "verify_reason": "No explicit years of experience required in description.",
+    "years_required": 0
+  },
   "8e27c4772c0d3d7b": {
     "clearance_required": true,
     "company": "WOOD Consulting Services",
@@ -2785,6 +2830,21 @@
     "verified": true,
     "verify_reason": "Requires 2 years experience; timing mismatch for 2027 grad.",
     "years_required": 2
+  },
+  "8eb786f5c20e9da5": {
+    "company": "Purestorage",
+    "first_seen": "2026-11-19",
+    "fit_score": 4,
+    "location": "Chicago, Illinois; Lehi, Utah; Raleigh, North Carolina",
+    "posted_at": "2026-11-19T09:16:00-05:00",
+    "posting_type": "verified_entry",
+    "role": "Associate Systems Engineer",
+    "role_category": "platform",
+    "source": "Greenhouse:purestorage",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8393948",
+    "verified": true,
+    "verify_reason": "Requires 1 to 2 years of experience; entry level role.",
+    "years_required": 1
   },
   "915453e97f8d8292": {
     "company": "Sierra",
@@ -3550,6 +3610,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321"
+  },
+  "b5db5632e3202eb9": {
+    "company": "Affirm",
+    "first_seen": "2026-11-19",
+    "fit_score": 3,
+    "location": "Remote UK",
+    "posted_at": "2026-11-19T10:10:50-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer II, Full stack (Open Banking)",
+    "role_category": "swe",
+    "source": "Greenhouse:affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8197543003",
+    "verified": true,
+    "verify_reason": "No explicit years of experience required in description.",
+    "years_required": 0
   },
   "b64058f9a8dfec29": {
     "company": "CGI Technologies and Solutions, Inc.",
