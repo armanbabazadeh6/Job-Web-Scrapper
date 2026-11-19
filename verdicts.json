@@ -750,6 +750,17 @@
     "verified": true,
     "years": 0
   },
+  "13674b8319d67070": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 6
+  },
   "13df9635d95223e2": {
     "cached_at": "2026-11-03",
     "clearance_required": false,
@@ -5418,6 +5429,17 @@
     "verified": false,
     "years": 6
   },
+  "818618f84acecd5a": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years of experience; not suitable for new graduates.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "819247ab07c85441": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -9834,6 +9856,17 @@
     "reason": "Perfect match for December 2026 graduate with 2027 start date.",
     "salary": "$121,600-$243,200",
     "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
+  "e2f61f2fdfb0b9d6": {
+    "cached_at": "2026-11-19",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 1,
+    "reason": "Immediate position mismatch for candidate available starting January 2027.",
+    "salary": null,
+    "seniority": "junior",
     "verified": true,
     "years": 0
   },
