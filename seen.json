@@ -21,6 +21,21 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://www.zipline.com/open-roles?gh_jid=7974897003"
   },
+  "00ceb7ffc5c29540": {
+    "company": "JPL/NASA",
+    "first_seen": "2026-11-20",
+    "fit_score": 3,
+    "location": "Pasadena, California",
+    "posted_at": "2026-11-20T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Engineering Applications Software Engineer Level 1",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.jpl.jobs/job/R6266/Engineering-Applications-Software-Engineer-Level-1",
+    "verified": true,
+    "verify_reason": "Requires 1 year experience for Bachelor's degree holders.",
+    "years_required": 1
+  },
   "014bc08ed6af5c64": {
     "company": "Apple",
     "first_seen": "2026-11-17",
@@ -377,6 +392,22 @@
     "url": "https://jobs.lever.co/palantir/773bb739-f011-4202-88d7-362a562df0d3",
     "verified": true,
     "verify_reason": "No explicit years of experience required in brief description.",
+    "years_required": 0
+  },
+  "12d0158113df9083": {
+    "company": "GOGov",
+    "first_seen": "2026-11-20",
+    "fit_score": 4,
+    "location": "Holtsville, New York",
+    "posted_at": "2026-11-20T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Junior Software Engineer (Entry Level)",
+    "role_category": "swe",
+    "salary": "$70,000 - $90,000",
+    "source": "JSearch",
+    "url": "https://www.talent.com/view?id=646879321468442213",
+    "verified": true,
+    "verify_reason": "Explicitly considers new graduates for full-stack entry-level role.",
     "years_required": 0
   },
   "13978b4f83c924cd": {
@@ -3915,6 +3946,17 @@
     "verify_reason": "Requires Master's degree and 6+ months experience via coursework or internships.",
     "years_required": 0
   },
+  "d2ffde43f901f7eb": {
+    "company": "Monmouth University",
+    "first_seen": "2026-11-20",
+    "location": "New Jersey",
+    "posted_at": "2026-11-20T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad Software Engineer - Hybrid/Remote, Mentorship",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.jobleads.com/us/job/new-grad-software-engineer-hybrid-remote-mentorship--new-jersey--ec88222149d1fdcb5ea8afc3f199186e6"
+  },
   "d4291dc993efe389": {
     "company": "BAE Systems",
     "first_seen": "2026-11-11",
@@ -4228,6 +4270,28 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
+  },
+  "e5ed43c0311287f4": {
+    "company": "Honeywell Aerospace",
+    "first_seen": "2026-11-20",
+    "location": "Remote",
+    "posted_at": "2026-11-20T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Engineer \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1Ef?s=A"
+  },
+  "e65aa3735a1bc44b": {
+    "company": "Honeywell Aerospace",
+    "first_seen": "2026-11-20",
+    "location": "Remote",
+    "posted_at": "2026-11-20T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Engineering \ud83d\udec2",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1Ee?s=A"
   },
   "e7245ab51c816cd2": {
     "company": "TikTok",
