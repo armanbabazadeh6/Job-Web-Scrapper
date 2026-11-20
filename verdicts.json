@@ -2042,6 +2042,17 @@
     "verified": true,
     "years": 0
   },
+  "2f7917cd1a46fef7": {
+    "cached_at": "2026-11-20",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Explicitly senior individual-contributor role requiring GM-level ownership.",
+    "salary": null,
+    "seniority": "senior",
+    "verified": true,
+    "years": 0
+  },
   "2f825e3dd36d2588": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -2991,6 +3002,17 @@
     "verified": true,
     "years": 0
   },
+  "43b406eb3df58312": {
+    "cached_at": "2026-11-20",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "43bf82122dc8a704": {
     "cached_at": "2026-10-21",
     "clearance_required": false,
@@ -3597,6 +3619,17 @@
     "reason": "Training program, not a direct job; starts before candidate's availability.",
     "salary": "$90k-$154k",
     "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
+  "52da92db6dfc241d": {
+    "cached_at": "2026-11-20",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "No experience requirement stated; product management scope requires immediate availability.",
+    "salary": null,
+    "seniority": "mid",
     "verified": true,
     "years": 0
   },
@@ -4995,6 +5028,17 @@
     "entry_level": true,
     "fit_score": 2,
     "reason": "Requires prior experience writing databases, OS kernels, or low-level systems.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "74c463c9251bba8c": {
+    "cached_at": "2026-11-20",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No minimum years required stated; standard full-time role.",
     "salary": null,
     "seniority": "mid",
     "verified": true,
