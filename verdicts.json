@@ -1848,6 +1848,17 @@
     "verified": false,
     "years": null
   },
+  "2ab25273bfe99e00": {
+    "cached_at": "2026-11-20",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "2acb8b68d5883f33": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -5338,6 +5349,17 @@
     "verified": false,
     "years": 4
   },
+  "7b169fae2e7de939": {
+    "cached_at": "2026-11-20",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires at least four years of experience; not entry level.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
+  },
   "7b43f44e093f453e": {
     "cached_at": "2026-10-21",
     "clearance_required": false,
@@ -6355,6 +6377,17 @@
     "verified": false,
     "years": 8
   },
+  "8fb9d71a50faf764": {
+    "cached_at": "2026-11-20",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "8fc12339e7c3ca22": {
     "cached_at": "2026-09-24",
     "clearance_required": false,
@@ -6897,6 +6930,17 @@
     "seniority": "junior",
     "verified": true,
     "years": 0
+  },
+  "9a8844aec59282fc": {
+    "cached_at": "2026-11-20",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
   },
   "9ad3d27a1a60b988": {
     "cached_at": "2026-11-12",
@@ -8149,6 +8193,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "b4292eda883fe36d": {
+    "cached_at": "2026-11-20",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires mentoring junior team members; wrong timing for 2027 start.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "b447dc4b17d3c46a": {
     "cached_at": "2026-09-16",
