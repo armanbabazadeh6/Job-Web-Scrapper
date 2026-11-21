@@ -691,17 +691,6 @@
     "verify_reason": "No experience requirement stated; aligns with new grad timeline.",
     "years_required": 0
   },
-  "20207b4441bd07d1": {
-    "company": "Battelle",
-    "first_seen": "2026-10-21",
-    "location": "Columbus, OH",
-    "posted_at": "2026-10-22T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "Early Career Software Engineer \ud83c\uddfa\ud83c\uddf8",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.battelle.org/us/en/job/BMIBMIUS75654EXTERNALENUS/Early-Career-Software-Engineer?utm_source=vansh"
-  },
   "207d112cc614f8bc": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -944,17 +933,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15N?s=A"
-  },
-  "275ad3618b2f8d1d": {
-    "company": "Zipline",
-    "first_seen": "2026-08-22",
-    "location": "South San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7929236003"
   },
   "283c12e1395a7770": {
     "company": "TikTok",
@@ -1576,6 +1554,21 @@
     "verify_reason": "Immediate start date does not align with January 2027 availability.",
     "years_required": 0
   },
+  "47aa32f97558294e": {
+    "company": "US Bank",
+    "first_seen": "2026-11-21",
+    "fit_score": 1,
+    "location": "Irving, Texas",
+    "posted_at": "2026-11-20T06:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer 1 - Full-stack, Generative AI, Cloud",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.ziprecruiter.com/c/us-bank/Job/Software-Engineer-1-Full-stack,-Generative-AI,-Cloud/-in-Irving,TX?jid=b96c1ee58cddbada",
+    "verified": true,
+    "verify_reason": "Requires 2-3 years experience and has start timing mismatch.",
+    "years_required": 2
+  },
   "488392921a91f343": {
     "company": "Northrop Grumman",
     "first_seen": "2026-11-05",
@@ -2106,28 +2099,6 @@
     "verify_reason": "Requires 2 years experience and immediate availability before Jan 2027.",
     "years_required": 2
   },
-  "6bb22b1e8d9b3dd3": {
-    "company": "Salesforce",
-    "first_seen": "2026-10-21",
-    "location": "10 locationsBoston, MASeattle, WAIndianapolis, INWashington, DCSan Francisco, CADallas, TXChicago, ILNew York, NYBellevue, WAAtlanta, GA",
-    "posted_at": "2026-10-22T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "AI Forward Deployed Engineer, Early Career",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
-  },
-  "6bd9c961033bb84e": {
-    "company": "TikTok",
-    "first_seen": "2026-08-22",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - TikTok AI Search & Visual Search Infra Team - 2027 Summer",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "6d19838886742c3a": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -2235,21 +2206,6 @@
     "role_category": "platform",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15T?s=A"
-  },
-  "7460a2d6b9c3e03e": {
-    "company": "Supabase",
-    "first_seen": "2026-10-21",
-    "fit_score": 2,
-    "location": "Remote, Global",
-    "posted_at": "2026-10-21T21:46:43.334000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer - Turso",
-    "role_category": "swe",
-    "source": "Ashby:supabase",
-    "url": "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259",
-    "verified": true,
-    "verify_reason": "Requires prior experience writing databases, OS kernels, or low-level systems.",
-    "years_required": 0
   },
   "749b6abd9361ac0b": {
     "company": "Brunswick",
@@ -2384,21 +2340,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16M?s=A"
-  },
-  "7b43f44e093f453e": {
-    "company": "Elastic",
-    "first_seen": "2026-10-21",
-    "fit_score": 2,
-    "location": "United States",
-    "posted_at": "2026-10-20T19:39:30-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer II (Networking) - Platform Infra",
-    "role_category": "swe",
-    "source": "Greenhouse:elastic",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8303806&gh_jid=8303806",
-    "verified": true,
-    "verify_reason": "No experience specified; timing mismatch for January 2027 availability.",
-    "years_required": 0
   },
   "7b744dda3c0c44a8": {
     "company": "TikTok",
@@ -2822,21 +2763,6 @@
     "verify_reason": "No experience requirement stated; timing mismatch for Jan 2027 grad.",
     "years_required": 0
   },
-  "91b9da931711aec7": {
-    "company": "Sierra",
-    "first_seen": "2026-10-21",
-    "fit_score": 2,
-    "location": "San Francisco, CA",
-    "posted_at": "2026-10-21T18:24:28.540000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Associate Sales Engineer",
-    "role_category": "sales_eng",
-    "source": "Ashby:sierra",
-    "url": "https://jobs.ashbyhq.com/sierra/cfecdf07-ee22-45a0-b472-5de10f167984",
-    "verified": true,
-    "verify_reason": "Accepts early-career experience, but start timing mismatches availability.",
-    "years_required": 1
-  },
   "93fe046a1ed12191": {
     "company": "Kognitos",
     "first_seen": "2026-08-29",
@@ -3175,47 +3101,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/19g?s=A"
   },
-  "a2c0d3c41285c715": {
-    "company": "Availity",
-    "first_seen": "2026-08-22",
-    "location": "Remote - USA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://availity.wd1.myworkdayjobs.com/en-US/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436"
-  },
-  "a38a6ee7874d3113": {
-    "company": "Purestorage",
-    "first_seen": "2026-10-21",
-    "fit_score": 5,
-    "location": "Santa Clara, California",
-    "posted_at": "2026-10-21T17:45:45-04:00",
-    "posting_type": "verified_entry",
-    "role": "Junior DevOps Engineer",
-    "role_category": "platform",
-    "source": "Greenhouse:purestorage",
-    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8282746",
-    "verified": true,
-    "verify_reason": "Explicit entry-level junior role suitable for early career candidates.",
-    "years_required": 0
-  },
-  "a472d3edbacad9d4": {
-    "company": "Openai",
-    "first_seen": "2026-10-21",
-    "fit_score": 2,
-    "location": "San Francisco",
-    "posted_at": "2026-10-21T22:55:41.495000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Privacy Engineering (Lawful Access)",
-    "role_category": "swe",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835",
-    "verified": true,
-    "verify_reason": "Requires specialized experience in lawful data access request systems.",
-    "years_required": 0
-  },
   "a56fe99556bc1bcf": {
     "company": "Palantir",
     "first_seen": "2026-10-23",
@@ -3491,17 +3376,6 @@
     "verify_reason": "No experience required; strategic technical consultant role.",
     "years_required": 0
   },
-  "b411221a3942a9ac": {
-    "company": "Wanderlog (W19)",
-    "first_seen": "2026-10-21",
-    "location": "San Francisco, CARemote",
-    "posted_at": "2026-10-22T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Full-Stack Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://www.workatastartup.com/jobs/83760?utm_source=vansh"
-  },
   "b44458ecf0655b90": {
     "company": "The Hartford",
     "first_seen": "2026-08-28",
@@ -3538,28 +3412,6 @@
     "verified": true,
     "verify_reason": "No experience requirement stated, but start timing mismatch for Jan 2027.",
     "years_required": 0
-  },
-  "b576c469770e3004": {
-    "company": "RTX",
-    "first_seen": "2026-10-21",
-    "location": "State College, PA",
-    "posted_at": "2026-10-22T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2026: Java Software Engineer I, Onsite",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": ""
-  },
-  "b58f903e3bdc84ae": {
-    "company": "Brunswick",
-    "first_seen": "2026-08-22",
-    "location": "Tulsa, OK",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321"
   },
   "b5db5632e3202eb9": {
     "company": "Affirm",
@@ -3785,17 +3637,6 @@
     "verify_reason": "Entry level software role requiring 0+ years experience and Secret clearance.",
     "years_required": 0
   },
-  "c6c0d946309b1524": {
-    "company": "Microsoft",
-    "first_seen": "2026-08-22",
-    "location": "Washington, DC +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "AI Software Engineering Intern - Edge",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
-  },
   "c7960a2f56dbb8af": {
     "company": "CoStar Group",
     "first_seen": "2026-10-27",
@@ -3874,17 +3715,6 @@
     "verified": true,
     "verify_reason": "Start timing mismatch for candidate graduating in December 2026.",
     "years_required": 0
-  },
-  "cce6bf1e7e4f45b0": {
-    "company": "Ambrook",
-    "first_seen": "2026-08-22",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456"
   },
   "ccf05fedbf6519be": {
     "company": "Databricks",
@@ -4000,17 +3830,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1oT?s=A"
-  },
-  "d59db2bf5c0e843d": {
-    "company": "Syska Hennessy Group",
-    "first_seen": "2026-08-22",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Innovations Intern - Full Stack/Front End Engineering",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733"
   },
   "d615a47e556b7ab2": {
     "clearance_required": true,
@@ -4199,17 +4018,6 @@
     "verified": true,
     "verify_reason": "Immediate position mismatch for candidate available starting January 2027.",
     "years_required": 0
-  },
-  "e3e040273b4cff31": {
-    "company": "Affirm",
-    "first_seen": "2026-10-21",
-    "location": "New York, New York, United States; San Francisco, California, United States",
-    "posted_at": "2026-10-21T17:16:19-04:00",
-    "posting_type": "new_grad",
-    "role": "Analyst, Early Career (Full Stack)",
-    "role_category": "swe",
-    "source": "Greenhouse:affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8039471003"
   },
   "e3ed3b39593ad240": {
     "company": "Crusoe",
@@ -4725,6 +4533,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/17l?s=A"
+  },
+  "fc83bbc0d6f858c7": {
+    "company": "Affirm",
+    "first_seen": "2026-11-21",
+    "fit_score": 1,
+    "location": "Remote US",
+    "posted_at": "2026-11-20T20:09:09-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer I, Backend (Streaming Infra)",
+    "role_category": "swe",
+    "source": "Greenhouse:affirm",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+    "verified": true,
+    "verify_reason": "Immediate start posting creates timing mismatch for January 2027 availability.",
+    "years_required": 0
   },
   "fcb868d978e43bb7": {
     "company": "Booz Allen",
