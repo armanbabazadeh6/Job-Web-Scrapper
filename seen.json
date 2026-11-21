@@ -2099,6 +2099,17 @@
     "verify_reason": "Requires 2 years experience and immediate availability before Jan 2027.",
     "years_required": 2
   },
+  "6ca196c9363491b2": {
+    "company": "Secureframe",
+    "first_seen": "2026-11-21",
+    "location": "New York, NY",
+    "posted_at": "2026-11-21T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Engineer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1Gh?s=A"
+  },
   "6d19838886742c3a": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
