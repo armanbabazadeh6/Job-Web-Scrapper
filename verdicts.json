@@ -7485,6 +7485,17 @@
     "verified": false,
     "years": 5
   },
+  "a54baa6556f697dd": {
+    "cached_at": "2026-11-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 8
+  },
   "a55db3a0e0421f5a": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -11200,6 +11211,17 @@
     "seniority": null,
     "verified": false,
     "years": 5
+  },
+  "fa64e2f0052fd5fe": {
+    "cached_at": "2026-11-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires technical leadership and mentoring junior developers; senior scope.",
+    "salary": null,
+    "seniority": "lead",
+    "verified": true,
+    "years": 0
   },
   "fa7bf1d1efed6478": {
     "cached_at": "2026-09-04",
