@@ -225,17 +225,6 @@
     "source": "Workday:Blackstone",
     "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Strategic-Incentives-Group---Global-Equity--Analyst_45164-2"
   },
-  "0d315ca1b948f9c3": {
-    "company": "Booz Allen",
-    "first_seen": "2026-10-23",
-    "location": "11 locationsHonolulu, HIAnnapolis Junction, MDColorado Springs, COMcLean, VARome, NYPanama City, FLCharleston, SCAtlanta, GAHuntsville, ALSan Diego, CAEl Segundo, CA",
-    "posted_at": "2026-10-23T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2027: Systems Engineer \ud83c\uddfa\ud83c\uddf8",
-    "role_category": "platform",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0252284?utm_source=vansh"
-  },
   "0e1176cdff65f419": {
     "company": "Johns Hopkins Applied Physics Laboratory",
     "first_seen": "2026-11-12",
@@ -716,17 +705,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/14U?s=A"
   },
-  "22802731cfc826d1": {
-    "company": "Rendezvous Robotics",
-    "first_seen": "2026-10-23",
-    "location": "Golden, CO",
-    "posted_at": "2026-10-23T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2027: Flight Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464270009?utm_source=vansh"
-  },
   "235d8de9fb4f7486": {
     "company": "Coinbase",
     "first_seen": "2026-11-09",
@@ -952,6 +930,22 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Bethesda-MD/Software-Developer-Co-op_R-00190766"
+  },
+  "2a349a6f395d2c75": {
+    "clearance_required": true,
+    "company": "Boeing",
+    "first_seen": "2026-11-23",
+    "fit_score": 3,
+    "location": "Berkeley, California",
+    "posted_at": "2026-11-22T03:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Embedded Software Engineer - Entry-Level | Berkeley, CA, USA",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.efinancialcareers.com/jobs-United_States-CA-Berkeley-Embedded_Software_Engineer_-_Entry-Level.id25022659",
+    "verified": true,
+    "verify_reason": "Requires 1+ year experience and Secret clearance eligibility.",
+    "years_required": 1
   },
   "2a35ae3e193f65f5": {
     "company": "Databricks",
@@ -1199,21 +1193,6 @@
     "verify_reason": "Requires platform system experience; no minimum years required.",
     "years_required": 0
   },
-  "38cdee8b8413a8f2": {
-    "company": "Openai",
-    "first_seen": "2026-10-23",
-    "fit_score": 1,
-    "location": "San Francisco",
-    "posted_at": "2026-10-23T18:55:14.565000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer",
-    "role_category": "swe",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7",
-    "verified": true,
-    "verify_reason": "Candidate available January 2027; posting is for immediate hire.",
-    "years_required": 0
-  },
   "38f7dddc9a8af5df": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -1268,17 +1247,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16u?s=A"
-  },
-  "3b7daf6aacc3eb01": {
-    "company": "Applied Materials",
-    "first_seen": "2026-10-23",
-    "location": "Gloucester, MA",
-    "posted_at": "2026-10-23T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2027: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://amat.wd1.myworkdayjobs.com/en-US/external/job/GloucesterMA/XMLNAME-2027-Software-Engineer-New-College-Grad--Bachelor-s----Gloucester--MA_R2625914?utm_source=vansh"
   },
   "3b855491a0c47fe4": {
     "company": "Walt Disney",
@@ -2214,17 +2182,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434"
   },
-  "77fee65c59491703": {
-    "company": "Booz Allen",
-    "first_seen": "2026-10-23",
-    "location": "11 locationsHonolulu, HIAnnapolis Junction, MDColorado Springs, COMcLean, VARome, NYPanama City, FLCharleston, SCAtlanta, GAHuntsville, ALSan Diego, CAEl Segundo, CA",
-    "posted_at": "2026-10-23T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2027: Software Developer \ud83c\uddfa\ud83c\uddf8",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Software-Developer_R0252280?utm_source=vansh"
-  },
   "78a097743c2330b3": {
     "company": "Booz Allen",
     "first_seen": "2026-08-25",
@@ -2997,17 +2954,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/19g?s=A"
   },
-  "a56fe99556bc1bcf": {
-    "company": "Palantir",
-    "first_seen": "2026-10-23",
-    "location": "New York, NY",
-    "posted_at": "2026-10-23T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2027: Forward Deployed Software Engineer, Warp Speed",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7/apply?utm_source=vansh"
-  },
   "a5e7b0b5fcc69498": {
     "company": "ByteDance",
     "first_seen": "2026-11-01",
@@ -3528,21 +3474,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/Vr?s=A"
   },
-  "c7a8594c9ca49087": {
-    "company": "FNBO",
-    "first_seen": "2026-10-23",
-    "fit_score": 2,
-    "location": "Omaha, NE",
-    "posted_at": "2026-10-23T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Associate Cloud Engineer",
-    "role_category": "platform",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://firstnational.wd12.myworkdayjobs.com/en-US/fnbocareers/job/Omaha---FN-Tower/Associate-I--Cloud-Engineer--Omaha--NE-_R-20261874?utm_source=vansh",
-    "verified": true,
-    "verify_reason": "Entry-level role for recent graduates, but start timing mismatches Jan 2027.",
-    "years_required": 0
-  },
   "ca3d6dffed236980": {
     "company": "CACI",
     "first_seen": "2026-08-28",
@@ -3580,21 +3511,6 @@
     "verified": true,
     "verify_reason": "Requires AI agent experience; no minimum years required.",
     "years_required": 0
-  },
-  "ccf05fedbf6519be": {
-    "company": "Databricks",
-    "first_seen": "2026-10-23",
-    "fit_score": 2,
-    "location": "Mountain View, California",
-    "posted_at": "2026-10-23T11:19:31-04:00",
-    "posting_type": "verified_entry",
-    "role": "Associate Forward Deployed Engineer",
-    "role_category": "swe",
-    "source": "Greenhouse:databricks",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
-    "verified": true,
-    "verify_reason": "Requires 2+ years of experience in software or data engineering.",
-    "years_required": 2
   },
   "ce5b8f627a7aef22": {
     "company": "Northwood Space",
@@ -4295,21 +4211,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324855009"
   },
-  "f86b8782699e1e8e": {
-    "company": "Openai",
-    "first_seen": "2026-10-23",
-    "fit_score": 2,
-    "location": "San Francisco",
-    "posted_at": "2026-10-23T16:28:28.121000+00:00",
-    "posting_type": "verified_entry",
-    "role": "IT Systems Engineer",
-    "role_category": "platform",
-    "source": "Ashby:openai",
-    "url": "https://jobs.ashbyhq.com/openai/b73e46a6-881a-4413-835a-94b9d5f35d2f",
-    "verified": true,
-    "verify_reason": "Demands deep experience in enterprise platforms and infrastructure as code.",
-    "years_required": 0
-  },
   "f96de7d37096a70e": {
     "company": "Raytheon",
     "first_seen": "2026-08-29",
@@ -4361,17 +4262,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1rE?s=A"
-  },
-  "fa8785c14586eb51": {
-    "company": "Blackstone",
-    "first_seen": "2026-08-24",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "BXHF - Content Associate",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/BXHF---Content-Associate_42647-2"
   },
   "fb582ab83e6a34e6": {
     "company": "TikTok",

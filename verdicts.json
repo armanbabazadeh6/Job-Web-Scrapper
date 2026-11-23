@@ -1804,6 +1804,17 @@
     "verified": true,
     "years": 0
   },
+  "2a349a6f395d2c75": {
+    "cached_at": "2026-11-23",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires 1+ year experience and Secret clearance eligibility.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
+  },
   "2a41992561675b54": {
     "cached_at": "2026-10-22",
     "clearance_required": false,
