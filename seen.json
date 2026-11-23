@@ -159,6 +159,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16A?s=A"
   },
+  "09773761a65412b5": {
+    "company": "Stripe",
+    "first_seen": "2026-11-23",
+    "fit_score": 2,
+    "location": "South San Francisco, CA",
+    "posted_at": "2026-11-23T13:10:34-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Core Technology",
+    "role_category": "swe",
+    "salary": "$165,131 - $235,200/yr",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8411988",
+    "verified": true,
+    "verify_reason": "Requires at least 1-3 years of prior work experience.",
+    "years_required": 1
+  },
   "09d96cb0f79ab25e": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -438,6 +454,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1fT?s=A"
+  },
+  "14c782758ff76bde": {
+    "company": "Modal",
+    "first_seen": "2026-11-23",
+    "fit_score": 3,
+    "location": "New York",
+    "posted_at": "2026-11-23T18:52:17.588000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Security Field Engineer",
+    "role_category": "swe",
+    "source": "Ashby:modal",
+    "url": "https://jobs.ashbyhq.com/modal/3c5c84c6-141d-44d2-8f33-8eaaf067c774",
+    "verified": true,
+    "verify_reason": "Requires prior security engineering and enterprise sales experience.",
+    "years_required": 0
   },
   "15f84e92bf6f4319": {
     "company": "Leidos",
@@ -972,6 +1003,17 @@
     "verified": true,
     "verify_reason": "Junior role open to strong fundamentals, but start timing may mismatch.",
     "years_required": 0
+  },
+  "2ac2e16ebaf379a8": {
+    "company": "Northrop Grumman",
+    "first_seen": "2026-11-23",
+    "location": "Colorado Springs, CO",
+    "posted_at": "2026-11-23T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Associate Software Engineer / Software Engineer \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1GL?s=A"
   },
   "2ad6f22efb03bb76": {
     "clearance_required": true,
@@ -2682,6 +2724,17 @@
     "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
+  "955b0d5300c67267": {
+    "company": "Quantiq",
+    "first_seen": "2026-11-23",
+    "location": "Austin, TX",
+    "posted_at": "2026-11-23T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Developer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1GR?s=A"
+  },
   "96349ca6b9dd5e0b": {
     "company": "Cursor",
     "first_seen": "2026-11-10",
@@ -3410,6 +3463,21 @@
     "verify_reason": "No minimum experience stated; hiring timeline precedes candidate's January 2027 availability.",
     "years_required": 0
   },
+  "be3b5677039df0e2": {
+    "company": "IBM",
+    "first_seen": "2026-11-23",
+    "fit_score": 5,
+    "location": "Durham, North Carolina",
+    "posted_at": "2026-11-23T16:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Technical Sales Engineer - Entry Level Sales Program 2027",
+    "role_category": "sales_eng",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/technical-sales-engineer-entry-level-sales-program-2027-at-ibm-4449236047",
+    "verified": true,
+    "verify_reason": "2027 entry-level program matches candidate's January 2027 start availability.",
+    "years_required": 0
+  },
   "bf3928cb571c655d": {
     "company": "Openai",
     "first_seen": "2026-11-13",
@@ -3600,6 +3668,21 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1uE?s=A"
+  },
+  "d4c9e73db627d0bd": {
+    "company": "Datadog",
+    "first_seen": "2026-11-23",
+    "fit_score": 3,
+    "location": "Chicago, Illinois, USA",
+    "posted_at": "2026-11-23T04:21:02-05:00",
+    "posting_type": "verified_entry",
+    "role": "Mid-Market Sales Engineer",
+    "role_category": "sales_eng",
+    "source": "Greenhouse:datadog",
+    "url": "https://careers.datadoghq.com/detail/8385561/?gh_jid=8385561",
+    "verified": true,
+    "verify_reason": "Requires prior DevOps monitoring and system administration experience.",
+    "years_required": 0
   },
   "d5414455811c5a06": {
     "company": "Wolverine Trading",

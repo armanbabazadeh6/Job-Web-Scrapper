@@ -349,6 +349,17 @@
     "verified": false,
     "years": 5
   },
+  "09773761a65412b5": {
+    "cached_at": "2026-11-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires at least 1-3 years of prior work experience.",
+    "salary": "$165,131 - $235,200/yr",
+    "seniority": "junior",
+    "verified": true,
+    "years": 1
+  },
   "09bdb52803c0f4fd": {
     "cached_at": "2026-10-06",
     "clearance_required": false,
@@ -543,6 +554,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "0e3afd50bc68ea0c": {
+    "cached_at": "2026-11-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "0ea50f1c2cd15f08": {
     "cached_at": "2026-11-17",
@@ -864,6 +886,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "14c782758ff76bde": {
+    "cached_at": "2026-11-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires prior security engineering and enterprise sales experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "14ea1f6da6d67a57": {
     "cached_at": "2026-08-31",
@@ -1272,6 +1305,17 @@
     "verified": true,
     "years": 5
   },
+  "1d9cc361a3cf0a28": {
+    "cached_at": "2026-11-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "1e3f874eab15a977": {
     "cached_at": "2026-10-10",
     "clearance_required": false,
@@ -1293,6 +1337,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "1f763176bdf21c7e": {
+    "cached_at": "2026-11-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 8
   },
   "1fb24b99ef6d2f0a": {
     "cached_at": "2026-10-13",
@@ -5748,6 +5803,17 @@
     "verified": true,
     "years": 0
   },
+  "8361e480a80cd50b": {
+    "cached_at": "2026-11-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 4 years of software development experience.",
+    "salary": "$174,595 - $235,200/yr",
+    "seniority": "mid",
+    "verified": true,
+    "years": 4
+  },
   "836fc9a1035c2c0d": {
     "cached_at": "2026-09-13",
     "clearance_required": false,
@@ -8729,6 +8795,17 @@
     "verified": true,
     "years": 0
   },
+  "be3b5677039df0e2": {
+    "cached_at": "2026-11-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 5,
+    "reason": "2027 entry-level program matches candidate's January 2027 start availability.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "be4b7abbabea8b16": {
     "cached_at": "2026-08-31",
     "entry_level": false,
@@ -9625,6 +9702,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 3
+  },
+  "d4c9e73db627d0bd": {
+    "cached_at": "2026-11-23",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires prior DevOps monitoring and system administration experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
   },
   "d4e7c2c29b053967": {
     "cached_at": "2026-09-28",
@@ -11354,6 +11442,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "fd0b82503555176e": {
+    "cached_at": "2026-11-23",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "fd36d51420ddd74a": {
     "cached_at": "2026-10-07",
