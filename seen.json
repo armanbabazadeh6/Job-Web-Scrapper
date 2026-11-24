@@ -100,17 +100,6 @@
     "verify_reason": "Immediate hiring timeline does not match January 2027 availability.",
     "years_required": 0
   },
-  "06f867cc27841a00": {
-    "company": "MORSE Corp Co-op Opportunities",
-    "first_seen": "2026-08-25",
-    "location": "Cambridge, MA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Embedded Software Engineer Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003"
-  },
   "071c05a3b021315e": {
     "company": "Circle",
     "first_seen": "2026-11-17",
@@ -305,17 +294,6 @@
     "verify_reason": "Accepts CS degree; start date Jan 2027 creates timing mismatch.",
     "years_required": 0
   },
-  "10a467a034a61b37": {
-    "company": "Citi",
-    "first_seen": "2026-10-24",
-    "location": "Jacksonville, FL",
-    "posted_at": "2026-10-24T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2027: Software Developer, Application Development",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Jacksonville---USA--2027_261004412?utm_source=vansh"
-  },
   "10d34003d1309dc2": {
     "clearance_required": true,
     "company": "Global Enterprise Services, LLC",
@@ -342,28 +320,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038"
-  },
-  "11cc040bcf99fd9e": {
-    "company": "The Hartford",
-    "first_seen": "2026-08-25",
-    "location": "Hartford, CT",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Tech & Data Program Summer 2027 - Software Engineer Intern - Hartford",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
-  },
-  "1278626c0745bc11": {
-    "company": "Advanced Space",
-    "first_seen": "2026-08-25",
-    "location": "Westminster, CO",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "2027 DevOps Summer Internship",
-    "role_category": "platform",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4333179009"
   },
   "1286b0759bcd6015": {
     "company": "Palantir",
@@ -433,17 +389,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1wd?s=A"
   },
-  "14695ebde7e34352": {
-    "company": "SAGE",
-    "first_seen": "2026-08-25",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Edge - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004"
-  },
   "14b29e585360622b": {
     "company": "endeavorai.com",
     "first_seen": "2026-11-04",
@@ -491,6 +436,17 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138"
+  },
+  "16806e58304b9698": {
+    "company": "Shield AI",
+    "first_seen": "2026-11-24",
+    "location": "Arlington, VA",
+    "posted_at": "2026-11-24T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Engineer II, Software - Ground Control Station - Full Stack \ud83c\uddfa\ud83c\uddf8",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1HX?s=A"
   },
   "16972ad27a9b8e36": {
     "company": "Kiewit",
@@ -622,17 +578,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1q7?s=A"
   },
-  "1d4e3a47b04aa6a7": {
-    "company": "Brunswick",
-    "first_seen": "2026-08-25",
-    "location": "Champaign, IL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316"
-  },
   "1d7d4f005bb19cbc": {
     "company": "Hewlett Packard Enterprise",
     "first_seen": "2026-08-30",
@@ -643,17 +588,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625"
-  },
-  "1e0d9da4179e3be3": {
-    "company": "SAGE",
-    "first_seen": "2026-08-25",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Full Stack - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004"
   },
   "1f6468016011f532": {
     "company": "Raytheon",
@@ -1165,17 +1099,6 @@
     "verify_reason": "No experience requirements stated in the description.",
     "years_required": 0
   },
-  "33c0d3383cbb7ce0": {
-    "company": "MORSE Corp Co-op Opportunities",
-    "first_seen": "2026-08-25",
-    "location": "Cambridge, MA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Embedded Software Engineer Graduate Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968523003"
-  },
   "34fa03031408332f": {
     "company": "ByteDance",
     "first_seen": "2026-11-01",
@@ -1208,17 +1131,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1bP?s=A"
-  },
-  "37563f94a57a016c": {
-    "company": "Google",
-    "first_seen": "2026-08-25",
-    "location": "Mountain View, CA +29",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - PhD - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": ""
   },
   "3869402f4a2fcf92": {
     "company": "Cursor",
@@ -1611,17 +1523,6 @@
     "verify_reason": "No experience specified, but timing mismatch for January 2027 availability.",
     "years_required": 0
   },
-  "4cba717c648eaebe": {
-    "company": "MORSE Corp Co-op Opportunities",
-    "first_seen": "2026-08-25",
-    "location": "Arlington, VA +2",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Python Software Engineer Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968338003"
-  },
   "4e473e32d0d3f941": {
     "company": "Nuance Labs",
     "first_seen": "2026-11-04",
@@ -1700,17 +1601,6 @@
     "verify_reason": "No experience requirement stated; product management scope requires immediate availability.",
     "years_required": 0
   },
-  "53f31dd3a3f0d804": {
-    "company": "Freddie Mac",
-    "first_seen": "2026-08-25",
-    "location": "McLean, VA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Single-Family Software Developer Intern- Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://freddiemac.wd5.myworkdayjobs.com/en-US/external/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
-  },
   "53f88b2160c9aade": {
     "company": "Ramp",
     "first_seen": "2026-11-03",
@@ -1762,17 +1652,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/17b?s=A"
-  },
-  "584f737eaaa7c085": {
-    "company": "MORSE Corp Co-op Opportunities",
-    "first_seen": "2026-08-25",
-    "location": "Arlington, VA +2",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Python Software Engineer Graduate Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968485003"
   },
   "5bba914bee306be3": {
     "company": "Tech Consulting",
@@ -2042,17 +1921,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16c?s=A"
   },
-  "6e105014754fa28c": {
-    "company": "Citi",
-    "first_seen": "2026-10-24",
-    "location": "Tampa, FL",
-    "posted_at": "2026-10-24T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2027: Technology Analyst, Application Development",
-    "role_category": "consulting",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Full-Time-Analyst--Tampa---USA--2027_261004424?utm_source=vansh"
-  },
   "6e9c2328f5bdf020": {
     "company": "Northrop Grumman",
     "first_seen": "2026-10-29",
@@ -2223,17 +2091,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434"
-  },
-  "78a097743c2330b3": {
-    "company": "Booz Allen",
-    "first_seen": "2026-08-25",
-    "location": "Bremerton, WA +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer - Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218"
   },
   "79a0b36566fca5ca": {
     "company": "Cursor",
@@ -2813,21 +2670,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1qa?s=A"
   },
-  "99413e09e24dd5cc": {
-    "company": "Gitlab",
-    "first_seen": "2026-10-24",
-    "fit_score": 2,
-    "location": "Remote, Canada; Remote, United States",
-    "posted_at": "2026-10-23T18:47:07-04:00",
-    "posting_type": "verified_entry",
-    "role": "Backend Engineer, Knowledge Graph (Rust)",
-    "role_category": "swe",
-    "source": "Greenhouse:gitlab",
-    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8771512002",
-    "verified": true,
-    "verify_reason": "Immediate role creates timing mismatch with January 2027 availability.",
-    "years_required": 0
-  },
   "9a033858bbd4261f": {
     "company": "Twilio",
     "first_seen": "2026-11-18",
@@ -2911,17 +2753,6 @@
     "verify_reason": "Entry-level software role requiring no experience, matches post-graduation availability.",
     "years_required": 0
   },
-  "9b94a9c24c4acda8": {
-    "company": "Walt Disney",
-    "first_seen": "2026-08-25",
-    "location": "Glendale, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Glendale System Software Engineering Internship - Spring 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137"
-  },
   "9bd32f9114db376a": {
     "company": "ByteDance",
     "first_seen": "2026-11-01",
@@ -2932,17 +2763,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15f?s=A"
-  },
-  "9cf2e61bdd4fdf35": {
-    "company": "MORSE Corp Co-op Opportunities",
-    "first_seen": "2026-08-25",
-    "location": "Arlington, VA +2",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Full Stack Software Engineer Graduate Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003"
   },
   "9d0ead2932efd3d9": {
     "company": "ByteDance",
@@ -3411,17 +3231,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/19h?s=A"
   },
-  "bc23cb5bf7dcacaf": {
-    "company": "Walt Disney",
-    "first_seen": "2026-08-25",
-    "location": "Glendale, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Glendale System Software Engineering Internship - Spring 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137-1"
-  },
   "bce61d782e93028c": {
     "company": "Replit",
     "first_seen": "2026-11-15",
@@ -3632,21 +3441,6 @@
     "verify_reason": "Requires complex ERP integration expertise; no experience years stated.",
     "years_required": 0
   },
-  "d24a50ad616979b6": {
-    "company": "Intel",
-    "first_seen": "2026-10-24",
-    "fit_score": 3,
-    "location": "Hillsboro, OR",
-    "posted_at": "2026-10-24T00:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, CAD/EDA Tools (Master's)",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1?utm_source=vansh",
-    "verified": true,
-    "verify_reason": "Requires Master's degree and 6+ months experience via coursework or internships.",
-    "years_required": 0
-  },
   "d2ffde43f901f7eb": {
     "company": "Monmouth University",
     "first_seen": "2026-11-20",
@@ -3774,17 +3568,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11"
-  },
-  "db5462f9ce8519ad": {
-    "company": "Blackstone",
-    "first_seen": "2026-08-25",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Product Manager, Associate \u2013 Investor Technology",
-    "role_category": "product",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Product-Manager--Associate---Investor-Technology_45126"
   },
   "dd58b91a466a98d5": {
     "company": "Harvey",
@@ -4282,17 +4065,6 @@
     "verified": true,
     "verify_reason": "Requires graduation by August 2025; candidate graduates December 2026.",
     "years_required": 0
-  },
-  "f4b9a79e18a61871": {
-    "company": "Advanced Space",
-    "first_seen": "2026-08-25",
-    "location": "Westminster, CO",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "2027 Software Engineering Summer Internship",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4324855009"
   },
   "f96de7d37096a70e": {
     "company": "Raytheon",
