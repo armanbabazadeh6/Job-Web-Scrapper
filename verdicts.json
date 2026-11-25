@@ -1327,6 +1327,17 @@
     "verified": true,
     "years": 5
   },
+  "1d50e517cb2a3ab9": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "No experience required; implementation consultant role.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 0
+  },
   "1d9cc361a3cf0a28": {
     "cached_at": "2026-11-23",
     "clearance_required": false,
@@ -4595,6 +4606,17 @@
     "verified": true,
     "years": 0
   },
+  "64e05d457860dff8": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "64f2d65e25fd4c14": {
     "cached_at": "2026-10-07",
     "clearance_required": false,
@@ -5919,6 +5941,17 @@
     "entry_level": false,
     "fit_score": 1,
     "reason": "Requires 3 years experience, TS/SCI clearance, and immediate start.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
+  "844f6de4e4c122fa": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires considerable experience developing and integrating AI solutions.",
     "salary": null,
     "seniority": "mid",
     "verified": true,
@@ -7883,6 +7916,17 @@
     "verified": false,
     "years": 4
   },
+  "aa8169e8c1da3c4b": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "aabf6ef91c493424": {
     "cached_at": "2026-11-09",
     "clearance_required": false,
@@ -8490,6 +8534,17 @@
     "seniority": "lead",
     "verified": true,
     "years": 0
+  },
+  "b5eb47d72d2ca6a5": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires Master's degree and 2 years of experience.",
+    "salary": null,
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "b61e4b8d1e9de044": {
     "cached_at": "2026-09-13",
@@ -9870,6 +9925,17 @@
   },
   "d65571a0243a0af8": {
     "cached_at": "2026-11-09",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
+  "d67489bda73a05e0": {
+    "cached_at": "2026-11-25",
     "clearance_required": false,
     "entry_level": false,
     "fit_score": null,

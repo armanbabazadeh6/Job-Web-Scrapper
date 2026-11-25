@@ -567,6 +567,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1q7?s=A"
   },
+  "1d50e517cb2a3ab9": {
+    "company": "Brex",
+    "first_seen": "2026-11-25",
+    "fit_score": 3,
+    "location": "Salt Lake City, Utah, United States",
+    "posted_at": "2026-11-25T11:53:33-05:00",
+    "posting_type": "verified_entry",
+    "role": "Embedded Implementation Consultant",
+    "role_category": "consulting",
+    "source": "Greenhouse:brex",
+    "url": "https://www.brex.com/careers/8962367002?gh_jid=8962367002",
+    "verified": true,
+    "verify_reason": "No experience required; implementation consultant role.",
+    "years_required": 0
+  },
   "1d7d4f005bb19cbc": {
     "company": "Hewlett Packard Enterprise",
     "first_seen": "2026-08-30",
@@ -3110,6 +3125,21 @@
     "verified": true,
     "verify_reason": "No explicit years of experience required in description.",
     "years_required": 0
+  },
+  "b5eb47d72d2ca6a5": {
+    "company": "Reddit",
+    "first_seen": "2026-11-25",
+    "fit_score": 2,
+    "location": "San Francisco, CA",
+    "posted_at": "2026-11-25T12:58:23-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Ads",
+    "role_category": "swe",
+    "source": "Greenhouse:reddit",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8415553",
+    "verified": true,
+    "verify_reason": "Requires Master's degree and 2 years of experience.",
+    "years_required": 2
   },
   "b64058f9a8dfec29": {
     "company": "CGI Technologies and Solutions, Inc.",
