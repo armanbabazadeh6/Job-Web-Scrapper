@@ -253,6 +253,17 @@
     "verified": false,
     "years": 6
   },
+  "059da0cbeeec59db": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires record of leading complex technical projects across team boundaries.",
+    "salary": null,
+    "seniority": "lead",
+    "verified": true,
+    "years": 0
+  },
   "061f266ddd034cfe": {
     "cached_at": "2026-11-09",
     "clearance_required": false,
@@ -2695,6 +2706,17 @@
     "verified": true,
     "years": 2
   },
+  "3cc9c41ba8751cfc": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Requires production experience building real-time or distributed systems.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "3d027a5a10bd3257": {
     "cached_at": "2026-10-02",
     "clearance_required": false,
@@ -4762,6 +4784,17 @@
     "verified": true,
     "years": 2
   },
+  "6932c2123d00b98a": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
+  },
   "69c4e631e8e7b282": {
     "cached_at": "2026-10-19",
     "clearance_required": false,
@@ -5131,6 +5164,17 @@
     "seniority": null,
     "verified": false,
     "years": null
+  },
+  "7356b89073aa12ab": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires 2+ years of professional software engineering experience.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
   },
   "7395da38fdee454a": {
     "cached_at": "2026-10-01",
@@ -8073,6 +8117,17 @@
     "verified": true,
     "years": 0
   },
+  "af3ed1e3d5c4a87d": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires deep database tuning and scaling experience in production.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "af8a0a9a114f0776": {
     "cached_at": "2026-09-02",
     "clearance_required": false,
@@ -10852,6 +10907,17 @@
     "verified": false,
     "years": 5
   },
+  "f0525a8320765cce": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 4
+  },
   "f07b9751566c2060": {
     "cached_at": "2026-10-06",
     "clearance_required": false,
@@ -11052,6 +11118,28 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "f3debe09e0a78293": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Requires prior production experience shipping web applications.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "f3f2b6b3e73d5e09": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 3,
+    "reason": "Requires 2 years of professional software development experience.",
+    "salary": "$156,800 - $235,200/yr",
+    "seniority": "mid",
+    "verified": true,
+    "years": 2
   },
   "f3f2d8a1c932f7cd": {
     "cached_at": "2026-10-04",

@@ -10,17 +10,6 @@
     "source": "JSearch",
     "url": "https://www.linkedin.com/jobs/view/graduate-software-engineer-java-up-to-%24110-000-at-hunter-bond-4491312841"
   },
-  "008463bffc0cd3f7": {
-    "company": "Zipline",
-    "first_seen": "2026-08-26",
-    "location": "South San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Embedded Software Engineer Intern - Spring 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7974897003"
-  },
   "00ceb7ffc5c29540": {
     "company": "JPL/NASA",
     "first_seen": "2026-11-20",
@@ -750,17 +739,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141"
   },
-  "259010e64627e097": {
-    "company": "Maximor AI",
-    "first_seen": "2026-08-26",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8"
-  },
   "25929b74ac563640": {
     "company": "Epic Systems Corporation (Wisconsin)",
     "first_seen": "2026-11-17",
@@ -824,17 +802,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15w?s=A"
-  },
-  "2729e85071c1dc5f": {
-    "company": "Verkada",
-    "first_seen": "2026-08-26",
-    "location": "San Mateo, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Frontend Software Engineering Intern 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5210942007"
   },
   "274dfd255179622c": {
     "company": "TikTok",
@@ -1224,6 +1191,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16y?s=A"
   },
+  "3cc9c41ba8751cfc": {
+    "company": "Openai",
+    "first_seen": "2026-11-25",
+    "fit_score": 4,
+    "location": "Seattle",
+    "posted_at": "2026-11-24T23:41:30.450000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Space Foundations \u2014 Real-Time Systems",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/e1823ba3-a94c-410f-b064-217a1d71c866",
+    "verified": true,
+    "verify_reason": "Requires production experience building real-time or distributed systems.",
+    "years_required": 0
+  },
   "3cfa51c88d778ef2": {
     "company": "Medtronic",
     "first_seen": "2026-08-29",
@@ -1260,17 +1242,6 @@
     "verified": true,
     "verify_reason": "Requires 1 year experience; start timing mismatch for January 2027.",
     "years_required": 1
-  },
-  "3e0f85c604080f1b": {
-    "company": "Verkada",
-    "first_seen": "2026-08-26",
-    "location": "San Mateo, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Backend Software Engineering Intern 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5210813007"
   },
   "409289c185131ffc": {
     "company": "TikTok",
@@ -1428,17 +1399,6 @@
     "role_category": "platform",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1iB?s=A"
-  },
-  "49778b1425c88e9b": {
-    "company": "Verkada",
-    "first_seen": "2026-08-26",
-    "location": "San Mateo, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Mobile Software Engineering Intern 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5219131007"
   },
   "4a55211d198ac61a": {
     "company": "IMC",
@@ -1711,17 +1671,6 @@
     "verified": true,
     "verify_reason": "Requires prior field engineering or enterprise software experience.",
     "years_required": 0
-  },
-  "5dc9e52714d1a5d8": {
-    "company": "Verkada",
-    "first_seen": "2026-08-26",
-    "location": "San Mateo, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Security Software Engineering Intern 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007"
   },
   "5eaa90369d78f3d5": {
     "company": "Lockheed Martin",
@@ -2006,6 +1955,21 @@
     "role_category": "platform",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15T?s=A"
+  },
+  "7356b89073aa12ab": {
+    "company": "Stripe",
+    "first_seen": "2026-11-25",
+    "fit_score": 3,
+    "location": "New York City ",
+    "posted_at": "2026-11-24T11:32:21-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Experimental Projects",
+    "role_category": "swe",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8394936",
+    "verified": true,
+    "verify_reason": "Requires 2+ years of professional software engineering experience.",
+    "years_required": 2
   },
   "749b6abd9361ac0b": {
     "company": "Brunswick",
@@ -2838,17 +2802,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15y?s=A"
   },
-  "a772d96aef715b3b": {
-    "company": "Verkada",
-    "first_seen": "2026-08-26",
-    "location": "San Mateo, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Embedded Software Engineering Intern 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://job-boards.greenhouse.io/verkada/jobs/5211595007"
-  },
   "a7867a297546fb8c": {
     "company": "Cursor",
     "first_seen": "2026-11-10",
@@ -2963,6 +2916,21 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060"
+  },
+  "af3ed1e3d5c4a87d": {
+    "company": "Openai",
+    "first_seen": "2026-11-25",
+    "fit_score": 3,
+    "location": "Seattle",
+    "posted_at": "2026-11-24T23:39:23.082000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Space Foundations \u2014 Search & Databases",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092",
+    "verified": true,
+    "verify_reason": "Requires deep database tuning and scaling experience in production.",
+    "years_required": 0
   },
   "af8c362c7418fb26": {
     "company": "TikTok",
@@ -3301,17 +3269,6 @@
     "verified": true,
     "verify_reason": "No experience required; full-stack software engineer role.",
     "years_required": 0
-  },
-  "c2b04a7260abc933": {
-    "company": "talentpluto",
-    "first_seen": "2026-08-26",
-    "location": "New York City, NY",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Full Stack Engineering Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://apply.workable.com/talentpluto/j/290A067DC5/"
   },
   "c3e76f8075d73846": {
     "company": "Zip",
@@ -3722,17 +3679,6 @@
     "verify_reason": "Requires residing in Mexico and start date before January 2027.",
     "years_required": 0
   },
-  "e5d60cef27f9d95a": {
-    "company": "Zip",
-    "first_seen": "2026-08-26",
-    "location": "San Francisco, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/zip/249837b3-106f-4751-a4f2-03a2c5df5faf"
-  },
   "e5ed43c0311287f4": {
     "company": "Honeywell Aerospace",
     "first_seen": "2026-11-20",
@@ -4065,6 +4011,37 @@
     "verified": true,
     "verify_reason": "Requires graduation by August 2025; candidate graduates December 2026.",
     "years_required": 0
+  },
+  "f3debe09e0a78293": {
+    "company": "Openai",
+    "first_seen": "2026-11-25",
+    "fit_score": 4,
+    "location": "San Francisco",
+    "posted_at": "2026-11-24T22:17:35.604000+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Full Stack \u2014 ChatGPT Voice",
+    "role_category": "swe",
+    "source": "Ashby:openai",
+    "url": "https://jobs.ashbyhq.com/openai/0d06daee-298b-4594-a67b-8955d07adb22",
+    "verified": true,
+    "verify_reason": "Requires prior production experience shipping web applications.",
+    "years_required": 0
+  },
+  "f3f2b6b3e73d5e09": {
+    "company": "Stripe",
+    "first_seen": "2026-11-25",
+    "fit_score": 3,
+    "location": "Seattle, WA ",
+    "posted_at": "2026-11-24T12:31:26-05:00",
+    "posting_type": "verified_entry",
+    "role": "Infrastructure Engineer, Workflow Engine",
+    "role_category": "platform",
+    "salary": "$156,800 - $235,200/yr",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8414532",
+    "verified": true,
+    "verify_reason": "Requires 2 years of professional software development experience.",
+    "years_required": 2
   },
   "f96de7d37096a70e": {
     "company": "Raytheon",
