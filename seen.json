@@ -2634,6 +2634,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1qa?s=A"
   },
+  "995068ea5117fe7b": {
+    "company": "BAE Systems",
+    "first_seen": "2026-11-25",
+    "fit_score": 4,
+    "location": "Hill AFB, Utah",
+    "posted_at": "2026-11-25T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer",
+    "role_category": "swe",
+    "salary": "$59023 - $100339",
+    "source": "JSearch",
+    "url": "https://jobs.baesystems.com/global/en/job/133313BR/Software-Engineer",
+    "verified": true,
+    "verify_reason": "Requires 0-2 years experience; security clearance is only preferred.",
+    "years_required": 0
+  },
   "9a033858bbd4261f": {
     "company": "Twilio",
     "first_seen": "2026-11-18",
@@ -4157,6 +4173,17 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15M?s=A"
+  },
+  "ff70372b14bc153e": {
+    "company": "Veeva Systems",
+    "first_seen": "2026-11-25",
+    "location": "Raleigh, NC",
+    "posted_at": "2026-11-25T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Associate Software Engineer \ud83d\udec2",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1IJ?s=A"
   },
   "ff9c157fb935dcdb": {
     "company": "Verkada",

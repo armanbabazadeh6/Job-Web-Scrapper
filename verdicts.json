@@ -5902,6 +5902,17 @@
     "verified": false,
     "years": null
   },
+  "841d7ebb3df5717c": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "no description available",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": null
+  },
   "842bc202332e9c28": {
     "cached_at": "2026-10-06",
     "clearance_required": true,
@@ -7016,6 +7027,17 @@
     "reason": "Immediate role creates timing mismatch with January 2027 availability.",
     "salary": null,
     "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
+  "995068ea5117fe7b": {
+    "cached_at": "2026-11-25",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Requires 0-2 years experience; security clearance is only preferred.",
+    "salary": "$59023 - $100339",
+    "seniority": "junior",
     "verified": true,
     "years": 0
   },
