@@ -2619,6 +2619,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1qa?s=A"
   },
+  "9914911241cd251d": {
+    "clearance_required": true,
+    "company": "BAE Systems",
+    "first_seen": "2026-11-26",
+    "fit_score": 4,
+    "location": "Totowa, New Jersey",
+    "posted_at": "2026-11-25T23:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry Level Software Engineer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://jobs.baesystems.com/global/en/job/133324BR/Entry-Level-Software-Engineer",
+    "verified": true,
+    "verify_reason": "Requires 0-3 years experience and security clearance eligibility.",
+    "years_required": 0
+  },
   "995068ea5117fe7b": {
     "company": "BAE Systems",
     "first_seen": "2026-11-25",
@@ -3081,6 +3097,17 @@
     "verify_reason": "No experience requirement stated, but start timing mismatch for Jan 2027.",
     "years_required": 0
   },
+  "b58c58d35d3493de": {
+    "company": "Scout AI",
+    "first_seen": "2026-11-26",
+    "location": "Sunnyvale, CA",
+    "posted_at": "2026-11-26T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad 2027: Software Engineer, Core Systems",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1K4?s=A"
+  },
   "b5db5632e3202eb9": {
     "company": "Affirm",
     "first_seen": "2026-11-19",
@@ -3285,6 +3312,17 @@
     "verified": true,
     "verify_reason": "No experience required; full-stack software engineer role.",
     "years_required": 0
+  },
+  "c0ecd46ab5e5a13a": {
+    "company": "Scout AI",
+    "first_seen": "2026-11-26",
+    "location": "Sunnyvale, California",
+    "posted_at": "2026-11-26T06:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer, Core Systems (New Grad, 2027)",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/software-engineer-core-systems-new-grad-2027-at-scout-ai-4495253866"
   },
   "c3e76f8075d73846": {
     "company": "Zip",

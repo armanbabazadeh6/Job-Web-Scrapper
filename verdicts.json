@@ -7063,6 +7063,17 @@
     "verified": false,
     "years": 6
   },
+  "9914911241cd251d": {
+    "cached_at": "2026-11-26",
+    "clearance_required": true,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Requires 0-3 years experience and security clearance eligibility.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "99413e09e24dd5cc": {
     "cached_at": "2026-10-24",
     "clearance_required": false,
