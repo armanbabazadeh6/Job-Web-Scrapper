@@ -970,21 +970,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1rD?s=A"
   },
-  "2c5f87e65d2bdba5": {
-    "company": "Stripe",
-    "first_seen": "2026-10-26",
-    "fit_score": 2,
-    "location": "San Francisco, CA; Seattle, WA; New York City, NY",
-    "posted_at": "2026-10-26T16:50:46-04:00",
-    "posting_type": "verified_entry",
-    "role": "Android Engineer, Identity Product",
-    "role_category": "swe",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8311069",
-    "verified": true,
-    "verify_reason": "No experience required, but timing mismatch for January 2027 availability.",
-    "years_required": 0
-  },
   "2d82c2d514d6df81": {
     "company": "Purestorage",
     "first_seen": "2026-11-03",
@@ -1483,21 +1468,6 @@
     "verify_reason": "Requires prior production backend systems experience and track record.",
     "years_required": 0
   },
-  "4c83e5ee2323b97b": {
-    "company": "Samsara",
-    "first_seen": "2026-10-26",
-    "fit_score": 2,
-    "location": "Remote - GA",
-    "posted_at": "2026-10-26T16:11:51-04:00",
-    "posting_type": "verified_entry",
-    "role": "Enterprise Implementation Consultant - Public Sector",
-    "role_category": "consulting",
-    "source": "Greenhouse:samsara",
-    "url": "https://www.samsara.com/company/careers/roles/8304710?gh_jid=8304710",
-    "verified": true,
-    "verify_reason": "No experience specified, but timing mismatch for January 2027 availability.",
-    "years_required": 0
-  },
   "4e473e32d0d3f941": {
     "company": "Nuance Labs",
     "first_seen": "2026-11-04",
@@ -1590,21 +1560,6 @@
     "verified": true,
     "verify_reason": "Requires 2+ years experience in solutions consulting.",
     "years_required": 2
-  },
-  "543883f501ce0396": {
-    "company": "Stripe",
-    "first_seen": "2026-10-26",
-    "fit_score": 2,
-    "location": "San Francisco, CA; Seattle, WA; New York City, NY",
-    "posted_at": "2026-10-26T16:53:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "iOS Engineer, Identity Product",
-    "role_category": "swe",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8311082",
-    "verified": true,
-    "verify_reason": "No experience required, but timing mismatch for January 2027 availability.",
-    "years_required": 0
   },
   "55d63fcc13d6bc0c": {
     "company": "Adobe",
@@ -1850,6 +1805,21 @@
     "url": "https://jobs.baesystems.com/global/en/job/128963BR/2027-Entry-Level-Software-Engineer-Hardware",
     "verified": true,
     "verify_reason": "Entry-level role for 2027 grads requiring security clearance eligibility.",
+    "years_required": 0
+  },
+  "68af7471e4283759": {
+    "company": "Robinhood",
+    "first_seen": "2026-11-26",
+    "fit_score": 2,
+    "location": "Menlo Park, CA; New York, NY",
+    "posted_at": "2026-11-25T15:42:07-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Web, Government Products",
+    "role_category": "swe",
+    "source": "Greenhouse:robinhood",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8355577?t=gh_src=&gh_jid=8355577",
+    "verified": true,
+    "verify_reason": "Immediate role start mismatches candidate's January 2027 availability.",
     "years_required": 0
   },
   "68ce7f006f917444": {

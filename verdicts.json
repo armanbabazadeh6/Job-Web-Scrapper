@@ -4784,6 +4784,17 @@
     "verified": false,
     "years": 7
   },
+  "68af7471e4283759": {
+    "cached_at": "2026-11-26",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Immediate role start mismatches candidate's January 2027 availability.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "69027262b0fcdb1b": {
     "cached_at": "2026-10-27",
     "clearance_required": false,
@@ -9329,6 +9340,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "c71052b5eff6d2b5": {
+    "cached_at": "2026-11-26",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": null,
+    "reason": "high experience requirement",
+    "salary": null,
+    "seniority": null,
+    "verified": false,
+    "years": 5
   },
   "c724736eafe14909": {
     "cached_at": "2026-11-07",
