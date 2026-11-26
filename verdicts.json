@@ -5097,6 +5097,17 @@
     "verified": false,
     "years": null
   },
+  "70640ea97bc8890b": {
+    "cached_at": "2026-11-26",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 1,
+    "reason": "Requires 3+ years experience with PostgreSQL and Terraform.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
+  },
   "70769a699ac34c04": {
     "cached_at": "2026-08-31",
     "entry_level": true,
@@ -8883,6 +8894,17 @@
     "verified": false,
     "years": null
   },
+  "bcb3bbf21de9e234": {
+    "cached_at": "2026-11-26",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 4,
+    "reason": "Entry-level technical role suitable for a recent graduate.",
+    "salary": null,
+    "seniority": "new_grad",
+    "verified": true,
+    "years": 0
+  },
   "bcfa24924ad5c866": {
     "cached_at": "2026-10-14",
     "clearance_required": false,
@@ -10983,6 +11005,17 @@
     "seniority": "mid",
     "verified": true,
     "years": 0
+  },
+  "ef4b3782afebdc6f": {
+    "cached_at": "2026-11-26",
+    "clearance_required": false,
+    "entry_level": false,
+    "fit_score": 2,
+    "reason": "Requires sales engineering experience and background not specified for new grads.",
+    "salary": "$143,920\u2014$183,080 USD",
+    "seniority": "mid",
+    "verified": true,
+    "years": 3
   },
   "ef7981777e17e386": {
     "cached_at": "2026-10-09",

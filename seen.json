@@ -3242,6 +3242,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/19h?s=A"
   },
+  "bcb3bbf21de9e234": {
+    "company": "Epic Systems Corporation",
+    "first_seen": "2026-11-26",
+    "fit_score": 4,
+    "location": "Pomona, California",
+    "posted_at": "2026-11-26T00:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Entry-Level Technical Solutions Engineer",
+    "role_category": "sales_eng",
+    "source": "JSearch",
+    "url": "https://www.learn4good.com/jobs/pomona/california/engineering/5667199572/e/",
+    "verified": true,
+    "verify_reason": "Entry-level technical role suitable for a recent graduate.",
+    "years_required": 0
+  },
   "bce61d782e93028c": {
     "company": "Replit",
     "first_seen": "2026-11-15",
