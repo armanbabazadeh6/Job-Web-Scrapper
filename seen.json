@@ -36,6 +36,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
+  "02385467290d0b9f": {
+    "company": "Stripe",
+    "first_seen": "2026-11-27",
+    "fit_score": 3,
+    "location": "New York, NY",
+    "posted_at": "2026-11-27T14:44:36-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Reporting Platform",
+    "role_category": "swe",
+    "salary": "$190,400 - $285,600/yr",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421367",
+    "verified": true,
+    "verify_reason": "Requires 2 years of experience; candidate is a new grad.",
+    "years_required": 2
+  },
   "02f9e997e55116f2": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -207,17 +223,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/Z2?s=A"
-  },
-  "0cfe684907de3e54": {
-    "company": "Blackstone",
-    "first_seen": "2026-08-28",
-    "location": "New York",
-    "posted_at": null,
-    "posting_type": "new_grad",
-    "role": "Strategic Incentives Group - Global Equity, Analyst",
-    "role_category": "pe",
-    "source": "Workday:Blackstone",
-    "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers/job/New-York/Strategic-Incentives-Group---Global-Equity--Analyst_45164-2"
   },
   "0e1176cdff65f419": {
     "company": "Johns Hopkins Applied Physics Laboratory",
@@ -436,21 +441,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1HX?s=A"
-  },
-  "16972ad27a9b8e36": {
-    "company": "Kiewit",
-    "first_seen": "2026-10-27",
-    "fit_score": 5,
-    "location": "Wahiawa, Hawaii",
-    "posted_at": "2026-10-26T18:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Entry Level Field Engineer - Kiewit Foundations Co. 2027",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/entry-level-field-engineer-kiewit-foundations-co-2027-at-kiewit-4483253087",
-    "verified": true,
-    "verify_reason": "2027 entry level role aligns with candidate start date in January 2027.",
-    "years_required": 0
   },
   "17d9922c62dc94d1": {
     "company": "TikTok",
@@ -705,17 +695,6 @@
     "verify_reason": "Requires 2+ years experience; candidate available January 2027.",
     "years_required": 2
   },
-  "23f188f7078dbcee": {
-    "company": "Brunswick",
-    "first_seen": "2026-08-28",
-    "location": "Fond du Lac, WI",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Mercury Marine - Systems/Software Engineering Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212"
-  },
   "24d0d501b602d739": {
     "company": "SambaNova",
     "first_seen": "2026-11-10",
@@ -893,17 +872,6 @@
     "verified": true,
     "verify_reason": "Requires 1+ year experience and Secret clearance eligibility.",
     "years_required": 1
-  },
-  "2a35ae3e193f65f5": {
-    "company": "Databricks",
-    "first_seen": "2026-10-27",
-    "location": "Bellevue, WAMountain View, CA",
-    "posted_at": "2026-10-27T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2027: Software Engineer, Distributed Data Systems",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://go.vansh.nyc/WB?s=A"
   },
   "2a61d4c8a076135e": {
     "company": "Notion",
@@ -1099,6 +1067,22 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1bP?s=A"
   },
+  "37fdfe64fd1f5625": {
+    "company": "Stripe",
+    "first_seen": "2026-11-27",
+    "fit_score": 3,
+    "location": "South San Francisco, CA",
+    "posted_at": "2026-11-27T11:39:02-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer, Full Stack Atlas",
+    "role_category": "swe",
+    "salary": "$156,800 - $235,200",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421000",
+    "verified": true,
+    "verify_reason": "Requires 2 years of experience; candidate is a new grad.",
+    "years_required": 2
+  },
   "3869402f4a2fcf92": {
     "company": "Cursor",
     "first_seen": "2026-11-10",
@@ -1227,21 +1211,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1mS?s=A"
-  },
-  "3dd24364dace7b0b": {
-    "company": "Tata Consultancy Services",
-    "first_seen": "2026-10-27",
-    "fit_score": 1,
-    "location": "Edison, New Jersey",
-    "posted_at": "2026-10-26T17:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Junior Software Engineer",
-    "role_category": "swe",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/junior-software-engineer-at-tata-consultancy-services-4483240116",
-    "verified": true,
-    "verify_reason": "Requires 1 year experience; start timing mismatch for January 2027.",
-    "years_required": 1
   },
   "409289c185131ffc": {
     "company": "TikTok",
@@ -1437,22 +1406,6 @@
     "verify_reason": "No experience requirement stated; aligns with new grad timeline.",
     "years_required": 0
   },
-  "4b32457be1c216a6": {
-    "company": "CNH",
-    "first_seen": "2026-10-27",
-    "fit_score": 2,
-    "location": "Oak Brook, Illinois",
-    "posted_at": "2026-10-26T16:00:00+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer I",
-    "role_category": "swe",
-    "salary": "$74,625-$114,425",
-    "source": "JSearch",
-    "url": "https://www.linkedin.com/jobs/view/software-engineer-i-at-cnh-4483576816",
-    "verified": true,
-    "verify_reason": "Start timing does not match candidate's January 2027 availability.",
-    "years_required": 2
-  },
   "4b512ddd1b0a2cc1": {
     "company": "Ramp",
     "first_seen": "2026-11-10",
@@ -1597,17 +1550,6 @@
     "verified": true,
     "verify_reason": "Ideal for recent graduates; requires no prior full-time experience.",
     "years_required": 0
-  },
-  "5c57fd468b44f03f": {
-    "company": "CrossCountry Consulting",
-    "first_seen": "2026-10-27",
-    "location": "Chicago, IL",
-    "posted_at": "2026-10-27T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Forward Deployed Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://go.vansh.nyc/VK?s=A"
   },
   "5c8c5a849c309c6d": {
     "clearance_required": true,
@@ -1919,17 +1861,6 @@
     "verify_reason": "No experience requirements stated in the description.",
     "years_required": 0
   },
-  "731a84b50b1a5f66": {
-    "company": "Rilla",
-    "first_seen": "2026-10-27",
-    "location": "New York, NY",
-    "posted_at": "2026-10-27T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://go.vansh.nyc/Vn?s=A"
-  },
   "7323e22742270cff": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -2029,17 +1960,6 @@
     "verified": true,
     "verify_reason": "Entry-level role accepting backend internship experience.",
     "years_required": 0
-  },
-  "773c19b4f5ba6f3c": {
-    "company": "Ancestry",
-    "first_seen": "2026-08-28",
-    "location": "Draper, UT",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineer - Observability - Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434"
   },
   "79a0b36566fca5ca": {
     "company": "Cursor",
@@ -2174,17 +2094,6 @@
     "verified": true,
     "verify_reason": "Requires cloud platform experience; no minimum years required.",
     "years_required": 0
-  },
-  "824824e5429b35ef": {
-    "company": "Northrop Grumman",
-    "first_seen": "2026-10-27",
-    "location": "Azusa, CA",
-    "posted_at": "2026-10-27T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2027: Associate Software Engineer \ud83c\uddfa\ud83c\uddf8",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://go.vansh.nyc/Wn?s=A"
   },
   "848de4514822b335": {
     "company": "TikTok",
@@ -2756,21 +2665,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/14K?s=A"
   },
-  "9dcefdde9dd1c799": {
-    "company": "Affirm",
-    "first_seen": "2026-10-27",
-    "fit_score": 1,
-    "location": "Remote US",
-    "posted_at": "2026-10-27T09:29:57-04:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer II - CIAM",
-    "role_category": "swe",
-    "source": "Greenhouse:affirm",
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
-    "verified": true,
-    "verify_reason": "No minimum experience stated, but wrong start timing for Jan 2027.",
-    "years_required": 0
-  },
   "9e8bb2c638f4ac63": {
     "company": "Booz Allen",
     "first_seen": "2026-10-29",
@@ -2923,17 +2817,6 @@
     "verify_reason": "Entry-level role requires 0 years, but start timing mismatches January 2027.",
     "years_required": 0
   },
-  "ae81868881b7caf5": {
-    "company": "Plexus",
-    "first_seen": "2026-08-28",
-    "location": "Neenah, WI",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Intern - Software Engineer - Spring 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Spring-2027-_R041060"
-  },
   "af3ed1e3d5c4a87d": {
     "company": "Openai",
     "first_seen": "2026-11-25",
@@ -3059,17 +2942,6 @@
     "verified": true,
     "verify_reason": "No experience required; strategic technical consultant role.",
     "years_required": 0
-  },
-  "b44458ecf0655b90": {
-    "company": "The Hartford",
-    "first_seen": "2026-08-28",
-    "location": "Columbus, OH",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Tech & Data Program Summer 2027 - Software Engineer Intern - Columbus",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609"
   },
   "b4cead70cd23f759": {
     "company": "Booz Allen Hamilton",
@@ -3366,28 +3238,6 @@
     "verify_reason": "Entry level software role requiring 0+ years experience and Secret clearance.",
     "years_required": 0
   },
-  "c7960a2f56dbb8af": {
-    "company": "CoStar Group",
-    "first_seen": "2026-10-27",
-    "location": "Irvine, CA",
-    "posted_at": "2026-10-27T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2027: Associate Software Engineer",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://go.vansh.nyc/Vr?s=A"
-  },
-  "ca3d6dffed236980": {
-    "company": "CACI",
-    "first_seen": "2026-08-28",
-    "location": "Denver, CO +2",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Developer/Data Scientist Intern - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Denver-CO-US/Software-Developer-Data-Scientist-Intern---Summer-2027_331120"
-  },
   "ca50e39d0549856c": {
     "company": "Peraton",
     "first_seen": "2026-11-17",
@@ -3414,17 +3264,6 @@
     "verified": true,
     "verify_reason": "Requires AI agent experience; no minimum years required.",
     "years_required": 0
-  },
-  "ce5b8f627a7aef22": {
-    "company": "Northwood Space",
-    "first_seen": "2026-10-27",
-    "location": "Torrance, CA",
-    "posted_at": "2026-10-27T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad: Software Engineer \u2013 General \ud83c\uddfa\ud83c\uddf8",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://go.vansh.nyc/Vq?s=A"
   },
   "cec985a5ef715e9f": {
     "company": "National Grid",
@@ -3531,17 +3370,6 @@
     "verify_reason": "Entry-level role requiring security clearance eligibility and BS in EE/CS.",
     "years_required": 0
   },
-  "d62927423d03b80c": {
-    "company": "Northrop Grumman",
-    "first_seen": "2026-10-27",
-    "location": "Colorado Springs, CO",
-    "posted_at": "2026-10-27T00:00:00+00:00",
-    "posting_type": "new_grad",
-    "role": "New Grad 2027: Associate Software Engineer / Software Engineer \ud83c\uddfa\ud83c\uddf8",
-    "role_category": "swe",
-    "source": "vanshb03 New-Grad 2026",
-    "url": "https://go.vansh.nyc/Vw?s=A"
-  },
   "d9e54e7ef66c4ad1": {
     "company": "Winn-Marion Companies",
     "first_seen": "2026-11-03",
@@ -3594,21 +3422,6 @@
     "role_category": "swe",
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11"
-  },
-  "dd58b91a466a98d5": {
-    "company": "Harvey",
-    "first_seen": "2026-10-27",
-    "fit_score": 1,
-    "location": "San Francisco",
-    "posted_at": "2026-10-27T05:15:15.927000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer, Agents",
-    "role_category": "swe",
-    "source": "Ashby:harvey",
-    "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc",
-    "verified": true,
-    "verify_reason": "Start timing mismatch; candidate available January 2027.",
-    "years_required": 0
   },
   "dd931092daf16823": {
     "company": "Ramp",
@@ -3797,21 +3610,6 @@
     "verify_reason": "Requires database experience; no minimum years of experience stated.",
     "years_required": 0
   },
-  "e84ab776003bd18d": {
-    "company": "Stripe",
-    "first_seen": "2026-10-27",
-    "fit_score": 2,
-    "location": "San Francisco, CA",
-    "posted_at": "2026-10-26T16:53:41-04:00",
-    "posting_type": "verified_entry",
-    "role": "iOS Engineer, Identity",
-    "role_category": "swe",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8311082",
-    "verified": true,
-    "verify_reason": "Start timing does not match candidate's January 2027 availability.",
-    "years_required": 0
-  },
   "e871f921998a5821": {
     "company": "Chime",
     "first_seen": "2026-10-31",
@@ -3885,21 +3683,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1uI?s=A"
-  },
-  "ec246608b1dfa475": {
-    "company": "Stripe",
-    "first_seen": "2026-10-27",
-    "fit_score": 2,
-    "location": "San Francisco, CA",
-    "posted_at": "2026-10-26T16:50:46-04:00",
-    "posting_type": "verified_entry",
-    "role": "Android Engineer, Identity ",
-    "role_category": "swe",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8311069",
-    "verified": true,
-    "verify_reason": "Start timing does not match candidate's January 2027 availability.",
-    "years_required": 0
   },
   "ed33a9a2e34210b3": {
     "company": "Cursor",
