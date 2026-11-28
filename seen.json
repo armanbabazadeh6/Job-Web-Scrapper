@@ -457,6 +457,17 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c"
   },
+  "193a09597b9fb58d": {
+    "company": "Drive Capital",
+    "first_seen": "2026-11-28",
+    "location": "Pittsburgh, Pennsylvania",
+    "posted_at": "2026-11-28T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "Software Engineer - Robot Systems - New Grad at Drive Capital Pittsburgh, PA",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://jobs.digitalhire.com/job-listing/opening/7cMMreW3ekhFoGq8xZDqmt"
+  },
   "198a91027bc9898d": {
     "company": "JPMC Candidate Experience page",
     "first_seen": "2026-11-18",
@@ -1636,6 +1647,21 @@
     "url": "https://jobgether.com/offer/6ae536c7d6c8b081a79a7e69-entry-level-software-developer---application-support-sustainment-remote",
     "verified": true,
     "verify_reason": "Requires university degree and under 2 years experience; no clearance required.",
+    "years_required": 0
+  },
+  "6686fc5b89e51085": {
+    "company": "BeaconFire Inc.",
+    "first_seen": "2026-11-28",
+    "fit_score": 2,
+    "location": "Oak Grove, North Carolina",
+    "posted_at": "2026-11-27T22:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "L1 Java Software Developer",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/l1-java-software-developer-at-beaconfire-inc-4494229134",
+    "verified": true,
+    "verify_reason": "Requires immediate availability; candidate not available until January 2027.",
     "years_required": 0
   },
   "671ad970d3f43f17": {
