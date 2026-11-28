@@ -4061,6 +4061,17 @@
     "verified": false,
     "years": 5
   },
+  "5858825906151ffb": {
+    "cached_at": "2026-11-28",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Immediate enterprise deployment role; candidate available starting January 2027.",
+    "salary": null,
+    "seniority": "mid",
+    "verified": true,
+    "years": 0
+  },
   "5889e1375ba4a333": {
     "cached_at": "2026-10-05",
     "clearance_required": false,
@@ -9516,6 +9527,17 @@
     "seniority": "new_grad",
     "verified": true,
     "years": 0
+  },
+  "c916ef691f84e8dd": {
+    "cached_at": "2026-11-28",
+    "clearance_required": false,
+    "entry_level": true,
+    "fit_score": 2,
+    "reason": "Requires 2 years of prior full-time software development experience.",
+    "salary": "$190,400.00 - $285,600.00/yr",
+    "seniority": "junior",
+    "verified": true,
+    "years": 2
   },
   "c9e84b128cc79672": {
     "cached_at": "2026-10-07",

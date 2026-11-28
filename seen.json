@@ -304,17 +304,6 @@
     "verify_reason": "Requires DoD Secret clearance; targets recent graduates within 12 months.",
     "years_required": 0
   },
-  "117880c183d14f28": {
-    "company": "Booz Allen",
-    "first_seen": "2026-08-29",
-    "location": "San Diego, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "University - 2027 Summer Games Software Developer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038"
-  },
   "1286b0759bcd6015": {
     "company": "Palantir",
     "first_seen": "2026-11-19",
@@ -409,17 +398,6 @@
     "verify_reason": "Requires prior security engineering and enterprise sales experience.",
     "years_required": 0
   },
-  "15f84e92bf6f4319": {
-    "company": "Leidos",
-    "first_seen": "2026-08-29",
-    "location": "Remote - Odenton, MD +1",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering & AI Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648"
-  },
   "161a5c55a771840a": {
     "company": "Booz Allen",
     "first_seen": "2026-08-30",
@@ -467,17 +445,6 @@
     "verified": true,
     "verify_reason": "Requires immediate availability; candidate available starting January 2027.",
     "years_required": 0
-  },
-  "18bd4d913ab2b67e": {
-    "company": "Johnson & Johnson",
-    "first_seen": "2026-08-29",
-    "location": "Cincinnati, OH",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineering Co-Op - Spring 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jj.wd5.myworkdayjobs.com/en-US/jj/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op--Spring-2027_R-095741"
   },
   "1901157ebc3a3ef2": {
     "company": "northwoodspace",
@@ -583,17 +550,6 @@
     "source": "speedyapply New Grad Software Jobs",
     "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625"
   },
-  "1f6468016011f532": {
-    "company": "Raytheon",
-    "first_seen": "2026-08-29",
-    "location": "State College, PA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-PA-STATE-COLLEGE-5A--302-Science-Park-Rd--BLDG-5A/Software-Engineer-Intern--Summer-2027-_01868801"
-  },
   "201de5db3786e33b": {
     "company": "Samsara",
     "first_seen": "2026-11-06",
@@ -630,17 +586,6 @@
     "role_category": "platform",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/150?s=A"
-  },
-  "21ded8b002c50541": {
-    "company": "Manulife",
-    "first_seen": "2026-08-29",
-    "location": "Boston, MA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Summer Intern 2027 - Software Engineering",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680"
   },
   "224ce1f79737b2a1": {
     "company": "Shield AI",
@@ -759,17 +704,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
-  "26b6a5693f513b95": {
-    "company": "CesiumAstro",
-    "first_seen": "2026-08-29",
-    "location": "Austin, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Summer 2027 - Embedded Software Engineering Internship",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.lever.co/CesiumAstro/a4f5cae0-43fc-434f-9e14-1b5caacb6bc7"
-  },
   "26dcb7e13e2591d1": {
     "company": "Cursor",
     "first_seen": "2026-11-10",
@@ -845,17 +779,6 @@
     "verified": true,
     "verify_reason": "Immediate opening; candidate is not available until January 2027.",
     "years_required": 0
-  },
-  "2a2cff0d7d1e717d": {
-    "company": "Leidos",
-    "first_seen": "2026-08-29",
-    "location": "Bethesda, MD",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Developer Co-op",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Bethesda-MD/Software-Developer-Co-op_R-00190766"
   },
   "2a349a6f395d2c75": {
     "clearance_required": true,
@@ -1190,17 +1113,6 @@
     "verify_reason": "Requires production experience building real-time or distributed systems.",
     "years_required": 0
   },
-  "3cfa51c88d778ef2": {
-    "company": "Medtronic",
-    "first_seen": "2026-08-29",
-    "location": "Mounds View, MN +19",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021"
-  },
   "3d29680f7f3585f8": {
     "company": "D3",
     "first_seen": "2026-11-08",
@@ -1380,17 +1292,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": ""
   },
-  "4aaf8468cd4cbfbc": {
-    "company": "Northrop Grumman",
-    "first_seen": "2026-08-29",
-    "location": "Huntsville, AL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "2027 Software Engineering Intern- Huntsville AL",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486"
-  },
   "4b13dbcb12a84119": {
     "company": "Dropbox",
     "first_seen": "2026-11-06",
@@ -1536,6 +1437,21 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/17b?s=A"
   },
+  "5858825906151ffb": {
+    "company": "n8n",
+    "first_seen": "2026-11-28",
+    "fit_score": 2,
+    "location": "Remote \u2014 US",
+    "posted_at": "2026-11-27T13:00:00+00:00",
+    "posting_type": "verified_entry",
+    "role": "Forward Deployed Engineer - US East Coast",
+    "role_category": "swe",
+    "source": "JSearch",
+    "url": "https://www.linkedin.com/jobs/view/forward-deployed-engineer-us-east-coast-at-n8n-4493891776",
+    "verified": true,
+    "verify_reason": "Immediate enterprise deployment role; candidate available starting January 2027.",
+    "years_required": 0
+  },
   "5bba914bee306be3": {
     "company": "Tech Consulting",
     "first_seen": "2026-11-05",
@@ -1658,17 +1574,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16g?s=A"
   },
-  "628d1690b3f32bc9": {
-    "company": "Auto-Owners Insurance",
-    "first_seen": "2026-08-29",
-    "location": "Lansing, MI",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Developer Internship - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://aoins.wd5.myworkdayjobs.com/en-US/autoowners/job/Lansing-MI/Software-Developer-Internship_R_2121"
-  },
   "6312fc369b3190a6": {
     "company": "Cursor",
     "first_seen": "2026-11-10",
@@ -1785,6 +1690,17 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/1Gh?s=A"
+  },
+  "6cdbbd39aedb7761": {
+    "company": "Bank of Montreal",
+    "first_seen": "2026-11-28",
+    "location": "Berkeley Heights, NJ",
+    "posted_at": "2026-11-28T00:00:00+00:00",
+    "posting_type": "new_grad",
+    "role": "New Grad: Software Developer",
+    "role_category": "swe",
+    "source": "vanshb03 New-Grad 2026",
+    "url": "https://go.vansh.nyc/1LY?s=A"
   },
   "6d19838886742c3a": {
     "company": "TikTok",
@@ -1913,17 +1829,6 @@
     "verify_reason": "No minimum years required stated; standard full-time role.",
     "years_required": 0
   },
-  "74c67f966f3ccf98": {
-    "company": "Raytheon",
-    "first_seen": "2026-08-29",
-    "location": "Huntsville, AL",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Software-Engineering-Intern--Summer-2027-_01870007"
-  },
   "75b043cfef2436aa": {
     "company": "TikTok",
     "first_seen": "2026-11-01",
@@ -2021,17 +1926,6 @@
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16R?s=A"
   },
-  "7bc48d32520312cb": {
-    "company": "Medtronic",
-    "first_seen": "2026-08-29",
-    "location": "Mounds View, MN +19",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Engineering Intern Summer 2027- Candidates Attending 2026 SWE National Conference",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Mounds-View-Minnesota-United-States-of-America/Engineering-Intern-Summer-2027--Candidates-Attending-2026-SWE-National-Conference-_R76021-1"
-  },
   "7c69f1dd5f25d444": {
     "company": "Murialdo S.A.",
     "first_seen": "2026-11-01",
@@ -2057,17 +1951,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15R?s=A"
-  },
-  "7e411ec7b41778a6": {
-    "company": "The Hartford",
-    "first_seen": "2026-08-29",
-    "location": "Charlotte, NC",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Tech & Data Program Summer 2027 - Software Engineer Intern - Charlotte",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649"
   },
   "8199ab7e297ca006": {
     "company": "Booz Allen",
@@ -2173,17 +2056,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15P?s=A"
-  },
-  "8670cb3ca300b468": {
-    "company": "Booz Allen",
-    "first_seen": "2026-08-29",
-    "location": "El Segundo, CA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "University - 2027 Summer Games Software Developer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046"
   },
   "879d0ade78ef966b": {
     "company": "TikTok",
@@ -2384,17 +2256,6 @@
     "verify_reason": "Requires 1 to 2 years of experience; entry level role.",
     "years_required": 1
   },
-  "93fe046a1ed12191": {
-    "company": "Kognitos",
-    "first_seen": "2026-08-29",
-    "location": "San Jose, CA",
-    "posted_at": null,
-    "posting_type": "fall_coop",
-    "role": "Software Engineer Intern - AI-Native \u2014 Fall 2026",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/kognitos/a3c5bd4c-f6fb-4eb0-b943-e0e1a1d878c5"
-  },
   "94176985b719b5ee": {
     "company": "ByteDance",
     "first_seen": "2026-11-01",
@@ -2405,17 +2266,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/15b?s=A"
-  },
-  "9467f6752a50a385": {
-    "company": "Bosch",
-    "first_seen": "2026-08-29",
-    "location": "Plymouth, MI",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Phone as a Key Software Engineering - Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern?oga=true"
   },
   "949e099f217a747a": {
     "company": "Penn Mutual",
@@ -3238,6 +3088,22 @@
     "verify_reason": "Entry level software role requiring 0+ years experience and Secret clearance.",
     "years_required": 0
   },
+  "c916ef691f84e8dd": {
+    "company": "Stripe",
+    "first_seen": "2026-11-28",
+    "fit_score": 2,
+    "location": "South San Francisco, CA",
+    "posted_at": "2026-11-27T15:33:03-05:00",
+    "posting_type": "verified_entry",
+    "role": "Software Engineer",
+    "role_category": "swe",
+    "salary": "$190,400.00 - $285,600.00/yr",
+    "source": "Greenhouse:stripe",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421434",
+    "verified": true,
+    "verify_reason": "Requires 2 years of prior full-time software development experience.",
+    "years_required": 2
+  },
   "ca50e39d0549856c": {
     "company": "Peraton",
     "first_seen": "2026-11-17",
@@ -3412,17 +3278,6 @@
     "verify_reason": "Candidate unavailable until January 2027; wrong start timing.",
     "years_required": 0
   },
-  "dadcb3153a6c661f": {
-    "company": "TELUS Digital",
-    "first_seen": "2026-08-29",
-    "location": "Charlottesville, VA +2",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineering Intern - US - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.ashbyhq.com/telus-digital/32ee6ede-d3cf-4827-b7af-f8d64f2bca11"
-  },
   "dd931092daf16823": {
     "company": "Ramp",
     "first_seen": "2026-11-11",
@@ -3503,21 +3358,6 @@
     "url": "https://jobs.ashbyhq.com/Sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6",
     "verified": true,
     "verify_reason": "Immediate position mismatch for candidate available starting January 2027.",
-    "years_required": 0
-  },
-  "e3ed3b39593ad240": {
-    "company": "Crusoe",
-    "first_seen": "2026-10-28",
-    "fit_score": 1,
-    "location": "San Francisco, CA - US",
-    "posted_at": "2026-10-28T17:27:02.680000+00:00",
-    "posting_type": "verified_entry",
-    "role": "Software Engineer I, Network",
-    "role_category": "swe",
-    "source": "Ashby:crusoe",
-    "url": "https://jobs.ashbyhq.com/crusoe/9a5223c4-9eb7-4fdb-b97c-f43525df35ed",
-    "verified": true,
-    "verify_reason": "Great entry-level role, but start timing mismatches January 2027 availability.",
     "years_required": 0
   },
   "e41ae58c86e5af73": {
@@ -3625,17 +3465,6 @@
     "verify_reason": "Requires 2+ years of production software development experience.",
     "years_required": 2
   },
-  "e8a081178fbf3ae7": {
-    "company": "Workiva",
-    "first_seen": "2026-08-29",
-    "location": "Remote - USA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Summer 2027 Intern - Software Engineering",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190"
-  },
   "e8b7044ad1887168": {
     "company": "Openai",
     "first_seen": "2026-11-05",
@@ -3710,17 +3539,6 @@
     "role_category": "swe",
     "source": "vanshb03 New-Grad 2026",
     "url": "https://go.vansh.nyc/16F?s=A"
-  },
-  "ee64ee53ba261e83": {
-    "company": "CesiumAstro",
-    "first_seen": "2026-08-29",
-    "location": "Austin, TX",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Summer 2027 - Software Engineering Internship",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://jobs.lever.co/CesiumAstro/d406d2ed-cc05-4346-90ea-b13dfa07e411"
   },
   "ee78dfbe4fe7da05": {
     "company": "SeatGeek",
@@ -3895,32 +3713,6 @@
     "verify_reason": "Requires 2 years of professional software development experience.",
     "years_required": 2
   },
-  "f96de7d37096a70e": {
-    "company": "Raytheon",
-    "first_seen": "2026-08-29",
-    "location": "Woburn, MA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "Software Engineer Intern - Summer 2027",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Intern--Summer-2027-_01869890-1"
-  },
-  "f99e09bc7136a433": {
-    "company": "Stripe",
-    "first_seen": "2026-10-28",
-    "fit_score": 2,
-    "location": "New York, San Francisco",
-    "posted_at": "2026-10-28T16:19:38-04:00",
-    "posting_type": "verified_entry",
-    "role": "Technical Solutions Consultant, Crypto",
-    "role_category": "sales_eng",
-    "source": "Greenhouse:stripe",
-    "url": "https://stripe.com/jobs/search?gh_jid=8329116",
-    "verified": true,
-    "verify_reason": "Timing mismatch for Jan 2027 availability and manages strategic accounts.",
-    "years_required": 0
-  },
   "fa549eaa7a7cc6f7": {
     "company": "Supabase",
     "first_seen": "2026-11-19",
@@ -3972,17 +3764,6 @@
     "verified": true,
     "verify_reason": "Immediate start posting creates timing mismatch for January 2027 availability.",
     "years_required": 0
-  },
-  "fcb868d978e43bb7": {
-    "company": "Booz Allen",
-    "first_seen": "2026-08-29",
-    "location": "McLean, VA",
-    "posted_at": null,
-    "posting_type": "internship",
-    "role": "University - 2027 Summer Games Software Developer Intern",
-    "role_category": "swe",
-    "source": "speedyapply New Grad Software Jobs",
-    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029"
   },
   "fe818cdad3d5f624": {
     "company": "Vercel",
